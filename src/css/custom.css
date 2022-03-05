@@ -25,7 +25,7 @@
   --ifm-navbar-background-color: var(--ifm-background-color);
   --ifm-footer-background-color: var(--ifm-background-color);
   --ifm-link-hover-decoration: none;
-  --ifm-button-padding-horizontal: 2rem;
+  --ifm-button-padding-horizontal: 1.5rem;
   --ifm-button-padding-vertical: 0.75rem;
 }
 
@@ -69,11 +69,11 @@ html[data-theme="dark"] {
 .navbar__inner {
   padding: var(--ifm-navbar-padding-vertical)
     var(--ifm-navbar-padding-horizontal);
-  background-color: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(6px);
+  background-color: rgba(255, 255, 255, 0.75);
 }
 [data-theme="dark"] .navbar__inner {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.75);
 }
 
 .navbar__link {
