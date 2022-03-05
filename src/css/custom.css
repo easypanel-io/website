@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap");
+
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -6,6 +12,12 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-font-family-base: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+    Ubuntu, Cantarell, "Noto Sans", sans-serif, "system-ui", "Segoe UI",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  --custom-border-color: #e0e0e0;
+
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -14,10 +26,15 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: var(--ifm-background-color);
+  --ifm-footer-background-color: var(--ifm-background-color);
+  --ifm-link-hover-decoration: none;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+html[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -25,6 +42,8 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+
+  --ifm-background-color: #000000;
 }
 
 .docusaurus-highlight-code-line {
@@ -34,6 +53,73 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-[data-theme='dark'] .docusaurus-highlight-code-line {
+[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* custom */
+
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+.pagination-nav {
+  display: none;
+}
+
+.navbar {
+  padding: 0;
+  background: none;
+  box-shadow: none;
+}
+.navbar__inner {
+  padding: var(--ifm-navbar-padding-vertical)
+    var(--ifm-navbar-padding-horizontal);
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(8px);
+}
+[data-theme="dark"] .navbar__inner {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.navbar__link {
+  font-size: 0.9rem;
+}
+
+.menu {
+  padding: 1rem !important;
+}
+.menu__link {
+  font-size: 0.9rem;
+}
+.menu__link:not(.menu__link--active):hover {
+  background: none;
+}
+.menu__link--sublist:after {
+  transform: scale(0.8);
+}
+
+.footer {
+  padding-bottom: 4rem;
+}
+
+/* .navbar {
+  box-shadow: none;
+  border-bottom: 1px solid var(--custom-border-color);
+} */
+
+/* .footer {
+  border-top: 1px solid var(--custom-border-color);
+} */
+
+/* [class^="tocCollapsible_"] {
+  display: none;
+}
+[class^="docMainContainer_"] {
+  margin-top: 2rem;
+}
+
+@media (min-width: 997px) {
+  div[class^="docItemContainer_"] {
+    padding: 0 calc(var(--ifm-spacing-horizontal) * 2);
+  }
+} */
