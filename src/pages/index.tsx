@@ -20,7 +20,7 @@ function HomepageHeader() {
             Get Started
           </Link>
           <Link
-            className="button button--outline button--lg button--primary margin-left--md"
+            className="button button--lg button--secondary margin-left--md"
             to="/docs/intro"
           >
             Book Demo
@@ -31,7 +31,7 @@ function HomepageHeader() {
             Get Started
           </Link>
           <Link
-            className="button button--outline button--primary margin-left--md"
+            className="button button--secondary margin-left--md"
             to="/docs/intro"
           >
             Book Demo
@@ -42,7 +42,7 @@ function HomepageHeader() {
             Get Started
           </Link>
           <Link
-            className="button button--outline button--sm button--primary margin-left--md"
+            className="button button--sm button--secondary margin-left--md"
             to="/docs/intro"
           >
             Book Demo
