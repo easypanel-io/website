@@ -16,11 +16,36 @@ function HomepageHeader() {
           Server control panel based on Docker.
         </p>
         <div className="mt-12">
+          <Link className="button button--lg button--primary" to="/docs/intro">
+            Get Started
+          </Link>
           <Link
-            className="flex-inline items-center justify-center px-8 py-3 border border-transparent text-base font-bold rounded-md text-white hover:text-white bg-teal-600 hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
+            className="button button--outline button--lg button--primary margin-left--md"
             to="/docs/intro"
           >
+            Book Demo
+          </Link>
+        </div>
+        <div className="mt-12">
+          <Link className="button button--primary" to="/docs/intro">
             Get Started
+          </Link>
+          <Link
+            className="button button--outline button--primary margin-left--md"
+            to="/docs/intro"
+          >
+            Book Demo
+          </Link>
+        </div>
+        <div className="mt-12">
+          <Link className="button button--sm button--primary" to="/docs/intro">
+            Get Started
+          </Link>
+          <Link
+            className="button button--outline button--sm button--primary margin-left--md"
+            to="/docs/intro"
+          >
+            Book Demo
           </Link>
         </div>
       </div>

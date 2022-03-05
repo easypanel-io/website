@@ -12,38 +12,33 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-font-family-base: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
-    Ubuntu, Cantarell, "Noto Sans", sans-serif, "system-ui", "Segoe UI",
-    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol";
-  --custom-border-color: #e0e0e0;
+  --ifm-color-primary: #059669;
+  --ifm-color-primary-dark: #05875e;
+  --ifm-color-primary-darker: #048059;
+  --ifm-color-primary-darkest: #046949;
+  --ifm-color-primary-light: #06a573;
+  --ifm-color-primary-lighter: #06ad79;
+  --ifm-color-primary-lightest: #07c388;
 
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-
-  --ifm-background-color: #ffffff;
+  --ifm-font-family-base: "Inter", system-ui, -apple-system;
+  --ifm-background-color: var(--ifm-color-gray-0);
   --ifm-navbar-background-color: var(--ifm-background-color);
   --ifm-footer-background-color: var(--ifm-background-color);
   --ifm-link-hover-decoration: none;
+  --ifm-button-padding-horizontal: 2rem;
+  --ifm-button-padding-vertical: 0.75rem;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme="dark"] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #10b981;
+  --ifm-color-primary-dark: #0ea774;
+  --ifm-color-primary-darker: #0e9d6e;
+  --ifm-color-primary-darkest: #0b825a;
+  --ifm-color-primary-light: #12cc8e;
+  --ifm-color-primary-lighter: #12d594;
+  --ifm-color-primary-lightest: #1aeba6;
 
-  --ifm-background-color: #000000;
+  --ifm-background-color: var(--ifm-color-gray-1000);
 }
 
 .docusaurus-highlight-code-line {
@@ -74,11 +69,11 @@ html[data-theme="dark"] {
 .navbar__inner {
   padding: var(--ifm-navbar-padding-vertical)
     var(--ifm-navbar-padding-horizontal);
-  background-color: rgba(255, 255, 255, 0.6);
+  /* background-color: rgba(255, 255, 255, 0.6); */
   backdrop-filter: blur(8px);
 }
 [data-theme="dark"] .navbar__inner {
-  background-color: rgba(0, 0, 0, 0.6);
+  /* background-color: rgba(0, 0, 0, 0.6); */
 }
 
 .navbar__link {
@@ -102,24 +97,12 @@ html[data-theme="dark"] {
   padding-bottom: 4rem;
 }
 
-/* .navbar {
-  box-shadow: none;
-  border-bottom: 1px solid var(--custom-border-color);
-} */
-
-/* .footer {
-  border-top: 1px solid var(--custom-border-color);
-} */
-
-/* [class^="tocCollapsible_"] {
-  display: none;
+.button {
+  font-size: calc(1rem * var(--ifm-button-size-multiplier));
 }
-[class^="docMainContainer_"] {
-  margin-top: 2rem;
+.button--lg {
+  --ifm-button-size-multiplier: 1.2;
 }
-
-@media (min-width: 997px) {
-  div[class^="docItemContainer_"] {
-    padding: 0 calc(var(--ifm-spacing-horizontal) * 2);
-  }
-} */
+.button--sm {
+  --ifm-button-size-multiplier: 0.85;
+}
