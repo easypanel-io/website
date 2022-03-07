@@ -1,16 +1,5 @@
 @import url("https://rsms.me/inter/inter.css");
 
-/* @tailwind base; */
-@tailwind components;
-@tailwind utilities;
-
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #059669;
   --ifm-color-primary-dark: #05875e;

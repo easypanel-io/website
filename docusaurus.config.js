@@ -118,16 +118,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-
-  plugins: [
-    () => ({
-      name: "postcss-tailwindcss-loader",
-      configurePostCss(postcssOptions) {
-        postcssOptions.plugins.unshift(require("tailwindcss"));
-        return postcssOptions;
-      },
-    }),
-  ],
 };
 
 module.exports = config;
