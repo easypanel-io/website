@@ -1,0 +1,42 @@
+.root {
+  padding: 60px 0;
+}
+.heading {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+.subheading {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+.featureIcon {
+  fill: var(--ifm-color-primary);
+  /* fill: var(--ifm-color-primary-lightest); */
+  /* fill: var(--ifm-color-emphasis-300); */
+  height: 60px;
+  width: 60px;
+  margin-top: 72px;
+}
+.featureTitle {
+  font-size: 20px;
+  margin-top: 20px;
+}
+.featureDescription {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 996px) {
+  .heading {
+    font-size: 32px;
+  }
+  .subheading {
+    font-size: 24px;
+  }
+  .feature {
+    padding: 0 20px;
+  }
+}

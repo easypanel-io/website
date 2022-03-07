@@ -1,0 +1,36 @@
+.root {
+  text-align: center;
+  padding-top: 96px;
+}
+.heading {
+  font-size: 56px;
+  line-height: 1.2;
+  font-weight: 800;
+}
+.subheading {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 500;
+  margin-top: 16px;
+}
+.buttons {
+  margin-top: 50px;
+}
+.panelImage {
+  width: 100%;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 996px) {
+  .root {
+    padding-top: 72px;
+  }
+  .heading {
+    font-size: 40px;
+  }
+  .subheading {
+    font-size: 28px;
+  }
+}

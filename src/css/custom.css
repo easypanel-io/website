@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap");
+@import url("https://rsms.me/inter/inter.css");
 
 /* @tailwind base; */
 @tailwind components;
@@ -70,10 +70,10 @@ html[data-theme="dark"] {
   padding: var(--ifm-navbar-padding-vertical)
     var(--ifm-navbar-padding-horizontal);
   backdrop-filter: blur(6px);
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.65);
 }
 [data-theme="dark"] .navbar__inner {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0, 0, 0, 0.65);
 }
 
 .navbar__link {
@@ -114,4 +114,15 @@ html[data-theme="dark"] {
 }
 .button--secondary {
   --ifm-button-color: var(--ifm-color-black);
+}
+
+@media screen and (max-width: 996px) {
+  .hidden--sm {
+    display: none;
+  }
+}
+@media screen and (min-width: 997px) {
+  .hidden--lg {
+    display: none;
+  }
 }
