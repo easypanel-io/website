@@ -15,7 +15,9 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "easypanel-io", // Usually your GitHub org/user name.
   projectName: "website", // Usually your repo name.
-
+  stylesheets: [
+    "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
+  ],
   presets: [
     [
       "classic",
