@@ -3,7 +3,7 @@
 }
 .wrapper {
   background: var(--ifm-color-emphasis-100);
-  max-width: 600px;
+  width: 600px;
   margin: auto;
   padding: 40px;
   border-radius: 8px;
@@ -42,6 +42,9 @@
 }
 
 @media screen and (max-width: 996px) {
+  .wrapper {
+    width: 280px;
+  }
   .leftCol {
     text-align: center;
   }
