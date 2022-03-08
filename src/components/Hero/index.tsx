@@ -14,12 +14,15 @@ export default function Hero(): JSX.Element {
           Server control panel <br className="hidden--lg" /> based on Docker.
         </h2>
         <div className={styles.buttons}>
-          <Link className="button button--lg button--primary" to="/docs/intro">
+          <Link
+            className="button button--lg button--primary"
+            to="/docs/get-started"
+          >
             Get Started
           </Link>
           <Link
             className="button button--lg button--secondary margin-left--md"
-            to="/docs/intro"
+            href="https://appt.link/deiucanta"
           >
             Book Demo
           </Link>

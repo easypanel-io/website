@@ -1,5 +1,5 @@
 .root {
-  padding: 60px 0 120px;
+  margin: 100px 0;
 }
 .wrapper {
   background: var(--ifm-color-emphasis-100);

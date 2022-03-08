@@ -5,6 +5,7 @@ import styles from "./styles.module.css";
 
 type Item = {
   title: string;
+  link: string;
   icon: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
@@ -12,6 +13,7 @@ type Item = {
 const items: Item[] = [
   {
     title: "Push to deploy",
+    link: "/product/push-to-deploy",
     icon: require("@site/static/icons/Upload-toCloud.svg").default,
     description: (
       <>
@@ -22,6 +24,7 @@ const items: Item[] = [
   },
   {
     title: "Free SSL Certificates",
+    link: "/product/free-ssl-certificates",
     icon: require("@site/static/icons/Cloud-Secure.svg").default,
     description: (
       <>
@@ -32,6 +35,7 @@ const items: Item[] = [
   },
   {
     title: "One-Click Apps",
+    link: "/product/one-click-apps",
     icon: require("@site/static/icons/Cursor-Click2.svg").default,
     description: (
       <>
@@ -41,6 +45,7 @@ const items: Item[] = [
   },
   {
     title: "Zero Downtime Deployments",
+    link: "/product/zero-downtime-deployments",
     icon: require("@site/static/icons/Error-404Window.svg").default,
     description: (
       <>You can deploy seamlessly without and intreruptions for your users.</>
@@ -48,6 +53,7 @@ const items: Item[] = [
   },
   {
     title: "In-Browser Terminal",
+    link: "/product/in-browser-terminal",
     icon: require("@site/static/icons/Approved-Window.svg").default,
     description: (
       <>Check logs or run sell commands without leaving your browser.</>
@@ -55,6 +61,7 @@ const items: Item[] = [
   },
   {
     title: "Dockerfile not required",
+    link: "/product/dockerfile-not-required",
     icon: require("@site/static/icons/Factory2.svg").default,
     description: (
       <>
@@ -65,7 +72,7 @@ const items: Item[] = [
   },
 ];
 
-function Feature({ title, icon: Svg, description }: Item) {
+function Feature({ title, link, icon: Svg, description }: Item) {
   return (
     <div className={clsx("col col--4")}>
       <div className={styles.feature}>
@@ -75,7 +82,7 @@ function Feature({ title, icon: Svg, description }: Item) {
         <div className="text--center padding-horiz--md">
           <h3 className={styles.featureTitle}>{title}</h3>
           <p className={styles.featureDescription}>{description}</p>
-          <Link className="button button--link" to="/docs/intro">
+          <Link className="button button--link" to={link}>
             Learn more
           </Link>
         </div>

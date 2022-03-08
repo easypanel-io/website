@@ -1,6 +1,6 @@
 .root {
   text-align: center;
-  padding-top: 96px;
+  margin: 100px 0;
 }
 .heading {
   font-size: 56px;
@@ -25,7 +25,7 @@
 
 @media screen and (max-width: 996px) {
   .root {
-    padding-top: 72px;
+    margin: 72px 0;
   }
   .heading {
     font-size: 40px;

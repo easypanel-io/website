@@ -16,7 +16,8 @@ const config = {
   organizationName: "easypanel-io", // Usually your GitHub org/user name.
   projectName: "website", // Usually your repo name.
   stylesheets: [
-    "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
+    // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
   ],
   presets: [
     [
@@ -24,16 +25,16 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          // sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/easypanel-io/website",
+          editUrl: "https://github.com/easypanel-io/website/tree/main",
           breadcrumbs: false,
-          sidebarCollapsed: false,
+          sidebarCollapsed: true,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/easypanel-io/website",
+          editUrl: "https://github.com/easypanel-io/website/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -47,6 +48,27 @@ const config = {
           priority: 0.5,
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "product",
+        path: "product",
+        routeBasePath: "product",
+        breadcrumbs: false,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "templates",
+        path: "templates",
+        routeBasePath: "templates",
+        breadcrumbs: false,
+      },
     ],
   ],
 
@@ -65,11 +87,11 @@ const config = {
           srcDark: "img/logo_dark.svg",
         },
         items: [
-          { to: "/docs/intro", label: "Product", position: "left" },
-          { to: "/docs/intro", label: "Templates", position: "left" },
-          { to: "/docs/intro", label: "Pricing", position: "left" },
-          { to: "/docs/intro", label: "Docs", position: "left" },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/product", label: "Product", position: "left" },
+          { to: "/templates", label: "Templates", position: "left" },
+          { to: "/pricing", label: "Pricing", position: "left" },
+          { to: "/docs/get-started", label: "Docs", position: "right" },
+          { to: "/blog", label: "Blog", position: "right" },
         ],
       },
       footer: {
@@ -84,8 +106,37 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Get Started",
+                to: "/docs/get-started",
+              },
+              {
+                label: "Services",
+                to: "/docs/services",
+              },
+              {
+                label: "Builders",
+                to: "/docs/builders",
+              },
+              {
+                label: "Guides",
+                to: "/docs/guides",
+              },
+            ],
+          },
+          {
+            title: "Templates",
+            items: [
+              {
+                label: "Wordpress",
+                to: "/templates/wordpress",
+              },
+              {
+                label: "phpMyAdmin",
+                to: "/templates/phpmyadmin",
+              },
+              {
+                label: "Adminer",
+                to: "/templates/adminer",
               },
             ],
           },
@@ -111,7 +162,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/easypanel-io",
               },
             ],
           },

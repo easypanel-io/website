@@ -33,7 +33,7 @@ export default function Pricing(): JSX.Element {
               <div className={styles.priceUnit}>per server per month</div>
               <Link
                 className="button button--lg button--primary"
-                to="/docs/intro"
+                to="/docs/get-started"
               >
                 Get Started
               </Link>
