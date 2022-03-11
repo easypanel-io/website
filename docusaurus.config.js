@@ -17,7 +17,7 @@ const config = {
   projectName: "website", // Usually your repo name.
   stylesheets: [
     // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
-    "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
+    // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
   ],
   presets: [
     [

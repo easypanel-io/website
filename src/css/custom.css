@@ -1,3 +1,13 @@
+@import url("https://rsms.me/inter/inter.css");
+:root {
+  --ifm-font-family-base: "Inter", sans-serif;
+}
+@supports (font-variation-settings: normal) {
+  :root {
+    --ifm-font-family-base: "Inter var", sans-serif;
+  }
+}
+
 :root {
   --ifm-color-primary: #059669;
   --ifm-color-primary-dark: #05875e;
@@ -7,7 +17,6 @@
   --ifm-color-primary-lighter: #06ad79;
   --ifm-color-primary-lightest: #07c388;
 
-  --ifm-font-family-base: "Inter", system-ui, -apple-system;
   --ifm-background-color: var(--ifm-color-gray-0);
   --ifm-navbar-background-color: var(--ifm-background-color);
   --ifm-footer-background-color: var(--ifm-background-color);
