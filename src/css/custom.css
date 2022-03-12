@@ -23,6 +23,7 @@
   --ifm-link-hover-decoration: none;
   --ifm-button-padding-horizontal: 1.5rem;
   --ifm-button-padding-vertical: 0.75rem;
+  --ifm-pre-padding: 1.5rem;
 }
 
 html[data-theme="dark"] {

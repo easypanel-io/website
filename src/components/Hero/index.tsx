@@ -14,10 +14,7 @@ export default function Hero(): JSX.Element {
           Server control panel <br className="hidden--lg" /> based on Docker.
         </h2>
         <div className={styles.buttons}>
-          <Link
-            className="button button--lg button--primary"
-            to="/docs/get-started"
-          >
+          <Link className="button button--lg button--primary" to="/docs">
             Get Started
           </Link>
           <Link

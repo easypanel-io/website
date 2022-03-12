@@ -31,10 +31,7 @@ export default function Pricing(): JSX.Element {
                 $5<span>USD</span>
               </div>
               <div className={styles.priceUnit}>per server per month</div>
-              <Link
-                className="button button--lg button--primary"
-                to="/docs/get-started"
-              >
+              <Link className="button button--lg button--primary" to="/docs">
                 Get Started
               </Link>
             </div>
