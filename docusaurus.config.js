@@ -90,7 +90,7 @@ const config = {
           { to: "/product", label: "Product", position: "left" },
           { to: "/templates", label: "Templates", position: "left" },
           { to: "/pricing", label: "Pricing", position: "left" },
-          { to: "/docs/get-started", label: "Docs", position: "right" },
+          { to: "/docs", label: "Docs", position: "right" },
           { to: "/blog", label: "Blog", position: "right" },
         ],
       },

@@ -1,4 +1,8 @@
-# Get Started
+---
+slug: /
+---
+
+# Getting Started
 
 ## Installation
 
