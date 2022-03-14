@@ -24,7 +24,6 @@
   --ifm-button-padding-horizontal: 1.5rem;
   --ifm-button-padding-vertical: 0.75rem;
   --ifm-pre-padding: 1.5rem;
-  --ifm-container-width-xl: var(--ifm-container-width);
 }
 
 html[data-theme="dark"] {
