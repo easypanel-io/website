@@ -8,7 +8,7 @@ export default function Newsletter(): JSX.Element {
       <div className={clsx("container", styles.wrapper)}>
         <div>
           <h2 className={styles.heading}>Subscribe for product updates</h2>
-          <div>
+          <div className={styles.subheading}>
             By subscribing, you agree with Revue’s{" "}
             <a target="_blank" href="https://www.getrevue.co/terms">
               Terms of Service

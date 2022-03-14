@@ -11,6 +11,9 @@
   font-size: 24px;
   margin-bottom: 6px;
 }
+.subheading {
+  color: var(--ifm-color-emphasis-600);
+}
 .form {
   display: flex;
 }
