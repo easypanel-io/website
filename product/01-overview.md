@@ -1,8 +1,9 @@
 ---
 sidebar_label: Overview
+slug: /
 ---
 
-# Templates
+# Product Overview
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
