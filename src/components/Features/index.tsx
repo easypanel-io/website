@@ -1,5 +1,4 @@
 import Link from "@docusaurus/Link";
-import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
 
@@ -74,19 +73,13 @@ const items: Item[] = [
 
 function Feature({ title, link, icon: Svg, description }: Item) {
   return (
-    <div className={clsx("col col--4")}>
-      <div className={styles.feature}>
-        <div className="text--center">
-          <Svg className={styles.featureIcon} role="img" />
-        </div>
-        <div className="text--center padding-horiz--md">
-          <h3 className={styles.featureTitle}>{title}</h3>
-          <p className={styles.featureDescription}>{description}</p>
-          <Link className="button button--link" to={link}>
-            Learn more
-          </Link>
-        </div>
-      </div>
+    <div className={styles.feature}>
+      <Svg className={styles.featureIcon} role="img" />
+      <h3 className={styles.featureTitle}>{title}</h3>
+      <p className={styles.featureDescription}>{description}</p>
+      <Link className="button button--link padding-horiz--none" to={link}>
+        Learn more
+      </Link>
     </div>
   );
 }
@@ -94,12 +87,12 @@ function Feature({ title, link, icon: Svg, description }: Item) {
 export default function Features(): JSX.Element {
   return (
     <section className={styles.root}>
-      <div className="container text--center">
+      <div className="container">
         <h2 className={styles.heading}>All-in-one platform</h2>
         <h3 className={styles.subheading}>
           Everything you need, <br className="hidden--lg" /> in one panel
         </h3>
-        <div className="row">
+        <div className={styles.features}>
           {items.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}

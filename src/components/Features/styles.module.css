@@ -4,20 +4,28 @@
 .heading {
   font-size: 40px;
   margin-bottom: 0;
+  text-align: center;
 }
 .subheading {
   color: var(--ifm-color-emphasis-600);
   font-size: 28px;
   font-weight: 500;
   margin-top: 8px;
+  text-align: center;
+}
+.features {
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  gap: 80px 60px;
 }
 .featureIcon {
   fill: var(--ifm-color-primary);
   /* fill: var(--ifm-color-primary-lightest); */
   /* fill: var(--ifm-color-emphasis-300); */
-  height: 60px;
-  width: 60px;
-  margin-top: 72px;
+  height: 50px;
+  width: 50px;
 }
 .featureTitle {
   font-size: 20px;
@@ -25,7 +33,7 @@
 }
 .featureDescription {
   color: var(--ifm-color-emphasis-600);
-  font-size: 18px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -36,7 +44,7 @@
   .subheading {
     font-size: 24px;
   }
-  .feature {
-    padding: 0 20px;
+  .features {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
