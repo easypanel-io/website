@@ -1,0 +1,39 @@
+.root {
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  padding: 50px 0 30px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+.form {
+  display: flex;
+}
+.input,
+.input:hover {
+  display: block;
+  flex: 1;
+  min-width: 0;
+  width: 300px;
+  margin-right: 8px;
+  text-align: left;
+  color: var(--ifm-color-content);
+  border: 1px solid var(--ifm-color-emphasis-400);
+}
+.input:focus {
+  outline-color: var(--ifm-color-primary);
+}
+
+@media screen and (max-width: 996px) {
+  .wrapper {
+    display: block;
+  }
+  .wrapper form {
+    margin-top: 10px;
+  }
+}
