@@ -1,0 +1,39 @@
+.root {
+  background: var(--ifm-color-emphasis-100);
+  padding: 40px 0;
+}
+.heading {
+  color: var(--ifm-color-primary);
+  font-size: 16px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.languages {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  justify-content: center;
+  gap: 20px 40px;
+}
+.language {
+  text-align: center;
+  display: block;
+}
+.languageIcon {
+  height: 60px;
+  width: 60px;
+  display: block;
+}
+.languageName {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 6px;
+}
+
+@media screen and (max-width: 996px) {
+  .languages {
+    grid-template-columns: repeat(3, auto);
+  }
+}
