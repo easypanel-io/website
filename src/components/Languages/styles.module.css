@@ -4,7 +4,9 @@
 }
 .heading {
   color: var(--ifm-color-primary);
-  font-size: 16px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
   margin-bottom: 20px;
   text-transform: uppercase;
   text-align: center;
