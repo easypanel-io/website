@@ -7,22 +7,76 @@ export default function Pricing(): JSX.Element {
   return (
     <section className={styles.root}>
       <div className="container">
-        <div className={styles.wrapper}>
+        <h1 className={styles.heading}>
+          How much <br className="hidden--lg" />
+          does it cost?
+        </h1>
+        <p className={styles.subheading}>
+          14-day trial for each server. <br className="hidden--lg" /> No licence
+          required.
+        </p>
+        <div className={styles.plans}>
+          <div className={styles.plan}>
+            <h2 className={styles.planName}>Hobby</h2>
+            <div className={styles.planPrice}>
+              $5 <span>/month</span>
+            </div>
+            <ul>
+              <li>1 server</li>
+              <li>unlimited projects</li>
+              <li>unlimited services</li>
+              <li>unlimited deployments</li>
+            </ul>
+            <Link className="button button--block button--primary" href="#">
+              Buy Licence
+            </Link>
+          </div>
+          <div className={clsx(styles.plan, styles.planActive)}>
+            <h2 className={styles.planName}>Growth</h2>
+            <div className={styles.planPrice}>
+              $20 <span>/month</span>
+            </div>
+            <ul>
+              <li>5 servers</li>
+              <li>unlimited projects</li>
+              <li>unlimited services</li>
+              <li>unlimited deployments</li>
+            </ul>
+            <Link className="button button--block button--primary" href="#">
+              Buy Licence
+            </Link>
+          </div>
+          <div className={styles.plan}>
+            <h2 className={styles.planName}>Business</h2>
+            <div className={styles.planPrice}>
+              $60 <span>/month</span>
+            </div>
+            <ul>
+              <li>15 servers</li>
+              <li>unlimited projects</li>
+              <li>unlimited services</li>
+              <li>unlimited deployments</li>
+            </ul>
+            <Link className="button button--block button--primary" href="#">
+              Buy Licence
+            </Link>
+          </div>
+        </div>
+        {/* <div className={styles.wrapper}>
           <div className="row">
             <div className={clsx("col col--7", styles.leftCol)}>
-              <h2 className={styles.heading}>Simple Pricing</h2>
               <ul className={styles.features}>
                 <li>
-                  <b>unlimited</b> projects
+                  unlimited projects
                 </li>
                 <li>
-                  <b>unlimited</b> services
+                  unlimited services
                 </li>
                 <li>
-                  <b>unlimited</b> templates
+                  unlimited templates
                 </li>
                 <li>
-                  <b>unlimited</b> deployments
+                  unlimited deployments
                 </li>
               </ul>
             </div>
@@ -36,7 +90,7 @@ export default function Pricing(): JSX.Element {
               </Link>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
