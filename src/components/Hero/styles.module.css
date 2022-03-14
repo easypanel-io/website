@@ -44,9 +44,10 @@
   }
   .wrapper {
     display: block;
+    text-align: center;
   }
   .heading {
-    font-size: 32px;
+    font-size: 34px;
   }
   .subheading {
     /* font-size: 24px; */

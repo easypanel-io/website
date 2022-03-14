@@ -34,6 +34,9 @@
     display: block;
   }
   .wrapper form {
-    margin-top: 10px;
+    margin-top: 30px;
+  }
+  .heading {
+    font-size: 22px;
   }
 }

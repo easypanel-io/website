@@ -94,6 +94,12 @@ html[data-theme="dark"] {
 .footer {
   padding-bottom: 4rem;
 }
+@media screen and (max-width: 996px) {
+  .footer__links {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
 .button {
   font-size: calc(0.5rem + 0.5rem * var(--ifm-button-size-multiplier));
