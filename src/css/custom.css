@@ -74,13 +74,21 @@ html[data-theme="dark"] {
 [data-theme="dark"] .navbar__inner {
   background-color: rgba(0, 0, 0, 0.65);
 }
-
 .navbar__logo {
   height: 28px;
 }
-
 .navbar__link {
   font-size: 0.95rem;
+}
+.navbar__toggle {
+  position: absolute;
+  right: 0.5rem;
+}
+.navbar-sidebar {
+  border-right: 1px solid var(--ifm-color-emphasis-100);
+}
+.navbar-sidebar__close {
+  display: none;
 }
 
 .menu {
