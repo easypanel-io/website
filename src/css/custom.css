@@ -24,6 +24,7 @@
   --ifm-button-padding-horizontal: 1.5rem;
   --ifm-button-padding-vertical: 0.75rem;
   --ifm-pre-padding: 1.5rem;
+  --ifm-color-emphasis-50: #f9fafa;
 }
 
 html[data-theme="dark"] {
@@ -36,6 +37,7 @@ html[data-theme="dark"] {
   --ifm-color-primary-lightest: #1aeba6; */
 
   --ifm-background-color: var(--ifm-color-gray-1000);
+  --ifm-color-emphasis-50: #151719;
 }
 
 .docusaurus-highlight-code-line {
