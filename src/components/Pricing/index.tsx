@@ -22,12 +22,15 @@ export default function Pricing(): JSX.Element {
               $5 <span>/month</span>
             </div>
             <ul>
-              <li>1 server</li>
+              <li>1 licence</li>
               <li>unlimited projects</li>
               <li>unlimited services</li>
               <li>unlimited deployments</li>
             </ul>
-            <Link className="button button--block button--primary" href="#">
+            <Link
+              className="button button--block button--primary"
+              href="https://portal.easypanel.io/register"
+            >
               Buy Licence
             </Link>
           </div>
@@ -37,12 +40,15 @@ export default function Pricing(): JSX.Element {
               $20 <span>/month</span>
             </div>
             <ul>
-              <li>5 servers</li>
+              <li>5 licences</li>
               <li>unlimited projects</li>
               <li>unlimited services</li>
               <li>unlimited deployments</li>
             </ul>
-            <Link className="button button--block button--primary" href="#">
+            <Link
+              className="button button--block button--primary"
+              href="https://portal.easypanel.io/register"
+            >
               Buy Licence
             </Link>
           </div>
@@ -52,12 +58,15 @@ export default function Pricing(): JSX.Element {
               $60 <span>/month</span>
             </div>
             <ul>
-              <li>15 servers</li>
+              <li>15 licences</li>
               <li>unlimited projects</li>
               <li>unlimited services</li>
               <li>unlimited deployments</li>
             </ul>
-            <Link className="button button--block button--primary" href="#">
+            <Link
+              className="button button--block button--primary"
+              href="https://portal.easypanel.io/register"
+            >
               Buy Licence
             </Link>
           </div>
