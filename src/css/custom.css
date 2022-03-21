@@ -78,13 +78,20 @@ html[data-theme="dark"] {
 .navbar__logo {
   height: 28px;
 }
+@media screen and (max-width: 996px) {
+  .navbar__brand {
+    flex: 1;
+    justify-content: center;
+    margin-right: 2rem;
+  }
+}
 .navbar__link {
   font-size: 0.95rem;
 }
-.navbar__toggle {
+/* .navbar__toggle {
   position: absolute;
   right: 0.5rem;
-}
+} */
 .navbar-sidebar {
   border-right: 1px solid var(--ifm-color-emphasis-100);
 }
