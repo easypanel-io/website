@@ -94,6 +94,13 @@ const config = {
           { to: "/blog", label: "Blog", position: "right" },
         ],
       },
+      algolia: {
+        appId: "291Q7ITAVJ",
+        apiKey: "e0fa29c5c372199c5b407b3c177d50b3",
+        indexName: "website",
+        contextualSearch: false,
+        searchPagePath: false,
+      },
       footer: {
         logo: {
           alt: "Easypanel Logo",
