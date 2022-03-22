@@ -52,24 +52,24 @@ const config = {
   ],
 
   plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "product",
-        path: "product",
-        routeBasePath: "product",
-        breadcrumbs: false,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "templates",
-        path: "templates",
-        routeBasePath: "templates",
-        breadcrumbs: false,
-      },
-    ],
+    // [
+    //   "@docusaurus/plugin-content-docs",
+    //   {
+    //     id: "product",
+    //     path: "product",
+    //     routeBasePath: "product",
+    //     breadcrumbs: false,
+    //   },
+    // ],
+    // [
+    //   "@docusaurus/plugin-content-docs",
+    //   {
+    //     id: "templates",
+    //     path: "templates",
+    //     routeBasePath: "templates",
+    //     breadcrumbs: false,
+    //   },
+    // ],
   ],
 
   themeConfig:
@@ -87,11 +87,11 @@ const config = {
           srcDark: "img/logo_dark.svg",
         },
         items: [
-          { to: "/product", label: "Product", position: "left" },
-          { to: "/templates", label: "Templates", position: "left" },
           { to: "/pricing", label: "Pricing", position: "left" },
-          { to: "/docs", label: "Docs", position: "right" },
+          { to: "/docs/guides", label: "Guides", position: "left" },
+          { to: "/docs/templates", label: "Templates", position: "left" },
           { to: "/blog", label: "Blog", position: "right" },
+          { to: "/docs", label: "Docs", position: "right" },
         ],
       },
       algolia: {

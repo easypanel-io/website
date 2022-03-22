@@ -1,4 +1,3 @@
-import Link from "@docusaurus/Link";
 import React from "react";
 import styles from "./styles.module.css";
 
@@ -77,9 +76,9 @@ function Feature({ title, link, icon: Svg, description }: Item) {
       <Svg className={styles.featureIcon} role="img" />
       <h3 className={styles.featureTitle}>{title}</h3>
       <p className={styles.featureDescription}>{description}</p>
-      <Link className="button button--link padding-horiz--none" to={link}>
+      {/* <Link className="button button--link padding-horiz--none" to={link}>
         Learn more
-      </Link>
+      </Link> */}
     </div>
   );
 }

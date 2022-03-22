@@ -1,3 +1,0 @@
-# Paketo
-
-Coming soon.
