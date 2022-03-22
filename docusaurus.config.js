@@ -121,12 +121,12 @@ const config = {
                 to: "/docs/services",
               },
               {
-                label: "Builders",
-                to: "/docs/builders",
-              },
-              {
                 label: "Guides",
                 to: "/docs/guides",
+              },
+              {
+                label: "Templates",
+                to: "/docs/templates",
               },
             ],
           },
@@ -135,15 +135,15 @@ const config = {
             items: [
               {
                 label: "Wordpress",
-                to: "/templates/wordpress",
+                to: "/docs/templates/wordpress",
               },
               {
                 label: "phpMyAdmin",
-                to: "/templates/phpmyadmin",
+                to: "/docs/templates/phpmyadmin",
               },
               {
                 label: "Adminer",
-                to: "/templates/adminer",
+                to: "/docs/templates/adminer",
               },
             ],
           },

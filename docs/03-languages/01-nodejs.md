@@ -26,15 +26,15 @@ By default, the buildpack will run the `start` script from your `package.json` f
 }
 ```
 
-Aditionally, you can change the start command by creating a Procfile with a `web` entry like this
+Additionally, you can change the start command by creating a Procfile with a `web` entry like this
 
 ```
 web: npm run start:production
 ```
 
-## Specifying a Node.js Version
+## Specifying a Node.js version
 
-Inside your `package.json` you can specify the engine version like this
+Inside your `package.json`, you can specify the engine version like this
 
 ```json
 "engines": {
@@ -46,6 +46,6 @@ Inside your `package.json` you can specify the engine version like this
 
 If you have a `yarn.lock` file, the buildpack will install and use Yarn.
 
-## Keeping `devDependencies`
+## Avoid purging `devDependencies`
 
-By default, the buildpack will install `devDependencies` in the build phase but will remove them after. If you want to keep your `devDependencies` you need to set `NPM_CONFIG_PRODUCTION=false` or `YARN_PRODUCTION=false` as environment variables.
+By default, the buildpack installs `devDependencies` in the build phase but removes them after. If you want to keep your `devDependencies` you need to set `NPM_CONFIG_PRODUCTION=false` or `YARN_PRODUCTION=false` as environment variables.
