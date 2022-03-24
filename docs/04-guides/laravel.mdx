@@ -4,35 +4,44 @@ title: Deploy a Laravel app
 description: How to deploy a Laravel app on your server.
 ---
 
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
 This guide outlines the steps you need to follow to deploy a Laravel app on Easypanel.
 
 ## Create Procfile
 
 To specify how the app should start, you need to create a `Procfile` file at the root of your project with the following contents.
 
-For Apache server use:
+<Tabs>
+<TabItem value="apache" label="Apache" default>
 
-```
+```plain title="Procfile"
 web: php artisan migrate -f && heroku-php-apache2 public/
 ```
 
-For Nginx server use:
+</TabItem>
+<TabItem value="nginx" label="Nginx">
 
-```
+```plain title="Procfile"
 web: php artisan migrate -f && heroku-php-nginx public/
 ```
 
-For built-in server use:
+</TabItem>
+<TabItem value="built-in" label="Built-in Server">
 
-```
+```plain title="Procfile"
 web: php artisan migrate -f && php artisan serve
 ```
+
+</TabItem>
+</Tabs>
 
 ## Configure Trusted Proxies
 
 Your app will sit behind a reverse proxy server. That's why you need to configure Laravel to trust that proxy.
 
-```php
+```php title="app/Http/Middleware/TrustProxies.php"
 <?php
 
 namespace App\Http\Middleware;
@@ -85,10 +94,16 @@ Before deploying your Laravel app, you should create a database service like **M
 
 ## FAQ
 
+Most of your questions have answers in the dedicated documentation section for [PHP](/docs/languages/php).
+
 ### How to specify the PHP version?
 
-TODO: Link to the version section in Languages -> PHP.
+Find the answer [here](/docs/languages/php#specifying-a-php-version).
 
 ### How to change the PHP settings?
 
-TODO: Link to the version section in Languages -> Runtime Settings.
+Find the answer [here](/docs/languages/php#customizing-php-settings).
+
+### How to install PHP extensions?
+
+Find the answer [here](/docs/languages/php#installing-php-extensions).

@@ -6,13 +6,23 @@ description: How to deploy a Blitz JS app on your server.
 
 This guide outlines the steps you need to follow to deploy a Blitz JS app on Easypanel.
 
-## Create Procfile
+## Prepare your app
 
 To specify how the app should start, you need to create a `Procfile` file at the root of your project with the following contents.
 
+```plain title="Procfile"
+web: yarn start --port $PORT
 ```
-web: yarn blitz prisma migrate deploy && yarn start --port $PORT
+
+Since the build step can use the database for generating static pages, you will need to run the migrations before that. In order to do that, you should change the `build` script in your `package.json` file.
+
+```json title="package.json"
+"scripts": {
+   "build": "blitz prisma migrate deploy && blitz build"
+}
 ```
+
+## Run `
 
 ## Setup Database Service
 
@@ -38,6 +48,12 @@ Before deploying your Blitz JS app, you should create a database service like **
 
 ## FAQ
 
+Most of your questions have answers in the dedicated documentation section for [Node.js](/docs/languages/nodejs).
+
 ### How to specify the Node.js version?
 
-TODO: Link to the version section in Languages -> Node.js.
+Find the answer [here](/docs/languages/nodejs#specifying-a-nodejs-version).
+
+### How to keep `devDependencies` in production?
+
+Find the answer [here](/docs/languages/nodejs#avoid-purging-devdependencies).

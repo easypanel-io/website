@@ -4,11 +4,13 @@ slug: /
 
 # Getting Started
 
-## Installation
+## Requirements
 
-1. Create a server in your prefered cloud (DigitalOcean, Linode, Hetzner, AWS, GCP, Azure, etc)
-2. Make sure you have Docker installed on the server
-3. Run the following command
+Easypanel can run on any cloud provider. DigitalOcean, Linode, Hetzner, AWS, GCP, Azure, you name it.
+
+You will need a Linux server with Docker installed. Most providers have predefined images for Docker which will get you up-and-running faster.
+
+## Installing Easpanel
 
 ```shell
 docker run --rm -it \
@@ -17,4 +19,12 @@ docker run --rm -it \
   easypanel/easypanel setup
 ```
 
-That's it!
+:::info
+You must have root (sudo) privileges to run this command.
+:::
+
+## Updating Easypanel
+
+```shell
+docker image pull easypanel/easypanel && docker service update easypanel
+```

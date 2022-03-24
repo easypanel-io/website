@@ -28,6 +28,12 @@ You can create a new project or use an existing one. Projects are a simple way t
 
 ## FAQ
 
+Most of your questions have answers in the dedicated documentation section for [Node.js](/docs/languages/nodejs).
+
 ### How to specify the Node.js version?
 
-TODO: Link to the version section in Languages -> Node.js.
+Find the answer [here](/docs/languages/nodejs#specifying-a-nodejs-version).
+
+### How to keep `devDependencies` in production?
+
+Find the answer [here](/docs/languages/nodejs#avoid-purging-devdependencies).

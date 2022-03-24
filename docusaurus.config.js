@@ -168,6 +168,10 @@ const config = {
                 to: "/blog",
               },
               {
+                label: "Portal",
+                href: "https://portal.easypanel.io",
+              },
+              {
                 label: "GitHub",
                 href: "https://github.com/easypanel-io",
               },

@@ -1,0 +1,79 @@
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
+# PHP
+
+Easypanel uses Cloud Native Buildpacks to build Docker images. Thus, you don't have to write and maintain fragile `Dockerfile` files.
+
+For a PHP app, all you need is a `composer.json` file at the root of your project.
+
+## Building the app
+
+In the build phase, the buildpack will install your dependencies using the following command.
+
+```bash
+composer install --no-dev --prefer-dist --optimize-autoloader --no-interaction
+```
+
+## Running the app
+
+To specify how the app should start, you need to create a `Procfile` file at the root of your project with the following contents.
+
+<Tabs>
+<TabItem value="apache" label="Apache" default>
+
+```plain title="Procfile"
+web: heroku-php-apache2 public/
+```
+
+</TabItem>
+<TabItem value="nginx" label="Nginx">
+
+```plain title="Procfile"
+web: heroku-php-nginx public/
+```
+
+</TabItem>
+<TabItem value="built-in" label="Built-in Server">
+
+```plain title="Procfile"
+web: php -S 0.0.0.0:$PORT -t public/
+```
+
+</TabItem>
+</Tabs>
+
+:::caution
+Make sure you replace `public/` with your root folder.
+:::
+
+## Specifying a PHP version
+
+Inside your `composer.json`, you can specify the PHP version like this
+
+```json title="composer.json"
+"require": {
+  "php": "8.0.*"
+}
+```
+
+## Installing PHP extensions
+
+Inside your `composer.json`, you can specify the PHP extensions your project needs.
+
+```json title="composer.json"
+"require": {
+  "ext-intl": "*",
+  "ext-openssl": "*",
+}
+```
+
+You can find a list of available extensions [here](https://devcenter.heroku.com/articles/php-support#available-built-in-extensions).
+
+## Customizing PHP settings
+
+There are multiple ways to change PHP settings. The easiest one is to use [`ini_set`](https://www.php.net/manual/en/function.ini-set) in your PHP code at runtime.
+
+## Private dependencies
+
+If your application uses private dependencies which require authentication, you should configure the `COMPOSER_AUTH` environment variable. The value of this environment variable is JSON with the same structure as `auth.json`. Read more about it [here](https://getcomposer.org/doc/articles/authentication-for-private-packages.md#authentication-using-the-composer-auth-environment-variable).

@@ -2,7 +2,7 @@
 
 Easypanel uses Cloud Native Buildpacks to build Docker images. Thus, you don't have to write and maintain fragile `Dockerfile` files.
 
-For a Node.js app, you simply need a `package.json` file at the root of your project.
+For a Node.js app, all you need is a `package.json` file at the root of your project.
 
 ## Building the app
 
@@ -10,7 +10,7 @@ In the build phase, the buildpack will install your dependencies using `npm inst
 
 After that, it will run the `build` script from your `package.json` file.
 
-```json
+```json title="package.json"
 "scripts": {
   "build": "..."
 }
@@ -20,15 +20,15 @@ After that, it will run the `build` script from your `package.json` file.
 
 By default, the buildpack will run the `start` script from your `package.json` file. You can customize that script according to your needs.
 
-```json
+```json title="package.json"
 "scripts": {
   "start": "..."
 }
 ```
 
-Additionally, you can change the start command by creating a Procfile with a `web` entry like this
+Additionally, you can change the start command by creating a `Procfile` with a `web` entry like this
 
-```
+```plain title="Procfile"
 web: npm run start:production
 ```
 
@@ -36,7 +36,7 @@ web: npm run start:production
 
 Inside your `package.json`, you can specify the engine version like this
 
-```json
+```json title="package.json"
 "engines": {
   "node": "16.x"
 }
