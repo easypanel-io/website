@@ -30,7 +30,12 @@ export default function Hero(): JSX.Element {
           </div>
         </div>
         <div className={styles.panelImage}>
-          <img src="https://www.suse.com/c/wp-content/uploads/2020/03/container-dashboard-screenshot-1024x485.png" />
+          <Link
+            href="https://www.youtube.com/watch?v=XJPYeTeq7q0"
+            target="_blank"
+          >
+            <img src="/img/screenshot.png" />
+          </Link>
         </div>
       </div>
     </section>
