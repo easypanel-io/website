@@ -1,3 +1,3 @@
 # Ruby
 
-Coming soon.
+Documentation coming soon.

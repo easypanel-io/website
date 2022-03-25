@@ -1,3 +1,0 @@
-# Nuxt JS
-
-Coming soon.

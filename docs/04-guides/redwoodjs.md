@@ -1,3 +1,0 @@
-# Redwood JS
-
-Coming soon.

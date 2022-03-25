@@ -1,3 +1,3 @@
 # Python
 
-Coming soon.
+Documentation coming soon.
