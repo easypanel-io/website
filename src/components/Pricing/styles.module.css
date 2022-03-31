@@ -15,7 +15,7 @@
 }
 .plans {
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(4, auto);
   gap: 20px;
   margin-top: 50px;
   justify-content: center;
@@ -28,7 +28,7 @@
   border-radius: 10px;
   width: 300px;
 }
-.planActive {
+.planHighlight {
   border: 4px solid var(--ifm-color-primary);
   padding: 40px 24px;
 }
