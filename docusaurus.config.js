@@ -19,6 +19,7 @@ const config = {
     // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
     // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
   ],
+  trailingSlash: false,
   presets: [
     [
       "classic",
