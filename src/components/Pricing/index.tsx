@@ -28,10 +28,7 @@ export default function Pricing(): JSX.Element {
               <li>Free SSL Certificates</li>
               <li>Community Support</li>
             </ul>
-            <Link
-              className="button button--block button--primary"
-              href="https://easypanel.io/docs"
-            >
+            <Link className="button button--block button--primary" href="/docs">
               Get Started
             </Link>
           </div>
@@ -49,11 +46,8 @@ export default function Pricing(): JSX.Element {
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
-            <Link
-              className="button button--block button--primary"
-              href="https://portal.easypanel.io/register"
-            >
-              Buy Licence
+            <Link className="button button--block button--primary" href="/docs">
+              Get Started
             </Link>
           </div>
           <div className={styles.plan}>
@@ -70,11 +64,8 @@ export default function Pricing(): JSX.Element {
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
-            <Link
-              className="button button--block button--primary"
-              href="https://portal.easypanel.io/register"
-            >
-              Buy Licence
+            <Link className="button button--block button--primary" href="/docs">
+              Get Started
             </Link>
           </div>
           <div className={styles.plan}>
@@ -91,11 +82,8 @@ export default function Pricing(): JSX.Element {
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
-            <Link
-              className="button button--block button--primary"
-              href="https://portal.easypanel.io/register"
-            >
-              Buy Licence
+            <Link className="button button--block button--primary" href="/docs">
+              Get Started
             </Link>
           </div>
         </div>
