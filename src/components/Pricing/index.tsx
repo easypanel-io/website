@@ -17,15 +17,13 @@ export default function Pricing(): JSX.Element {
         </p>
         <div className={styles.plans}>
           <div className={clsx(styles.plan, styles.planHighlight)}>
-            <h2 className={styles.planName}>Developer</h2>
+            <h2 className={styles.planName}>Free Forever</h2>
             <div className={styles.planPrice}>
               $0 <span>/month</span>
             </div>
             <ul>
-              <li>Free Forever</li>
-              <li>1 User</li>
-              <li>No User Access Control</li>
-              <li>No Monitoring</li>
+              <li>No Licence Required</li>
+              <li>Single User</li>
               <li>Unlimited Projects</li>
               <li>Free SSL Certificates</li>
               <li>Community Support</li>
@@ -38,12 +36,12 @@ export default function Pricing(): JSX.Element {
             </Link>
           </div>
           <div className={styles.plan}>
-            <h2 className={styles.planName}>Start</h2>
+            <h2 className={styles.planName}>Hobby</h2>
             <div className={styles.planPrice}>
               $15 <span>/month</span>
             </div>
             <ul>
-              <li>2 Servers</li>
+              <li>2 Licences</li>
               <li>Unlimited Users</li>
               <li>User Access Control</li>
               <li>Monitoring</li>
@@ -59,12 +57,12 @@ export default function Pricing(): JSX.Element {
             </Link>
           </div>
           <div className={styles.plan}>
-            <h2 className={styles.planName}>Grow</h2>
+            <h2 className={styles.planName}>Growth</h2>
             <div className={styles.planPrice}>
               $30 <span>/month</span>
             </div>
             <ul>
-              <li>5 Servers</li>
+              <li>5 Licences</li>
               <li>Unlimited Users</li>
               <li>User Access Control</li>
               <li>Monitoring</li>
@@ -80,12 +78,12 @@ export default function Pricing(): JSX.Element {
             </Link>
           </div>
           <div className={styles.plan}>
-            <h2 className={styles.planName}>Scale</h2>
+            <h2 className={styles.planName}>Business</h2>
             <div className={styles.planPrice}>
               $60 <span>/month</span>
             </div>
             <ul>
-              <li>15 Servers</li>
+              <li>15 Licences</li>
               <li>Unlimited Users</li>
               <li>User Access Control</li>
               <li>Monitoring</li>
