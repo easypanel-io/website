@@ -22,9 +22,10 @@ export default function Pricing(): JSX.Element {
               $0 <span>/month</span>
             </div>
             <ul>
-              <li>No Licence Required</li>
-              <li>Single User</li>
+              <li>Unlimited Servers</li>
+              <li>Individual Use</li>
               <li>Unlimited Projects</li>
+              <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
               <li>Community Support</li>
             </ul>
@@ -38,11 +39,10 @@ export default function Pricing(): JSX.Element {
               $15 <span>/month</span>
             </div>
             <ul>
-              <li>2 Licences</li>
-              <li>Unlimited Users</li>
-              <li>User Access Control</li>
-              <li>Monitoring</li>
+              <li>2 Servers</li>
+              <li>Business Use</li>
               <li>Unlimited Projects</li>
+              <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
@@ -56,11 +56,10 @@ export default function Pricing(): JSX.Element {
               $30 <span>/month</span>
             </div>
             <ul>
-              <li>5 Licences</li>
-              <li>Unlimited Users</li>
-              <li>User Access Control</li>
-              <li>Monitoring</li>
+              <li>5 Servers</li>
+              <li>Business Use</li>
               <li>Unlimited Projects</li>
+              <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
@@ -74,11 +73,10 @@ export default function Pricing(): JSX.Element {
               $60 <span>/month</span>
             </div>
             <ul>
-              <li>15 Licences</li>
-              <li>Unlimited Users</li>
-              <li>User Access Control</li>
-              <li>Monitoring</li>
+              <li>15 Servers</li>
+              <li>Business Use</li>
               <li>Unlimited Projects</li>
+              <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
               <li>Priority Support</li>
             </ul>
