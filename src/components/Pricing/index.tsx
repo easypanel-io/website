@@ -12,8 +12,7 @@ export default function Pricing(): JSX.Element {
           does it cost?
         </h1>
         <p className={styles.subheading}>
-          14-day trial for each server. <br className="hidden--lg" /> No licence
-          required.
+          If you are a developer, you can use Easypanel for free.
         </p>
         <div className={styles.plans}>
           <div className={clsx(styles.plan, styles.planHighlight)}>
@@ -23,7 +22,7 @@ export default function Pricing(): JSX.Element {
             </div>
             <ul>
               <li>Unlimited Servers</li>
-              <li>Individual Use</li>
+              <li>Single User</li>
               <li>Unlimited Projects</li>
               <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
@@ -40,7 +39,7 @@ export default function Pricing(): JSX.Element {
             </div>
             <ul>
               <li>2 Servers</li>
-              <li>Business Use</li>
+              <li>Unlimited Users</li>
               <li>Unlimited Projects</li>
               <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
@@ -57,7 +56,7 @@ export default function Pricing(): JSX.Element {
             </div>
             <ul>
               <li>5 Servers</li>
-              <li>Business Use</li>
+              <li>Unlimited Users</li>
               <li>Unlimited Projects</li>
               <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
@@ -74,7 +73,7 @@ export default function Pricing(): JSX.Element {
             </div>
             <ul>
               <li>15 Servers</li>
-              <li>Business Use</li>
+              <li>Unlimited Users</li>
               <li>Unlimited Projects</li>
               <li>Unlimited Services</li>
               <li>Free SSL Certificates</li>
