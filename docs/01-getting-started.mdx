@@ -1,0 +1,67 @@
+---
+slug: /
+---
+
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
+# Getting Started
+
+## Requirements
+
+Easypanel can run on any cloud provider. DigitalOcean, Linode, Hetzner, AWS, GCP, Azure, you name it.
+
+You will need a Linux server with Docker installed. Most providers have predefined images for Docker which will get you up-and-running faster.
+
+## Installing Easpanel
+
+<Tabs groupId="release">
+<TabItem value="stable" label="Stable" default>
+
+```shell
+docker run --rm -it \
+  -v /etc/easypanel:/etc/easypanel \
+  -v /var/run/docker.sock:/var/run/docker.sock:ro \
+  easypanel/easypanel setup
+```
+
+</TabItem>
+<TabItem value="canary" label="Canary">
+
+```shell
+docker run --rm -it \
+  -v /etc/easypanel:/etc/easypanel \
+  -v /var/run/docker.sock:/var/run/docker.sock:ro \
+  -e RELEASE_TAG=canary \
+  easypanel/easypanel:canary setup
+```
+
+</TabItem>
+</Tabs>
+
+:::info
+You must have root (sudo) privileges to run this command.
+:::
+
+## Updating Easypanel
+
+The panel will try to update automatically. When there is a new release available, you will see a button in the navigation bar.
+
+If you want to update manually, you can run the following command.
+
+<Tabs groupId="release">
+<TabItem value="stable" label="Stable" default>
+
+```shell
+docker image pull easypanel/easypanel && docker service update easypanel --force
+```
+
+</TabItem>
+<TabItem value="canary" label="Canary">
+
+```shell
+docker image pull easypanel/easypanel:canary && docker service update easypanel --force
+```
+
+</TabItem>
+</Tabs>
