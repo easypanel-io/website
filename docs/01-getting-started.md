@@ -26,5 +26,5 @@ You must have root (sudo) privileges to run this command.
 ## Updating Easypanel
 
 ```shell
-docker image pull easypanel/easypanel && docker service update easypanel
+docker image pull easypanel/easypanel && docker service update easypanel --force
 ```
