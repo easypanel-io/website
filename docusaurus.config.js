@@ -159,6 +159,14 @@ const config = {
                 label: "Twitter",
                 href: "https://twitter.com/easypanel_io",
               },
+              {
+                label: "Feedback",
+                href: "https://github.com/easypanel-io/community/discussions",
+              },
+              {
+                label: "Roadmap",
+                href: "https://github.com/orgs/easypanel-io/projects/1",
+              },
             ],
           },
           {
