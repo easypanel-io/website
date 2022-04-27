@@ -17,21 +17,21 @@ To specify how the app should start, you need to create a `Procfile` file at the
 <TabItem value="apache" label="Apache" default>
 
 ```plain title="Procfile"
-web: php artisan migrate -f && heroku-php-apache2 public/
+web: php artisan migrate --force && heroku-php-apache2 public/
 ```
 
 </TabItem>
 <TabItem value="nginx" label="Nginx">
 
 ```plain title="Procfile"
-web: php artisan migrate -f && heroku-php-nginx public/
+web: php artisan migrate --force && heroku-php-nginx public/
 ```
 
 </TabItem>
 <TabItem value="built-in" label="Built-in Server">
 
 ```plain title="Procfile"
-web: php artisan migrate -f && php artisan serve
+web: php artisan migrate --force && php artisan serve
 ```
 
 </TabItem>
