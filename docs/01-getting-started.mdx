@@ -9,11 +9,23 @@ import TabItem from "@theme/TabItem";
 
 ## Requirements
 
-Easypanel can run on any cloud provider. DigitalOcean, Linode, Hetzner, AWS, GCP, Azure, you name it.
+- Linux Server (preferably Ubuntu)
+- at least 1GB of RAM
 
-You will need a Linux server with Docker installed. Most providers have predefined images for Docker which will get you up-and-running faster.
+## One-Click Installation
 
-## Installing Easpanel
+You can install Easypanel using our one-click solution in several cloud providers.
+
+- [Digitalocean](https://marketplace.digitalocean.com/apps/easypanel)
+- [AWS](https://aws.amazon.com/marketplace/pp/prodview-nkiq4lewjosjc)
+- Vultr (coming soon)
+- Linode (coming soon)
+
+## Manual Installation
+
+Easypanel is powered by Docker, so you need to install it first. Most cloud providers have server images that come with Docker preinstalled.
+
+You also must have root (sudo) privileges to run the installation command.
 
 <Tabs groupId="release">
 <TabItem value="stable" label="Stable" default>
@@ -39,11 +51,7 @@ docker run --rm -it \
 </TabItem>
 </Tabs>
 
-:::info
-You must have root (sudo) privileges to run this command.
-:::
-
-## Updating Easypanel
+## Updates
 
 The panel will try to update automatically. When there is a new release available, you will see a button in the navigation bar.
 
