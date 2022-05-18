@@ -15,7 +15,7 @@ const items: Item[] = [
     icon: require("@site/static/icons/Upload-toCloud.svg").default,
     description: (
       <>
-        Push to Github and voila - Easypanel will get your code, build it and
+        Push to Github and voilà - Easypanel will get your code, build it and
         deploy it.
       </>
     ),
