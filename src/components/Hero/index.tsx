@@ -31,7 +31,7 @@ const partners: Partner[] = [
 export default function Hero(): JSX.Element {
   return (
     <>
-      <section className="tw-bg-black tw-py-24 tw-px-3 tw-text-center">
+      <section className="tw-bg-black tw-py-24 tw-text-center">
         <div className="tw-text-sm lg:tw-text-base tw-text-emerald-600 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
           Powered by Docker
         </div>
@@ -51,19 +51,21 @@ export default function Hero(): JSX.Element {
             </span>
           </Link>
         </div>
-        <input
-          className="tw-bg-neutral-800 tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-sm tw-text-center tw-w-[430px] tw-max-w-full tw-cursor-pointer"
-          defaultValue="curl -sSL https://easypanel.io/install.sh | sh"
-          onFocus={(e) => e.currentTarget.select()}
-          onSelect={(e) => e.currentTarget.select()}
-          // onChange={() =>{}}
-          readOnly
-        />
-        <div className="tw-text-neutral-400 tw-mt-2">
-          Run this command on a fresh linux server
+        <div className="tw-px-4">
+          <input
+            className="tw-bg-neutral-800 tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-sm tw-text-center tw-w-[430px] tw-max-w-full tw-cursor-pointer"
+            defaultValue="curl -sSL https://easypanel.io/install.sh | sh"
+            onFocus={(e) => e.currentTarget.select()}
+            onSelect={(e) => e.currentTarget.select()}
+            // onChange={() =>{}}
+            readOnly
+          />
+          <div className="tw-text-neutral-400 tw-mt-2">
+            Run this command on a fresh linux server
+          </div>
         </div>
         {/* <div className="tw-mt-20 tw-flex tw-flex-col lg:tw-flex-row tw-justify-between tw-gap-6 tw-max-w-4xl tw-mx-auto"> */}
-        <div className="tw-mt-20 tw-flex tw-overflow-x-auto tw-p-4 tw-justify-between tw-gap-10 tw-max-w-4xl tw-mx-auto">
+        <div className="tw-mt-20 tw-flex tw-overflow-x-auto no-scrollbar tw-py-4 tw-px-10 tw-justify-between tw-gap-10 tw-max-w-4xl tw-mx-auto">
           {partners.map((partner, index) => (
             <Link
               key={index}
