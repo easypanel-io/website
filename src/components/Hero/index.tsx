@@ -31,13 +31,12 @@ const partners: Partner[] = [
 export default function Hero(): JSX.Element {
   return (
     <>
-      <section className="tw-bg-black tw-py-24 tw-text-center">
+      <section className="tw-bg-black tw-py-16 lg:tw-py-24 tw-text-center">
         <div className="tw-text-sm lg:tw-text-base tw-text-emerald-600 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
           Powered by Docker
         </div>
-        <h1 className="tw-text-4xl lg:tw-text-7xl tw-tracking-tight tw-leading-tight">
-          The Modern <br className="tw-hidden lg:tw-block" /> Server Control
-          Panel{" "}
+        <h1 className="tw-text-5xl lg:tw-text-7xl tw-tracking-tight tw-leading-tight">
+          The Modern <br /> Server Control Panel
         </h1>
         <div className="tw-mb-16">
           <Link
@@ -57,7 +56,6 @@ export default function Hero(): JSX.Element {
             defaultValue="curl -sSL https://easypanel.io/install.sh | sh"
             onFocus={(e) => e.currentTarget.select()}
             onSelect={(e) => e.currentTarget.select()}
-            // onChange={() =>{}}
             readOnly
           />
           <div className="tw-text-neutral-400 tw-mt-2">
@@ -65,7 +63,7 @@ export default function Hero(): JSX.Element {
           </div>
         </div>
         {/* <div className="tw-mt-20 tw-flex tw-flex-col lg:tw-flex-row tw-justify-between tw-gap-6 tw-max-w-4xl tw-mx-auto"> */}
-        <div className="tw-mt-20 tw-flex tw-overflow-x-auto no-scrollbar tw-py-4 tw-px-10 tw-justify-between tw-gap-10 tw-max-w-4xl tw-mx-auto">
+        <div className="tw-mt-16 tw-flex tw-overflow-x-auto no-scrollbar tw-p-10 tw-justify-between tw-gap-10 tw-max-w-4xl tw-mx-auto">
           {partners.map((partner, index) => (
             <Link
               key={index}
@@ -75,7 +73,7 @@ export default function Hero(): JSX.Element {
             >
               <img
                 src={partner.logo}
-                className="tw-h-7 tw-max-w-none lg:tw-h-10 tw-inline-block"
+                className="tw-h-8 lg:tw-h-10 tw-inline-block tw-max-w-none"
               />
             </Link>
           ))}
