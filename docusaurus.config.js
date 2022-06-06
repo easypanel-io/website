@@ -53,6 +53,13 @@ const config = {
   ],
 
   plugins: [
+    () => ({
+      name: "postcss-tailwindcss-loader",
+      configurePostCss(postcssOptions) {
+        postcssOptions.plugins.unshift(require("tailwindcss"));
+        return postcssOptions;
+      },
+    }),
     // [
     //   "@docusaurus/plugin-content-docs",
     //   {
@@ -78,6 +85,7 @@ const config = {
     ({
       colorMode: {
         defaultMode: "dark",
+        disableSwitch: true,
       },
       navbar: {
         // title: "My Site",
