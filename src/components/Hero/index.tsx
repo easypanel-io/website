@@ -1,8 +1,6 @@
 import Link from "@docusaurus/Link";
 import PlayButtonSVG from "@site/static/img/play-button.svg";
-import clsx from "clsx";
 import React from "react";
-import styles from "./styles.module.css";
 
 type Partner = {
   href: string;
@@ -31,34 +29,40 @@ const partners: Partner[] = [
 export default function Hero(): JSX.Element {
   return (
     <>
-      <section className="tw-bg-black tw-py-16 lg:tw-py-24 tw-text-center">
-        <div className="tw-text-sm lg:tw-text-base tw-text-emerald-600 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
+      <section className="tw-py-24 lg:tw-py-32 tw-text-center">
+        <div className="tw-text-sm lg:tw-text-base tw-text-gray-400 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
           Powered by Docker
         </div>
-        <h1 className="tw-text-5xl lg:tw-text-7xl tw-tracking-tight tw-leading-tight">
-          The Modern <br /> Server Control Panel
+        <h1 className="tw-text-4xl lg:tw-text-7xl tw-tracking-tight tw-leading-none tw-font-extrabold tw-px-4">
+          <span className="tw-text-transparent tw-bg-clip-text tw-bg-gradient-to-r tw-to-cyan-400 tw-from-emerald-600">
+            Next Generation
+          </span>
+          <br /> Server Control Panel
         </h1>
-        <div className="tw-mb-16">
+        <p className="tw-text-lg lg:tw-text-xl tw-font-normal tw-text-gray-400 tw-max-w-2xl tw-mx-auto tw-px-4">
+          {/* Deploy applications, manage databases, and provision SSL certificates,
+          from an easy-to-use interface. */}
+          Use an intuitive interface to deploy applications, manage databases,
+          and provision SSL certificates.
+        </p>
+        <div className="tw-mt-8 tw-flex tw-justify-center">
           <Link
             href="https://www.youtube.com/watch?v=XJPYeTeq7q0"
             target="_blank"
-            className="tw-inline-flex tw-items-center"
+            className="tw-block"
           >
-            <PlayButtonSVG className="tw-h-8" />
-            <span className="tw-text-emerald-100 tw-ml-3">
-              Watch Demo Video
-            </span>
+            <PlayButtonSVG className="tw-h-16 tw-w-16 tw-block" />
           </Link>
         </div>
-        <div className="tw-px-4">
+        <div className="tw-px-4 tw-mt-8">
           <input
-            className="tw-bg-neutral-800 tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-sm tw-text-center tw-w-[430px] tw-max-w-full tw-cursor-pointer"
+            className="tw-bg-gray-800 tw-text-white tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-base tw-text-center tw-w-[480px] tw-max-w-full tw-cursor-pointer"
             defaultValue="curl -sSL https://easypanel.io/install.sh | sh"
             onFocus={(e) => e.currentTarget.select()}
             onSelect={(e) => e.currentTarget.select()}
             readOnly
           />
-          <div className="tw-text-neutral-400 tw-mt-2">
+          <div className="tw-text-gray-400 tw-mt-2">
             Run this command on a fresh linux server
           </div>
         </div>
@@ -79,38 +83,47 @@ export default function Hero(): JSX.Element {
           ))}
         </div>
       </section>
-      <section className={styles.root}>
-        <div className={clsx("container", styles.wrapper)}>
-          <div>
-            <p className={styles.supheading}>All-in-one platform</p>
-            <h1 className={styles.heading}>
-              Manage your server <br />
-              without fighting <br />
-              the terminal
-            </h1>
-            <h2 className={styles.subheading}>
-              Server control panel <br className="hidden--lg" /> based on
-              Docker.
+      <section className="tw-py-24 lg:tw-px-8">
+        <div className="tw-max-w-7xl tw-mx-auto lg:tw-grid lg:tw-grid-cols-2 lg:tw-gap-24 lg:tw-items-center">
+          <div className="tw-p-4">
+            <h2 className="tw-text-4xl lg:tw-text-5xl tw-font-extrabold">
+              Deploy any type of application
             </h2>
-            <div className={styles.buttons}>
-              <Link className="button button--lg button--primary" to="/docs">
-                Get Started
-              </Link>
-              <Link
-                className="button button--lg button--secondary button--outline margin-left--md"
-                href="https://appt.link/deiucanta"
-              >
-                Book Demo
-              </Link>
-            </div>
+            <p className="tw-text-xl tw-text-gray-400">
+              Easypanel, unlike many other panels, can run any application. It
+              creates Docker images for Node.js, Ruby, Python, PHP, Go, and Java
+              apps using Heroku Buildpacks. You can bring your own Dockerfile if
+              you require greater control.
+            </p>
+            <img
+              src="/img/languages.png"
+              className="tw-block tw-max-h-12 tw-mt-6"
+            />
           </div>
-          <div className={styles.panelImage}>
-            <Link
-              href="https://www.youtube.com/watch?v=XJPYeTeq7q0"
-              target="_blank"
-            >
-              <img src="/img/screenshot.png" />
-            </Link>
+          <div className="tw-p-4">
+            <img src="/img/screenshot.png" className="tw-block" />
+          </div>
+        </div>
+      </section>
+      <section className="tw-py-24 lg:tw-px-8">
+        <div className="tw-max-w-7xl tw-mx-auto lg:tw-grid lg:tw-grid-cols-2 lg:tw-gap-24 lg:tw-items-center">
+          <div className="tw-p-4">
+            <h2 className="tw-text-4xl lg:tw-text-5xl tw-font-extrabold">
+              Pick your favorite database
+            </h2>
+            <p className="tw-text-xl tw-text-gray-400">
+              Databases are first-class citizens in Easypanel. It currently
+              supports MySQL, PostgreSQL, MongoDB, and Redis. You can inspect
+              the database logs or connect to the database CLI from the web
+              interface.
+            </p>
+            <img
+              src="/img/databases.png"
+              className="tw-block tw-max-h-12 tw-mt-6"
+            />
+          </div>
+          <div className="tw-p-4">
+            <img src="/img/screenshot.png" className="tw-block" />
           </div>
         </div>
       </section>
