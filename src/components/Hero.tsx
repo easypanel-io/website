@@ -1,5 +1,4 @@
 import Link from "@docusaurus/Link";
-import PlayButtonSVG from "@site/static/img/play-button.svg";
 import React from "react";
 
 type Partner = {
@@ -48,9 +47,19 @@ export default function Hero(): JSX.Element {
         <Link
           href="https://www.youtube.com/watch?v=XJPYeTeq7q0"
           target="_blank"
-          className="tw-block"
+          className="tw-flex tw-items-center tw-justify-center tw-h-16 tw-w-16 hover:tw-scale-105 tw-rounded-full tw-border-2 tw-border-solid tw-border-emerald-500 tw-transition"
         >
-          <PlayButtonSVG className="tw-h-16 tw-w-16 tw-block" />
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="24px"
+            viewBox="0 0 24 24"
+            width="24px"
+            className="tw-fill-white"
+          >
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M8 5v14l11-7z" />
+          </svg>
+          {/* <PlayButtonSVG className="tw-h-16 tw-w-16 tw-block" /> */}
         </Link>
       </div>
       <div className="tw-px-4 tw-mt-8">
