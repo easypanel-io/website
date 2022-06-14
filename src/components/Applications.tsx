@@ -1,17 +1,15 @@
 import React from "react";
-import styles from "./styles.module.css";
 
-type Item = {
+type Feature = {
   title: string;
-  link: string;
+
   icon: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
 
-const items: Item[] = [
+const features: Feature[] = [
   {
     title: "Push to deploy",
-    link: "/product/push-to-deploy",
     icon: require("@site/static/icons/Upload-toCloud.svg").default,
     description: (
       <>
@@ -22,7 +20,6 @@ const items: Item[] = [
   },
   {
     title: "Free SSL Certificates",
-    link: "/product/free-ssl-certificates",
     icon: require("@site/static/icons/Cloud-Secure.svg").default,
     description: (
       <>
@@ -33,7 +30,6 @@ const items: Item[] = [
   },
   {
     title: "One-Click Apps",
-    link: "/product/one-click-apps",
     icon: require("@site/static/icons/Cursor-Click2.svg").default,
     description: (
       <>
@@ -43,7 +39,6 @@ const items: Item[] = [
   },
   {
     title: "Zero Downtime Deployments",
-    link: "/product/zero-downtime-deployments",
     icon: require("@site/static/icons/Error-404Window.svg").default,
     description: (
       <>You can deploy seamlessly without and intreruptions for your users.</>
@@ -51,7 +46,6 @@ const items: Item[] = [
   },
   {
     title: "In-Browser Terminal",
-    link: "/product/in-browser-terminal",
     icon: require("@site/static/icons/Approved-Window.svg").default,
     description: (
       <>Check logs or run sell commands without leaving your browser.</>
@@ -59,7 +53,6 @@ const items: Item[] = [
   },
   {
     title: "Dockerfile not required",
-    link: "/product/dockerfile-not-required",
     icon: require("@site/static/icons/Factory2.svg").default,
     description: (
       <>
@@ -70,32 +63,37 @@ const items: Item[] = [
   },
 ];
 
-function Feature({ title, link, icon: Svg, description }: Item) {
+export default function Applications(): JSX.Element {
   return (
-    <div className={styles.feature}>
-      <Svg className={styles.featureIcon} role="img" />
-      <h3 className={styles.featureTitle}>{title}</h3>
-      <p className={styles.featureDescription}>{description}</p>
-      {/* <Link className="button button--link padding-horiz--none" to={link}>
-        Learn more
-      </Link> */}
-    </div>
-  );
-}
-
-export default function Features(): JSX.Element {
-  return (
-    <section className={styles.root}>
-      <div className="container">
-        <h2 className={styles.heading}>All-in-one platform</h2>
-        <h3 className={styles.subheading}>
-          Everything you need, <br className="hidden--lg" /> in one panel
-        </h3>
-        <div className={styles.features}>
-          {items.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+    <section className="tw-py-24 lg:tw-px-8">
+      <div className="tw-max-w-7xl tw-mx-auto lg:tw-grid lg:tw-grid-cols-2 lg:tw-gap-20 lg:tw-items-center">
+        <div className="tw-p-4">
+          <h2 className="tw-text-4xl lg:tw-text-5xl tw-mb-6 tw-font-extrabold">
+            Deploy any type of application
+          </h2>
+          <p className="tw-text-xl tw-text-gray-400">
+            Easypanel, unlike many other panels, can run any application. It
+            creates Docker images for Node.js, Ruby, Python, PHP, Go, and Java
+            apps using Heroku Buildpacks. You can bring your own Dockerfile if
+            you require greater control.
+          </p>
+          <img
+            src="/img/languages.png"
+            className="tw-block tw-max-h-12 tw-mt-6"
+          />
         </div>
+        <div className="tw-p-4">
+          <img src="/img/screenshot.png" className="tw-block" />
+        </div>
+      </div>
+      <div className="tw-max-w-7xl tw-mx-auto tw-mt-10 tw-grid lg:tw-grid-cols-3 tw-gap-x-20">
+        {features.map((feature, index) => (
+          <div key={index} className="tw-p-4">
+            <feature.icon className="tw-fill-emerald-500 tw-w-12 tw-h-12" />
+            <h3 className="tw-mt-4 tw-mb-2 tw-text-xl">{feature.title}</h3>
+            <p className="tw-text-gray-400">{feature.description}</p>
+          </div>
+        ))}
       </div>
     </section>
   );
