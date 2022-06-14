@@ -78,12 +78,12 @@ export default function Applications(): JSX.Element {
             you require greater control.
           </p>
           <img
-            src="/img/languages.png"
+            src="/img/applications-logos.png"
             className="tw-block tw-max-h-12 tw-mt-6"
           />
         </div>
         <div className="tw-p-4">
-          <img src="/img/screenshot.png" className="tw-block" />
+          <img src="/img/applications-screenshot.png" className="tw-block" />
         </div>
       </div>
       <div className="tw-max-w-7xl tw-mx-auto tw-mt-10 tw-grid lg:tw-grid-cols-3 tw-gap-x-20">
