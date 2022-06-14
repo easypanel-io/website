@@ -64,8 +64,8 @@ export default function Hero(): JSX.Element {
       </div>
       <div className="tw-px-4 tw-mt-8">
         <input
-          className="tw-bg-gray-800 tw-text-white tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-base tw-text-center tw-w-[480px] tw-max-w-full tw-cursor-pointer tw-shadow-highlight"
-          defaultValue="curl -sSL https://easypanel.io/install.sh | sh"
+          className="tw-bg-gray-800 tw-text-white tw-p-4 tw-border-0 tw-rounded-lg tw-font-mono tw-font-bold tw-text-base tw-text-center tw-w-[430px] tw-max-w-full tw-cursor-pointer tw-shadow-highlight"
+          defaultValue="curl -sSL https://get.easypanel.io | sh"
           onFocus={(e) => e.currentTarget.select()}
           onSelect={(e) => e.currentTarget.select()}
           readOnly
