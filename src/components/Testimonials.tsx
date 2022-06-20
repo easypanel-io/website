@@ -22,6 +22,18 @@ const testimonials: Testimonial[] = [
     ),
   },
   {
+    name: "Marian Pop",
+    role: "PHP/Laravel Developer",
+    avatar:
+      "https://pbs.twimg.com/profile_images/1522658401666351105/V3wqrktE_400x400.jpg",
+    text: (
+      <>
+        Easypanel comes as a breath of fresh air. I love that is simple to use
+        yet powerful and the support is second to none.
+      </>
+    ),
+  },
+  {
     name: "Brandon Taylor",
     role: "Applications Support Manager",
     avatar:
@@ -32,6 +44,30 @@ const testimonials: Testimonial[] = [
         very effective. The use case potential for Easypanel is endless and
         greatly saves time and effort when spinning up new services or
         containers.
+      </>
+    ),
+  },
+  {
+    name: "Mehmet (productdevbook)",
+    role: "Full-stack developer",
+    avatar: "https://avatars.githubusercontent.com/u/38668796?v=4",
+    text: (
+      <>
+        I used many server management platforms, even paid ones. With Easypanel,
+        my applications are connected with Github and I can deploy easily and
+        reliably. It feels safe and comfortable to use this panel.
+      </>
+    ),
+  },
+  {
+    name: "Yasin Ergun",
+    role: "Founder & CEO at Bilpp",
+    avatar: "https://avatars.githubusercontent.com/u/3847510?v=4",
+    text: (
+      <>
+        It is very easy to use and makes life easier. Having a project on
+        container or github and deploying it in seconds gives you great
+        flexibility. I like to use EasyPanel
       </>
     ),
   },
@@ -65,9 +101,13 @@ export default function Testimonials(): JSX.Element {
           Don't just take our word for it
         </p>
       </div>
-      <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid lg:tw-grid-cols-3 tw-gap-x-8 tw-gap-y-4">
+      <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 lg:tw-columns-3 tw-gap-4 lg:tw-gap-8">
         {testimonials.map((testimonial, index) => (
-          <div key={index}>
+          <div
+            key={index}
+            className="tw-mb-4 lg:tw-mb-8"
+            style={{ breakInside: "avoid" }}
+          >
             <div className="tw-p-6 tw-bg-gray-800 tw-rounded-xl tw-shadow-highlight">
               <div className="tw-flex tw-items-center">
                 <img
