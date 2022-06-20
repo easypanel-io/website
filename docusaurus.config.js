@@ -98,7 +98,7 @@ const config = {
         items: [
           { to: "/pricing", label: "Pricing", position: "left" },
           { to: "/docs/guides", label: "Guides", position: "left" },
-          { to: "/docs/templates", label: "Templates", position: "left" },
+          { to: "/templates", label: "Templates", position: "left" },
           { to: "/blog", label: "Blog", position: "right" },
           { to: "/docs", label: "Docs", position: "right" },
         ],
