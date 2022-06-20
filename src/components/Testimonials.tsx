@@ -3,6 +3,7 @@ import React from "react";
 type Testimonial = {
   name: string;
   role: string;
+  link: string;
   avatar: string;
   text: JSX.Element;
 };
@@ -11,6 +12,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Ponkhy",
     role: "Sysadmin / Full-Stack Developer",
+    link: "https://github.com/Ponkhy",
     avatar: "https://avatars.githubusercontent.com/u/43121732",
     text: (
       <>
@@ -24,6 +26,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Marian Pop",
     role: "PHP/Laravel Developer",
+    link: "https://twitter.com/mvpopuk",
     avatar:
       "https://pbs.twimg.com/profile_images/1522658401666351105/V3wqrktE_400x400.jpg",
     text: (
@@ -36,6 +39,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Brandon Taylor",
     role: "Applications Support Manager",
+    link: "https://twitter.com/iammrbt",
     avatar:
       "https://pbs.twimg.com/profile_images/1111711277200621573/TY255KfE_400x400.png",
     text: (
@@ -50,6 +54,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Mehmet (productdevbook)",
     role: "Full-stack developer",
+    link: "https://twitter.com/productdevbook",
     avatar: "https://avatars.githubusercontent.com/u/38668796?v=4",
     text: (
       <>
@@ -62,6 +67,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Yasin Ergun",
     role: "Founder & CEO at Bilpp",
+    link: "https://www.linkedin.com/in/tuvaergun/",
     avatar: "https://avatars.githubusercontent.com/u/3847510?v=4",
     text: (
       <>
@@ -74,6 +80,7 @@ const testimonials: Testimonial[] = [
   {
     name: "Chris Brocklesby",
     role: "Techie 👨‍💻🚀",
+    link: "https://twitter.com/ChrisBrocklesby",
     avatar:
       "https://pbs.twimg.com/profile_images/1244539207890034688/SX7ZG3nt_400x400.jpg",
     text: (
@@ -110,12 +117,22 @@ export default function Testimonials(): JSX.Element {
           >
             <div className="tw-p-6 tw-bg-gray-800 tw-rounded-xl tw-shadow-highlight">
               <div className="tw-flex tw-items-center">
-                <img
-                  src={testimonial.avatar}
-                  className="tw-w-14 tw-h-14 tw-rounded-full tw-shadow"
-                />
+                <a href={testimonial.link} target="_blank">
+                  <img
+                    src={testimonial.avatar}
+                    className="tw-w-14 tw-h-14 tw-rounded-full tw-shadow"
+                  />
+                </a>
                 <div className="tw-ml-3">
-                  <div className="tw-font-semibold">{testimonial.name}</div>
+                  <div className="tw-font-semibold">
+                    <a
+                      className="tw-text-white"
+                      href={testimonial.link}
+                      target="_blank"
+                    >
+                      {testimonial.name}
+                    </a>
+                  </div>
                   <div className="tw-text-sm tw-text-gray-400">
                     {testimonial.role}
                   </div>
