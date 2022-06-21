@@ -166,3 +166,7 @@ html[data-theme="dark"] {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+.footer__bottom {
+  margin-top: 50px;
+}

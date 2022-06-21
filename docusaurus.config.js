@@ -133,10 +133,6 @@ const config = {
                 label: "Guides",
                 to: "/docs/guides",
               },
-              {
-                label: "Templates",
-                to: "/docs/templates",
-              },
             ],
           },
           {
@@ -144,15 +140,23 @@ const config = {
             items: [
               {
                 label: "Wordpress",
-                to: "/docs/templates/wordpress",
+                to: "/templates",
               },
               {
-                label: "phpMyAdmin",
-                to: "/docs/templates/phpmyadmin",
+                label: "Strapi",
+                to: "/templates",
               },
               {
-                label: "Adminer",
-                to: "/docs/templates/adminer",
+                label: "Directus",
+                to: "/templates",
+              },
+              {
+                label: "Appsmith",
+                to: "/templates",
+              },
+              {
+                label: "More...",
+                to: "/templates",
               },
             ],
           },
