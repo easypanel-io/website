@@ -7,27 +7,27 @@
   {
     "name": "adminer",
     "label": "Adminer",
-    "logo": null
+    "logo": "logo.svg"
   },
   {
     "name": "appsmith",
     "label": "Appsmith",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "bookstack",
     "label": "Bookstack",
-    "logo": null
+    "logo": "logo.svg"
   },
   {
     "name": "directus",
     "label": "Directus",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "domainmod",
     "label": "DomainMod",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "flame",
@@ -37,52 +37,52 @@
   {
     "name": "ghost",
     "label": "Ghost",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "gitea",
     "label": "Gitea",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "gotify",
     "label": "Gotify",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "heimdall",
     "label": "Heimdall",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "metube",
     "label": "MeTube",
-    "logo": null
+    "logo": "logo.svg"
   },
   {
     "name": "miniflux",
     "label": "Miniflux",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "n8n",
     "label": "n8n",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "nzbget",
     "label": "Nzbget",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "phpMyAdmin",
     "label": "phpMyAdmin",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "portainer",
     "label": "Portainer",
-    "logo": null
+    "logo": "logo.svg"
   },
   {
     "name": "psitransfer",
@@ -92,21 +92,21 @@
   {
     "name": "statpingNg",
     "label": "Statping-ng",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "strapi",
     "label": "Strapi",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "wikijs",
     "label": "Wiki.js",
-    "logo": null
+    "logo": "logo.svg"
   },
   {
     "name": "wordpress",
     "label": "Wordpress",
-    "logo": null
+    "logo": "logo.svg"
   }
 ]

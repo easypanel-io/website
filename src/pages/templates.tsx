@@ -18,12 +18,12 @@ export default function Templates(): JSX.Element {
             1-Click Installers for Open-Source Applications
           </p>
         </div>
-        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-6 tw-pt-px tw-pl-px">
+        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-5 tw-gap-4 lg:tw-gap-8">
           {templates.map((template) => (
             <Link
               key={template.name}
               href={`/docs/templates/${template.name}`}
-              className="tw-pt-6 tw-pb-4 tw-border tw-border-solid tw-border-gray-900 tw--ml-px tw--mt-px tw-text-gray-400 hover:tw-text-white hover:tw-border-gray-800 hover:tw-relative"
+              className="tw-pt-10 tw-pb-6 tw-bg-white tw-rounded-lg tw-text-gray-500 hover:tw-text-gray-900 hover:tw-scale-110 tw-transition-all"
             >
               {template.logo ? (
                 <img
@@ -32,10 +32,10 @@ export default function Templates(): JSX.Element {
                       .default
                   }
                   alt="Example banner"
-                  className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4"
+                  className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4 tw-rounded-lg"
                 />
               ) : (
-                <div className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-900 tw-shadow-highlight" />
+                <div className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-300" />
               )}
               <div className="tw-text-center tw-text-lg tw-font-medium">
                 {template.label}
