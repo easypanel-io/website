@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ackee",
+    "label": "Ackee",
+    "logo": "logo.png"
+  },
+  {
+    "name": "adminer",
+    "label": "Adminer",
+    "logo": null
+  },
+  {
+    "name": "appsmith",
+    "label": "Appsmith",
+    "logo": null
+  },
+  {
+    "name": "bookstack",
+    "label": "Bookstack",
+    "logo": null
+  },
+  {
+    "name": "directus",
+    "label": "Directus",
+    "logo": null
+  },
+  {
+    "name": "domainmod",
+    "label": "DomainMod",
+    "logo": null
+  },
+  {
+    "name": "flame",
+    "label": "Flame",
+    "logo": null
+  },
+  {
+    "name": "ghost",
+    "label": "Ghost",
+    "logo": null
+  },
+  {
+    "name": "gitea",
+    "label": "Gitea",
+    "logo": null
+  },
+  {
+    "name": "gotify",
+    "label": "Gotify",
+    "logo": null
+  },
+  {
+    "name": "heimdall",
+    "label": "Heimdall",
+    "logo": null
+  },
+  {
+    "name": "metube",
+    "label": "MeTube",
+    "logo": null
+  },
+  {
+    "name": "miniflux",
+    "label": "Miniflux",
+    "logo": null
+  },
+  {
+    "name": "n8n",
+    "label": "n8n",
+    "logo": null
+  },
+  {
+    "name": "nzbget",
+    "label": "Nzbget",
+    "logo": null
+  },
+  {
+    "name": "phpMyAdmin",
+    "label": "phpMyAdmin",
+    "logo": null
+  },
+  {
+    "name": "portainer",
+    "label": "Portainer",
+    "logo": null
+  },
+  {
+    "name": "psitransfer",
+    "label": "PsiTransfer",
+    "logo": null
+  },
+  {
+    "name": "statpingNg",
+    "label": "Statping-ng",
+    "logo": null
+  },
+  {
+    "name": "strapi",
+    "label": "Strapi",
+    "logo": null
+  },
+  {
+    "name": "wikijs",
+    "label": "Wiki.js",
+    "logo": null
+  },
+  {
+    "name": "wordpress",
+    "label": "Wordpress",
+    "logo": null
+  }
+]
