@@ -18,7 +18,7 @@ export default function Templates(): JSX.Element {
             1-Click Installers for Open-Source Applications
           </p>
         </div>
-        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-5 tw-gap-4 lg:tw-gap-8">
+        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-6 tw-gap-4 lg:tw-gap-8">
           {templates.map((template) => (
             <Link
               key={template.name}
