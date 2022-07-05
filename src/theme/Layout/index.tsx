@@ -1,16 +1,8 @@
 import Head from "@docusaurus/Head";
 import Layout from "@theme-original/Layout";
-import React, { useEffect } from "react";
+import React from "react";
 
 export default function LayoutWrapper(props) {
-  useEffect(() => {
-    const theme = localStorage.getItem("theme");
-    if (theme) {
-      localStorage.removeItem("theme");
-      window.location.reload();
-    }
-  }, []);
-
   return (
     <>
       <Head>
@@ -20,6 +12,9 @@ export default function LayoutWrapper(props) {
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "byvgkgmvh3");`}
+        </script>
+        <script type="text/javascript">
+          {`if (localStorage.getItem("theme")) { localStorage.removeItem("theme"); window.location.reload(); }`}
         </script>
       </Head>
       <Layout {...props} />
