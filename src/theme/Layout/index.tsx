@@ -1,8 +1,16 @@
 import Head from "@docusaurus/Head";
 import Layout from "@theme-original/Layout";
-import React from "react";
+import React, { useEffect } from "react";
 
 export default function LayoutWrapper(props) {
+  useEffect(() => {
+    const theme = localStorage.getItem("theme");
+    if (theme) {
+      localStorage.removeItem("theme");
+      window.location.reload();
+    }
+  }, []);
+
   return (
     <>
       <Head>
