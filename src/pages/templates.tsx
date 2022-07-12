@@ -23,7 +23,8 @@ export default function Templates(): JSX.Element {
             <Link
               key={template.name}
               href={`/docs/templates/${template.name}`}
-              className="tw-pt-10 tw-pb-6 tw-bg-white tw-rounded-lg tw-text-gray-500 hover:tw-text-gray-900 hover:tw-scale-110 tw-transition-all"
+              // className="tw-pt-10 tw-pb-6 tw-bg-white tw-rounded-lg tw-text-gray-500 hover:tw-text-gray-900 hover:tw-scale-110 tw-transition-all"
+              className="tw-pt-10 tw-pb-6 tw-bg-gray-800 tw-rounded-xl tw-shadow-highlight tw-text-white/70 hover:tw-text-white hover:tw-scale-110 tw-transition-all"
             >
               {template.logo ? (
                 <img
@@ -32,10 +33,10 @@ export default function Templates(): JSX.Element {
                       .default
                   }
                   alt="Example banner"
-                  className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4 tw-rounded-lg"
+                  className="tw-h-16 tw-w-16 tw-block tw-mx-auto tw-mb-4 tw-rounded-lg"
                 />
               ) : (
-                <div className="tw-h-20 tw-w-20 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-300" />
+                <div className="tw-h-16 tw-w-16 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-600" />
               )}
               <div className="tw-text-center tw-text-lg tw-font-medium">
                 {template.label}
