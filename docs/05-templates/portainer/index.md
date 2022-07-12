@@ -8,9 +8,31 @@ description: How to install Portainer on Easypanel? 1-Click installation templat
 
 1-Click installation template for Portainer on Easypanel
 
+## Description
+
+Easily configure, monitor and secure containers in minutes, with support for Docker, Kubernetes, Swarm and Nomad on any cloud, datacenter or device.
+
+## Links
+
+- [Website](https://www.portainer.io/)
+- [Documentation](https://docs.portainer.io/)
+- [Github](https://github.com/portainer/portainer#readme)
+
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | portainer
+
+## Screenshot
+
+![Portainer Screenshot](./screenshot.png)
+
+## Change Log
+
+- 2022-07-12 – first release
+
+## Contributors
+
+- [Andrei Canta](https://github.com/deiucanta)

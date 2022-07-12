@@ -8,6 +8,16 @@ description: How to install Heimdall on Easypanel? 1-Click installation template
 
 1-Click installation template for Heimdall on Easypanel
 
+## Description
+
+Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does.
+
+## Links
+
+- [Website](https://heimdall.site/)
+- [Documentation](https://heimdall.site/)
+- [Github](https://github.com/linuxserver/Heimdall)
+
 ## Options
 
 Name | Description | Required | Default Value
@@ -15,3 +25,16 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | heimdall
 Timezone | - | no | Europe/London
+
+## Screenshot
+
+![Heimdall Screenshot](./screenshot.png)
+
+## Change Log
+
+- 2022-07-12 – first release
+
+## Contributors
+
+- [Ponky](https://github.com/Ponkhy)
+- [Andrei Canta](https://github.com/deiucanta)

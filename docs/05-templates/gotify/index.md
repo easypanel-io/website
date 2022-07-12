@@ -8,6 +8,16 @@ description: How to install Gotify on Easypanel? 1-Click installation template f
 
 1-Click installation template for Gotify on Easypanel
 
+## Description
+
+Gotify is a simple server for sending and receiving messages
+
+## Links
+
+- [Website](https://gotify.net/)
+- [Documentation](https://gotify.net/docs/)
+- [Github](https://github.com/gotify)
+
 ## Options
 
 Name | Description | Required | Default Value
@@ -16,3 +26,16 @@ App Service Name | - | yes | gotify
 Domain | - | yes | 
 Password | - | yes | 
 Timezone | - | no | Europe/London
+
+## Screenshot
+
+![Gotify Screenshot](./screenshot.png)
+
+## Change Log
+
+- 2022-07-12 – first release
+
+## Contributors
+
+- [Ponky](https://github.com/Ponkhy)
+- [Andrei Canta](https://github.com/deiucanta)
