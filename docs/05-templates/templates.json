@@ -70,6 +70,11 @@
     "logo": "logo.png"
   },
   {
+    "name": "nextcloud",
+    "label": "Nextcloud",
+    "logo": "logo.png"
+  },
+  {
     "name": "nzbget",
     "label": "Nzbget",
     "logo": "logo.png"
@@ -87,7 +92,7 @@
   {
     "name": "psitransfer",
     "label": "PsiTransfer",
-    "logo": null
+    "logo": "logo.png"
   },
   {
     "name": "statpingNg",

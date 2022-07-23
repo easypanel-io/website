@@ -8,6 +8,15 @@ description: How to install MeTube on Easypanel? 1-Click installation template f
 
 1-Click installation template for MeTube on Easypanel
 
+## Description
+
+MeTube is a Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites. Browser extensions allow right-clicking videos and sending them directly to MeTube. 
+
+## Links
+
+- [Documentation](https://github.com/alexta69/metube)
+- [Github](https://github.com/alexta69/metube)
+
 ## Options
 
 Name | Description | Required | Default Value
@@ -15,3 +24,16 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | metube
 Domain | - | yes | 
 Downloads Volume Name | - | yes | downloads
+
+## Screenshot
+
+![MeTube Screenshot](./screenshot.png)
+
+## Change Log
+
+- 2022-07-12 – first release
+
+## Contributors
+
+- [Ponky](https://github.com/Ponkhy)
+- [Andrei Canta](https://github.com/deiucanta)

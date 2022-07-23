@@ -10,7 +10,7 @@ description: How to install Wiki.js on Easypanel? 1-Click installation template 
 
 ## Description
 
-Extensible open source Wiki software.Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
+Extensible open source Wiki software.Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite! Running on the blazing fast Node.js engine, Wiki.js is built with performance in mind.
 
 ## Links
 

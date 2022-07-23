@@ -10,7 +10,7 @@ description: How to install Directus on Easypanel? 1-Click installation template
 
 ## Description
 
-Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.
+Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.Directus Flows are extremely flexible and easy to configure. Using a simple no-code interface, you can connect any number of operations to create simple or complex workflows that execute automatically in response to a trigger.
 
 ## Links
 

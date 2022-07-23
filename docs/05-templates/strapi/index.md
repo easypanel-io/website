@@ -10,7 +10,7 @@ description: How to install Strapi on Easypanel? 1-Click installation template f
 
 ## Description
 
-Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.
+Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in.
 
 ## Links
 

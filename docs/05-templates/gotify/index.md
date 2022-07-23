@@ -10,7 +10,7 @@ description: How to install Gotify on Easypanel? 1-Click installation template f
 
 ## Description
 
-Gotify is a simple server for sending and receiving messages
+Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms.
 
 ## Links
 

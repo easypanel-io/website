@@ -10,7 +10,7 @@ description: How to install Nzbget on Easypanel? 1-Click installation template f
 
 ## Description
 
-NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.
+NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android.
 
 ## Links
 
