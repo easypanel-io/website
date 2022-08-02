@@ -113,5 +113,10 @@
     "name": "wordpress",
     "label": "Wordpress",
     "logo": "logo.svg"
+  },
+  {
+    "name": "whiteboard",
+    "label": "Whiteboard",
+    "logo": null
   }
 ]
