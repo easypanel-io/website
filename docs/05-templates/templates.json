@@ -30,6 +30,11 @@
     "logo": "logo.png"
   },
   {
+    "name": "duplicati",
+    "label": "Duplicati",
+    "logo": "logo.png"
+  },
+  {
     "name": "flame",
     "label": "Flame",
     "logo": null
@@ -65,6 +70,11 @@
     "logo": "logo.png"
   },
   {
+    "name": "mysqlBackup",
+    "label": "MySQL Backup",
+    "logo": null
+  },
+  {
     "name": "n8n",
     "label": "n8n",
     "logo": "logo.png"
@@ -90,6 +100,11 @@
     "logo": "logo.svg"
   },
   {
+    "name": "postgresBackup",
+    "label": "Postgres Backup",
+    "logo": null
+  },
+  {
     "name": "psitransfer",
     "label": "PsiTransfer",
     "logo": "logo.png"
@@ -105,6 +120,16 @@
     "logo": "logo.png"
   },
   {
+    "name": "uptimekuma",
+    "label": "UptimeKuma",
+    "logo": "logo.svg"
+  },
+  {
+    "name": "whiteboard",
+    "label": "Whiteboard",
+    "logo": null
+  },
+  {
     "name": "wikijs",
     "label": "Wiki.js",
     "logo": "logo.svg"
@@ -113,10 +138,5 @@
     "name": "wordpress",
     "label": "Wordpress",
     "logo": "logo.svg"
-  },
-  {
-    "name": "whiteboard",
-    "label": "Whiteboard",
-    "logo": null
   }
 ]
