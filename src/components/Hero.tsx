@@ -70,8 +70,8 @@ export default function Hero(): JSX.Element {
           onSelect={(e) => e.currentTarget.select()}
           readOnly
         />
-        <div className="tw-text-gray-400 tw-mt-2">
-          Run this command on a fresh linux server
+        <div className="tw-text-gray-400 tw-mt-2 tw-text-base">
+          Run this command on a fresh linux server with at least 2 GB RAM
         </div>
       </div>
       {/* <div className="tw-mt-20 tw-flex tw-flex-col lg:tw-flex-row tw-justify-between tw-gap-6 tw-max-w-4xl tw-mx-auto"> */}
