@@ -1,142 +1,152 @@
 [
   {
-    "name": "ackee",
-    "label": "Ackee",
-    "logo": "logo.png"
+    "slug": "ackee",
+    "logo": "logo.png",
+    "name": "Ackee"
   },
   {
-    "name": "adminer",
-    "label": "Adminer",
-    "logo": "logo.svg"
+    "slug": "adminer",
+    "logo": "logo.svg",
+    "name": "Adminer"
   },
   {
-    "name": "appsmith",
-    "label": "Appsmith",
-    "logo": "logo.png"
+    "slug": "appsmith",
+    "logo": "logo.png",
+    "name": "Appsmith"
   },
   {
-    "name": "bookstack",
-    "label": "Bookstack",
-    "logo": "logo.svg"
+    "slug": "bookstack",
+    "logo": "logo.svg",
+    "name": "Bookstack"
   },
   {
-    "name": "directus",
-    "label": "Directus",
-    "logo": "logo.png"
+    "slug": "directus",
+    "logo": "logo.png",
+    "name": "Directus"
   },
   {
-    "name": "domainmod",
-    "label": "DomainMod",
-    "logo": "logo.png"
+    "slug": "domainmod",
+    "logo": "logo.png",
+    "name": "DomainMod"
   },
   {
-    "name": "duplicati",
-    "label": "Duplicati",
-    "logo": "logo.png"
+    "slug": "drone-runner",
+    "logo": "logo.svg",
+    "name": "Drone Runner"
   },
   {
-    "name": "flame",
-    "label": "Flame",
-    "logo": null
+    "slug": "drone",
+    "logo": "logo.svg",
+    "name": "Drone"
   },
   {
-    "name": "ghost",
-    "label": "Ghost",
-    "logo": "logo.png"
+    "slug": "duplicati",
+    "logo": "logo.png",
+    "name": "Duplicati"
   },
   {
-    "name": "gitea",
-    "label": "Gitea",
-    "logo": "logo.png"
+    "slug": "flame",
+    "logo": null,
+    "name": "Flame"
   },
   {
-    "name": "gotify",
-    "label": "Gotify",
-    "logo": "logo.png"
+    "slug": "ghost",
+    "logo": "logo.png",
+    "name": "Ghost"
   },
   {
-    "name": "heimdall",
-    "label": "Heimdall",
-    "logo": "logo.png"
+    "slug": "gitea",
+    "logo": "logo.png",
+    "name": "Gitea"
   },
   {
-    "name": "metube",
-    "label": "MeTube",
-    "logo": "logo.svg"
+    "slug": "gotify",
+    "logo": "logo.png",
+    "name": "Gotify"
   },
   {
-    "name": "miniflux",
-    "label": "Miniflux",
-    "logo": "logo.png"
+    "slug": "heimdall",
+    "logo": "logo.png",
+    "name": "Heimdall"
   },
   {
-    "name": "mysqlBackup",
-    "label": "MySQL Backup",
-    "logo": null
+    "slug": "metube",
+    "logo": "logo.svg",
+    "name": "MeTube"
   },
   {
-    "name": "n8n",
-    "label": "n8n",
-    "logo": "logo.png"
+    "slug": "miniflux",
+    "logo": "logo.png",
+    "name": "Miniflux"
   },
   {
-    "name": "nextcloud",
-    "label": "Nextcloud",
-    "logo": "logo.png"
+    "slug": "mysql-backup",
+    "logo": null,
+    "name": "MySQL Backup"
   },
   {
-    "name": "nzbget",
-    "label": "Nzbget",
-    "logo": "logo.png"
+    "slug": "n8n",
+    "logo": "logo.png",
+    "name": "n8n"
   },
   {
-    "name": "phpMyAdmin",
-    "label": "phpMyAdmin",
-    "logo": "logo.png"
+    "slug": "nextcloud",
+    "logo": "logo.png",
+    "name": "Nextcloud"
   },
   {
-    "name": "portainer",
-    "label": "Portainer",
-    "logo": "logo.svg"
+    "slug": "nzbget",
+    "logo": "logo.png",
+    "name": "Nzbget"
   },
   {
-    "name": "postgresBackup",
-    "label": "Postgres Backup",
-    "logo": null
+    "slug": "phpmyadmin",
+    "logo": "logo.png",
+    "name": "phpMyAdmin"
   },
   {
-    "name": "psitransfer",
-    "label": "PsiTransfer",
-    "logo": "logo.png"
+    "slug": "portainer",
+    "logo": "logo.svg",
+    "name": "Portainer"
   },
   {
-    "name": "statpingNg",
-    "label": "Statping-ng",
-    "logo": "logo.png"
+    "slug": "postgres-backup",
+    "logo": null,
+    "name": "Postgres Backup"
   },
   {
-    "name": "strapi",
-    "label": "Strapi",
-    "logo": "logo.png"
+    "slug": "psitransfer",
+    "logo": "logo.png",
+    "name": "PsiTransfer"
   },
   {
-    "name": "uptimekuma",
-    "label": "UptimeKuma",
-    "logo": "logo.svg"
+    "slug": "statping-ng",
+    "logo": "logo.png",
+    "name": "Statping-ng"
   },
   {
-    "name": "whiteboard",
-    "label": "Whiteboard",
-    "logo": null
+    "slug": "strapi",
+    "logo": "logo.png",
+    "name": "Strapi"
   },
   {
-    "name": "wikijs",
-    "label": "Wiki.js",
-    "logo": "logo.svg"
+    "slug": "uptimekuma",
+    "logo": "logo.svg",
+    "name": "UptimeKuma"
   },
   {
-    "name": "wordpress",
-    "label": "Wordpress",
-    "logo": "logo.svg"
+    "slug": "whiteboard",
+    "logo": null,
+    "name": "Whiteboard"
+  },
+  {
+    "slug": "wikijs",
+    "logo": "logo.svg",
+    "name": "Wiki.js"
+  },
+  {
+    "slug": "wordpress",
+    "logo": "logo.svg",
+    "name": "Wordpress"
   }
 ]

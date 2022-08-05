@@ -21,15 +21,15 @@ export default function Templates(): JSX.Element {
         <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-6 tw-gap-4 lg:tw-gap-8">
           {templates.map((template) => (
             <Link
-              key={template.name}
-              href={`/docs/templates/${template.name}`}
+              key={template.slug}
+              href={`/docs/templates/${template.slug}`}
               // className="tw-pt-10 tw-pb-6 tw-bg-white tw-rounded-lg tw-text-gray-500 hover:tw-text-gray-900 hover:tw-scale-110 tw-transition-all"
               className="tw-pt-10 tw-pb-6 tw-bg-gray-800 tw-rounded-xl tw-shadow-highlight tw-text-white/70 hover:tw-text-white hover:tw-scale-110 tw-transition-all"
             >
               {template.logo ? (
                 <img
                   src={
-                    require(`@site/docs/05-templates/${template.name}/${template.logo}`)
+                    require(`@site/docs/05-templates/${template.slug}/${template.logo}`)
                       .default
                   }
                   alt="Example banner"
@@ -39,7 +39,7 @@ export default function Templates(): JSX.Element {
                 <div className="tw-h-16 tw-w-16 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-600" />
               )}
               <div className="tw-text-center tw-text-lg tw-font-medium">
-                {template.label}
+                {template.name}
               </div>
             </Link>
           ))}
