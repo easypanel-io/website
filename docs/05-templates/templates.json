@@ -45,6 +45,11 @@
     "name": "Duplicati"
   },
   {
+    "slug": "filebrowser",
+    "logo": "logo.png",
+    "name": "Filebrowser"
+  },
+  {
     "slug": "flame",
     "logo": null,
     "name": "Flame"
@@ -68,6 +73,11 @@
     "slug": "heimdall",
     "logo": "logo.png",
     "name": "Heimdall"
+  },
+  {
+    "slug": "imgproxy",
+    "logo": "logo.svg",
+    "name": "imgproxy"
   },
   {
     "slug": "metube",
@@ -118,6 +128,16 @@
     "slug": "psitransfer",
     "logo": "logo.png",
     "name": "PsiTransfer"
+  },
+  {
+    "slug": "registry",
+    "logo": "logo.png",
+    "name": "Registry"
+  },
+  {
+    "slug": "rocketchat",
+    "logo": "logo.png",
+    "name": "Rocket.Chat"
   },
   {
     "slug": "statping-ng",

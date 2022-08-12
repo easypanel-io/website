@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 Service Name | - | yes | drone
-Runner Service Name | - | no | drone-runner
+Runner Service Name | - | yes | drone-runner
 GitHub OAuth Client ID | - | yes | 
 GitHub OAuth Client Secret | - | yes | secret
 RPC Protocol | - | yes | https
