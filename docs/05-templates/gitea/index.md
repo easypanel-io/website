@@ -27,9 +27,9 @@ App Service Name | - | yes | gitea
 Database Type | - | yes | 
 Database Service Name | - | yes | gitea-db
 
-## Screenshot
+## Screenshots
 
-![Gitea Screenshot](./screenshot.png)
+![Gitea Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -24,9 +24,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | changedetection
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Change Detection Screenshot](./screenshot.png)
+![Change Detection Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

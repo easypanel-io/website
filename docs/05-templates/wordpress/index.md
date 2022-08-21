@@ -26,9 +26,9 @@ Domain | - | yes |
 App Service Name | - | yes | wordpress
 Database Service Name | - | yes | wordpress-db
 
-## Screenshot
+## Screenshots
 
-![Wordpress Screenshot](./screenshot.png)
+![Wordpress Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

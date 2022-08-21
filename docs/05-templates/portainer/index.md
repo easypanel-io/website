@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | portainer
 
-## Screenshot
+## Screenshots
 
-![Portainer Screenshot](./screenshot.png)
+![Portainer Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

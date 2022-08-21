@@ -28,9 +28,9 @@ Admin Password | - | yes |
 App Service Name | - | yes | miniflux
 Database Service Name | - | yes | miniflux-db
 
-## Screenshot
+## Screenshots
 
-![Miniflux Screenshot](./screenshot.png)
+![Miniflux Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

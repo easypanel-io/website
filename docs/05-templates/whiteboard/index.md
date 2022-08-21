@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | whiteboard
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Whiteboard Screenshot](./screenshot.png)
+![Whiteboard Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

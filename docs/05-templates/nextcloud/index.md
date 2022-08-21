@@ -27,9 +27,9 @@ App Service Name | - | yes | nextcloud
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | nextcloud-db
 
-## Screenshot
+## Screenshots
 
-![Nextcloud Screenshot](./screenshot.png)
+![Nextcloud Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

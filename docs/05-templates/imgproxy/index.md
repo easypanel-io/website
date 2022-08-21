@@ -29,6 +29,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | imgproxy
 Domain | - | yes | 
 
+## Screenshots
+
+
 ## Change Log
 
 - 2022-08-05 – first release

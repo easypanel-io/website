@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | uptimekuma
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![UptimeKuma Screenshot](./screenshot.jpg)
+![UptimeKuma Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 

@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | appsmith
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Appsmith Screenshot](./screenshot.png)
+![Appsmith Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

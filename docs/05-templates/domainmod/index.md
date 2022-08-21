@@ -27,9 +27,9 @@ App Service Name | - | yes | domainmod
 Database Service Name | - | yes | domainmod-db
 Timezone | - | yes | Europe/Copenhagen
 
-## Screenshot
+## Screenshots
 
-![DomainMod Screenshot](./screenshot.png)
+![DomainMod Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -26,9 +26,9 @@ App Service Name | - | yes | flame
 Domain | - | yes | 
 Password | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Flame Screenshot](./screenshot.png)
+![Flame Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

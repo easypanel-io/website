@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | duplicati
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Duplicati Screenshot](./screenshot.jpg)
+![Duplicati Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 

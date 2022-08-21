@@ -28,9 +28,9 @@ Username | - | yes | nzbget
 Password | - | yes | tegbzn6789
 Timezone | - | no | Europe/London
 
-## Screenshot
+## Screenshots
 
-![Nzbget Screenshot](./screenshot.png)
+![Nzbget Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

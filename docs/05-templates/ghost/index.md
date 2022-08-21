@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | ghost
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Ghost Screenshot](./screenshot.png)
+![Ghost Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

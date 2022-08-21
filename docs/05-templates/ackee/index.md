@@ -28,9 +28,9 @@ Ackee Password | - | yes |
 App Service Name | - | yes | ackee
 Database Service Name | - | yes | ackee-db
 
-## Screenshot
+## Screenshots
 
-![Ackee Screenshot](./screenshot.png)
+![Ackee Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

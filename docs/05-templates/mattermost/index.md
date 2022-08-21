@@ -25,9 +25,9 @@ Domain | - | yes |
 App Service Name | - | yes | mattermost
 Database Service Name | - | yes | mattermost-db
 
-## Screenshot
+## Screenshots
 
-![Mattermost Screenshot](./screenshot.png)
+![Mattermost Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -25,9 +25,9 @@ App Service Name | - | yes | metube
 Domain | - | yes | 
 Downloads Volume Name | - | yes | downloads
 
-## Screenshot
+## Screenshots
 
-![MeTube Screenshot](./screenshot.png)
+![MeTube Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -26,9 +26,9 @@ App Service Name | - | yes | rocketchat
 Database Service Name | - | yes | rocketchat-db
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Rocket.Chat Screenshot](./screenshot.jpg)
+![Rocket.Chat Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 

@@ -26,9 +26,9 @@ Domain | - | yes |
 App Service Name | - | yes | heimdall
 Timezone | - | no | Europe/London
 
-## Screenshot
+## Screenshots
 
-![Heimdall Screenshot](./screenshot.png)
+![Heimdall Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

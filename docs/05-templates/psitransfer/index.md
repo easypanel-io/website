@@ -24,9 +24,9 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | psitransfer
 
-## Screenshot
+## Screenshots
 
-![PsiTransfer Screenshot](./screenshot.png)
+![PsiTransfer Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

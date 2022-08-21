@@ -27,9 +27,9 @@ App Service Name | - | yes | strapi
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | strapi-db
 
-## Screenshot
+## Screenshots
 
-![Strapi Screenshot](./screenshot.png)
+![Strapi Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

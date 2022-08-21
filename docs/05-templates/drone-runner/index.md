@@ -29,6 +29,9 @@ RPC Secret | - | yes | Secret
 RPC Protocol | - | no | https
 Runner Capacity | - | yes | 2
 
+## Screenshots
+
+
 ## Change Log
 
 - 2022-08-04 – first release

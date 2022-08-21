@@ -26,9 +26,9 @@ Domain | - | yes |
 App Service Name | - | yes | bookstack
 Database Service Name | - | yes | bookstack-db
 
-## Screenshot
+## Screenshots
 
-![Bookstack Screenshot](./screenshot.png)
+![Bookstack Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

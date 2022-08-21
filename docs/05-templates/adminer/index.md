@@ -24,9 +24,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | adminer
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Adminer Screenshot](./screenshot.png)
+![Adminer Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

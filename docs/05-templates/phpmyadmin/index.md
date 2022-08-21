@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | phpmyadmin
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![phpMyAdmin Screenshot](./screenshot.png)
+![phpMyAdmin Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

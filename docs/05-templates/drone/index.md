@@ -31,9 +31,9 @@ RPC Protocol | - | yes | https
 Install Runner Service | - | no | false
 Capacity for runner if enabled | - | no | 2
 
-## Screenshot
+## Screenshots
 
-![Drone Screenshot](./screenshot.png)
+![Drone Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

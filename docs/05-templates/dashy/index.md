@@ -29,9 +29,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | dashy
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Dashy Screenshot](./screenshot.png)
+![Dashy Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

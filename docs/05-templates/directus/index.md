@@ -30,6 +30,9 @@ Database Type | - | yes |
 Database Service Name | - | yes | directus-db
 Redis Service Name | - | yes | directus-redis
 
+## Screenshots
+
+
 ## Change Log
 
 - 2022-07-12 – first release

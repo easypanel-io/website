@@ -27,9 +27,9 @@ Domain | - | yes |
 Password | - | yes | 
 Timezone | - | no | Europe/London
 
-## Screenshot
+## Screenshots
 
-![Gotify Screenshot](./screenshot.png)
+![Gotify Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

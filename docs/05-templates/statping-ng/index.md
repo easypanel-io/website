@@ -27,9 +27,9 @@ App Service Name | - | yes | statping-ng
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | statping-ng-db
 
-## Screenshot
+## Screenshots
 
-![Statping-ng Screenshot](./screenshot.png)
+![Statping-ng Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -27,6 +27,9 @@ App Service Name | - | yes | wikijs
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db
 
+## Screenshots
+
+
 ## Change Log
 
 - 2022-07-12 – first release

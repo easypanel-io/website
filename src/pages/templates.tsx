@@ -29,7 +29,7 @@ export default function Templates(): JSX.Element {
               {template.logo ? (
                 <img
                   src={
-                    require(`@site/docs/05-templates/${template.slug}/${template.logo}`)
+                    require(`@site/docs/05-templates/${template.slug}/assets/${template.logo}`)
                       .default
                   }
                   alt="Example banner"

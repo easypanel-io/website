@@ -30,6 +30,9 @@ App Service Name | - | yes | registry
 User | - | yes | admin
 Password | - | yes | admin
 
+## Screenshots
+
+
 ## Change Log
 
 - 2022-08-09 – first release

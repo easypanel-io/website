@@ -28,9 +28,9 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | filebrowser
 
-## Screenshot
+## Screenshots
 
-![Filebrowser Screenshot](./screenshot.png)
+![Filebrowser Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

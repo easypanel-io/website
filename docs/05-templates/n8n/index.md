@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | n8n
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![n8n Screenshot](./screenshot.png)
+![n8n Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

@@ -25,9 +25,9 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | kanboard
 Domain | - | yes | 
 
-## Screenshot
+## Screenshots
 
-![Kanboard Screenshot](./screenshot.png)
+![Kanboard Screenshot](./assets/screenshot.png)
 
 ## Change Log
 
