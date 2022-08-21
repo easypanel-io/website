@@ -25,8 +25,6 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | web
 MySQL Service Name | - | yes | db
-MySQL Password | Leave empty to generate a random one. | no | 
-MySQL Root Password | Leave empty to generate a random one. | no | 
 
 ## Screenshot
 
