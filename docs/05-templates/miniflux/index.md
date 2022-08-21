@@ -26,7 +26,7 @@ Domain | - | yes |
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | miniflux
-Database Service Name | - | yes | db
+Database Service Name | - | yes | miniflux-db
 
 ## Screenshot
 

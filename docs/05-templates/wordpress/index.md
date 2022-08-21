@@ -23,8 +23,8 @@ WordPress powers nearly a third of the world’s websites. With tools for everyo
 Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
-App Service Name | - | yes | web
-MySQL Service Name | - | yes | db
+App Service Name | - | yes | wordpress
+Database Service Name | - | yes | wordpress-db
 
 ## Screenshot
 

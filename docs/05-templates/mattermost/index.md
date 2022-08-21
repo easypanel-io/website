@@ -22,8 +22,8 @@ Open source platform for developer collaboration. Secure, flexible, and integrat
 Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
-Service Name | - | yes | mattermost
-Postgres Database Name | - | yes | mattermost-db
+App Service Name | - | yes | mattermost
+Database Service Name | - | yes | mattermost-db
 
 ## Screenshot
 

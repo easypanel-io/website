@@ -22,7 +22,7 @@ Duplicati is a free, open source, backup client that securely stores encrypted, 
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | duplicati
+App Service Name | - | yes | duplicati
 Domain | - | yes | 
 
 ## Screenshot

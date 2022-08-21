@@ -25,7 +25,7 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | postgres-backup
+App Service Name | - | yes | postgres-backup
 Postgres Host | - | yes | 
 Postgres Port | - | yes | 5432
 Postgres User | - | yes | postgres

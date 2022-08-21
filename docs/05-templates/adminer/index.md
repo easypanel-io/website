@@ -21,7 +21,7 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | adminer
+App Service Name | - | yes | adminer
 Domain | - | yes | 
 
 ## Screenshot

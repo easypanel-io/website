@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | domainmod
-Database Service Name | - | yes | db
+Database Service Name | - | yes | domainmod-db
 Timezone | - | yes | Europe/Copenhagen
 
 ## Screenshot

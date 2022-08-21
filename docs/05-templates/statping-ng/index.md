@@ -25,7 +25,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | statping-ng
 Database Type | - | yes | sqlite
-Database Service Name | - | yes | db
+Database Service Name | - | yes | statping-ng-db
 
 ## Screenshot
 

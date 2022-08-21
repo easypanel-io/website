@@ -25,7 +25,7 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | mysql-backup
+App Service Name | - | yes | mysql-backup
 MySQL Host | - | yes | 
 MySQL Port | - | yes | 3306
 MySQL User | - | yes | mysql

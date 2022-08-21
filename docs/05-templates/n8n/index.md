@@ -22,7 +22,7 @@ n8n helps you to connect any app with an API with any other, and manipulate its 
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | n8n
+App Service Name | - | yes | n8n
 Domain | - | yes | 
 
 ## Screenshot

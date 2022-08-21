@@ -21,7 +21,7 @@ The best and simplest self-hosted free open source website change detection trac
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | Changedetection
+App Service Name | - | yes | changedetection
 Domain | - | yes | 
 
 ## Screenshot

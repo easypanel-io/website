@@ -22,7 +22,7 @@ Appsmith is the open-source framework that lets your team build custom internal 
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | appsmith
+App Service Name | - | yes | appsmith
 Domain | - | yes | 
 
 ## Screenshot

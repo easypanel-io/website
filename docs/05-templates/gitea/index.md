@@ -25,7 +25,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | gitea
 Database Type | - | yes | 
-Database Service Name | - | yes | db
+Database Service Name | - | yes | gitea-db
 
 ## Screenshot
 

@@ -27,8 +27,8 @@ App Service Name | - | yes | directus
 Admin Email | admin@example.com | yes | 
 Admin Password | - | yes | 
 Database Type | - | yes | 
-Database Service Name | - | yes | db
-Redis Service Name | - | yes | redis
+Database Service Name | - | yes | directus-db
+Redis Service Name | - | yes | directus-redis
 
 ## Change Log
 

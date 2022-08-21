@@ -22,7 +22,7 @@ phpMyAdmin is a free software tool written in PHP, intended to handle the admini
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | phpmyadmin
+App Service Name | - | yes | phpmyadmin
 Domain | - | yes | 
 
 ## Screenshot

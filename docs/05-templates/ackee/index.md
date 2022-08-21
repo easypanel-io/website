@@ -26,7 +26,7 @@ Domain | - | yes |
 Ackee Username | - | yes | 
 Ackee Password | - | yes | 
 App Service Name | - | yes | ackee
-MongoDB Service Name | - | yes | mongodb
+Database Service Name | - | yes | ackee-db
 
 ## Screenshot
 

@@ -22,7 +22,7 @@ Lightweight collaborative Whiteboard / Sketchboard
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | whiteboard
+App Service Name | - | yes | whiteboard
 Domain | - | yes | 
 
 ## Screenshot

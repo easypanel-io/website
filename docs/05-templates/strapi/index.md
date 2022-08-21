@@ -25,7 +25,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | strapi
 Database Type | - | yes | sqlite
-Database Service Name | - | yes | db
+Database Service Name | - | yes | strapi-db
 
 ## Screenshot
 

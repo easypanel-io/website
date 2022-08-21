@@ -26,7 +26,7 @@ To generate a image URL you can use the following link: https://progapandist.git
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | imgproxy
+App Service Name | - | yes | imgproxy
 Domain | - | yes | 
 
 ## Change Log

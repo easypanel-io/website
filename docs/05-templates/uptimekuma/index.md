@@ -22,7 +22,7 @@ A fancy self-hosted monitoring tool
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | uptimekuma
+App Service Name | - | yes | uptimekuma
 Domain | - | yes | 
 
 ## Screenshot

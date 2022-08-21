@@ -22,7 +22,7 @@ Ghost is a powerful app for new-media creators to publish, share, and grow a bus
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | ghost
+App Service Name | - | yes | ghost
 Domain | - | yes | 
 
 ## Screenshot

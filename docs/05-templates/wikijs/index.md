@@ -25,7 +25,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 App Service Name | - | yes | wikijs
 Database Type | - | yes | postgres
-Database Service Name | - | yes | db
+Database Service Name | - | yes | wikijs-db
 
 ## Change Log
 
