@@ -20,6 +20,16 @@
     "name": "Bookstack"
   },
   {
+    "slug": "changedetection",
+    "logo": null,
+    "name": "Change Detection"
+  },
+  {
+    "slug": "dashy",
+    "logo": "logo.png",
+    "name": "Dashy"
+  },
+  {
     "slug": "directus",
     "logo": "logo.png",
     "name": "Directus"
@@ -78,6 +88,16 @@
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy"
+  },
+  {
+    "slug": "Kanboard",
+    "logo": "logo.png",
+    "name": "Kanboard"
+  },
+  {
+    "slug": "mattermost",
+    "logo": "logo.png",
+    "name": "Mattermost"
   },
   {
     "slug": "metube",
