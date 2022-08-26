@@ -173,11 +173,11 @@ const config = {
               },
               {
                 label: "Feedback",
-                href: "https://github.com/easypanel-io/community/discussions",
+                href: "https://feedback.easypanel.io/",
               },
               {
                 label: "Roadmap",
-                href: "https://github.com/orgs/easypanel-io/projects/1",
+                href: "https://feedback.easypanel.io/",
               },
             ],
           },
