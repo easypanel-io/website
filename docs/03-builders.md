@@ -10,7 +10,7 @@ To read more about how to write a `Dockerfile` checkout the official [Dockerfile
 
 ## Heroku Buildpacks
 
-Heroku pioneered a new way of building applications. Instead of you having to write instructions on how the app should be built, they analyze your code automatically and detect which languages and frameworks you use. It's a "magical" way to build Docker images. In our experience, it works amazingly for some languages/frameworks and it fails to work out of the box for others.
+[Heroku](https://www.heroku.com) pioneered a new way of building applications. Instead of you having to write instructions on how the app should be built, they analyze your code automatically and detect which languages and frameworks you use. It's a "magical" way to build Docker images. In our experience, it works amazingly for some languages/frameworks and it fails to work out of the box for others.
 
 To read more about how it works and how to configure it, you can read their [documentation](https://devcenter.heroku.com/articles/heroku-20-stack).
 
@@ -25,7 +25,7 @@ Here are the supported languages:
 
 ## Paketo Buildpacks
 
-Paketo Buildpacks are very similar to Heroku Buildpacks. Check out their [documentation](https://paketo.io/).
+The project was started at [Cloud Foundry](https://cloudfoundry.org). Paketo Buildpacks are very similar to Heroku Buildpacks. Check out their [documentation](https://paketo.io/).
 
 Here are the supported languages:
 
@@ -39,7 +39,7 @@ Here are the supported languages:
 
 ## Nixpacks
 
-The project was started at [Railway](https://railway.app) in an attempt to fix the issues Heroku Buildpacks have. It uses Nix packages for reproducible environments. Check out their [documentation](https://nixpacks.com/).
+The project was started at [Railway](https://railway.app) in an attempt to fix the issues Heroku Buildpacks have. It uses Nix packages for reproducible environments. Check out their [documentation](https://nixpacks.com).
 
 Here are the supported languages:
 
