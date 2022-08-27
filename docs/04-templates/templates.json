@@ -2,191 +2,229 @@
   {
     "slug": "ackee",
     "logo": "logo.png",
-    "name": "Ackee"
+    "name": "Ackee",
+    "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface."
   },
   {
     "slug": "adminer",
     "logo": "logo.svg",
-    "name": "Adminer"
+    "name": "Adminer",
+    "description": "Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin."
   },
   {
     "slug": "appsmith",
     "logo": "logo.png",
-    "name": "Appsmith"
+    "name": "Appsmith",
+    "description": "Appsmith is the open-source framework that lets your team build custom internal applications like dashboards, admin panels, CRUD apps faster, and together"
   },
   {
     "slug": "bookstack",
     "logo": "logo.svg",
-    "name": "Bookstack"
+    "name": "Bookstack",
+    "description": "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters & pages. BookStack is built using PHP, on top of the Laravel framework and it uses MySQL to store data."
   },
   {
     "slug": "changedetection",
     "logo": null,
-    "name": "Change Detection"
+    "name": "Change Detection",
+    "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
   },
   {
     "slug": "dashy",
     "logo": "logo.png",
-    "name": "Dashy"
+    "name": "Dashy",
+    "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place"
   },
   {
     "slug": "directus",
     "logo": "logo.png",
-    "name": "Directus"
+    "name": "Directus",
+    "description": "Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.Directus Flows are extremely flexible and easy to configure. Using a simple no-code interface, you can connect any number of operations to create simple or complex workflows that execute automatically in response to a trigger."
   },
   {
     "slug": "domainmod",
     "logo": "logo.png",
-    "name": "DomainMod"
+    "name": "DomainMod",
+    "description": "DomainMOD is an open source application written in PHP used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data. Currently the Data Warehouse only supports servers running WHM/cPanel."
   },
   {
     "slug": "drone-runner",
     "logo": "logo.svg",
-    "name": "Drone Runner"
+    "name": "Drone Runner",
+    "description": "Runner for Drone.io"
   },
   {
     "slug": "drone",
     "logo": "logo.svg",
-    "name": "Drone"
+    "name": "Drone",
+    "description": "Drone is a Container-Native, Continuous Delivery Platform"
   },
   {
     "slug": "duplicati",
     "logo": "logo.png",
-    "name": "Duplicati"
+    "name": "Duplicati",
+    "description": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. It works with: Amazon S3, OneDrive, Google Drive, Rackspace Cloud Files, HubiC, Backblaze (B2), Amazon Cloud Drive (AmzCD), Swift / OpenStack, WebDAV, SSH (SFTP), FTP, and more!"
   },
   {
     "slug": "filebrowser",
     "logo": "logo.png",
-    "name": "Filebrowser"
+    "name": "Filebrowser",
+    "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app."
   },
   {
     "slug": "flame",
     "logo": null,
-    "name": "Flame"
+    "name": "Flame",
+    "description": "Flame is self-hosted startpage for your server. Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary"
   },
   {
     "slug": "ghost",
     "logo": "logo.png",
-    "name": "Ghost"
+    "name": "Ghost",
+    "description": "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members."
   },
   {
     "slug": "gitea",
     "logo": "logo.png",
-    "name": "Gitea"
+    "name": "Gitea",
+    "description": "Gitea is a community managed lightweight code hosting solution written in Go. Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc.Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi"
   },
   {
     "slug": "gotify",
     "logo": "logo.png",
-    "name": "Gotify"
+    "name": "Gotify",
+    "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
   },
   {
     "slug": "heimdall",
     "logo": "logo.png",
-    "name": "Heimdall"
+    "name": "Heimdall",
+    "description": "Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does."
   },
   {
     "slug": "imgproxy",
     "logo": "logo.svg",
-    "name": "imgproxy"
+    "name": "imgproxy",
+    "description": "imgproxy is a fast and secure standalone server for resizing and converting remote images. imgproxy resizes and processes images on the fly and doesn’t consume disk space"
   },
   {
     "slug": "kanboard",
     "logo": "logo.png",
-    "name": "Kanboard"
+    "name": "Kanboard",
+    "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
   },
   {
     "slug": "mattermost",
     "logo": "logo.png",
-    "name": "Mattermost"
+    "name": "Mattermost",
+    "description": "Open source platform for developer collaboration. Secure, flexible, and integrated with the tools you love."
   },
   {
     "slug": "metube",
     "logo": "logo.svg",
-    "name": "MeTube"
+    "name": "MeTube",
+    "description": "MeTube is a Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites. Browser extensions allow right-clicking videos and sending them directly to MeTube. "
   },
   {
     "slug": "miniflux",
     "logo": "logo.png",
-    "name": "Miniflux"
+    "name": "Miniflux",
+    "description": "Miniflux is a minimalist and opinionated feed reader written in GO.Supports multiple enclosures/attachments (Podcasts, videos, music, and images).Save articles to third-party services.Play videos from YouTube channels directly inside Miniflux.Send articles to Telegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, or Nunux Keeper"
   },
   {
     "slug": "mysql-backup",
     "logo": null,
-    "name": "MySQL Backup"
+    "name": "MySQL Backup",
+    "description": "Backup MySQL to S3. Supports periodic backups & mutli files."
   },
   {
     "slug": "n8n",
     "logo": "logo.png",
-    "name": "n8n"
+    "name": "n8n",
+    "description": "n8n helps you to connect any app with an API with any other, and manipulate its data with little or no code.Has highly flexible workflows and the option to build custom nodes."
   },
   {
     "slug": "nextcloud",
     "logo": "logo.png",
-    "name": "Nextcloud"
+    "name": "Nextcloud",
+    "description": "The self-hosted productivity platform that keeps you in control"
   },
   {
     "slug": "nzbget",
     "logo": "logo.png",
-    "name": "Nzbget"
+    "name": "Nzbget",
+    "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
   },
   {
     "slug": "phpmyadmin",
     "logo": "logo.png",
-    "name": "phpMyAdmin"
+    "name": "phpMyAdmin",
+    "description": "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB."
   },
   {
     "slug": "portainer",
     "logo": "logo.svg",
-    "name": "Portainer"
+    "name": "Portainer",
+    "description": "Easily configure, monitor and secure containers in minutes, with support for Docker, Kubernetes, Swarm and Nomad on any cloud, datacenter or device.Portainer allows to manage Docker containers and Swarm orchestration.Reduces the operational complexity associated with multi-cluster management.Bridge the skills gap and facilitate feature discovery and learning with an intuitive UI."
   },
   {
     "slug": "postgres-backup",
     "logo": null,
-    "name": "Postgres Backup"
+    "name": "Postgres Backup",
+    "description": "Backup Postgres to S3. Supports periodic backups & mutli files."
   },
   {
     "slug": "psitransfer",
     "logo": "logo.png",
-    "name": "PsiTransfer"
+    "name": "PsiTransfer",
+    "description": "Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface."
   },
   {
     "slug": "registry",
     "logo": "logo.png",
-    "name": "Registry"
+    "name": "Registry",
+    "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
   },
   {
     "slug": "rocketchat",
     "logo": "logo.png",
-    "name": "Rocket.Chat"
+    "name": "Rocket.Chat",
+    "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
   },
   {
     "slug": "statping-ng",
     "logo": "logo.png",
-    "name": "Statping-ng"
+    "name": "Statping-ng",
+    "description": "An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. This Status Page generator allows you to use MySQL, Postgres, or SQLite on multiple operating systems."
   },
   {
     "slug": "strapi",
     "logo": "logo.png",
-    "name": "Strapi"
+    "name": "Strapi",
+    "description": "Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in."
   },
   {
     "slug": "uptimekuma",
     "logo": "logo.svg",
-    "name": "UptimeKuma"
+    "name": "UptimeKuma",
+    "description": "A fancy self-hosted monitoring tool"
   },
   {
     "slug": "whiteboard",
     "logo": null,
-    "name": "Whiteboard"
+    "name": "Whiteboard",
+    "description": "Lightweight collaborative Whiteboard / Sketchboard "
   },
   {
     "slug": "wikijs",
     "logo": "logo.svg",
-    "name": "Wiki.js"
+    "name": "Wiki.js",
+    "description": "Extensible open source Wiki software.Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite! Running on the blazing fast Node.js engine, Wiki.js is built with performance in mind."
   },
   {
     "slug": "wordpress",
     "logo": "logo.svg",
-    "name": "Wordpress"
+    "name": "Wordpress",
+    "description": "WordPress powers nearly a third of the world’s websites. With tools for everyone from personal bloggers to large corporations, this powerful site builder and content management system (cms) aims to make it possible for anyone to create an online presence in minutes."
   }
 ]
