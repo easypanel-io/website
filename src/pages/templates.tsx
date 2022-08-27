@@ -1,5 +1,5 @@
 import Link from "@docusaurus/Link";
-import templates from "@site/docs/05-templates/templates.json";
+import templates from "@site/docs/04-templates/templates.json";
 import Layout from "@theme/Layout";
 import React from "react";
 
@@ -29,7 +29,7 @@ export default function Templates(): JSX.Element {
               {template.logo ? (
                 <img
                   src={
-                    require(`@site/docs/05-templates/${template.slug}/assets/${template.logo}`)
+                    require(`@site/docs/04-templates/${template.slug}/assets/${template.logo}`)
                       .default
                   }
                   alt="Example banner"

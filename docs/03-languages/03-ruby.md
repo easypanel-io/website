@@ -1,3 +1,0 @@
-# Ruby
-
-Documentation coming soon.

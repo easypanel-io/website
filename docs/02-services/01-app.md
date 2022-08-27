@@ -25,20 +25,24 @@ These days, it's really important to serve your web app on HTTPS. Easypanel will
 
 One important configuration you need to make is the proxy port. That is the port which your app is listening on (port 3000, 8000, etc.)
 
-## Volumes
+## Mounts
 
-Since Easypanel is based on Docker, every time a service is restarted you will loose your data. The solution for that is to manually specify which files you want to persist. Docker calls these volumes and we use the same name.
+Since Easypanel is based on Docker, every time a service is restarted you will loose your data. The solution for that is to manually specify which files you want to persist. Docker calls these mounts and we use the same name.
 
-There are two types of volumes you can configure
+There are tree types of mounts you can configure
 
 - Volume
   - this will create a directory in `/etc/easypanel/projects/[project]/[service]/volumes/[volume]`
-  - the `source` field is the name of that volume
-  - the `target` field is the path inside your service
+  - the `name` field is the name of that volume
+  - the `mountPath` field is the path inside your container
 - Bind
-  - this will bind a path on the host machine (source) to a path inside your service (target)
-  - the `source` field is the path on your host machine
-  - the `target` field is the path inside your service
+  - this will bind a path on the host machine (source) to a path inside your service
+  - the `hostPath` field is the path on your host machine
+  - the `mountPath` field is the path inside your container
+- File
+  - this will bind a file to a path inside your service
+  - the `content` field is content of your file
+  - the `mountPath` field is the path inside your container
 
 ## Ports
 

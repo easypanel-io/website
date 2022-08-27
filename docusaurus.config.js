@@ -96,11 +96,10 @@ const config = {
           srcDark: "img/logo_dark.svg",
         },
         items: [
-          { to: "/pricing", label: "Pricing", position: "left" },
-          { to: "/docs/guides", label: "Guides", position: "left" },
+          { to: "/docs", label: "Docs", position: "left" },
           { to: "/templates", label: "Templates", position: "left" },
-          { to: "/blog", label: "Blog", position: "right" },
-          { to: "/docs", label: "Docs", position: "right" },
+          { to: "/pricing", label: "Pricing", position: "left" },
+          { to: "/blog", label: "Blog", position: "left" },
         ],
       },
       algolia: {
@@ -130,8 +129,8 @@ const config = {
                 to: "/docs/services",
               },
               {
-                label: "Guides",
-                to: "/docs/guides",
+                label: "Builders",
+                to: "/docs/builders",
               },
             ],
           },

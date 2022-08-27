@@ -1,3 +1,0 @@
-# Python
-
-Documentation coming soon.
