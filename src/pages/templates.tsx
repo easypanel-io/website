@@ -18,13 +18,13 @@ export default function Templates(): JSX.Element {
             1-Click Installers for Open-Source Applications
           </p>
         </div>
-        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-6 tw-gap-4 lg:tw-gap-8">
+        <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-4 tw-gap-4 lg:tw-gap-8">
           {templates.map((template) => (
             <Link
               key={template.slug}
               href={`/docs/templates/${template.slug}`}
               // className="tw-pt-10 tw-pb-6 tw-bg-white tw-rounded-lg tw-text-gray-500 hover:tw-text-gray-900 hover:tw-scale-110 tw-transition-all"
-              className="tw-pt-10 tw-pb-6 tw-bg-gray-800 tw-rounded-xl tw-shadow-highlight tw-text-white/70 hover:tw-text-white hover:tw-scale-110 tw-transition-all"
+              className="tw-p-6 tw-bg-gray-800 tw-rounded-lg tw-shadow-highlight hover:tw-scale-105 tw-transition-all"
             >
               {template.logo ? (
                 <img
@@ -33,13 +33,16 @@ export default function Templates(): JSX.Element {
                       .default
                   }
                   alt="Example banner"
-                  className="tw-h-16 tw-w-16 tw-block tw-mx-auto tw-mb-4 tw-rounded-lg"
+                  className="tw-h-12 tw-w-12 tw-block tw-rounded-lg"
                 />
               ) : (
-                <div className="tw-h-16 tw-w-16 tw-block tw-mx-auto tw-mb-4 tw-rounded-full tw-bg-gray-600" />
+                <div className="tw-h-12 tw-w-12 tw-block tw-rounded-full tw-bg-gray-600" />
               )}
-              <div className="tw-text-center tw-text-lg tw-font-medium">
+              <div className="tw-mt-4 tw-text-lg tw-font-medium tw-text-white">
                 {template.name}
+              </div>
+              <div className="tw-mt-2 tw-text-sm tw-line-clamp-3 tw-text-white/75">
+                {template.description}
               </div>
             </Link>
           ))}
