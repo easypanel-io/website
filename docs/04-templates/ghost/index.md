@@ -22,8 +22,9 @@ Ghost is a powerful app for new-media creators to publish, share, and grow a bus
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | ghost
 Domain | - | yes | 
+App Service Name | - | yes | ghost
+Database Service Name | - | yes | ghost-db
 
 ## Screenshots
 
