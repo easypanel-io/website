@@ -41,7 +41,7 @@ const features: Feature[] = [
     title: "Zero Downtime Deployments",
     icon: require("@site/static/icons/Error-404Window.svg").default,
     description: (
-      <>You can deploy seamlessly without and intreruptions for your users.</>
+      <>You can deploy seamlessly without any interruptions for your users.</>
     ),
   },
   {
