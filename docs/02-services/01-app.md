@@ -11,7 +11,7 @@ There are two different source types
 
 For the Docker image, Easypanel will just pull the image and run it. For the Github repository Easypanel will build a Docker image from your code.
 
-If your repository has a `Dockerfile`, the Docker image will be built will use it. Otherwise, it will detect which type of app you have and build it using Cloud Native Builpacks.
+If your repository has a `Dockerfile`, the Docker image will be built using it. Otherwise, it will detect which type of app you have and build it using Cloud Native Builpacks.
 
 ## Environment
 
@@ -80,3 +80,33 @@ If you want to dive even deeper into your service, you can use the console featu
 Most services have `bash` installed. If not, `sh` will be there.
 
 There is a special button called "Launcher". It will start a `bash` process but will also configure the environment for your (`$PATH`, etc).
+
+## About Database Connection Pool
+
+Because Easypanel deploys your apps as Docker containers, there is a caveat while using any database solution with your apps. It can be described as follows:
+
+1. Initially, your app establishes connection with the database.
+2. After *'X'* minutes of no requests to your app, Docker thinks that your app is not being used for a while -- hence killing all the active connections.
+3. However, your app maybe configured (by default) to always have a minimum number of connections with the database. So, when your app is hit with the first request after being idle for some time, it thinks that the connection with the database is already there, so it attepmts to query the database.
+4. But, since the connection was killed by Docker, your app fails to perform operations on the database - displaying `500` error to the client.
+5. Now the app container realizes that there was no active connection with the database, so it establishes a new one.
+6. The next request to your app is now successfully processed.
+
+To solve this problem, you need to be sure that you set the connection pool's `min` value to `0`. This informs your application that there is zero minimum connection with the database, so it first checks if there is an active database connection before attempting to query it.
+
+### Example (Node.js)
+
+```javascript
+// Doc: https://knexjs.org/guide/#pool
+const knex = require('knex')({
+  client: 'pg',
+  connection: {
+    host: process.env.PGHOST,
+    port: Number(process.env.PGPORT),
+    user: process.env.PGUSER,
+    password: process.env.PGPASSWORD,
+    database: process.env.PGDATABASE,
+  },
+  pool: { min: 0 }, // 👈 Notice this line. 'knex' sets this to '2' by default.
+});
+```
