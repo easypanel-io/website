@@ -45,6 +45,10 @@ html[data-theme="dark"] {
   --docsearch-searchbox-background: var(--ifm-color-gray-900) !important;
 }
 
+button {
+  font-family: var(--ifm-font-family-base);
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
