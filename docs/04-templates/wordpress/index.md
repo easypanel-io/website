@@ -24,6 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | wordpress
+Database Type | - | yes | mariadb
 Database Service Name | - | yes | wordpress-db
 
 ## Screenshots
