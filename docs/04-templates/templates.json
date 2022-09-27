@@ -204,6 +204,12 @@
     "description": "Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in."
   },
   {
+    "slug": "umami",
+    "logo": "logo.png",
+    "name": "Umami",
+    "description": "Umami is an open source, privacy-focused alternative to Google Analytics. Umami lets you to gather the data you need while respecting the privacy of your users. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. Best of all, you don't need to display an annoying cookie notice."
+  },
+  {
     "slug": "uptimekuma",
     "logo": "logo.svg",
     "name": "UptimeKuma",
