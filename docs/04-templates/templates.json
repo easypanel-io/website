@@ -114,6 +114,12 @@
     "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
   },
   {
+    "slug": "matomo",
+    "logo": "logo.png",
+    "name": "Matomo",
+    "description": "Google Analytics alternative that protects your data and your customers' privacy. Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership."
+  },
+  {
     "slug": "mattermost",
     "logo": "logo.png",
     "name": "Mattermost",
