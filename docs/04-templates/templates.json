@@ -18,6 +18,12 @@
     "description": "Appsmith is the open-source framework that lets your team build custom internal applications like dashboards, admin panels, CRUD apps faster, and together"
   },
   {
+    "slug": "baserow",
+    "logo": "logo.svg",
+    "name": "Baserow",
+    "description": "Open source no-code database and Airtable alternative. Create your own online database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser."
+  },
+  {
     "slug": "bookstack",
     "logo": "logo.svg",
     "name": "Bookstack",
