@@ -22,6 +22,7 @@ Simple open source self-hosted file sharing solution. It's an alternative to pai
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | psitransfer
+App Service Image | - | yes | psitrax/psitransfer:v2.1.1
 
 ## Screenshots
 

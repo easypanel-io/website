@@ -26,6 +26,7 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | postgres-backup
+App Service Image | - | yes | easypanel/postgres-backup-s3
 Postgres Host | - | yes | 
 Postgres Port | - | yes | 5432
 Postgres User | - | yes | postgres

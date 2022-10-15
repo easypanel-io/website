@@ -23,6 +23,7 @@ The self-hosted productivity platform that keeps you in control
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nextcloud
+App Service Image | - | yes | nextcloud:24.0.6
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | nextcloud-db
 

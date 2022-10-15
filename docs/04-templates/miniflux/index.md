@@ -25,6 +25,7 @@ Name | Description | Required | Default Value
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | miniflux
+App Service Image | - | yes | miniflux/miniflux:2.0.38
 Database Service Name | - | yes | miniflux-db
 
 ## Screenshots

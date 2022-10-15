@@ -23,6 +23,7 @@ Directus is the world's first Open Data Platform for instantly turning any SQL d
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | directus
+App Service Image | - | yes | directus/directus:9.18.1
 Admin Email | admin@example.com | yes | 
 Admin Password | - | yes | 
 Database Type | - | yes | 

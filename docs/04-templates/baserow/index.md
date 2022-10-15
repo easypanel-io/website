@@ -25,7 +25,9 @@ It may take several minutes for Baserow to boot up.
 
 Name | Description | Required | Default Value
 -|-|-|-
+Domain | - | yes | 
 App Service Name | - | yes | baserow
+App Service Image | - | yes | baserow/baserow:1.12.1
 
 ## Screenshots
 

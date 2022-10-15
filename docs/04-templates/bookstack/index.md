@@ -22,7 +22,9 @@ BookStack is a simple, self-hosted, easy-to-use platform for organising and stor
 
 Name | Description | Required | Default Value
 -|-|-|-
+Domain | - | yes | 
 App Service Name | - | yes | bookstack
+App Service Image | - | yes | lscr.io/linuxserver/bookstack:22.09.1
 Database Service Name | - | yes | bookstack-db
 
 ## Screenshots

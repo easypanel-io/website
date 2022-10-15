@@ -23,6 +23,7 @@ A fancy self-hosted monitoring tool
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | uptimekuma
+App Service Image | - | yes | louislam/uptime-kuma:1.18.5-alpine
 
 ## Screenshots
 

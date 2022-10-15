@@ -22,7 +22,9 @@ Gitea is a community managed lightweight code hosting solution written in Go. Gi
 
 Name | Description | Required | Default Value
 -|-|-|-
+Domain | - | yes | 
 App Service Name | - | yes | gitea
+App Service Image | - | yes | gitea/gitea:1.17.2
 Database Type | - | yes | 
 Database Service Name | - | yes | gitea-db
 

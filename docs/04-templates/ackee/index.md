@@ -25,6 +25,7 @@ Name | Description | Required | Default Value
 Ackee Username | - | yes | 
 Ackee Password | - | yes | 
 App Service Name | - | yes | ackee
+App Service Image | - | yes | electerious/ackee:3.4.1
 Database Service Name | - | yes | ackee-db
 
 ## Screenshots

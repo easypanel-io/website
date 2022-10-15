@@ -23,6 +23,7 @@ Duplicati is a free, open source, backup client that securely stores encrypted, 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | duplicati
+App Service Image | - | yes | lscr.io/linuxserver/duplicati:2.0.6
 
 ## Screenshots
 

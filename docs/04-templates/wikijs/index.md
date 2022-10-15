@@ -23,6 +23,7 @@ Extensible open source Wiki software.Make documentation a joy to write using Wik
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wikijs
+App Service Image | - | yes | ghcr.io/requarks/wiki:2
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db
 

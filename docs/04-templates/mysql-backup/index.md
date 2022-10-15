@@ -26,6 +26,7 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mysql-backup
+App Service Image | - | yes | easypanel/mysql-backup-s3
 MySQL Host | - | yes | 
 MySQL Port | - | yes | 3306
 MySQL User | - | yes | mysql

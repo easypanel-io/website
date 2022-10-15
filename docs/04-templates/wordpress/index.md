@@ -23,6 +23,7 @@ WordPress powers nearly a third of the world’s websites. With tools for everyo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wordpress
+App Service Image | - | yes | wordpress:6
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | wordpress-db
 

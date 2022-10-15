@@ -23,6 +23,7 @@ Strapi enables content-rich experiences to be created, managed and exposed to an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | strapi
+App Service Image | - | yes | strapi/strapi:3.6.8-alpine
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | strapi-db
 

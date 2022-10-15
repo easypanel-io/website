@@ -23,9 +23,12 @@ Drone is a Container-Native, Continuous Delivery Platform
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drone
+App Service Image | - | yes | drone/drone:2.13.0
 Runner Service Name | - | yes | drone-runner
+Runner Service Image | - | yes | drone/drone-runner-docker:1.8.2
 GitHub OAuth Client ID | - | yes | 
 GitHub OAuth Client Secret | - | yes | secret
+RPC Host | - | yes | 
 RPC Protocol | - | yes | https
 Install Runner Service | - | no | false
 Capacity for runner if enabled | - | no | 2

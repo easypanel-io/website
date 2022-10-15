@@ -23,6 +23,7 @@ Heimdall Application Dashboard is a dashboard for all your web applications. It 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | heimdall
+App Service Image | - | yes | lscr.io/linuxserver/heimdall:2.4.13
 Timezone | - | no | Europe/London
 
 ## Screenshots

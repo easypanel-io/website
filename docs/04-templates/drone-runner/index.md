@@ -23,6 +23,7 @@ Runner for Drone.io
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drone-runner
+App Service Image | - | yes | drone/drone-runner-docker:1.8.2
 Drone Server Hostname | - | yes | drone.company.com
 RPC Secret | - | yes | Secret
 RPC Protocol | - | no | https

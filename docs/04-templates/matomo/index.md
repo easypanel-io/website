@@ -23,6 +23,7 @@ Google Analytics alternative that protects your data and your customers' privacy
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | matomo
+App Service Image | - | yes | matomo:4.12.0
 Database Service Name | - | yes | matomo-db
 
 ## Screenshots

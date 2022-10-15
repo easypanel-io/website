@@ -23,6 +23,7 @@ Gotify is a simple server for sending and receiving messages.Both Gotify's API a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotify
+App Service Image | - | yes | gotify/server:2.1.7
 Password | - | yes | 
 Timezone | - | no | Europe/London
 

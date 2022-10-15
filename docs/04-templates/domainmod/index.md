@@ -22,7 +22,9 @@ DomainMOD is an open source application written in PHP used to manage your domai
 
 Name | Description | Required | Default Value
 -|-|-|-
+Domain | - | yes | 
 App Service Name | - | yes | domainmod
+App Service Image | - | yes | domainmod/domainmod
 Database Service Name | - | yes | domainmod-db
 Timezone | - | yes | Europe/Copenhagen
 

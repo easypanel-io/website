@@ -26,6 +26,7 @@ The Registry doesn't have a UI. To interact with the registry you should use the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | registry
+App Service Image | - | yes | registry:2.8.1
 User | - | yes | admin
 Password | - | yes | admin
 

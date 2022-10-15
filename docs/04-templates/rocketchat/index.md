@@ -23,6 +23,7 @@ Rocket.Chat is an open-source fully customizable communications platform develop
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
+App Service Image | - | yes | rocket.chat:5.2.0
 Database Service Name | - | yes | rocketchat-db
 
 ## Screenshots

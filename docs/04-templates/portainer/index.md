@@ -23,6 +23,7 @@ Easily configure, monitor and secure containers in minutes, with support for Doc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | portainer
+App Service Image | - | yes | portainer/portainer-ce:2.15.1-alpine
 
 ## Screenshots
 
