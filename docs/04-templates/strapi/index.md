@@ -22,7 +22,6 @@ Strapi enables content-rich experiences to be created, managed and exposed to an
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | strapi
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | strapi-db

@@ -23,7 +23,6 @@ NZBGet is a binary downloader, which downloads files from Usenet based on inform
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nzbget
-Domain | - | yes | 
 Username | - | yes | nzbget
 Password | - | yes | tegbzn6789
 Timezone | - | no | Europe/London

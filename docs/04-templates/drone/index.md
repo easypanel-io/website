@@ -22,7 +22,6 @@ Drone is a Container-Native, Continuous Delivery Platform
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | drone
 Runner Service Name | - | yes | drone-runner
 GitHub OAuth Client ID | - | yes | 

@@ -23,7 +23,6 @@ Flame is self-hosted startpage for your server. Its design is inspired (heavily)
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flame
-Domain | - | yes | 
 Password | - | yes | 
 
 ## Screenshots

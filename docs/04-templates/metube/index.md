@@ -22,7 +22,6 @@ MeTube is a Web GUI for youtube-dl (using the yt-dlp fork) with playlist support
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | metube
-Domain | - | yes | 
 Downloads Volume Name | - | yes | downloads
 
 ## Screenshots

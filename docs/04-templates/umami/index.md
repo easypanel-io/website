@@ -26,7 +26,6 @@ You can login with username "admin" and password "umami".
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | umami
 Database Service Name | - | yes | umami-db
 

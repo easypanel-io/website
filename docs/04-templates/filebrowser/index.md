@@ -25,7 +25,6 @@ Default credentials: User:"admin" Password:"admin"
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | filebrowser
 
 ## Screenshots

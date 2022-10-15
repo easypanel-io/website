@@ -22,7 +22,6 @@ Runner for Drone.io
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | drone-runner
 Drone Server Hostname | - | yes | drone.company.com
 RPC Secret | - | yes | Secret

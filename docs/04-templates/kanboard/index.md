@@ -23,7 +23,6 @@ Kanboard is project management software that focuses on the Kanban methodology. 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kanboard
-Domain | - | yes | 
 
 ## Screenshots
 

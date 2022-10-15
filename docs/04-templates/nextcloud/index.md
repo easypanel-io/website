@@ -22,7 +22,6 @@ The self-hosted productivity platform that keeps you in control
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | nextcloud
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | nextcloud-db

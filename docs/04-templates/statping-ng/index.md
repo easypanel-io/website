@@ -22,7 +22,6 @@ An easy to use Status Page for your websites and applications. Statping will aut
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | statping-ng
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | statping-ng-db

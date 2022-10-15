@@ -27,7 +27,6 @@ After deploying the project, it may take a while before the app is available (5 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dashy
-Domain | - | yes | 
 
 ## Screenshots
 

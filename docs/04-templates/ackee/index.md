@@ -22,7 +22,6 @@ Self-hosted, Node.js based analytics tool for those who care about privacy. Acke
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 Ackee Username | - | yes | 
 Ackee Password | - | yes | 
 App Service Name | - | yes | ackee

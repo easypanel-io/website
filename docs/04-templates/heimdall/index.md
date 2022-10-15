@@ -22,7 +22,6 @@ Heimdall Application Dashboard is a dashboard for all your web applications. It 
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | heimdall
 Timezone | - | no | Europe/London
 

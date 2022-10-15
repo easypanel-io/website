@@ -22,7 +22,6 @@ Easily configure, monitor and secure containers in minutes, with support for Doc
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | portainer
 
 ## Screenshots

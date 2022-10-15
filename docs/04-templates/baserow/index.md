@@ -14,7 +14,7 @@ Open source no-code database and Airtable alternative. Create your own online da
 
 ## Instructions
 
-It may take several minutes to Baserow to boot up.
+It may take several minutes for Baserow to boot up.
 
 ## Links
 
@@ -25,7 +25,6 @@ It may take several minutes to Baserow to boot up.
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | baserow
 
 ## Screenshots

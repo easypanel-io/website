@@ -22,7 +22,6 @@ Extensible open source Wiki software.Make documentation a joy to write using Wik
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | wikijs
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db

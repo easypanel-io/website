@@ -22,7 +22,6 @@ Miniflux is a minimalist and opinionated feed reader written in GO.Supports mult
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | miniflux

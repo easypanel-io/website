@@ -21,8 +21,8 @@ Open source platform for developer collaboration. Secure, flexible, and integrat
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | mattermost
+App Service Image | - | yes | mattermost/mattermost-team-edition:release-7.4
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots
@@ -32,8 +32,10 @@ Database Service Name | - | yes | mattermost-db
 ## Change Log
 
 - 2022-07-12 – first release
+- 2022-10-12 – ablity to define custom docker image version
 
 ## Contributors
 
 - [Bedeoan Raul](https://github.com/bedeoan)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Peter Fodor](https://github.com/fodurrr)

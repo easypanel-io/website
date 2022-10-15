@@ -22,7 +22,6 @@ BookStack is a simple, self-hosted, easy-to-use platform for organising and stor
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | bookstack
 Database Service Name | - | yes | bookstack-db
 

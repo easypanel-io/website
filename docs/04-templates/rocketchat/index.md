@@ -24,7 +24,6 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
 Database Service Name | - | yes | rocketchat-db
-Domain | - | yes | 
 
 ## Screenshots
 
