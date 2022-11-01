@@ -27,6 +27,7 @@ App Service Image | - | yes | linuxserver/hedgedoc:1.9.4
 
 ## Screenshots
 
+![HedgeDoc Screenshot](./assets/screenshot.png)
 
 ## Change Log
 
