@@ -30,6 +30,12 @@
     "description": "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters & pages. BookStack is built using PHP, on top of the Laravel framework and it uses MySQL to store data."
   },
   {
+    "slug": "budibase",
+    "logo": "logo.png",
+    "name": "Budibase",
+    "description": "Budibase is an open source low-code platform, and the easiest way to build internal apps that improve productivity."
+  },
+  {
     "slug": "changedetection",
     "logo": null,
     "name": "Change Detection",
@@ -72,6 +78,12 @@
     "description": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. It works with: Amazon S3, OneDrive, Google Drive, Rackspace Cloud Files, HubiC, Backblaze (B2), Amazon Cloud Drive (AmzCD), Swift / OpenStack, WebDAV, SSH (SFTP), FTP, and more!"
   },
   {
+    "slug": "element",
+    "logo": "logo.svg",
+    "name": "Element",
+    "description": "Element (formerly known as Vector and Riot) is a Matrix web client built using the Matrix React SDK."
+  },
+  {
     "slug": "filebrowser",
     "logo": "logo.png",
     "name": "Filebrowser",
@@ -102,6 +114,18 @@
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
   },
   {
+    "slug": "hastypaste",
+    "logo": "logo.png",
+    "name": "Hasty Paste",
+    "description": "A fast and minimal paste bin, written in Python using Quart."
+  },
+  {
+    "slug": "hedgedoc",
+    "logo": null,
+    "name": "HedgeDoc",
+    "description": "HedgeDoc (formerly known as CodiMD) is an open-source, web-based, self-hosted, collaborative markdown editor."
+  },
+  {
     "slug": "heimdall",
     "logo": "logo.png",
     "name": "Heimdall",
@@ -114,10 +138,28 @@
     "description": "imgproxy is a fast and secure standalone server for resizing and converting remote images. imgproxy resizes and processes images on the fly and doesn’t consume disk space"
   },
   {
+    "slug": "jellyfin",
+    "logo": "logo.png",
+    "name": "Jellyfin",
+    "description": "Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way."
+  },
+  {
     "slug": "kanboard",
     "logo": "logo.png",
     "name": "Kanboard",
     "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
+  },
+  {
+    "slug": "lychee",
+    "logo": null,
+    "name": "Lychee",
+    "description": "Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely."
+  },
+  {
+    "slug": "mailhog",
+    "logo": "logo.png",
+    "name": "Mailhog",
+    "description": "Mailhog is a web and API based SMTP tool for testing emails"
   },
   {
     "slug": "matomo",
@@ -130,6 +172,12 @@
     "logo": "logo.png",
     "name": "Mattermost",
     "description": "Open source platform for developer collaboration. Secure, flexible, and integrated with the tools you love."
+  },
+  {
+    "slug": "meilisearch",
+    "logo": "logo.svg",
+    "name": "Meilisearch",
+    "description": "Meilisearch is a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
   },
   {
     "slug": "metube",
@@ -168,6 +216,12 @@
     "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
   },
   {
+    "slug": "paperlessngx",
+    "logo": "logo.png",
+    "name": "Paperless-ngx",
+    "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper."
+  },
+  {
     "slug": "phpmyadmin",
     "logo": "logo.png",
     "name": "phpMyAdmin",
@@ -192,16 +246,40 @@
     "description": "Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface."
   },
   {
+    "slug": "radarr",
+    "logo": "logo.png",
+    "name": "Radarr",
+    "description": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported."
+  },
+  {
     "slug": "registry",
     "logo": "logo.png",
     "name": "Registry",
     "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
   },
   {
+    "slug": "restreamer",
+    "logo": null,
+    "name": "Restreamer",
+    "description": "Self-hosting solution to stream live to your website and publish to many like YouTube-Live, Twitter, Twitch, Vimeo, and other platforms or services."
+  },
+  {
     "slug": "rocketchat",
     "logo": "logo.png",
     "name": "Rocket.Chat",
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
+  },
+  {
+    "slug": "simpletorrent",
+    "logo": "logo.png",
+    "name": "SimpleTorrent",
+    "description": "https://github.com/boypt/simple-torrent/wiki"
+  },
+  {
+    "slug": "soketi",
+    "logo": "logo.png",
+    "name": "Soketi",
+    "description": "Just another simple, fast, and resilient open-source WebSockets server."
   },
   {
     "slug": "statping-ng",
@@ -226,6 +304,18 @@
     "logo": "logo.svg",
     "name": "UptimeKuma",
     "description": "A fancy self-hosted monitoring tool"
+  },
+  {
+    "slug": "verdaccio",
+    "logo": "logo.png",
+    "name": "Verdaccio",
+    "description": "A lightweight Node.js private proxy registry"
+  },
+  {
+    "slug": "vscode-server",
+    "logo": "logo.png",
+    "name": "Visual Studio Code Server",
+    "description": "Code-server is VS Code running on a remote server, accessible through the browser."
   },
   {
     "slug": "whiteboard",
