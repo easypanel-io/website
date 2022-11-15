@@ -90,10 +90,28 @@
     "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app."
   },
   {
+    "slug": "firefox",
+    "logo": "logo.svg",
+    "name": "Firefox",
+    "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+  },
+  {
     "slug": "flame",
     "logo": null,
     "name": "Flame",
     "description": "Flame is self-hosted startpage for your server. Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary"
+  },
+  {
+    "slug": "flarum",
+    "logo": "logo.png",
+    "name": "Flarum",
+    "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free."
+  },
+  {
+    "slug": "freshrss",
+    "logo": "logo.svg",
+    "name": "Freshrss",
+    "description": "Freshrss is a free, self-hostable aggregator for rss feeds."
   },
   {
     "slug": "ghost",
@@ -150,10 +168,22 @@
     "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
   },
   {
+    "slug": "libreoffice",
+    "logo": "logo.png",
+    "name": "LibreOffice",
+    "description": "is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
+  },
+  {
     "slug": "lychee",
     "logo": null,
     "name": "Lychee",
     "description": "Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely."
+  },
+  {
+    "slug": "mailcrab",
+    "logo": "logo.svg",
+    "name": "MailCrab",
+    "description": "Email test server for development, written in Rust."
   },
   {
     "slug": "mailhog",
@@ -178,6 +208,12 @@
     "logo": "logo.svg",
     "name": "Meilisearch",
     "description": "Meilisearch is a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+  },
+  {
+    "slug": "metabase",
+    "logo": "logo.svg",
+    "name": "Metabase",
+    "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company"
   },
   {
     "slug": "metube",
@@ -208,6 +244,12 @@
     "logo": "logo.png",
     "name": "Nextcloud",
     "description": "The self-hosted productivity platform that keeps you in control"
+  },
+  {
+    "slug": "nodered",
+    "logo": "logo.png",
+    "name": "Node-RED",
+    "description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways."
   },
   {
     "slug": "nzbget",
@@ -244,6 +286,12 @@
     "logo": "logo.png",
     "name": "PsiTransfer",
     "description": "Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface."
+  },
+  {
+    "slug": "rabbitmq",
+    "logo": "logo.svg",
+    "name": "RabbitMQ",
+    "description": "RabbitMQ is an open source multi-protocol messaging broker."
   },
   {
     "slug": "radarr",
