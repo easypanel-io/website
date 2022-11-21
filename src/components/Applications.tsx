@@ -13,7 +13,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Upload-toCloud.svg").default,
     description: (
       <>
-        Push to Github and voilà - Easypanel will get your code, build it and
+        Push to Github and voilà - Easypanel will get your code, build it, and
         deploy it.
       </>
     ),
@@ -33,7 +33,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Cursor-Click2.svg").default,
     description: (
       <>
-        Create a Wordpress website in less than 60 seconds. How does it sound?
+        Create a website in seconds. We've even got wordpress!
       </>
     ),
   },
@@ -48,7 +48,7 @@ const features: Feature[] = [
     title: "In-Browser Terminal",
     icon: require("@site/static/icons/Approved-Window.svg").default,
     description: (
-      <>Check logs or run sell commands without leaving your browser.</>
+      <>Check logs or run shell commands without leaving your browser.</>
     ),
   },
   {
