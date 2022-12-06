@@ -150,6 +150,12 @@
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
   },
   {
+    "slug": "hastebin",
+    "logo": "logo.png",
+    "name": "Hastebin",
+    "description": "Hastebin is an open-source pastebin software written in node.js, which is easily installable in any network."
+  },
+  {
     "slug": "hastypaste",
     "logo": "logo.png",
     "name": "Hasty Paste",
@@ -388,12 +394,6 @@
     "logo": "logo.png",
     "name": "Rocket.Chat",
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
-  },
-  {
-    "slug": "simpletorrent copy",
-    "logo": "logo.png",
-    "name": "Hastebin",
-    "description": "Hastebin is an open-source pastebin software written in node.js, which is easily installable in any network."
   },
   {
     "slug": "simpletorrent",
