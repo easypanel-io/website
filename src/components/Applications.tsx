@@ -23,7 +23,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Cloud-Secure.svg").default,
     description: (
       <>
-        With a simple checkbox you get auto-renewable Let's Encrypt
+        With a simple checkbox, you'll get auto-renewable Let's Encrypt
         certificates.
       </>
     ),
@@ -33,7 +33,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Cursor-Click2.svg").default,
     description: (
       <>
-        Create a Wordpress website in less than 60 seconds. How does it sound?
+        Easily deployable templates, ready in seconds.
       </>
     ),
   },
@@ -48,7 +48,7 @@ const features: Feature[] = [
     title: "In-Browser Terminal",
     icon: require("@site/static/icons/Approved-Window.svg").default,
     description: (
-      <>Check logs or run sell commands without leaving your browser.</>
+      <>Check logs or run shell commands without needing to leave your browser.</>
     ),
   },
   {
