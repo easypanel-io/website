@@ -37,5 +37,5 @@ Database Service Name | - | yes | statping-ng-db
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)

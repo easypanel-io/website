@@ -38,4 +38,4 @@ Database Service Name | - | yes | ackee-db
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)

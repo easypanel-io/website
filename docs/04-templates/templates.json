@@ -84,10 +84,28 @@
     "description": "Element (formerly known as Vector and Riot) is a Matrix web client built using the Matrix React SDK."
   },
   {
+    "slug": "emby",
+    "logo": "logo.png",
+    "name": "Emby",
+    "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "fider",
+    "logo": "logo.png",
+    "name": "Fider",
+    "description": "Fider is a feedback portal that helps teams collect and prioritize customer feedback in one place, based on votes and ideas submitted."
+  },
+  {
     "slug": "filebrowser",
     "logo": "logo.png",
     "name": "Filebrowser",
     "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app."
+  },
+  {
+    "slug": "filezilla",
+    "logo": null,
+    "name": "Filezilla Client",
+    "description": "FIleZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface."
   },
   {
     "slug": "firefox",
@@ -150,6 +168,12 @@
     "description": "Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does."
   },
   {
+    "slug": "homeassistant",
+    "logo": "logo.png",
+    "name": "Home Assistant",
+    "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts."
+  },
+  {
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy",
@@ -160,6 +184,12 @@
     "logo": "logo.png",
     "name": "Jellyfin",
     "description": "Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way."
+  },
+  {
+    "slug": "jirafeau",
+    "logo": "logo.svg",
+    "name": "Jirafeau",
+    "description": "Jirafeau is a one-click-filesharing Select your file, upload, share a link. That's it."
   },
   {
     "slug": "kanboard",
@@ -252,10 +282,22 @@
     "description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways."
   },
   {
+    "slug": "ntfy",
+    "logo": "logo.png",
+    "name": "Ntfy",
+    "description": "ntfy lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests."
+  },
+  {
     "slug": "nzbget",
     "logo": "logo.png",
     "name": "Nzbget",
     "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
+  },
+  {
+    "slug": "openspeedtest",
+    "logo": "logo.png",
+    "name": "OpenSpeedTest",
+    "description": "Pure HTML5 Network Performance Estimation Tool."
   },
   {
     "slug": "paperlessngx",
@@ -270,6 +312,24 @@
     "description": "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB."
   },
   {
+    "slug": "pidgin",
+    "logo": "logo.png",
+    "name": "Pidgin",
+    "description": "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously."
+  },
+  {
+    "slug": "plex",
+    "logo": "logo.svg",
+    "name": "Plex",
+    "description": "organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "pocketbase",
+    "logo": "logo.svg",
+    "name": "PocketBase",
+    "description": "PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API."
+  },
+  {
     "slug": "portainer",
     "logo": "logo.svg",
     "name": "Portainer",
@@ -280,6 +340,12 @@
     "logo": null,
     "name": "Postgres Backup",
     "description": "Backup Postgres to S3. Supports periodic backups & mutli files."
+  },
+  {
+    "slug": "powerdns-admin",
+    "logo": "logo.png",
+    "name": "PowerDNS-Admin",
+    "description": "A PowerDNS web interface with advanced features."
   },
   {
     "slug": "psitransfer",
@@ -306,6 +372,12 @@
     "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
   },
   {
+    "slug": "remmina",
+    "logo": "logo.png",
+    "name": "Remmina",
+    "description": "Remmina is a remote desktop client written in GTK, aiming to be useful for system administrators and travellers, who need to work with lots of remote computers in front of either large or tiny screens. Remmina supports multiple network protocols, in an integrated and consistent user interface. Currently RDP, VNC, SPICE, NX, XDMCP, SSH and EXEC are supported."
+  },
+  {
     "slug": "restreamer",
     "logo": null,
     "name": "Restreamer",
@@ -316,6 +388,12 @@
     "logo": "logo.png",
     "name": "Rocket.Chat",
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
+  },
+  {
+    "slug": "simpletorrent copy",
+    "logo": "logo.png",
+    "name": "Hastebin",
+    "description": "Hastebin is an open-source pastebin software written in node.js, which is easily installable in any network."
   },
   {
     "slug": "simpletorrent",
@@ -354,6 +432,12 @@
     "description": "A fancy self-hosted monitoring tool"
   },
   {
+    "slug": "vaultwarden",
+    "logo": "logo.png",
+    "name": "Vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+  },
+  {
     "slug": "verdaccio",
     "logo": "logo.png",
     "name": "Verdaccio",
@@ -364,6 +448,12 @@
     "logo": "logo.png",
     "name": "Visual Studio Code Server",
     "description": "Code-server is VS Code running on a remote server, accessible through the browser."
+  },
+  {
+    "slug": "weblate",
+    "logo": "logo.png",
+    "name": "Weblate",
+    "description": "Weblate is a libre software web-based continuous localization system. Weblate requires 2GB of ram and 2CPUs."
   },
   {
     "slug": "whiteboard",
