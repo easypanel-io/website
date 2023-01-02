@@ -12,6 +12,12 @@
     "description": "Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin."
   },
   {
+    "slug": "anonupload",
+    "logo": "logo.png",
+    "name": "AnonFiles",
+    "description": "AnonFiles is a simple, databaseless PHP file uploader."
+  },
+  {
     "slug": "appsmith",
     "logo": "logo.png",
     "name": "Appsmith",
@@ -174,6 +180,12 @@
     "description": "Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does."
   },
   {
+    "slug": "homarr",
+    "logo": "logo.svg",
+    "name": "Homarr",
+    "description": "Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place. It integrates with the services you use to display information on the homepage (E.g. Show upcoming Sonarr/Radarr releases).For a full list of integrations, head over to our documentation"
+  },
+  {
     "slug": "homeassistant",
     "logo": "logo.png",
     "name": "Home Assistant",
@@ -192,6 +204,12 @@
     "description": "Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way."
   },
   {
+    "slug": "jellyseerr",
+    "logo": "logo.png",
+    "name": "Jellyseerr",
+    "description": "Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers!"
+  },
+  {
     "slug": "jirafeau",
     "logo": "logo.svg",
     "name": "Jirafeau",
@@ -204,10 +222,34 @@
     "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
   },
   {
+    "slug": "kavita",
+    "logo": "logo.svg",
+    "name": "Kavita",
+    "description": "Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends."
+  },
+  {
+    "slug": "lavalink",
+    "logo": "logo.png",
+    "name": "Lavalink",
+    "description": "Standalone audio sending node based on Lavaplayer."
+  },
+  {
+    "slug": "lenpaste",
+    "logo": null,
+    "name": "Lenpaste",
+    "description": "https://github.com/boypt/simple-torrent/wiki"
+  },
+  {
     "slug": "libreoffice",
     "logo": "logo.png",
     "name": "LibreOffice",
     "description": "is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
+  },
+  {
+    "slug": "libretranslate",
+    "logo": "logo.png",
+    "name": "LibreTranslate",
+    "description": "Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup."
   },
   {
     "slug": "lychee",
@@ -244,6 +286,12 @@
     "logo": "logo.svg",
     "name": "Meilisearch",
     "description": "Meilisearch is a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+  },
+  {
+    "slug": "memos",
+    "logo": "logo.png",
+    "name": "Memos",
+    "description": "An open-source, self-hosted memo hub with knowledge management and socialization."
   },
   {
     "slug": "metabase",
@@ -408,6 +456,12 @@
     "description": "Just another simple, fast, and resilient open-source WebSockets server."
   },
   {
+    "slug": "sonarr",
+    "logo": "logo.png",
+    "name": "Sonarr",
+    "description": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them."
+  },
+  {
     "slug": "statping-ng",
     "logo": "logo.png",
     "name": "Statping-ng",
@@ -454,6 +508,12 @@
     "logo": "logo.png",
     "name": "Weblate",
     "description": "Weblate is a libre software web-based continuous localization system. Weblate requires 2GB of ram and 2CPUs."
+  },
+  {
+    "slug": "wg-easy",
+    "logo": "logo.png",
+    "name": "Wg-easy",
+    "description": "You have found the easiest way to install & manage WireGuard on any Linux host!"
   },
   {
     "slug": "whiteboard",
