@@ -14,8 +14,8 @@
   {
     "slug": "anonupload",
     "logo": "logo.png",
-    "name": "AnonFiles",
-    "description": "AnonFiles is a simple, databaseless PHP file uploader."
+    "name": "AnonUpload",
+    "description": "AnonUpload is a simple, databaseless PHP file uploader."
   },
   {
     "slug": "appsmith",
@@ -46,6 +46,12 @@
     "logo": null,
     "name": "Change Detection",
     "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
+  },
+  {
+    "slug": "commento",
+    "logo": "logo.png",
+    "name": "Commento",
+    "description": "Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications."
   },
   {
     "slug": "dashy",
@@ -130,6 +136,12 @@
     "logo": "logo.png",
     "name": "Flarum",
     "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free."
+  },
+  {
+    "slug": "freescout",
+    "logo": "logo.png",
+    "name": "Freescout",
+    "description": "FreeScout is the super lightweight and powerful free open source help desk and shared inbox written in PHP (Laravel framework). It is a self hosted clone of HelpScout."
   },
   {
     "slug": "freshrss",
@@ -228,6 +240,12 @@
     "description": "Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends."
   },
   {
+    "slug": "komga",
+    "logo": "logo.svg",
+    "name": "Komga",
+    "description": "Komga is a media server for your comics, mangas, BDs and magazines."
+  },
+  {
     "slug": "lavalink",
     "logo": "logo.png",
     "name": "Lavalink",
@@ -280,6 +298,12 @@
     "logo": "logo.png",
     "name": "Mattermost",
     "description": "Open source platform for developer collaboration. Secure, flexible, and integrated with the tools you love."
+  },
+  {
+    "slug": "mealie",
+    "logo": "logo.png",
+    "name": "Mealie",
+    "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family."
   },
   {
     "slug": "meilisearch",
@@ -372,10 +396,22 @@
     "description": "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously."
   },
   {
+    "slug": "plausible",
+    "logo": "logo.png",
+    "name": "Plausible",
+    "description": "Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Our mission is to reduce corporate surveillance by providing an alternative web analytics tool which does not come from the AdTech world."
+  },
+  {
     "slug": "plex",
     "logo": "logo.svg",
     "name": "Plex",
     "description": "organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "ploi-roadmap",
+    "logo": null,
+    "name": "Ploi Roadmap",
+    "description": "Welcome to Roadmap, the open-source software for your roadmapping needs."
   },
   {
     "slug": "pocketbase",
@@ -400,6 +436,12 @@
     "logo": "logo.png",
     "name": "PowerDNS-Admin",
     "description": "A PowerDNS web interface with advanced features."
+  },
+  {
+    "slug": "prowlarr",
+    "logo": "logo.png",
+    "name": "Prowlarr",
+    "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers."
   },
   {
     "slug": "psitransfer",
@@ -444,6 +486,12 @@
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
   },
   {
+    "slug": "serpbear",
+    "logo": "logo.png",
+    "name": "SerpBear",
+    "description": "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
+  },
+  {
     "slug": "simpletorrent",
     "logo": "logo.png",
     "name": "SimpleTorrent",
@@ -460,6 +508,12 @@
     "logo": "logo.png",
     "name": "Sonarr",
     "description": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them."
+  },
+  {
+    "slug": "sshwifty",
+    "logo": "logo.svg",
+    "name": "Sshwifty",
+    "description": "Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on your computer or server to provide SSH and Telnet access interface for any compatible (standard) web browser."
   },
   {
     "slug": "statping-ng",

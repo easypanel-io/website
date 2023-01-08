@@ -1,16 +1,16 @@
 ---
-sidebar_label: AnonFiles
-title: AnonFiles
-description: How to install AnonFiles on Easypanel? 1-Click installation template for AnonFiles on Easypanel
+sidebar_label: AnonUpload
+title: AnonUpload
+description: How to install AnonUpload on Easypanel? 1-Click installation template for AnonUpload on Easypanel
 ---
 
 <!-- generated -->
 
-1-Click installation template for AnonFiles on Easypanel
+1-Click installation template for AnonUpload on Easypanel
 
 ## Description
 
-AnonFiles is a simple, databaseless PHP file uploader.
+AnonUpload is a simple, databaseless PHP file uploader.
 
 ## Instructions
 
@@ -18,14 +18,14 @@ visit /admin for the administration interface
 
 ## Links
 
-- [Github](https://github.com/supernova3339/anonfiles)
-- [Enviroment Variables](https://github.com/Supernova3339/anonfiles/blob/main/env.md)
+- [Github](https://github.com/supernova3339/anonupload)
+- [Enviroment Variables](https://github.com/Supernova3339/anonupload/blob/main/env.md)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | anonfiles
+App Service Name | - | yes | anonupload
 Domain | - | yes | 
 App Service Image | - | yes | ghcr.io/supernova3339/anonfiles:1
 Admin Email | - | yes | 
@@ -34,7 +34,7 @@ App Contact Email | - | yes |
 
 ## Screenshots
 
-![AnonFiles Screenshot](./assets/screenshot.png)
+![AnonUpload Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

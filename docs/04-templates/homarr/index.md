@@ -15,7 +15,7 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 ## Links
 
 - [Website](https://homarr.dev/)
-- [Documentation](https://homarr.dev/docs/)
+- [Documentation](https://homarr.dev/docs)
 - [Github](https://github.com/ajnart/homarr)
 
 ## Options
@@ -32,7 +32,7 @@ Timezone | - | no | America/New_York
 
 ## Change Log
 
-- 2022-12-20 – first release
+- 2022-12-20 – First Release
 
 ## Contributors
 
