@@ -23,7 +23,7 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homarr
-App Service Image | - | yes | ghcr.io/ajnart/homarr:0.10.7
+App Service Image | - | yes | ghcr.io/ajnart/homarr:0.11.2
 Timezone | - | no | America/New_York
 
 ## Screenshots

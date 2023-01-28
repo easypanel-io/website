@@ -6,6 +6,12 @@
     "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface."
   },
   {
+    "slug": "actualbudget",
+    "logo": null,
+    "name": "Actual Budget",
+    "description": "Actual is a local-first personal finance tool. It is 100% free and open-source, written in NodeJS, it has a synchronization element so that all your changes can move between devices without any heavy lifting."
+  },
+  {
     "slug": "adminer",
     "logo": "logo.svg",
     "name": "Adminer",
@@ -18,10 +24,28 @@
     "description": "AnonUpload is a simple, databaseless PHP file uploader."
   },
   {
+    "slug": "answer",
+    "logo": "logo.png",
+    "name": "Answer",
+    "description": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more."
+  },
+  {
     "slug": "appsmith",
     "logo": "logo.png",
     "name": "Appsmith",
     "description": "Appsmith is the open-source framework that lets your team build custom internal applications like dashboards, admin panels, CRUD apps faster, and together"
+  },
+  {
+    "slug": "authorizer",
+    "logo": "logo.png",
+    "name": "Authorizer",
+    "description": "Your data, your control. Fully open source, authentication and authorization."
+  },
+  {
+    "slug": "barrage",
+    "logo": "logo.png",
+    "name": "Barrage",
+    "description": "Minimal Deluge WebUI with full mobile support"
   },
   {
     "slug": "baserow",
@@ -48,6 +72,18 @@
     "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
   },
   {
+    "slug": "chatwoot",
+    "logo": "logo.svg",
+    "name": "Chatwoot",
+    "description": "Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc."
+  },
+  {
+    "slug": "codex-docs",
+    "logo": "logo.svg",
+    "name": "CodeX Docs",
+    "description": "CodeX Docs is a free docs application. It's based on Editor.js ecosystem which gives all modern opportunities for working with content."
+  },
+  {
     "slug": "commento",
     "logo": "logo.png",
     "name": "Commento",
@@ -60,10 +96,22 @@
     "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place"
   },
   {
+    "slug": "deluge",
+    "logo": "logo.png",
+    "name": "Deluge",
+    "description": "Deluge is a BitTorrent client that utilizes a daemon/client model. It has various user interfaces available such as the GTK-UI, Web-UI and Console-UI. It uses libtorrent at its core to handle the BitTorrent protocol."
+  },
+  {
     "slug": "directus",
     "logo": "logo.png",
     "name": "Directus",
     "description": "Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.Directus Flows are extremely flexible and easy to configure. Using a simple no-code interface, you can connect any number of operations to create simple or complex workflows that execute automatically in response to a trigger."
+  },
+  {
+    "slug": "documize",
+    "logo": "logo.png",
+    "name": "Documize",
+    "description": "Documize Community is an open source, self-hosted, modern, lightweight alternative to Confluence and other similar solutions."
   },
   {
     "slug": "domainmod",
@@ -204,6 +252,12 @@
     "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts."
   },
   {
+    "slug": "humhub",
+    "logo": "logo.png",
+    "name": "HumHub",
+    "description": "HumHub is an intuitive to use and modular designed open-source software, used primarily as social network, knowledge database, intranet or information and communication platform."
+  },
+  {
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy",
@@ -268,6 +322,12 @@
     "logo": "logo.png",
     "name": "LibreTranslate",
     "description": "Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup."
+  },
+  {
+    "slug": "limesurvey",
+    "logo": "logo.png",
+    "name": "Limesurvey",
+    "description": "The most popular FOSS online survey tool on the web."
   },
   {
     "slug": "lychee",
@@ -372,10 +432,28 @@
     "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
   },
   {
+    "slug": "odoo",
+    "logo": "logo.png",
+    "name": "Odoo",
+    "description": "Odoo, formerly known as OpenERP, is a suite of open-source business apps written in Python and released under the LGPL license."
+  },
+  {
     "slug": "openspeedtest",
     "logo": "logo.png",
     "name": "OpenSpeedTest",
     "description": "Pure HTML5 Network Performance Estimation Tool."
+  },
+  {
+    "slug": "outline",
+    "logo": "logo.png",
+    "name": "Outline Wiki",
+    "description": "A fast, collaborative, knowledge base for your team built using React and Node.js."
+  },
+  {
+    "slug": "oxigen",
+    "logo": "logo.svg",
+    "name": "Oxigen",
+    "description": "Oxigen is a dynamic social media image generator, which gives you an ability to easily create, customize and use og images with both UI and API."
   },
   {
     "slug": "paperlessngx",
@@ -492,6 +570,12 @@
     "description": "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
   },
   {
+    "slug": "silicon-notes",
+    "logo": "logo.png",
+    "name": "Silicon Notes",
+    "description": "https://github.com/cu/silicon"
+  },
+  {
     "slug": "simpletorrent",
     "logo": "logo.png",
     "name": "SimpleTorrent",
@@ -528,6 +612,24 @@
     "description": "Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in."
   },
   {
+    "slug": "suitecrm",
+    "logo": "logo.png",
+    "name": "SuiteCRM",
+    "description": "SuiteCRM is a completely open source, enterprise-grade Customer Relationship Management (CRM) application."
+  },
+  {
+    "slug": "tautulli",
+    "logo": "logo.png",
+    "name": "Tautuilli",
+    "description": "Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics. Most importantly, these statistics include what has been watched, who watched it, when and where they watched it, and how it was watched."
+  },
+  {
+    "slug": "typesense",
+    "logo": "logo.svg",
+    "name": "Typesense",
+    "description": "Typesense is a fast, typo-tolerant search engine for building delightful search experiences."
+  },
+  {
     "slug": "umami",
     "logo": "logo.png",
     "name": "Umami",
@@ -558,6 +660,12 @@
     "description": "Code-server is VS Code running on a remote server, accessible through the browser."
   },
   {
+    "slug": "wakatime",
+    "logo": "logo.png",
+    "name": "Wakapi",
+    "description": "A minimalist, self-hosted WakaTime-compatible backend for coding statistics"
+  },
+  {
     "slug": "weblate",
     "logo": "logo.png",
     "name": "Weblate",
@@ -586,5 +694,11 @@
     "logo": "logo.svg",
     "name": "Wordpress",
     "description": "WordPress powers nearly a third of the world’s websites. With tools for everyone from personal bloggers to large corporations, this powerful site builder and content management system (cms) aims to make it possible for anyone to create an online presence in minutes."
+  },
+  {
+    "slug": "zipline",
+    "logo": "logo.png",
+    "name": "Zipline",
+    "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!"
   }
 ]

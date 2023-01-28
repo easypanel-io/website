@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | freescout
-App Service Image | - | yes | tiredofit/freescout:php8.1-1.16.15
+App Service Image | - | yes | tiredofit/freescout:php8.1-1.16.22
 Database Service Name | - | yes | freescout-db
 Email | - | yes | changeme@easypanel.io
 Password | - | yes | changeme

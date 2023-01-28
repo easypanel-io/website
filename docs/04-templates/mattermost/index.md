@@ -23,7 +23,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | mattermost
-App Service Image | - | yes | mattermost/mattermost-team-edition:release-7.5.1
+App Service Image | - | yes | mattermost/mattermost-team-edition:release-7.7
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots
@@ -35,6 +35,7 @@ Database Service Name | - | yes | mattermost-db
 - 2022-07-12 – first release
 - 2022-10-12 – ablity to define custom docker image version
 - 2022-11-29 – Update mattermost to 7.5.1
+- 2023-1-26 – Update mattermost to 7.7
 
 ## Contributors
 

@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | hedgedoc
-App Service Image | - | yes | linuxserver/hedgedoc:1.9.4
+App Service Image | - | yes | linuxserver/hedgedoc:1.9.6
 
 ## Screenshots
 

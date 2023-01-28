@@ -21,7 +21,7 @@ Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sshwifty
-App Service Image | - | yes | niruix/sshwifty:0.2.31-beta-release
+App Service Image | - | yes | niruix/sshwifty:0.2.32-beta-release
 
 ## Screenshots
 

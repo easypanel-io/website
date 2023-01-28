@@ -12,6 +12,10 @@ description: How to install Ploi Roadmap on Easypanel? 1-Click installation temp
 
 Welcome to Roadmap, the open-source software for your roadmapping needs.
 
+## Instructions
+
+After First Deployment, run "php artisan roadmap:install" to setup the inital user account.
+
 ## Links
 
 - [Github](https://github.com/ploi-deploy/roadmap)
@@ -21,7 +25,7 @@ Welcome to Roadmap, the open-source software for your roadmapping needs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ploi-roadmap
-App Service Image | - | yes | jphj/ploi-roadmap:1.33
+App Service Image | - | yes | ghcr.io/easypanel-community/docker-ploi-roadmap:1.36
 Database Service Name | - | yes | ploi-roadmap-db
 Admin Notifications | - | yes | true
 Language | - | yes | en
@@ -34,6 +38,7 @@ Timezone | - | yes | utc
 ## Change Log
 
 - 2023-1-6 – first release
+- 2023-01-27 – Package and Image Fix
 
 ## Contributors
 

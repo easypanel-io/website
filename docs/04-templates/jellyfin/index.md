@@ -27,7 +27,7 @@ Jellyfin takes a few minutes to get ready. Sit back, relax, and get some popcorn
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyfin
-App Service Image | - | yes | jellyfin/jellyfin:10.8.5
+App Service Image | - | yes | jellyfin/jellyfin:10.8.9
 
 ## Screenshots
 

@@ -22,7 +22,7 @@ Komga is a media server for your comics, mangas, BDs and magazines.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | komga
-App Service Image | - | yes | gotson/komga:0.157.5
+App Service Image | - | yes | gotson/komga:0.160.0
 
 ## Screenshots
 

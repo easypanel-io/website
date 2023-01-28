@@ -22,16 +22,20 @@ https://github.com/boypt/simple-torrent/wiki
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lenpaste
-App Service Image | - | yes | git.lcomrade.su/root/lenpaste:1.2
+App Service Image | - | yes | git.lcomrade.su/root/lenpaste:1.3
 
 ## Screenshots
 
-![Lenpaste Screenshot](./assets/screenshot.png)
+![Lenpaste Screenshot](./assets/screenshot1.png)
+![Lenpaste Screenshot](./assets/screenshot2.png)
+![Lenpaste Screenshot](./assets/screenshot3.png)
 
 ## Change Log
 
+- 2023-1-28 – update to v1.3
 - 2022-12-20 – first release
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Leonid Maslakov](https://lcomrade.su)

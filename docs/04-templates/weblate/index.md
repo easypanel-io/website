@@ -27,7 +27,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | weblate
-App Service Image | - | yes | weblate/weblate:4.14.2-1
+App Service Image | - | yes | weblate/weblate:4.15.1-1
 Database Service Name | - | yes | weblate-db
 Redis Service Name | - | yes | weblate-redis
 No Reply Email | - | yes | 

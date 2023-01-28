@@ -27,7 +27,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | paperlessngx
-App Service Image | - | yes | paperlessngx/paperless-ngx:1.9.2
+App Service Image | - | yes | paperlessngx/paperless-ngx:1.11.3
 Redis Service Name | - | yes | paperlessngx-redis
 
 ## Screenshots

@@ -23,7 +23,7 @@ An open-source, self-hosted memo hub with knowledge management and socialization
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | memos
-App Service Image | - | yes | neosmemo/memos:0.8.3
+App Service Image | - | yes | neosmemo/memos:0.10.2
 Timezone | - | no | America/New_York
 
 ## Screenshots

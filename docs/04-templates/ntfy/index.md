@@ -23,7 +23,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | ntfy
-App Service Image | - | yes | binwiederhier/ntfy:v1.29.1
+App Service Image | - | yes | binwiederhier/ntfy:v1.30.1
 
 ## Screenshots
 

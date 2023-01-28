@@ -23,7 +23,7 @@ A lightweight Node.js private proxy registry
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | verdaccio
-App Service Image | - | yes | verdaccio/verdaccio:5.15
+App Service Image | - | yes | verdaccio/verdaccio:5.19.1
 
 ## Screenshots
 

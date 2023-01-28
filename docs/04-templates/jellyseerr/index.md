@@ -26,7 +26,7 @@ none
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyseerr
-App Service Image | - | yes | fallenbagel/jellyseerr:1.2.1
+App Service Image | - | yes | fallenbagel/jellyseerr:1.3.0
 
 ## Screenshots
 
