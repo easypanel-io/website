@@ -255,7 +255,7 @@ const Pricing = () => {
                 <Feature soon>Database backups</Feature>
                 <Feature soon>Multiple users</Feature>
                 <Feature soon>Access control</Feature>
-                <Feature soon>Whilelabeling</Feature>
+                <Feature soon>Whitelabeling</Feature>
                 <Feature>Priority support</Feature>
               </ul>
             </div>
