@@ -16,17 +16,17 @@ The most popular FOSS online survey tool on the web.
 
 - [Website](https://limesurvey.org/)
 - [Documentation](https://manual.limesurvey.org)
-- [Github](https://github.com/WordPress/WordPress)
+- [Github](https://github.com/LimeSurvey/LimeSurvey)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | wordpress
+App Service Name | - | yes | limesurvey
 App Service Image | - | yes | tiredofit/limesurvey:1.5.10
 Database Service Name | - | yes | limesurvey-db
 Username | - | yes | 
-Password | - | no | 
+Password | - | yes | 
 
 ## Screenshots
 

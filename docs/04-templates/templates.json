@@ -90,6 +90,12 @@
     "description": "Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications."
   },
   {
+    "slug": "cyberchef",
+    "logo": "logo.png",
+    "name": "CyberChef",
+    "description": "CyberChef is a simple, intuitive web app for carrying out all manner of \"cyber\" operations within a web browser."
+  },
+  {
     "slug": "dashy",
     "logo": "logo.png",
     "name": "Dashy",
@@ -196,6 +202,12 @@
     "logo": "logo.svg",
     "name": "Freshrss",
     "description": "Freshrss is a free, self-hostable aggregator for rss feeds."
+  },
+  {
+    "slug": "ghost-file-sharing",
+    "logo": "logo.png",
+    "name": "Ghost File Sharing",
+    "description": "Ghost File Sharing Service is a simple Golang clone of 0x0.st CDN."
   },
   {
     "slug": "ghost",
@@ -309,7 +321,7 @@
     "slug": "lenpaste",
     "logo": null,
     "name": "Lenpaste",
-    "description": "https://github.com/boypt/simple-torrent/wiki"
+    "description": "A web service that allows you to share notes anonymously, an alternative to pastebin.com"
   },
   {
     "slug": "libreoffice",
@@ -328,6 +340,12 @@
     "logo": "logo.png",
     "name": "Limesurvey",
     "description": "The most popular FOSS online survey tool on the web."
+  },
+  {
+    "slug": "listmonk",
+    "logo": "logo.svg",
+    "name": "Listmonk",
+    "description": "Listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database."
   },
   {
     "slug": "lychee",
@@ -412,6 +430,12 @@
     "logo": "logo.png",
     "name": "Nextcloud",
     "description": "The self-hosted productivity platform that keeps you in control"
+  },
+  {
+    "slug": "nocodb",
+    "logo": "logo.png",
+    "name": "NocoDB",
+    "description": "NocoDB is an open source Airtable alternative and no code platform that turns any database into a smart spreadsheet."
   },
   {
     "slug": "nodered",
@@ -540,6 +564,12 @@
     "description": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported."
   },
   {
+    "slug": "rallly",
+    "logo": "logo.png",
+    "name": "Rallly",
+    "description": "Schedule group meetings with friends, colleagues and teams. Create meeting polls to find the best date and time to organize an event based on your participants' availability. Save time and avoid back-and-forth emails."
+  },
+  {
     "slug": "registry",
     "logo": "logo.png",
     "name": "Registry",
@@ -564,10 +594,22 @@
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
   },
   {
+    "slug": "rotki",
+    "logo": "logo.png",
+    "name": "Rotki",
+    "description": "Rotki is an open source portfolio tracking, analytics, accounting, and tax reporting tool that protects your privacy."
+  },
+  {
     "slug": "serpbear",
     "logo": "logo.png",
     "name": "SerpBear",
     "description": "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
+  },
+  {
+    "slug": "servas",
+    "logo": "logo.svg",
+    "name": "Servas",
+    "description": "A self-hosted bookmark management tool. Servas is based on Laravel and Inertia.js and uses Tailwind CSS and Svelte for the frontend."
   },
   {
     "slug": "silicon-notes",

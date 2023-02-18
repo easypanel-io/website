@@ -10,7 +10,7 @@ description: How to install Lenpaste on Easypanel? 1-Click installation template
 
 ## Description
 
-https://github.com/boypt/simple-torrent/wiki
+A web service that allows you to share notes anonymously, an alternative to pastebin.com
 
 ## Links
 
