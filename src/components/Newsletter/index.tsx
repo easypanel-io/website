@@ -21,7 +21,7 @@ export default function Newsletter(): JSX.Element {
           </div>
         </div>
         <form
-          action="https://www.getrevue.co/profile/easypanel/add_subscriber"
+          action="https://news.easypanel.io/subscription/form"
           method="post"
           target="_blank"
           className={styles.form}
@@ -29,13 +29,17 @@ export default function Newsletter(): JSX.Element {
           <input
             placeholder="Email address"
             type="email"
-            name="member[email]"
+            name="email"
             className={clsx(styles.input, "button")}
+          />
+          <input
+            type="hidden"
+            name="l"
+            value="adbdd93a-f80a-4639-8e1e-1aa6cbfaa91f"
           />
           <input
             type="submit"
             value="Subscribe"
-            name="member[subscribe]"
             className={clsx(styles.button, "button button--primary")}
           />
         </form>
