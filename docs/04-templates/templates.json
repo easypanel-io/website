@@ -90,6 +90,12 @@
     "description": "Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications."
   },
   {
+    "slug": "coralproject",
+    "logo": "logo.png",
+    "name": "Coral",
+    "description": "Coral improves community on your website through smart technology, effective design, and strategies that work."
+  },
+  {
     "slug": "cyberchef",
     "logo": "logo.png",
     "name": "CyberChef",
@@ -222,10 +228,22 @@
     "description": "Gitea is a community managed lightweight code hosting solution written in Go. Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc.Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi"
   },
   {
+    "slug": "gotenberg",
+    "logo": "logo.png",
+    "name": "Gotenberg",
+    "description": "Gotenberg is a Docker-powered stateless API for PDF files."
+  },
+  {
     "slug": "gotify",
     "logo": "logo.png",
     "name": "Gotify",
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
+  },
+  {
+    "slug": "hammond",
+    "logo": null,
+    "name": "Hammond",
+    "description": "Self hosted vehicle and expense management system. Like Clarkson, but better"
   },
   {
     "slug": "hastebin",
@@ -270,10 +288,22 @@
     "description": "HumHub is an intuitive to use and modular designed open-source software, used primarily as social network, knowledge database, intranet or information and communication platform."
   },
   {
+    "slug": "icecoder",
+    "logo": "logo.png",
+    "name": "ICEcoder",
+    "description": "ICEcoder is a browser based code editor, which provides a modern approach to building websites."
+  },
+  {
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy",
     "description": "imgproxy is a fast and secure standalone server for resizing and converting remote images. imgproxy resizes and processes images on the fly and doesn’t consume disk space"
+  },
+  {
+    "slug": "isso",
+    "logo": "logo.svg",
+    "name": "Isso",
+    "description": "Isso – Ich schrei sonst – is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus."
   },
   {
     "slug": "jellyfin",
@@ -462,6 +492,12 @@
     "description": "Odoo, formerly known as OpenERP, is a suite of open-source business apps written in Python and released under the LGPL license."
   },
   {
+    "slug": "onedev",
+    "logo": "logo.svg",
+    "name": "OneDev",
+    "description": "OneDev is a self-hosted git server with kanban and CI/CD"
+  },
+  {
     "slug": "openspeedtest",
     "logo": "logo.png",
     "name": "OpenSpeedTest",
@@ -472,6 +508,12 @@
     "logo": "logo.png",
     "name": "Outline Wiki",
     "description": "A fast, collaborative, knowledge base for your team built using React and Node.js."
+  },
+  {
+    "slug": "owncast",
+    "logo": "logo.png",
+    "name": "Owncast",
+    "description": "A lightweight Node.js private proxy registry"
   },
   {
     "slug": "oxigen",

@@ -38,4 +38,5 @@ Admin Password | - | yes |
 
 ## Contributors
 
-- [SerbanAlexandru](https://github.com/serban-alexandru)
+- [Serban Alexandru](https://github.com/serban-alexandru)
+- [Supernova3339](https://github.com/supernova3339)
