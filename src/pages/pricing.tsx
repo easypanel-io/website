@@ -207,8 +207,8 @@ const Pricing = () => {
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Monitoring</Feature>
                 <Feature soon>Database backups</Feature>
-                <Feature soon>Multiple users</Feature>
-                <Feature soon>Access control</Feature>
+                <Feature>Multiple users</Feature>
+                <Feature>Access control</Feature>
               </ul>
             </div>
 
@@ -253,8 +253,8 @@ const Pricing = () => {
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Monitoring</Feature>
                 <Feature soon>Database backups</Feature>
-                <Feature soon>Multiple users</Feature>
-                <Feature soon>Access control</Feature>
+                <Feature>Multiple users</Feature>
+                <Feature>Access control</Feature>
                 <Feature soon>Whitelabeling</Feature>
                 <Feature>Priority support</Feature>
               </ul>
