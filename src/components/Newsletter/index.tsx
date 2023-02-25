@@ -1,3 +1,4 @@
+import Link from "@docusaurus/Link";
 import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
@@ -9,15 +10,8 @@ export default function Newsletter(): JSX.Element {
         <div>
           <h2 className={styles.heading}>Subscribe for product updates</h2>
           <div className={styles.subheading}>
-            By subscribing, you agree with our{" "}
-            <a target="_blank" href="/terms">
-              Terms of Service
-            </a>{" "}
-            and{" "}
-            <a target="_blank" href="/privacy">
-              Privacy Policy
-            </a>
-            .
+            By subscribing, you agree with our <Link href="/terms">Terms</Link>{" "}
+            and <Link href="/privacy">Privacy Policy</Link>.
           </div>
         </div>
         <form
