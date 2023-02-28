@@ -1,6 +1,6 @@
 ---
 slug: changelog-february-2023
-title: Changelog February 2022
+title: Changelog February 2023
 authors: [deiucanta]
 ---
 
