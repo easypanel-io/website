@@ -12,7 +12,7 @@ In addition to using third-party S3 providers, it is also possible to set up you
 
 ## Requirements
 
-- A server running Easypanel with databases
+- A server running Easypanel with at least one database
 - An account from your S3 provider and credentials to access your bucket
 - A freshly prepared bucket
 
@@ -30,7 +30,12 @@ All the following fields are required, if your configuration is wrong easypanel 
 - Region
 - Endpoint
 
-# Setup by provider
+ :::warning
+ If you misconfigured your crendential's permissions Easypanel won't warn you!  
+ Your crendentials needs a read/write access to your bucket!
+ :::
+
+## Providers
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
@@ -39,3 +44,19 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 <DocCardList items={useCurrentSidebarCategory().items}/>
 ```
 
+## Setup your database
+
+Once you've configured your storage provider, it's time to configure your database backup recurrence.
+Each database service setup by Easypanel has it's own configuration. The backup feature is disabled by default, you need to enable it!
+
+To configure it, go to your database service then scroll down to the 'backups' section.
+This section allows you to choose which destination is targeted and which prefix your want for your database.
+
+A prefix is appended to the final filename that will be uploaded to your storage provider. For some storage providers it will appear as a folder. For example you can set your database name or service name!
+
+The schedule field sets a time interval for the backup to run. It is based on the CRON's format.
+You can make your own interval easily using [`Cronitor`](https://crontab.guru/).
+
+:::warning
+This field currently has no validation. If typed incorrectly, it won't work!
+:::
