@@ -14,9 +14,9 @@ Schedule group meetings with friends, colleagues and teams. Create meeting polls
 
 ## Links
 
-- [Website](https://fider.io)
-- [Documentation](https://fider.io/docs)
-- [Github](https://github.com/getfider/fider)
+- [Website](https://rallly.co)
+- [Documentation](https://support.rallly.co/)
+- [Github](https://github.com/lukevella/rallly)
 
 ## Options
 
