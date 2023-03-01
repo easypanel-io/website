@@ -35,15 +35,6 @@ All the following fields are required, if your configuration is wrong easypanel 
  Your crendentials needs a read/write access to your bucket!
  :::
 
-## Providers
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
-
-<DocCardList items={useCurrentSidebarCategory().items}/>
-```
-
 ## Setup your database
 
 Once you've configured your storage provider, it's time to configure your database backup recurrence.
