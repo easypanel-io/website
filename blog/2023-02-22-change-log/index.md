@@ -1,6 +1,6 @@
 ---
 slug: changelog-february-2023
-title: Changelog February 2023
+title: 120+ Templates, User Management, and Access Control
 authors: [deiucanta]
 ---
 
