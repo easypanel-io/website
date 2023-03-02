@@ -46,7 +46,7 @@ This section allows you to choose which destination is targeted and which prefix
 A prefix is appended to the final filename that will be uploaded to your storage provider. For some storage providers it will appear as a folder. For example you can set your database name or service name!
 
 The schedule field sets a time interval for the backup to run. It is based on the CRON's format.
-You can make your own interval easily using [`Cronitor`](https://crontab.guru/).
+You can make your own cron expression easily using [`crontab.guru`](https://crontab.guru/).
 
 :::warning
 This field currently has no validation. If typed incorrectly, it won't work!
