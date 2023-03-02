@@ -14,7 +14,8 @@ SerpBear is an Open Source Search Engine Position Tracking App. It allows you to
 
 ## Links
 
-- [Documentation](https://docs.serpbear.com/)
+- [Website](https://serpbear.com)
+- [Documentation](https://docs.serpbear.com)
 - [Github](https://github.com/towfiqi/serpbear)
 
 ## Options

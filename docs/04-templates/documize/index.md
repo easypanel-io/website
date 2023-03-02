@@ -23,7 +23,7 @@ Documize Community is an open source, self-hosted, modern, lightweight alternati
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | documize
-App Service Image | - | yes | ghcr.io/easypanel-community/docker-documize:5.4.2
+App Service Image | - | yes | ghcr.io/easypanel-community/docker-documize:5.5.0
 Database Service Name | - | yes | documize-db
 
 ## Screenshots
@@ -33,6 +33,7 @@ Database Service Name | - | yes | documize-db
 ## Change Log
 
 - 2023-1-24 – first release
+- 2023-2-24 – Update to 5.5.0
 
 ## Contributors
 

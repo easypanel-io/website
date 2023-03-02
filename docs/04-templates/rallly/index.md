@@ -14,9 +14,10 @@ Schedule group meetings with friends, colleagues and teams. Create meeting polls
 
 ## Links
 
-- [Website](https://fider.io)
-- [Documentation](https://fider.io/docs)
-- [Github](https://github.com/getfider/fider)
+- [Website](https://rallly.co)
+- [Documentation](https://support.rallly.co/)
+- [Selfhosting Instructions](https://github.com/lukevella/rallly-selfhosted)
+- [Github](https://github.com/lukevella/rallly)
 
 ## Options
 
@@ -24,7 +25,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rallly
 Domain | - | yes | 
-App Service Image | - | yes | lukevella/rallly:b554f52f5a5069d800969d18cce63aad332a706a
+App Service Image | - | yes | lukevella/rallly:2.1.1
 Database Service Name | - | yes | rallly-db
 Support Email | - | yes | 
 Email Host | - | yes | 

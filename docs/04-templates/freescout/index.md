@@ -16,7 +16,7 @@ FreeScout is the super lightweight and powerful free open source help desk and s
 
 - [Website](https://freescout.net)
 - [Documentation](https://github.com/freescout-helpdesk/freescout/wiki)
-- [Github](hhttps://github.com/freescout-helpdesk/freescout/)
+- [Github](https://github.com/freescout-helpdesk/freescout/)
 
 ## Options
 
@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | freescout
-App Service Image | - | yes | tiredofit/freescout:php8.1-1.16.22
+App Service Image | - | yes | tiredofit/freescout:php8.1-1.16.25
 Database Service Name | - | yes | freescout-db
 Email | - | yes | changeme@easypanel.io
 Password | - | yes | changeme
@@ -38,6 +38,7 @@ Password | - | yes | changeme
 ## Change Log
 
 - 2023-1-4 – first release
+- 2023-2-23 – Update to v1.16.25
 
 ## Contributors
 

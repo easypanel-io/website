@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 Default Locale | - | yes | en
 App Service Name | - | yes | chatwoot
-App Service Image | - | yes | chatwoot/chatwoot:v2.13.0-ce
+App Service Image | - | yes | chatwoot/chatwoot:v2.14.0-ce
 Database Service Name | - | yes | chatwoot-db
 Redis Service Name | - | yes | chatwoot-redis
 

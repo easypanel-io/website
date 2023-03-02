@@ -10,7 +10,7 @@ description: How to install Silicon Notes on Easypanel? 1-Click installation tem
 
 ## Description
 
-https://github.com/cu/silicon
+A somewhat lightweight, low-friction personal knowledge base.
 
 ## Links
 

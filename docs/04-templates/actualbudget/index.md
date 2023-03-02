@@ -23,7 +23,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | actualbudget
 Domain | - | no | 
-App Service Image | - | yes | ghcr.io/actualbudget/actual-server:23.1.12
+App Service Image | - | yes | ghcr.io/actualbudget/actual-server:23.2.9
 
 ## Screenshots
 

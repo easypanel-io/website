@@ -27,7 +27,7 @@ Go to /install and select sqlite database
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | answer
-App Service Image | - | yes | answerdev/answer:1.0.0
+App Service Image | - | yes | answerdev/answer:1.0.4
 
 ## Screenshots
 

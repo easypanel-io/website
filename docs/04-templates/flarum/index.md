@@ -27,7 +27,7 @@ Please use the credentials flarum:flarum to login.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flarum
-App Service Image | - | yes | crazymax/flarum:1.5.0
+App Service Image | - | yes | crazymax/flarum:1.6.2
 App Domain | - | yes | 
 Database Type | - | yes | mariadb
 Database Service Name (URL if external) | - | yes | flarum-db
@@ -43,6 +43,7 @@ Database User Password (blank to randomly generated) | - | no |
 ## Change Log
 
 - 2022-10-31 – first release
+- 2023-2-24 – Update to v1.6.2
 
 ## Contributors
 

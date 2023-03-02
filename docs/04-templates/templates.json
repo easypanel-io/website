@@ -6,8 +6,14 @@
     "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface."
   },
   {
+    "slug": "activepieces",
+    "logo": "logo.svg",
+    "name": "Activepieces",
+    "description": "No-code Business Automation Tool. An open source alternative to Zapier."
+  },
+  {
     "slug": "actualbudget",
-    "logo": null,
+    "logo": "logo.png",
     "name": "Actual Budget",
     "description": "Actual is a local-first personal finance tool. It is 100% free and open-source, written in NodeJS, it has a synchronization element so that all your changes can move between devices without any heavy lifting."
   },
@@ -78,6 +84,12 @@
     "description": "Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc."
   },
   {
+    "slug": "clickhouse",
+    "logo": "logo.png",
+    "name": "Clickhouse",
+    "description": "ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time."
+  },
+  {
     "slug": "codex-docs",
     "logo": "logo.svg",
     "name": "CodeX Docs",
@@ -94,6 +106,12 @@
     "logo": "logo.png",
     "name": "Coral",
     "description": "Coral improves community on your website through smart technology, effective design, and strategies that work."
+  },
+  {
+    "slug": "cubejs",
+    "logo": "logo.png",
+    "name": "CubeJS",
+    "description": "Cube — The Semantic Layer for Building Data Applications"
   },
   {
     "slug": "cyberchef",
@@ -175,7 +193,7 @@
   },
   {
     "slug": "filezilla",
-    "logo": null,
+    "logo": "logo.png",
     "name": "Filezilla Client",
     "description": "FIleZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface."
   },
@@ -184,6 +202,12 @@
     "logo": "logo.svg",
     "name": "Firefox",
     "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+  },
+  {
+    "slug": "fireshare",
+    "logo": "logo.png",
+    "name": "Fireshare",
+    "description": "Share your game clips, videos, or other media via unique links."
   },
   {
     "slug": "flame",
@@ -340,6 +364,12 @@
     "logo": "logo.svg",
     "name": "Komga",
     "description": "Komga is a media server for your comics, mangas, BDs and magazines."
+  },
+  {
+    "slug": "languagetool",
+    "logo": "logo.svg",
+    "name": "Languagetool",
+    "description": "LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect."
   },
   {
     "slug": "lavalink",
@@ -516,6 +546,12 @@
     "description": "A lightweight Node.js private proxy registry"
   },
   {
+    "slug": "owncloud",
+    "logo": "logo.png",
+    "name": "Owncloud",
+    "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device."
+  },
+  {
     "slug": "oxigen",
     "logo": "logo.svg",
     "name": "Oxigen",
@@ -657,13 +693,13 @@
     "slug": "silicon-notes",
     "logo": "logo.png",
     "name": "Silicon Notes",
-    "description": "https://github.com/cu/silicon"
+    "description": "A somewhat lightweight, low-friction personal knowledge base."
   },
   {
     "slug": "simpletorrent",
     "logo": "logo.png",
     "name": "SimpleTorrent",
-    "description": "https://github.com/boypt/simple-torrent/wiki"
+    "description": "SimpleTorrent is a a self-hosted remote torrent client, written in Go (golang). Started torrents remotely, download sets of files on the local disk of the server, which are then retrievable or streamable via HTTP."
   },
   {
     "slug": "soketi",
@@ -702,10 +738,22 @@
     "description": "SuiteCRM is a completely open source, enterprise-grade Customer Relationship Management (CRM) application."
   },
   {
+    "slug": "supertokens-core",
+    "logo": "logo.svg",
+    "name": "Supertokens Core",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito - Backend Server"
+  },
+  {
     "slug": "tautulli",
     "logo": "logo.png",
     "name": "Tautuilli",
     "description": "Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics. Most importantly, these statistics include what has been watched, who watched it, when and where they watched it, and how it was watched."
+  },
+  {
+    "slug": "typebot",
+    "logo": "logo.svg",
+    "name": "Typebot",
+    "description": "The open-source conversational forms builder"
   },
   {
     "slug": "typesense",
@@ -772,6 +820,18 @@
     "logo": "logo.svg",
     "name": "Wiki.js",
     "description": "Extensible open source Wiki software.Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite! Running on the blazing fast Node.js engine, Wiki.js is built with performance in mind."
+  },
+  {
+    "slug": "windmill",
+    "logo": "logo.svg",
+    "name": "Windmill",
+    "description": "Open-source developer platform to turn scripts into workflows and UIs."
+  },
+  {
+    "slug": "wizarr",
+    "logo": "logo.png",
+    "name": "Wizarr",
+    "description": "Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby, etc"
   },
   {
     "slug": "wordpress",

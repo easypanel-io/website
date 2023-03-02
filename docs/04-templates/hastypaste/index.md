@@ -26,7 +26,7 @@ Hasty Paste takes a minute or two on first launch.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hastypaste
-App Service Image | - | yes | ghcr.io/enchant97/hasty-paste:1.8.0
+App Service Image | - | yes | ghcr.io/enchant97/hasty-paste:1.9.0
 Redis Service Name | - | yes | hastypaste-redis
 
 ## Screenshots
@@ -36,6 +36,7 @@ Redis Service Name | - | yes | hastypaste-redis
 ## Change Log
 
 - 2022-10-30 – first release
+- 2023-2-24 – Update to v1.9.0
 
 ## Contributors
 

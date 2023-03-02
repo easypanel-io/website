@@ -23,7 +23,7 @@ Coral improves community on your website through smart technology, effective des
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coral
-App Service Image | - | yes | coralproject/talk:7.4.6
+App Service Image | - | yes | coralproject/talk:7.4.7
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
 

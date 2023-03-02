@@ -27,7 +27,7 @@ To generate a image URL you can use the following link: https://progapandist.git
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | imgproxy
-App Service Image | - | yes | darthsim/imgproxy:v3.8.0
+App Service Image | - | yes | darthsim/imgproxy:v3.13.2
 
 ## Screenshots
 

@@ -14,6 +14,7 @@ Emby organizes video, music, live TV, and photos from personal media libraries a
 
 ## Links
 
+- [Website](https://emby.media/)
 - [Documentation](https://support.emby.media/support/home)
 - [Github](https://github.com/MediaBrowser/Emby)
 
@@ -22,7 +23,7 @@ Emby organizes video, music, live TV, and photos from personal media libraries a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emby
-App Service Image | - | yes | lscr.io/linuxserver/emby:latest
+App Service Image | - | yes | lscr.io/linuxserver/emby:4.7.11
 
 ## Screenshots
 
@@ -31,6 +32,7 @@ App Service Image | - | yes | lscr.io/linuxserver/emby:latest
 ## Change Log
 
 - 2022-11-21 – first release
+- 2023-2-24 – Upgrade to v4.7.11
 
 ## Contributors
 

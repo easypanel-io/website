@@ -22,7 +22,7 @@ The best and simplest self-hosted free open source website change detection trac
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | changedetection
-App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.39.19
+App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.40.2
 
 ## Screenshots
 
@@ -36,3 +36,4 @@ App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.39.19
 
 - [Bedeoan Raul](https://github.com/bedeoan)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/Supernova3339)
