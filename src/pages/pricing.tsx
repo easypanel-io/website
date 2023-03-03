@@ -158,7 +158,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Monitoring</Feature>
-                <Feature soon>Database Backups</Feature>
+                <Feature>Database Backups</Feature>
               </ul>
             </div>
 
@@ -206,7 +206,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Monitoring</Feature>
-                <Feature soon>Database backups</Feature>
+                <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
               </ul>
@@ -252,7 +252,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Monitoring</Feature>
-                <Feature soon>Database backups</Feature>
+                <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
                 <Feature soon>Whitelabeling</Feature>
