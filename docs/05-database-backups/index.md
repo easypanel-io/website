@@ -1,6 +1,4 @@
-# Introduction
-
-Easypanel now supports database backups!
+# Database Backups
 
 The process of creating backups typically involves taking a snapshot of the data at a specific point in time and storing it in a separate location. This can be done manually or using Easypanel's automated backup.
 
@@ -30,10 +28,10 @@ All the following fields are required, if your configuration is wrong easypanel 
 - Region
 - Endpoint
 
- :::warning
- If you misconfigured your crendential's permissions Easypanel won't warn you!  
+:::warning
+If you misconfigured your crendential's permissions Easypanel won't warn you!  
  Your crendentials needs a read/write access to your bucket!
- :::
+:::
 
 ## Setup your database
 
