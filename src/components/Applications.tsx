@@ -23,7 +23,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Cloud-Secure.svg").default,
     description: (
       <>
-        With a simple checkbox you get auto-renewable Let's Encrypt
+        With a simple checkbox, you'll get auto-renewable Let's Encrypt
         certificates.
       </>
     ),
@@ -33,7 +33,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/Cursor-Click2.svg").default,
     description: (
       <>
-        Create a website in seconds. We've even got wordpress!
+        Easily deployable templates, ready in seconds.
       </>
     ),
   },
