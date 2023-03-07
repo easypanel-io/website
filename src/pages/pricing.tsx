@@ -9,6 +9,7 @@ export default function Page(): JSX.Element {
       description="Easypanel comes in two editons: developer edition and business edition. The developer edition will always be free."
     >
       <Pricing />
+      <FAQs />
     </Layout>
   );
 }
@@ -277,3 +278,80 @@ const Pricing = () => {
     </section>
   );
 };
+
+import { Disclosure } from "@headlessui/react";
+import { MinusSmallIcon, PlusSmallIcon } from "@heroicons/react/24/outline";
+
+const faqItems = [
+  {
+    question: "What's the best thing about Switzerland?",
+    answer:
+      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  {
+    question: "What's the best thing about Switzerland?",
+    answer:
+      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  {
+    question: "What's the best thing about Switzerland?",
+    answer:
+      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  {
+    question: "What's the best thing about Switzerland?",
+    answer:
+      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  // More questions...
+];
+
+export function FAQs() {
+  return (
+    <div className="tw-mx-auto tw-max-w-7xl tw-px-6 tw-py-24 sm:tw-py-32 lg:tw-py-40 lg:tw-px-8">
+      <div className="tw-mx-auto tw-max-w-4xl tw-divide-y tw-divide-white/10">
+        <h2 className="tw-text-2xl tw-font-bold tw-leading-10 tw-tracking-tight tw-text-white">
+          Frequently asked questions
+        </h2>
+        <dl className="tw-mt-10 tw-space-y-6 tw-divide-y tw-divide-white/10">
+          {faqItems.map((faq) => (
+            <Disclosure as="div" key={faq.question} className="tw-pt-6">
+              {({ open }) => (
+                <>
+                  <dt>
+                    <Disclosure.Button className="tw-flex tw-w-full tw-items-start tw-justify-between tw-text-left tw-text-white tw-bg-transparent tw-border-none tw-pl-0">
+                      <span className="tw-text-base tw-font-semibold tw-leading-7">
+                        {faq.question}
+                      </span>
+                      <span className="tw-ml-6 tw-flex tw-h-7 tw-items-center">
+                        {open ? (
+                          <MinusSmallIcon
+                            className="tw-h-6 tw-w-6"
+                            aria-hidden="true"
+                          />
+                        ) : (
+                          <PlusSmallIcon
+                            className="tw-h-6 tw-w-6"
+                            aria-hidden="true"
+                          />
+                        )}
+                      </span>
+                    </Disclosure.Button>
+                  </dt>
+                  <Disclosure.Panel
+                    as="dd"
+                    className="tw-mt-2 tw-pr-12 tw-ml-0"
+                  >
+                    <p className="tw-text-base tw-leading-7 tw-text-gray-300">
+                      {faq.answer}
+                    </p>
+                  </Disclosure.Panel>
+                </>
+              )}
+            </Disclosure>
+          ))}
+        </dl>
+      </div>
+    </div>
+  );
+}
