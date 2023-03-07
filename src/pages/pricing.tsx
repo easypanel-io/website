@@ -9,6 +9,7 @@ export default function Page(): JSX.Element {
       description="Easypanel comes in two editons: developer edition and business edition. The developer edition will always be free."
     >
       <Pricing />
+      <FAQs />
     </Layout>
   );
 }
@@ -277,3 +278,70 @@ const Pricing = () => {
     </section>
   );
 };
+
+const faqItems = [
+  {
+    question: "What is a licence?",
+    answer:
+      "One licence is right to use Easypanel on one server (node, vm, or instance). Right now, each licence is connected to an IP address.",
+  },
+  {
+    question: "Do you have a refund policy?",
+    answer:
+      "Yes, we have a 30-day money-back guarantee. Send us an email at support@easypanel.io.",
+  },
+  {
+    question: "Do you offer a trial?",
+    answer:
+      "Unfortuantely not. Our free plan is very generous and you can get a very good feel of the product just by using that. If you want, just buy a premium plan without worring since we have a 30-day money-back refund policy.",
+  },
+  {
+    question: "What payment options do you have?",
+    answer:
+      "Our payments are processed by Paddle. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+  },
+  {
+    question: "What happens if I cancel my subscription?",
+    answer: "Don't worry, Easypanel will continue to work on the free plan.",
+  },
+  {
+    question: "I need more than 10 licences. What do I do?",
+    answer:
+      "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
+  },
+];
+
+export function FAQs() {
+  return (
+    <div className="tw-mx-auto tw-max-w-7xl tw-py-16 tw-px-6 sm:tw-py-24 lg:tw-px-8">
+      <h2 className="tw-text-2xl tw-font-bold tw-leading-10 tw-tracking-tight tw-text-white">
+        Frequently asked questions
+      </h2>
+      <p className="tw-mt-6 tw-max-w-2xl tw-text-base tw-leading-7 tw-text-gray-400">
+        Have a different question and can’t find the answer you’re looking for?
+        Reach out to our support team by{" "}
+        <Link
+          href="mailto:support@easypanel.io"
+          className="tw-font-semibold tw-text-emerald-600 hover:tw-text-emerald-500"
+        >
+          sending us an email
+        </Link>{" "}
+        and we’ll get back to you as soon as we can.
+      </p>
+      <div className="tw-mt-20">
+        <dl className="tw-space-y-16 sm:tw-grid sm:tw-grid-cols-2 sm:tw-gap-x-6 sm:tw-gap-y-16 sm:tw-space-y-0 lg:tw-gap-x-10">
+          {faqItems.map((faq, index) => (
+            <div key={index}>
+              <dt className="tw-text-base tw-font-semibold tw-leading-7 tw-text-white">
+                {faq.question}
+              </dt>
+              <dd className="tw-mt-2 tw-ml-0 tw-text-base tw-leading-7 tw-text-gray-400">
+                {faq.answer}
+              </dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </div>
+  );
+}
