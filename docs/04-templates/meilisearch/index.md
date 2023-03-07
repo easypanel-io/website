@@ -17,13 +17,14 @@ Meilisearch is a lightning-fast search engine that fits effortlessly into your a
 - [Website](https://meilisearch.com/)
 - [Documentation](https://docs.meilisearch.com/)
 - [Github](https://github.com/meilisearch/meilisearch/)
+- [Discord](https://discord.gg/meilisearch)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | meilisearch
-App Service Image | - | yes | getmeili/meilisearch:v0.29
+App Service Image | - | yes | getmeili/meilisearch:v0.30
 Meilisearch Database Volume Name | - | yes | meilisearch
 Meilisearch Environment | - | yes | production
 Meilisearch Master Key | - | no | 

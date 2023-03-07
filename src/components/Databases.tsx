@@ -28,11 +28,11 @@ const features: Feature[] = [
     ),
   },
   {
-    title: "Automated Backups (soon)",
+    title: "Automated Backups",
     icon: require("@site/static/icons/Data-Backup.svg").default,
     description: (
       <>
-        Prevent data loss using periodic backups that are stored on the local or
+        Prevent data loss using periodic backups that are stored on local or
         remote, S3 compliant, disks.
       </>
     ),

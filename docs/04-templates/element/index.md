@@ -23,7 +23,7 @@ Element (formerly known as Vector and Riot) is a Matrix web client built using t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | element
-App Service Image | - | yes | vectorim/element-web:v1.11.12
+App Service Image | - | yes | vectorim/element-web:v1.11.23
 
 ## Screenshots
 
@@ -32,6 +32,7 @@ App Service Image | - | yes | vectorim/element-web:v1.11.12
 ## Change Log
 
 - 2022-10-28 – first release
+- 2023-2-24 – Update to v1.11.23
 
 ## Contributors
 

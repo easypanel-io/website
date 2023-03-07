@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.19.0-alpine
+App Service Image | - | yes | ghost:5.35.1-alpine
 Database Service Name | - | yes | ghost-db
 
 ## Screenshots
@@ -34,7 +34,9 @@ Database Service Name | - | yes | ghost-db
 ## Change Log
 
 - 2022-07-12 – first release
+- 2023-2-24 – Update to v5.35.1
 
 ## Contributors
 
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/supernova3339)

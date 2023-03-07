@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | gitea
-App Service Image | - | yes | gitea/gitea:1.17.2
+App Service Image | - | yes | gitea/gitea:1.18.4
 Database Type | - | yes | 
 Database Service Name | - | yes | gitea-db
 
@@ -35,8 +35,10 @@ Database Service Name | - | yes | gitea-db
 ## Change Log
 
 - 2022-07-12 – first release
+- 2023-2-24 – Update to v1.18.4
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/supernova3339)

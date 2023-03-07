@@ -6,16 +6,52 @@
     "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface."
   },
   {
+    "slug": "activepieces",
+    "logo": "logo.svg",
+    "name": "Activepieces",
+    "description": "No-code Business Automation Tool. An open source alternative to Zapier."
+  },
+  {
+    "slug": "actualbudget",
+    "logo": "logo.png",
+    "name": "Actual Budget",
+    "description": "Actual is a local-first personal finance tool. It is 100% free and open-source, written in NodeJS, it has a synchronization element so that all your changes can move between devices without any heavy lifting."
+  },
+  {
     "slug": "adminer",
     "logo": "logo.svg",
     "name": "Adminer",
     "description": "Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin."
   },
   {
+    "slug": "anonupload",
+    "logo": "logo.png",
+    "name": "AnonUpload",
+    "description": "AnonUpload is a simple, databaseless PHP file uploader."
+  },
+  {
+    "slug": "answer",
+    "logo": "logo.png",
+    "name": "Answer",
+    "description": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more."
+  },
+  {
     "slug": "appsmith",
     "logo": "logo.png",
     "name": "Appsmith",
     "description": "Appsmith is the open-source framework that lets your team build custom internal applications like dashboards, admin panels, CRUD apps faster, and together"
+  },
+  {
+    "slug": "authorizer",
+    "logo": "logo.png",
+    "name": "Authorizer",
+    "description": "Your data, your control. Fully open source, authentication and authorization."
+  },
+  {
+    "slug": "barrage",
+    "logo": "logo.png",
+    "name": "Barrage",
+    "description": "Minimal Deluge WebUI with full mobile support"
   },
   {
     "slug": "baserow",
@@ -42,16 +78,70 @@
     "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
   },
   {
+    "slug": "chatwoot",
+    "logo": "logo.svg",
+    "name": "Chatwoot",
+    "description": "Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc."
+  },
+  {
+    "slug": "clickhouse",
+    "logo": "logo.png",
+    "name": "Clickhouse",
+    "description": "ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time."
+  },
+  {
+    "slug": "codex-docs",
+    "logo": "logo.svg",
+    "name": "CodeX Docs",
+    "description": "CodeX Docs is a free docs application. It's based on Editor.js ecosystem which gives all modern opportunities for working with content."
+  },
+  {
+    "slug": "commento",
+    "logo": "logo.png",
+    "name": "Commento",
+    "description": "Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications."
+  },
+  {
+    "slug": "coralproject",
+    "logo": "logo.png",
+    "name": "Coral",
+    "description": "Coral improves community on your website through smart technology, effective design, and strategies that work."
+  },
+  {
+    "slug": "cubejs",
+    "logo": "logo.png",
+    "name": "CubeJS",
+    "description": "Cube — The Semantic Layer for Building Data Applications"
+  },
+  {
+    "slug": "cyberchef",
+    "logo": "logo.png",
+    "name": "CyberChef",
+    "description": "CyberChef is a simple, intuitive web app for carrying out all manner of \"cyber\" operations within a web browser."
+  },
+  {
     "slug": "dashy",
     "logo": "logo.png",
     "name": "Dashy",
     "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place"
   },
   {
+    "slug": "deluge",
+    "logo": "logo.png",
+    "name": "Deluge",
+    "description": "Deluge is a BitTorrent client that utilizes a daemon/client model. It has various user interfaces available such as the GTK-UI, Web-UI and Console-UI. It uses libtorrent at its core to handle the BitTorrent protocol."
+  },
+  {
     "slug": "directus",
     "logo": "logo.png",
     "name": "Directus",
     "description": "Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.Directus Flows are extremely flexible and easy to configure. Using a simple no-code interface, you can connect any number of operations to create simple or complex workflows that execute automatically in response to a trigger."
+  },
+  {
+    "slug": "documize",
+    "logo": "logo.png",
+    "name": "Documize",
+    "description": "Documize Community is an open source, self-hosted, modern, lightweight alternative to Confluence and other similar solutions."
   },
   {
     "slug": "domainmod",
@@ -84,16 +174,40 @@
     "description": "Element (formerly known as Vector and Riot) is a Matrix web client built using the Matrix React SDK."
   },
   {
+    "slug": "emby",
+    "logo": "logo.png",
+    "name": "Emby",
+    "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "fider",
+    "logo": "logo.png",
+    "name": "Fider",
+    "description": "Fider is a feedback portal that helps teams collect and prioritize customer feedback in one place, based on votes and ideas submitted."
+  },
+  {
     "slug": "filebrowser",
     "logo": "logo.png",
     "name": "Filebrowser",
     "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app."
   },
   {
+    "slug": "filezilla",
+    "logo": "logo.png",
+    "name": "Filezilla Client",
+    "description": "FIleZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface."
+  },
+  {
     "slug": "firefox",
     "logo": "logo.svg",
     "name": "Firefox",
     "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+  },
+  {
+    "slug": "fireshare",
+    "logo": "logo.png",
+    "name": "Fireshare",
+    "description": "Share your game clips, videos, or other media via unique links."
   },
   {
     "slug": "flame",
@@ -108,10 +222,22 @@
     "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free."
   },
   {
+    "slug": "freescout",
+    "logo": "logo.png",
+    "name": "Freescout",
+    "description": "FreeScout is the super lightweight and powerful free open source help desk and shared inbox written in PHP (Laravel framework). It is a self hosted clone of HelpScout."
+  },
+  {
     "slug": "freshrss",
     "logo": "logo.svg",
     "name": "Freshrss",
     "description": "Freshrss is a free, self-hostable aggregator for rss feeds."
+  },
+  {
+    "slug": "ghost-file-sharing",
+    "logo": "logo.png",
+    "name": "Ghost File Sharing",
+    "description": "Ghost File Sharing Service is a simple Golang clone of 0x0.st CDN."
   },
   {
     "slug": "ghost",
@@ -126,10 +252,28 @@
     "description": "Gitea is a community managed lightweight code hosting solution written in Go. Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc.Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi"
   },
   {
+    "slug": "gotenberg",
+    "logo": "logo.png",
+    "name": "Gotenberg",
+    "description": "Gotenberg is a Docker-powered stateless API for PDF files."
+  },
+  {
     "slug": "gotify",
     "logo": "logo.png",
     "name": "Gotify",
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
+  },
+  {
+    "slug": "hammond",
+    "logo": null,
+    "name": "Hammond",
+    "description": "Self hosted vehicle and expense management system. Like Clarkson, but better"
+  },
+  {
+    "slug": "hastebin",
+    "logo": "logo.png",
+    "name": "Hastebin",
+    "description": "Hastebin is an open-source pastebin software written in node.js, which is easily installable in any network."
   },
   {
     "slug": "hastypaste",
@@ -150,10 +294,40 @@
     "description": "Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does."
   },
   {
+    "slug": "homarr",
+    "logo": "logo.svg",
+    "name": "Homarr",
+    "description": "Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place. It integrates with the services you use to display information on the homepage (E.g. Show upcoming Sonarr/Radarr releases).For a full list of integrations, head over to our documentation"
+  },
+  {
+    "slug": "homeassistant",
+    "logo": "logo.png",
+    "name": "Home Assistant",
+    "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts."
+  },
+  {
+    "slug": "humhub",
+    "logo": "logo.png",
+    "name": "HumHub",
+    "description": "HumHub is an intuitive to use and modular designed open-source software, used primarily as social network, knowledge database, intranet or information and communication platform."
+  },
+  {
+    "slug": "icecoder",
+    "logo": "logo.png",
+    "name": "ICEcoder",
+    "description": "ICEcoder is a browser based code editor, which provides a modern approach to building websites."
+  },
+  {
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy",
     "description": "imgproxy is a fast and secure standalone server for resizing and converting remote images. imgproxy resizes and processes images on the fly and doesn’t consume disk space"
+  },
+  {
+    "slug": "isso",
+    "logo": "logo.svg",
+    "name": "Isso",
+    "description": "Isso – Ich schrei sonst – is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus."
   },
   {
     "slug": "jellyfin",
@@ -162,16 +336,76 @@
     "description": "Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way."
   },
   {
+    "slug": "jellyseerr",
+    "logo": "logo.png",
+    "name": "Jellyseerr",
+    "description": "Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers!"
+  },
+  {
+    "slug": "jirafeau",
+    "logo": "logo.svg",
+    "name": "Jirafeau",
+    "description": "Jirafeau is a one-click-filesharing Select your file, upload, share a link. That's it."
+  },
+  {
     "slug": "kanboard",
     "logo": "logo.png",
     "name": "Kanboard",
     "description": "Kanboard is project management software that focuses on the Kanban methodology. There is no fancy user interface, Kanboard focuses on simplicity and minimalism. The number of features is voluntarily limited."
   },
   {
+    "slug": "kavita",
+    "logo": "logo.svg",
+    "name": "Kavita",
+    "description": "Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends."
+  },
+  {
+    "slug": "komga",
+    "logo": "logo.svg",
+    "name": "Komga",
+    "description": "Komga is a media server for your comics, mangas, BDs and magazines."
+  },
+  {
+    "slug": "languagetool",
+    "logo": "logo.svg",
+    "name": "Languagetool",
+    "description": "LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect."
+  },
+  {
+    "slug": "lavalink",
+    "logo": "logo.png",
+    "name": "Lavalink",
+    "description": "Standalone audio sending node based on Lavaplayer."
+  },
+  {
+    "slug": "lenpaste",
+    "logo": null,
+    "name": "Lenpaste",
+    "description": "A web service that allows you to share notes anonymously, an alternative to pastebin.com"
+  },
+  {
     "slug": "libreoffice",
     "logo": "logo.png",
     "name": "LibreOffice",
     "description": "is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
+  },
+  {
+    "slug": "libretranslate",
+    "logo": "logo.png",
+    "name": "LibreTranslate",
+    "description": "Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup."
+  },
+  {
+    "slug": "limesurvey",
+    "logo": "logo.png",
+    "name": "Limesurvey",
+    "description": "The most popular FOSS online survey tool on the web."
+  },
+  {
+    "slug": "listmonk",
+    "logo": "logo.svg",
+    "name": "Listmonk",
+    "description": "Listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database."
   },
   {
     "slug": "lychee",
@@ -204,10 +438,22 @@
     "description": "Open source platform for developer collaboration. Secure, flexible, and integrated with the tools you love."
   },
   {
+    "slug": "mealie",
+    "logo": "logo.png",
+    "name": "Mealie",
+    "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family."
+  },
+  {
     "slug": "meilisearch",
     "logo": "logo.svg",
     "name": "Meilisearch",
     "description": "Meilisearch is a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+  },
+  {
+    "slug": "memos",
+    "logo": "logo.png",
+    "name": "Memos",
+    "description": "An open-source, self-hosted memo hub with knowledge management and socialization."
   },
   {
     "slug": "metabase",
@@ -246,16 +492,70 @@
     "description": "The self-hosted productivity platform that keeps you in control"
   },
   {
+    "slug": "nocodb",
+    "logo": "logo.png",
+    "name": "NocoDB",
+    "description": "NocoDB is an open source Airtable alternative and no code platform that turns any database into a smart spreadsheet."
+  },
+  {
     "slug": "nodered",
     "logo": "logo.png",
     "name": "Node-RED",
     "description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways."
   },
   {
+    "slug": "ntfy",
+    "logo": "logo.png",
+    "name": "Ntfy",
+    "description": "ntfy lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests."
+  },
+  {
     "slug": "nzbget",
     "logo": "logo.png",
     "name": "Nzbget",
     "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
+  },
+  {
+    "slug": "odoo",
+    "logo": "logo.png",
+    "name": "Odoo",
+    "description": "Odoo, formerly known as OpenERP, is a suite of open-source business apps written in Python and released under the LGPL license."
+  },
+  {
+    "slug": "onedev",
+    "logo": "logo.svg",
+    "name": "OneDev",
+    "description": "OneDev is a self-hosted git server with kanban and CI/CD"
+  },
+  {
+    "slug": "openspeedtest",
+    "logo": "logo.png",
+    "name": "OpenSpeedTest",
+    "description": "Pure HTML5 Network Performance Estimation Tool."
+  },
+  {
+    "slug": "outline",
+    "logo": "logo.png",
+    "name": "Outline Wiki",
+    "description": "A fast, collaborative, knowledge base for your team built using React and Node.js."
+  },
+  {
+    "slug": "owncast",
+    "logo": "logo.png",
+    "name": "Owncast",
+    "description": "A lightweight Node.js private proxy registry"
+  },
+  {
+    "slug": "owncloud",
+    "logo": "logo.png",
+    "name": "Owncloud",
+    "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device."
+  },
+  {
+    "slug": "oxigen",
+    "logo": "logo.svg",
+    "name": "Oxigen",
+    "description": "Oxigen is a dynamic social media image generator, which gives you an ability to easily create, customize and use og images with both UI and API."
   },
   {
     "slug": "paperlessngx",
@@ -270,6 +570,36 @@
     "description": "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB."
   },
   {
+    "slug": "pidgin",
+    "logo": "logo.png",
+    "name": "Pidgin",
+    "description": "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously."
+  },
+  {
+    "slug": "plausible",
+    "logo": "logo.png",
+    "name": "Plausible",
+    "description": "Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Our mission is to reduce corporate surveillance by providing an alternative web analytics tool which does not come from the AdTech world."
+  },
+  {
+    "slug": "plex",
+    "logo": "logo.svg",
+    "name": "Plex",
+    "description": "organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "ploi-roadmap",
+    "logo": null,
+    "name": "Ploi Roadmap",
+    "description": "Welcome to Roadmap, the open-source software for your roadmapping needs."
+  },
+  {
+    "slug": "pocketbase",
+    "logo": "logo.svg",
+    "name": "PocketBase",
+    "description": "PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API."
+  },
+  {
     "slug": "portainer",
     "logo": "logo.svg",
     "name": "Portainer",
@@ -280,6 +610,18 @@
     "logo": null,
     "name": "Postgres Backup",
     "description": "Backup Postgres to S3. Supports periodic backups & mutli files."
+  },
+  {
+    "slug": "powerdns-admin",
+    "logo": "logo.png",
+    "name": "PowerDNS-Admin",
+    "description": "A PowerDNS web interface with advanced features."
+  },
+  {
+    "slug": "prowlarr",
+    "logo": "logo.png",
+    "name": "Prowlarr",
+    "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers."
   },
   {
     "slug": "psitransfer",
@@ -300,10 +642,22 @@
     "description": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported."
   },
   {
+    "slug": "rallly",
+    "logo": "logo.png",
+    "name": "Rallly",
+    "description": "Schedule group meetings with friends, colleagues and teams. Create meeting polls to find the best date and time to organize an event based on your participants' availability. Save time and avoid back-and-forth emails."
+  },
+  {
     "slug": "registry",
     "logo": "logo.png",
     "name": "Registry",
     "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
+  },
+  {
+    "slug": "remmina",
+    "logo": "logo.png",
+    "name": "Remmina",
+    "description": "Remmina is a remote desktop client written in GTK, aiming to be useful for system administrators and travellers, who need to work with lots of remote computers in front of either large or tiny screens. Remmina supports multiple network protocols, in an integrated and consistent user interface. Currently RDP, VNC, SPICE, NX, XDMCP, SSH and EXEC are supported."
   },
   {
     "slug": "restreamer",
@@ -318,16 +672,52 @@
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
   },
   {
+    "slug": "rotki",
+    "logo": "logo.png",
+    "name": "Rotki",
+    "description": "Rotki is an open source portfolio tracking, analytics, accounting, and tax reporting tool that protects your privacy."
+  },
+  {
+    "slug": "serpbear",
+    "logo": "logo.png",
+    "name": "SerpBear",
+    "description": "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
+  },
+  {
+    "slug": "servas",
+    "logo": "logo.svg",
+    "name": "Servas",
+    "description": "A self-hosted bookmark management tool. Servas is based on Laravel and Inertia.js and uses Tailwind CSS and Svelte for the frontend."
+  },
+  {
+    "slug": "silicon-notes",
+    "logo": "logo.png",
+    "name": "Silicon Notes",
+    "description": "A somewhat lightweight, low-friction personal knowledge base."
+  },
+  {
     "slug": "simpletorrent",
     "logo": "logo.png",
     "name": "SimpleTorrent",
-    "description": "https://github.com/boypt/simple-torrent/wiki"
+    "description": "SimpleTorrent is a a self-hosted remote torrent client, written in Go (golang). Started torrents remotely, download sets of files on the local disk of the server, which are then retrievable or streamable via HTTP."
   },
   {
     "slug": "soketi",
     "logo": "logo.png",
     "name": "Soketi",
     "description": "Just another simple, fast, and resilient open-source WebSockets server."
+  },
+  {
+    "slug": "sonarr",
+    "logo": "logo.png",
+    "name": "Sonarr",
+    "description": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them."
+  },
+  {
+    "slug": "sshwifty",
+    "logo": "logo.svg",
+    "name": "Sshwifty",
+    "description": "Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on your computer or server to provide SSH and Telnet access interface for any compatible (standard) web browser."
   },
   {
     "slug": "statping-ng",
@@ -342,6 +732,36 @@
     "description": "Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in."
   },
   {
+    "slug": "suitecrm",
+    "logo": "logo.png",
+    "name": "SuiteCRM",
+    "description": "SuiteCRM is a completely open source, enterprise-grade Customer Relationship Management (CRM) application."
+  },
+  {
+    "slug": "supertokens-core",
+    "logo": "logo.svg",
+    "name": "Supertokens Core",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito - Backend Server"
+  },
+  {
+    "slug": "tautulli",
+    "logo": "logo.png",
+    "name": "Tautuilli",
+    "description": "Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics. Most importantly, these statistics include what has been watched, who watched it, when and where they watched it, and how it was watched."
+  },
+  {
+    "slug": "typebot",
+    "logo": "logo.svg",
+    "name": "Typebot",
+    "description": "The open-source conversational forms builder"
+  },
+  {
+    "slug": "typesense",
+    "logo": "logo.svg",
+    "name": "Typesense",
+    "description": "Typesense is a fast, typo-tolerant search engine for building delightful search experiences."
+  },
+  {
     "slug": "umami",
     "logo": "logo.png",
     "name": "Umami",
@@ -352,6 +772,12 @@
     "logo": "logo.svg",
     "name": "UptimeKuma",
     "description": "A fancy self-hosted monitoring tool"
+  },
+  {
+    "slug": "vaultwarden",
+    "logo": "logo.png",
+    "name": "Vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
   },
   {
     "slug": "verdaccio",
@@ -366,6 +792,24 @@
     "description": "Code-server is VS Code running on a remote server, accessible through the browser."
   },
   {
+    "slug": "wakatime",
+    "logo": "logo.png",
+    "name": "Wakapi",
+    "description": "A minimalist, self-hosted WakaTime-compatible backend for coding statistics"
+  },
+  {
+    "slug": "weblate",
+    "logo": "logo.png",
+    "name": "Weblate",
+    "description": "Weblate is a libre software web-based continuous localization system. Weblate requires 2GB of ram and 2CPUs."
+  },
+  {
+    "slug": "wg-easy",
+    "logo": "logo.png",
+    "name": "Wg-easy",
+    "description": "You have found the easiest way to install & manage WireGuard on any Linux host!"
+  },
+  {
     "slug": "whiteboard",
     "logo": null,
     "name": "Whiteboard",
@@ -378,9 +822,27 @@
     "description": "Extensible open source Wiki software.Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite! Running on the blazing fast Node.js engine, Wiki.js is built with performance in mind."
   },
   {
+    "slug": "windmill",
+    "logo": "logo.svg",
+    "name": "Windmill",
+    "description": "Open-source developer platform to turn scripts into workflows and UIs."
+  },
+  {
+    "slug": "wizarr",
+    "logo": "logo.png",
+    "name": "Wizarr",
+    "description": "Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby, etc"
+  },
+  {
     "slug": "wordpress",
     "logo": "logo.svg",
     "name": "Wordpress",
     "description": "WordPress powers nearly a third of the world’s websites. With tools for everyone from personal bloggers to large corporations, this powerful site builder and content management system (cms) aims to make it possible for anyone to create an online presence in minutes."
+  },
+  {
+    "slug": "zipline",
+    "logo": "logo.png",
+    "name": "Zipline",
+    "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!"
   }
 ]

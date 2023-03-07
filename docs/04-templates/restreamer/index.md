@@ -22,7 +22,7 @@ Self-hosting solution to stream live to your website and publish to many like Yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | restreamer
-App Service Image | - | yes | datarhei/restreamer:2.3.0
+App Service Image | - | yes | datarhei/restreamer:2.4.2
 
 ## Screenshots
 

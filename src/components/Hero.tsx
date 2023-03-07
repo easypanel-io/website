@@ -12,7 +12,8 @@ const partners: Partner[] = [
     logo: "/partners/aws.svg",
   },
   {
-    href: "https://marketplace.digitalocean.com/apps/easypanel",
+    // href: "https://marketplace.digitalocean.com/apps/easypanel",
+    href: "https://marketplace.digitalocean.com/apps/easypanel?refcode=9b8aca9dc290&action=deploy",
     logo: "/partners/digitalocean.svg",
   },
   {
@@ -20,7 +21,8 @@ const partners: Partner[] = [
     logo: "/partners/linode.svg",
   },
   {
-    href: "https://www.vultr.com/marketplace/apps/easypanel",
+    // href: "https://www.vultr.com/marketplace/apps/easypanel",
+    href: "https://www.vultr.com/marketplace/apps/easypanel?ref=9104173",
     logo: "/partners/vultr.svg",
   },
 ];

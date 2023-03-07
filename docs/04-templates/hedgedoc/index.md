@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | hedgedoc
-App Service Image | - | yes | linuxserver/hedgedoc:1.9.4
+App Service Image | - | yes | linuxserver/hedgedoc:1.9.7
 
 ## Screenshots
 
@@ -33,6 +33,7 @@ App Service Image | - | yes | linuxserver/hedgedoc:1.9.4
 ## Change Log
 
 - 2022-10-28 – first release
+- 2023-2-24 – Update to v1.9.7
 
 ## Contributors
 

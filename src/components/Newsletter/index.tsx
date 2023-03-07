@@ -1,3 +1,4 @@
+import Link from "@docusaurus/Link";
 import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
@@ -9,19 +10,12 @@ export default function Newsletter(): JSX.Element {
         <div>
           <h2 className={styles.heading}>Subscribe for product updates</h2>
           <div className={styles.subheading}>
-            By subscribing, you agree with Revue’s{" "}
-            <a target="_blank" href="https://www.getrevue.co/terms">
-              Terms of Service
-            </a>{" "}
-            and{" "}
-            <a target="_blank" href="https://www.getrevue.co/privacy">
-              Privacy Policy
-            </a>
-            .
+            By subscribing, you agree with our <Link href="/terms">Terms</Link>{" "}
+            and <Link href="/privacy">Privacy Policy</Link>.
           </div>
         </div>
         <form
-          action="https://www.getrevue.co/profile/easypanel/add_subscriber"
+          action="https://news.easypanel.io/subscription/form"
           method="post"
           target="_blank"
           className={styles.form}
@@ -29,13 +23,17 @@ export default function Newsletter(): JSX.Element {
           <input
             placeholder="Email address"
             type="email"
-            name="member[email]"
+            name="email"
             className={clsx(styles.input, "button")}
+          />
+          <input
+            type="hidden"
+            name="l"
+            value="adbdd93a-f80a-4639-8e1e-1aa6cbfaa91f"
           />
           <input
             type="submit"
             value="Subscribe"
-            name="member[subscribe]"
             className={clsx(styles.button, "button button--primary")}
           />
         </form>

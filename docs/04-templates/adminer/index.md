@@ -34,5 +34,6 @@ App Service Image | - | yes | adminer:4.8.1
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/Supernova3339)

@@ -1,6 +1,6 @@
 ---
 slug: changelog-august-2022
-title: Changelog August 2022
+title: Resource Monitoring, New Dashboard, and Other Improvements
 authors: [deiucanta]
 ---
 

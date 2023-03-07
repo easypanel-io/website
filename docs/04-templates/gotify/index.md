@@ -23,7 +23,7 @@ Gotify is a simple server for sending and receiving messages.Both Gotify's API a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotify
-App Service Image | - | yes | gotify/server:2.1.7
+App Service Image | - | yes | gotify/server:2.2.4
 Password | - | yes | 
 Timezone | - | no | Europe/London
 
@@ -34,8 +34,10 @@ Timezone | - | no | Europe/London
 ## Change Log
 
 - 2022-07-12 – first release
+- 2023-2-24 – Update to v2.2.4
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/supernova3339)

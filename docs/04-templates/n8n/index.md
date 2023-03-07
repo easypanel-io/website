@@ -35,5 +35,5 @@ App Service Image | - | yes | n8nio/n8n:0.198.2
 
 ## Contributors
 
-- [Ponky](https://github.com/Ponkhy)
+- [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)

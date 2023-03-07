@@ -26,7 +26,7 @@ Default credentials: User:"admin" Password:"admin"
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filebrowser
-App Service Image | - | yes | filebrowser/filebrowser:v2.22.4
+App Service Image | - | yes | filebrowser/filebrowser:v2.23.0
 
 ## Screenshots
 
@@ -35,8 +35,10 @@ App Service Image | - | yes | filebrowser/filebrowser:v2.22.4
 ## Change Log
 
 - 2022-08-09 – first release
+- 2023-2-24 – Update to v2.23.0
 
 ## Contributors
 
 - [Bedeoan Raul](https://github.com/bedeoan)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/supernova3339)
