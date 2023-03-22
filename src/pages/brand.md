@@ -20,6 +20,14 @@ Welcome to our brand assets page, where you can access all the resources you nee
 
 <div class="padding--sm" />
 
+## Logomark
+
+<div class="padding--sm" />
+
+[<img src="/img/logomark.svg" alt="Easypanel Logo" width="60px" />](pathname:///img/logomark.svg)
+
+<div class="padding--sm" />
+
 ## Banners (32px)
 
 <div class="padding--sm" />
