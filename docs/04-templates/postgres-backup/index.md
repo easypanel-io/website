@@ -10,7 +10,7 @@ description: How to install Postgres Backup on Easypanel? 1-Click installation t
 
 ## Description
 
-Backup Postgres to S3. Supports periodic backups & mutli files.
+Backup Postgres to S3. Supports periodic backups &amp; mutli files.
 
 ## Instructions
 

@@ -10,7 +10,7 @@ description: How to install SerpBear on Easypanel? 1-Click installation template
 
 ## Description
 
-SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
+SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website&#39;s keyword positions in Google and get notified of their positions.
 
 ## Links
 

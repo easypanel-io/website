@@ -14,7 +14,7 @@ The toolset to pack, ship, store, and deliver content. Docker Registry is the Op
 
 ## Instructions
 
-The Registry doesn't have a UI. To interact with the registry you should use the Docker CLI.
+The Registry doesn&#39;t have a UI. To interact with the registry you should use the Docker CLI.
 
 ## Links
 

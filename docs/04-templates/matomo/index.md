@@ -10,7 +10,7 @@ description: How to install Matomo on Easypanel? 1-Click installation template f
 
 ## Description
 
-Google Analytics alternative that protects your data and your customers' privacy. Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.
+Google Analytics alternative that protects your data and your customers&#39; privacy. Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.
 
 ## Links
 

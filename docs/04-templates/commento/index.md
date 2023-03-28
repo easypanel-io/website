@@ -10,7 +10,7 @@ description: How to install Commento on Easypanel? 1-Click installation template
 
 ## Description
 
-Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications.
+Commento is a platform that you can embed in your website to allow your readers to add comments. It&#39;s reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications.
 
 ## Links
 

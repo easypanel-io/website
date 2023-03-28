@@ -10,7 +10,7 @@ description: How to install MySQL Backup on Easypanel? 1-Click installation temp
 
 ## Description
 
-Backup MySQL to S3. Supports periodic backups & mutli files.
+Backup MySQL to S3. Supports periodic backups &amp; mutli files.
 
 ## Instructions
 

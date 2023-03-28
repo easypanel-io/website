@@ -10,7 +10,7 @@ description: How to install Dokuwiki on Easypanel? 1-Click installation template
 
 ## Description
 
-DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
+DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn&#39;t require a database.
 
 ## Instructions
 

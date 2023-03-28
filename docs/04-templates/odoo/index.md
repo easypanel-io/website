@@ -14,7 +14,7 @@ Odoo, formerly known as OpenERP, is a suite of open-source business apps written
 
 ## Instructions
 
-You can login with username "admin" and password "umami".
+You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 
 ## Links
 

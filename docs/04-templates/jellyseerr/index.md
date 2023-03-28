@@ -10,7 +10,7 @@ description: How to install Jellyseerr on Easypanel? 1-Click installation templa
 
 ## Description
 
-Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers!
+Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin &amp; Emby media servers!
 
 ## Instructions
 

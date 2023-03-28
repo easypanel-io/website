@@ -10,7 +10,7 @@ description: How to install Nango on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Get OAuth tokens for APIs - fast & secure
+Get OAuth tokens for APIs - fast &amp; secure
 
 ## Instructions
 

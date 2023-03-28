@@ -10,7 +10,7 @@ description: How to install PsiTransfer on Easypanel? 1-Click installation templ
 
 ## Description
 
-Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface.
+Simple open source self-hosted file sharing solution. It&#39;s an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface.
 
 ## Links
 

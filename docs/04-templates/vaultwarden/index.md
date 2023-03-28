@@ -14,7 +14,7 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## Instructions
 
-To access the administration interface, please go to /admin on your installation url. The admin token is in your "Environment" tab.
+To access the administration interface, please go to /admin on your installation url. The admin token is in your &quot;Environment&quot; tab.
 
 ## Links
 

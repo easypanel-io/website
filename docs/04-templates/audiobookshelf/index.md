@@ -14,7 +14,7 @@ Audiobookshelf is a self-hosted audiobook and podcast server.
 
 ## Instructions
 
-Starter Host Path will be bind to "/audiobooks" inside the container. You can bind any other directories you want to use for your book and podcast collections.
+Starter Host Path will be bind to &quot;/audiobooks&quot; inside the container. You can bind any other directories you want to use for your book and podcast collections.
 
 ## Links
 

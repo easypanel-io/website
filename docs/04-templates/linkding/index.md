@@ -10,11 +10,11 @@ description: How to install linkding on Easypanel? 1-Click installation template
 
 ## Description
 
-linkding is a simple bookmark service that you can host yourself. It's designed be to be minimal, fast, and easy to set up using Docker.
+linkding is a simple bookmark service that you can host yourself. It&#39;s designed be to be minimal, fast, and easy to set up using Docker.
 
 ## Instructions
 
-If the login fails with a error 500, please restart the "linkding" app service. This can be caused by the database not being properly reachable at linkding's first start.
+If the login fails with a error 500, please restart the &quot;linkding&quot; app service. This can be caused by the database not being properly reachable at linkding&#39;s first start.
 
 ## Links
 

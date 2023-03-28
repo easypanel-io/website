@@ -10,7 +10,7 @@ description: How to install Ghost on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
+Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters &amp; offer paid subscriptions to members.
 
 ## Links
 

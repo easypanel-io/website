@@ -10,7 +10,7 @@ description: How to install Jirafeau on Easypanel? 1-Click installation template
 
 ## Description
 
-Jirafeau is a one-click-filesharing Select your file, upload, share a link. That's it.
+Jirafeau is a one-click-filesharing Select your file, upload, share a link. That&#39;s it.
 
 ## Links
 

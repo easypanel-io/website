@@ -10,7 +10,7 @@ description: How to install CyberChef on Easypanel? 1-Click installation templat
 
 ## Description
 
-CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser.
+CyberChef is a simple, intuitive web app for carrying out all manner of &quot;cyber&quot; operations within a web browser.
 
 ## Links
 

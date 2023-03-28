@@ -14,7 +14,7 @@ This project is a free and open source webmail solution with a desktop-like user
 
 ## Instructions
 
-After Roundcube is installed, you can log in to the mail accounts on the service where you entered the "SMTP" information.
+After Roundcube is installed, you can log in to the mail accounts on the service where you entered the &quot;SMTP&quot; information.
 
 ## Links
 

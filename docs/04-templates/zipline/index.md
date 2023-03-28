@@ -14,7 +14,7 @@ A ShareX/file upload server that is easy to use, packed with features, and with 
 
 ## Instructions
 
-After installing Zipline for the first time, you may login to the dashboard with the username "administrator" and the password "password".
+After installing Zipline for the first time, you may login to the dashboard with the username &quot;administrator&quot; and the password &quot;password&quot;.
 
 ## Links
 

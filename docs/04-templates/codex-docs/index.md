@@ -10,7 +10,7 @@ description: How to install CodeX Docs on Easypanel? 1-Click installation templa
 
 ## Description
 
-CodeX Docs is a free docs application. It's based on Editor.js ecosystem which gives all modern opportunities for working with content.
+CodeX Docs is a free docs application. It&#39;s based on Editor.js ecosystem which gives all modern opportunities for working with content.
 
 ## Instructions
 

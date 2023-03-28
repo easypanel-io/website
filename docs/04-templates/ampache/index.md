@@ -10,11 +10,11 @@ description: How to install Ampache on Easypanel? 1-Click installation template 
 
 ## Description
 
-A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
+A web based audio/video streaming application and file manager allowing you to access your music &amp; videos from anywhere, using almost any internet enabled device.
 
 ## Instructions
 
-MySQL Username is "admin". The logs will show a line that says "mysql -uadmin -pjnzYXLz7cMzq -h<host> -P<port>"". The password is everything after "-p", in this case "jnzYXLz7cMzq".
+MySQL Username is &quot;admin&quot;. The logs will show a line that says &quot;mysql -uadmin -pjnzYXLz7cMzq -h&lt;host&gt; -P&lt;port&gt;&quot;&quot;. The password is everything after &quot;-p&quot;, in this case &quot;jnzYXLz7cMzq&quot;.
 
 ## Links
 

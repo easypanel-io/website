@@ -10,7 +10,7 @@ description: How to install Bookstack on Easypanel? 1-Click installation templat
 
 ## Description
 
-BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters & pages. BookStack is built using PHP, on top of the Laravel framework and it uses MySQL to store data.
+BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters &amp; pages. BookStack is built using PHP, on top of the Laravel framework and it uses MySQL to store data.
 
 ## Links
 

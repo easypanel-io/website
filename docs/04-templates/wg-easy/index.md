@@ -10,7 +10,7 @@ description: How to install Wg-easy on Easypanel? 1-Click installation template 
 
 ## Description
 
-You have found the easiest way to install & manage WireGuard on any Linux host!
+You have found the easiest way to install &amp; manage WireGuard on any Linux host!
 
 ## Links
 

@@ -14,7 +14,7 @@ Filebrowser provides a file managing interface within a specified directory and 
 
 ## Instructions
 
-Default credentials: User:"admin" Password:"admin"
+Default credentials: User:&quot;admin&quot; Password:&quot;admin&quot;
 
 ## Links
 

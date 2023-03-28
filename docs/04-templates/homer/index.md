@@ -14,7 +14,7 @@ A very simple static homepage for your server.
 
 ## Instructions
 
-The config files can be found under "/etc/easypanel/projects/PROJECT_NAME/homer/volumes/assets"
+The config files can be found under &quot;/etc/easypanel/projects/PROJECT_NAME/homer/volumes/assets&quot;
 
 ## Links
 

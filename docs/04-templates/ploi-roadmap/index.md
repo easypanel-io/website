@@ -14,7 +14,7 @@ Welcome to Roadmap, the open-source software for your roadmapping needs.
 
 ## Instructions
 
-After First Deployment, run "php artisan roadmap:install" to setup the inital user account.
+After First Deployment, run &quot;php artisan roadmap:install&quot; to setup the inital user account.
 
 ## Links
 

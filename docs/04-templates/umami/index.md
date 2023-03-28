@@ -10,11 +10,11 @@ description: How to install Umami on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Umami is an open source, privacy-focused alternative to Google Analytics. Umami lets you to gather the data you need while respecting the privacy of your users. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. Best of all, you don't need to display an annoying cookie notice.
+Umami is an open source, privacy-focused alternative to Google Analytics. Umami lets you to gather the data you need while respecting the privacy of your users. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. Best of all, you don&#39;t need to display an annoying cookie notice.
 
 ## Instructions
 
-You can login with username "admin" and password "umami".
+You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 
 ## Links
 

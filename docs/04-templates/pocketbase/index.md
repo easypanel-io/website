@@ -14,7 +14,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Instructions
 
-Admin Dashboard can be accessed via "DOMAIN/_/""
+Admin Dashboard can be accessed via &quot;DOMAIN/_/&quot;&quot;
 
 ## Links
 

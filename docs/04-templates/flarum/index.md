@@ -10,7 +10,7 @@ description: How to install Flarum on Easypanel? 1-Click installation template f
 
 ## Description
 
-Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
+Flarum is the next-generation forum software that makes online discussion fun. It&#39;s simple, fast, and free.
 
 ## Instructions
 
