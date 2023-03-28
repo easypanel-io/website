@@ -24,6 +24,12 @@
     "description": "Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others via plugin."
   },
   {
+    "slug": "ampache",
+    "logo": "logo.png",
+    "name": "Ampache",
+    "description": "A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device."
+  },
+  {
     "slug": "anonupload",
     "logo": "logo.png",
     "name": "AnonUpload",
@@ -40,6 +46,12 @@
     "logo": "logo.png",
     "name": "Appsmith",
     "description": "Appsmith is the open-source framework that lets your team build custom internal applications like dashboards, admin panels, CRUD apps faster, and together"
+  },
+  {
+    "slug": "audiobookshelf",
+    "logo": "logo.png",
+    "name": "Audiobookshelf",
+    "description": "Audiobookshelf is a self-hosted audiobook and podcast server."
   },
   {
     "slug": "authorizer",
@@ -60,6 +72,12 @@
     "description": "Open source no-code database and Airtable alternative. Create your own online database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser."
   },
   {
+    "slug": "bazarr",
+    "logo": "logo.png",
+    "name": "Bazarr",
+    "description": "Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
+  },
+  {
     "slug": "bookstack",
     "logo": "logo.svg",
     "name": "Bookstack",
@@ -72,10 +90,22 @@
     "description": "Budibase is an open source low-code platform, and the easiest way to build internal apps that improve productivity."
   },
   {
+    "slug": "calibre",
+    "logo": "logo.png",
+    "name": "Calibre",
+    "description": "Calibre is th one stop solution to all your ebook needs"
+  },
+  {
     "slug": "changedetection",
     "logo": null,
     "name": "Change Detection",
     "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
+  },
+  {
+    "slug": "chatpad",
+    "logo": "logo.png",
+    "name": "Chatpad",
+    "description": "Not just another ChatGPT user-interface!"
   },
   {
     "slug": "chatwoot",
@@ -106,6 +136,12 @@
     "logo": "logo.png",
     "name": "Coral",
     "description": "Coral improves community on your website through smart technology, effective design, and strategies that work."
+  },
+  {
+    "slug": "corteza",
+    "logo": "logo.png",
+    "name": "Corteza",
+    "description": "The Corteza low-code platform lets you build and iterate CRM, business process and other structured data apps fast, create intelligent business process workflows and connect with almost any data source."
   },
   {
     "slug": "cubejs",
@@ -144,6 +180,12 @@
     "description": "Documize Community is an open source, self-hosted, modern, lightweight alternative to Confluence and other similar solutions."
   },
   {
+    "slug": "dokuwiki",
+    "logo": "logo.png",
+    "name": "Dokuwiki",
+    "description": "DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database."
+  },
+  {
     "slug": "domainmod",
     "logo": "logo.png",
     "name": "DomainMod",
@@ -180,6 +222,12 @@
     "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
   },
   {
+    "slug": "excalidraw",
+    "logo": "logo.png",
+    "name": "Excalidraw",
+    "description": "Online whiteboard collaboration made easy"
+  },
+  {
     "slug": "fider",
     "logo": "logo.png",
     "name": "Fider",
@@ -190,6 +238,12 @@
     "logo": "logo.png",
     "name": "Filebrowser",
     "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app."
+  },
+  {
+    "slug": "filerun",
+    "logo": "logo.png",
+    "name": "Filerun",
+    "description": "Share files with your clients and colleagues"
   },
   {
     "slug": "filezilla",
@@ -222,6 +276,12 @@
     "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free."
   },
   {
+    "slug": "focalboard",
+    "logo": "logo.svg",
+    "name": "Focalboard",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana."
+  },
+  {
     "slug": "freescout",
     "logo": "logo.png",
     "name": "Freescout",
@@ -252,6 +312,12 @@
     "description": "Gitea is a community managed lightweight code hosting solution written in Go. Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc.Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi"
   },
   {
+    "slug": "gogs",
+    "logo": "logo.png",
+    "name": "Gogs",
+    "description": "Gogs is a painless self-hosted Git service"
+  },
+  {
     "slug": "gotenberg",
     "logo": "logo.png",
     "name": "Gotenberg",
@@ -262,6 +328,24 @@
     "logo": "logo.png",
     "name": "Gotify",
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
+  },
+  {
+    "slug": "grafana",
+    "logo": "logo.png",
+    "name": "Grafana",
+    "description": "The open and composable observability and data visualization platform"
+  },
+  {
+    "slug": "grav",
+    "logo": "logo.png",
+    "name": "Grav",
+    "description": "Grav is a Fast, Simple, and Flexible, file-based Web-platform. There is Zero installation required. It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful Package Management System to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself."
+  },
+  {
+    "slug": "grayduckmail",
+    "logo": "logo.png",
+    "name": "Gray Duck Mail",
+    "description": "Gray Duck Mail is an alternative to email discussion group software such as Mailman and Sympa designed to be easy to set up and easy to manage."
   },
   {
     "slug": "hammond",
@@ -280,6 +364,12 @@
     "logo": "logo.png",
     "name": "Hasty Paste",
     "description": "A fast and minimal paste bin, written in Python using Quart."
+  },
+  {
+    "slug": "hasura",
+    "logo": "logo.svg",
+    "name": "Hasura",
+    "description": "The Hasura GraphQL Engine makes your data instantly accessible over a real-time GraphQL API, so you can build and ship modern, performant apps and APIs 10x faster."
   },
   {
     "slug": "hedgedoc",
@@ -304,6 +394,12 @@
     "logo": "logo.png",
     "name": "Home Assistant",
     "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts."
+  },
+  {
+    "slug": "homer",
+    "logo": "logo.png",
+    "name": "Homer",
+    "description": "A very simple static homepage for your server."
   },
   {
     "slug": "humhub",
@@ -348,6 +444,12 @@
     "description": "Jirafeau is a one-click-filesharing Select your file, upload, share a link. That's it."
   },
   {
+    "slug": "joplin",
+    "logo": "logo.svg",
+    "name": "Joplin",
+    "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device."
+  },
+  {
     "slug": "kanboard",
     "logo": "logo.png",
     "name": "Kanboard",
@@ -358,6 +460,18 @@
     "logo": "logo.svg",
     "name": "Kavita",
     "description": "Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends."
+  },
+  {
+    "slug": "keila",
+    "logo": "logo.png",
+    "name": "Keila",
+    "description": "Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue."
+  },
+  {
+    "slug": "keycloak",
+    "logo": "logo.png",
+    "name": "Keycloak",
+    "description": "Open Source Identity and Access Management For Modern Applications and Services"
   },
   {
     "slug": "komga",
@@ -402,6 +516,12 @@
     "description": "The most popular FOSS online survey tool on the web."
   },
   {
+    "slug": "linkding",
+    "logo": "logo.png",
+    "name": "linkding",
+    "description": "linkding is a simple bookmark service that you can host yourself. It's designed be to be minimal, fast, and easy to set up using Docker."
+  },
+  {
     "slug": "listmonk",
     "logo": "logo.svg",
     "name": "Listmonk",
@@ -412,6 +532,12 @@
     "logo": null,
     "name": "Lychee",
     "description": "Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely."
+  },
+  {
+    "slug": "lynx",
+    "logo": "logo.png",
+    "name": "Lynx",
+    "description": "A fullstack application using the MEVN stack to shorten your URLs."
   },
   {
     "slug": "mailcrab",
@@ -468,10 +594,28 @@
     "description": "MeTube is a Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites. Browser extensions allow right-clicking videos and sending them directly to MeTube. "
   },
   {
+    "slug": "minecraft-server",
+    "logo": "logo.svg",
+    "name": "Minecraft Server",
+    "description": "Minecraft Server that will automatically download the latest stable version at startup. You can also run/upgrade to any specific version or the latest snapshot."
+  },
+  {
     "slug": "miniflux",
     "logo": "logo.png",
     "name": "Miniflux",
     "description": "Miniflux is a minimalist and opinionated feed reader written in GO.Supports multiple enclosures/attachments (Podcasts, videos, music, and images).Save articles to third-party services.Play videos from YouTube channels directly inside Miniflux.Send articles to Telegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, or Nunux Keeper"
+  },
+  {
+    "slug": "monica",
+    "logo": "logo.png",
+    "name": "Monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships."
+  },
+  {
+    "slug": "mstream",
+    "logo": "logo.svg",
+    "name": "Mstream",
+    "description": "The easiest music streaming server available"
   },
   {
     "slug": "mysql-backup",
@@ -484,6 +628,24 @@
     "logo": "logo.png",
     "name": "n8n",
     "description": "n8n helps you to connect any app with an API with any other, and manipulate its data with little or no code.Has highly flexible workflows and the option to build custom nodes."
+  },
+  {
+    "slug": "nango",
+    "logo": "logo.png",
+    "name": "Nango",
+    "description": "Get OAuth tokens for APIs - fast & secure"
+  },
+  {
+    "slug": "navidrome",
+    "logo": "logo.png",
+    "name": "Navidrome",
+    "description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic"
+  },
+  {
+    "slug": "netbox",
+    "logo": "logo.svg",
+    "name": "Netbox",
+    "description": "The premiere source of truth powering network automation."
   },
   {
     "slug": "nextcloud",
@@ -528,6 +690,18 @@
     "description": "OneDev is a self-hosted git server with kanban and CI/CD"
   },
   {
+    "slug": "openblocks",
+    "logo": "logo.svg",
+    "name": "Openblocks",
+    "description": "Openblocks is a Open-source Retool alternative, low code platform to build your apps exceedingly fast with no limitations"
+  },
+  {
+    "slug": "openproject",
+    "logo": "logo.svg",
+    "name": "OpenProject",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
     "slug": "openspeedtest",
     "logo": "logo.png",
     "name": "OpenSpeedTest",
@@ -558,10 +732,34 @@
     "description": "Oxigen is a dynamic social media image generator, which gives you an ability to easily create, customize and use og images with both UI and API."
   },
   {
+    "slug": "papercups",
+    "logo": "logo.svg",
+    "name": "Papercups",
+    "description": "Papercups is an open source live customer support tool web app written in Elixir."
+  },
+  {
     "slug": "paperlessngx",
     "logo": "logo.png",
     "name": "Paperless-ngx",
     "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper."
+  },
+  {
+    "slug": "pgweb",
+    "logo": "logo.png",
+    "name": "pgweb",
+    "description": "Cross-platform client for PostgreSQL databases"
+  },
+  {
+    "slug": "photoprism",
+    "logo": "logo.svg",
+    "name": "PhotoPrism",
+    "description": "PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+  },
+  {
+    "slug": "photoview",
+    "logo": "logo.svg",
+    "name": "Photoview",
+    "description": "Photo gallery for self-hosted personal servers"
   },
   {
     "slug": "phpmyadmin",
@@ -678,6 +876,12 @@
     "description": "Rotki is an open source portfolio tracking, analytics, accounting, and tax reporting tool that protects your privacy."
   },
   {
+    "slug": "roundcube",
+    "logo": "logo.svg",
+    "name": "Roundcube",
+    "description": "This project is a free and open source webmail solution with a desktop-like user interface which is easy to install/configure and that runs on a standard LAMPP server. The skins use the latest web standards to render a functional and customizable UI. Roundcube includes other sophisticated open-source libraries such as PEAR, an IMAP library derived from IlohaMail, the TinyMCE rich text editor, Googiespell library for spell checking and the HTML5-PHP sanitizer by Masterminds."
+  },
+  {
     "slug": "serpbear",
     "logo": "logo.png",
     "name": "SerpBear",
@@ -688,6 +892,18 @@
     "logo": "logo.svg",
     "name": "Servas",
     "description": "A self-hosted bookmark management tool. Servas is based on Laravel and Inertia.js and uses Tailwind CSS and Svelte for the frontend."
+  },
+  {
+    "slug": "shiori",
+    "logo": "logo.png",
+    "name": "Shiori",
+    "description": "Shiori is a simple bookmarks manager written in the Go language. Intended as a simple clone of Pocket. You can use it as a command line application or as a web application. This application is distributed as a single binary, which means it can be installed and used easily."
+  },
+  {
+    "slug": "shynet",
+    "logo": "logo.png",
+    "name": "Shynet",
+    "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS."
   },
   {
     "slug": "silicon-notes",
@@ -730,6 +946,12 @@
     "logo": "logo.png",
     "name": "Strapi",
     "description": "Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.Connect your favorite databases, frontend frameworks, or static site generators. Choose where you want to host your websites. Integrate with your favorite tools, and work with the best of each world. No vendor lock-in."
+  },
+  {
+    "slug": "substreamer",
+    "logo": "logo.png",
+    "name": "Substreamer",
+    "description": "Your Music Your Way"
   },
   {
     "slug": "suitecrm",

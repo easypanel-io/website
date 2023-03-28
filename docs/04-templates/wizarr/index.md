@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wizarr
 Domain | - | yes | 
-App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:2.1.0
+App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:2.1.3
 
 ## Screenshots
 
@@ -33,7 +33,8 @@ App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:2.1.0
 
 ## Change Log
 
-- 2023-3-1 – first release
+- 2023-03-1 – first release
+- 2023-03-22 – Update to v2.1.3
 
 ## Contributors
 

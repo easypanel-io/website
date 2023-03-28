@@ -22,7 +22,7 @@ A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wakapi
-App Service Image | - | yes | n1try/wakapi:2.6.1
+App Service Image | - | yes | n1try/wakapi:2.6.2
 
 ## Screenshots
 
@@ -30,7 +30,8 @@ App Service Image | - | yes | n1try/wakapi:2.6.1
 
 ## Change Log
 
-- 2023-1-24 – first release
+- 2023-01-24 – first release
+- 2023-03-22 – Update to v2.6.2
 
 ## Contributors
 

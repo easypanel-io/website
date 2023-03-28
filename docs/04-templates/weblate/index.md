@@ -27,7 +27,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | weblate
-App Service Image | - | yes | weblate/weblate:4.15.1-1
+App Service Image | - | yes | weblate/weblate:4.16.2-1
 Database Service Name | - | yes | weblate-db
 Redis Service Name | - | yes | weblate-redis
 No Reply Email | - | yes | 
@@ -42,6 +42,7 @@ Email Password | - | yes |
 ## Change Log
 
 - 2022-11-23 – first release
+- 2023-03-22 – Update to v4.16
 
 ## Contributors
 

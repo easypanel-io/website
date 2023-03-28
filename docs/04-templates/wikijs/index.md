@@ -23,7 +23,7 @@ Extensible open source Wiki software.Make documentation a joy to write using Wik
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wikijs
-App Service Image | - | yes | ghcr.io/requarks/wiki:2
+App Service Image | - | yes | ghcr.io/requarks/wiki:2.5.298
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db
 
@@ -33,6 +33,7 @@ Database Service Name | - | yes | wikijs-db
 ## Change Log
 
 - 2022-07-12 – first release
+- 2023-03-22 – Update to v2.5.298
 
 ## Contributors
 

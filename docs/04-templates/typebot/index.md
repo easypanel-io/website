@@ -30,8 +30,8 @@ Viewer Service Name | - | yes | typebot-viewer
 Builder Service Name | - | yes | typebot-builder
 Builder Domain | - | yes | 
 Viewer Domain | - | yes | 
-Builder Service Image | - | yes | baptistearno/typebot-builder:2.10.5
-Viewer Service Image | - | yes | baptistearno/typebot-viewer:2.10.5
+Builder Service Image | - | yes | baptistearno/typebot-builder:2.11.6
+Viewer Service Image | - | yes | baptistearno/typebot-viewer:2.11.6
 Storage Service Image | - | yes | bitnami/minio:2022.12.12
 Database Service Name | - | yes | typebot-db
 Storage Service Name | - | yes | typebot-minio
@@ -45,7 +45,9 @@ Email to make administrator | - | yes |
 
 ## Change Log
 
-- 2023-2-27 – first release
+- 2023-02-27 – first release
+- 2023-03-13 – Update to v2.11.4
+- 2023-03-22 – Update to v2.11.6
 
 ## Contributors
 

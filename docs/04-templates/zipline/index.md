@@ -37,6 +37,7 @@ Database Service Name | - | yes | zipline-db
 ## Change Log
 
 - 2023-01-20 – First Release
+- 2023-03-22 – First Release
 
 ## Contributors
 
