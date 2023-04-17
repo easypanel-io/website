@@ -139,19 +139,19 @@ const config = {
             items: [
               {
                 label: "Wordpress",
-                to: "/templates",
+                to: "/docs/templates/wordpress",
               },
               {
                 label: "Strapi",
-                to: "/templates",
+                to: "/docs/templates/strapi",
               },
               {
                 label: "Directus",
-                to: "/templates",
+                to: "/docs/templates/directus",
               },
               {
                 label: "Appsmith",
-                to: "/templates",
+                to: "/docs/templates/appsmith",
               },
               {
                 label: "More...",
@@ -194,6 +194,23 @@ const config = {
               {
                 label: "GitHub",
                 href: "https://github.com/easypanel-io",
+              },
+              {
+                label: "Branding",
+                href: "https://easypanel.io/brand"
+              },
+            ],
+          },
+          {
+            title: "Legal",
+            items: [
+               {
+                label: "Terms Of Service",
+                href: "https://easypanel.io/terms",
+              },
+              {
+                label: "Privacy Policy",
+                href: "https://easypanel.io/privacy"
               },
             ],
           },
