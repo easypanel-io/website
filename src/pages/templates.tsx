@@ -7,7 +7,7 @@ export default function Templates(): JSX.Element {
   return (
     <Layout
       title="Templates"
-      description="Easypanel provides templates for open-source applications you know and love."
+      description="Easypanel provides templates for applications you know and love."
     >
       <section className="tw-pt-16 tw-pb-32 tw-px-4 lg:tw-px-8">
         <div className="tw-text-center">
@@ -15,7 +15,7 @@ export default function Templates(): JSX.Element {
             Easypanel Templates
           </h2>
           <p className="tw-text-xl tw-text-gray-400 tw-mb-4">
-            1-Click Installers for Open-Source Applications
+            1-Click Installers for Your Favorite Applications
           </p>
         </div>
         <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-4 tw-gap-4 lg:tw-gap-8">

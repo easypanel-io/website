@@ -4,14 +4,15 @@ The app service helps you deploy your application code. It's very versatile.
 
 ## Source
 
-There are two different source types
+There are three different source types
 
 - a Github repository
+- a Custom git provider
 - a Docker image
 
 For the Docker image, Easypanel will just pull the image and run it. For the Github repository Easypanel will build a Docker image from your code.
 
-If your repository has a `Dockerfile`, the Docker image will be built using it. Otherwise, it will detect which type of app you have and build it using Cloud Native Builpacks.
+If your repository has a `Dockerfile`, the Docker image will be built using it. Otherwise, it will detect which type of app you have and build it using Cloud Native Buildpacks.
 
 ## Environment
 
@@ -19,7 +20,7 @@ This is where you will put the contents of your `.env` file. These variables wil
 
 ## Domains & Proxy
 
-If you are deploying a web app, you want to serve your app on a domain name. Easypanel makes this very easy. Once you add a domain name and deploy your app, it will configure the proxy service to serve your app on that domain.
+If you are deploying a web app, you'll want to serve your app on a domain name. Once you add a domain name and deploy your app, it will configure the proxy service to serve your app on that domain.
 
 These days, it's really important to serve your web app on HTTPS. Easypanel will grab and setup a free Let's Encrypt certificate for you in seconds.
 
