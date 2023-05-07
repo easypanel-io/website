@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | keycloak
 Domain | - | yes | 
-App Service Image | - | yes | bitnami/keycloak:20.0.5
+App Service Image | - | yes | bitnami/keycloak:21.1.1
 Database Service Name | - | yes | keycloak-db
 Username | - | yes | 
 Password | - | yes | 

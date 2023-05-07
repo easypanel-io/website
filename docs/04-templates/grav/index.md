@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | no | 
 App Service Name | - | yes | grav
-App Service Image | - | yes | linuxserver/grav:1.7.39
+App Service Image | - | yes | linuxserver/grav:1.7.40
 Timezone | - | yes | Etc/UTC
 
 ## Screenshots

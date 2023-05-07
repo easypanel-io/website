@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | no | 
 App Service Name | - | yes | onedev
-App Service Image | - | yes | 1dev/server:8.0.3
+App Service Image | - | yes | 1dev/server:8.1.6
 Database Service Name | - | yes | onedev-db
 
 ## Screenshots

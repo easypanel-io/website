@@ -23,7 +23,7 @@ Your data, your control. Fully open source, authentication and authorization.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | authorizer
-App Service Image | - | yes | lakhansamani/authorizer:1.1.41
+App Service Image | - | yes | lakhansamani/authorizer:1.1.46
 Database Service Name | - | yes | authorizer-db
 Redis Service Name | - | yes | authorizer-redis
 

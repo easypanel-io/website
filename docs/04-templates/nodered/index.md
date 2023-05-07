@@ -24,7 +24,7 @@ Node-RED is a programming tool for wiring together hardware devices, APIs and on
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nodered
-App Service Image | - | yes | nodered/node-red:2.2.3
+App Service Image | - | yes | nodered/node-red:3.0.2
 
 ## Screenshots
 

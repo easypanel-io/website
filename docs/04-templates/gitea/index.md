@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | gitea
-App Service Image | - | yes | gitea/gitea:1.18.4
+App Service Image | - | yes | gitea/gitea:1.19.2
 Database Type | - | yes | 
 Database Service Name | - | yes | gitea-db
 

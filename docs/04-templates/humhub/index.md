@@ -23,7 +23,7 @@ HumHub is an intuitive to use and modular designed open-source software, used pr
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | humhub
-App Service Image | - | yes | mriedmann/humhub:1.9.4
+App Service Image | - | yes | mriedmann/humhub:1.13.0
 Database Service Name | - | yes | humhub-db
 
 ## Screenshots

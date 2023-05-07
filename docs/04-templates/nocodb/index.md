@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | no | 
 App Service Name | - | yes | nocodb
-App Service Image | - | yes | nocodb/nocodb:0.105.3
+App Service Image | - | yes | nocodb/nocodb:0.106.1
 Database Service Name | - | yes | nocodb-db
 Redis Service Name | - | yes | nocodb-redis
 

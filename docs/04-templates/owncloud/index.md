@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | owncloud
 Domain | - | yes | 
-App Service Image | - | yes | owncloud/server:10.12
+App Service Image | - | yes | owncloud/server:10.12.1
 Database Type | - | yes | postgres
 Database Service Name | - | yes | owncloud-db
 Redis Service Name | - | yes | owncloud-redis

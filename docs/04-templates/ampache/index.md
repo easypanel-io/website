@@ -29,7 +29,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | no | 
 App Service Name | - | yes | ampache
-App Service Image | - | yes | ampache/ampache:5.5.7
+App Service Image | - | yes | ampache/ampache:5.6.0
 Media Host Path | - | yes | 
 
 ## Screenshots

@@ -23,7 +23,7 @@ Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kavita
-App Service Image | - | yes | kizaing/kavita:0.6.1
+App Service Image | - | yes | kizaing/kavita:0.7.1
 Timezone | - | no | America/New_York
 
 ## Screenshots

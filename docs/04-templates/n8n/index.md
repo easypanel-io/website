@@ -23,7 +23,7 @@ n8n helps you to connect any app with an API with any other, and manipulate its 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | n8n
-App Service Image | - | yes | n8nio/n8n:0.198.2
+App Service Image | - | yes | n8nio/n8n:0.225.2
 
 ## Screenshots
 

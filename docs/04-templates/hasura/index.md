@@ -23,7 +23,7 @@ The Hasura GraphQL Engine makes your data instantly accessible over a real-time 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hasura
-App Service Image | - | yes | hasura/graphql-engine:v2.20.0
+App Service Image | - | yes | hasura/graphql-engine:v2.24.1
 Database Service Name | - | yes | hasura-db
 Hasura Admin Secret Key | - | yes | mysecretkey
 Console Enable | - | yes | true

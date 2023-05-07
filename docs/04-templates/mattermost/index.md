@@ -23,7 +23,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | mattermost
-App Service Image | - | yes | mattermost/mattermost-team-edition:release-7.7
+App Service Image | - | yes | mattermost/mattermost-team-edition:7.10
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots
