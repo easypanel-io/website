@@ -39,7 +39,7 @@ Database Service Name | - | yes | lynx-db
 
 ## Change Log
 
-- 2023-3-15 – first release
+[CHANGELOG.md](https://github.com/Lynx-Shortener/Lynx/blob/main/CHANGELOG.md)
 
 ## Contributors
 
