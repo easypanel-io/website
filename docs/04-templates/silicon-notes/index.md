@@ -21,7 +21,7 @@ A somewhat lightweight, low-friction personal knowledge base.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | silicon
-App Service Image | - | yes | bityard/silicon:619334fb58a09c4208008316062c0ded0caefb5b
+App Service Image | - | yes | bityard/silicon:488df721031f74721483da787427115c7db19711
 
 ## Screenshots
 

@@ -1,12 +1,12 @@
 ---
-sidebar_label: Registry
-title: Registry
-description: How to install Registry on Easypanel? 1-Click installation template for Registry on Easypanel
+sidebar_label: Docker Registry
+title: Docker Registry
+description: How to install Docker Registry on Easypanel? 1-Click installation template for Docker Registry on Easypanel
 ---
 
 <!-- generated -->
 
-1-Click installation template for Registry on Easypanel
+1-Click installation template for Docker Registry on Easypanel
 
 ## Description
 
@@ -25,7 +25,7 @@ The Registry doesn&#39;t have a UI. To interact with the registry you should use
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | registry
+App Service Name | - | yes | docker-registry
 App Service Image | - | yes | registry:2.8.1
 User | - | yes | admin
 Password | - | yes | admin

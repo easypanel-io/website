@@ -23,7 +23,7 @@ Rotki is an open source portfolio tracking, analytics, accounting, and tax repor
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rotki
-App Service Image | - | yes | rotki/rotki:v1.27.0
+App Service Image | - | yes | rotki/rotki:v1.27.1
 
 ## Screenshots
 

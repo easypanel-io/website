@@ -24,8 +24,8 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | activepieces
-App Service Image | - | yes | activepieces/activepieces:0.3.11
-Redis Service Name | - | yes | activepieces-db
+App Service Image | - | yes | activepieces/activepieces:0.3.13
+Database Service Name | - | yes | activepieces-db
 Redis Service Name | - | yes | activepieces-redis
 
 ## Screenshots
@@ -36,6 +36,7 @@ Redis Service Name | - | yes | activepieces-redis
 
 - 2023-2-27 – first release
 - 2023-3-16 – Fixed startup, added domain properties and version bump to 0.3.6
+- 2023-4-6 – Various error corrections were made and version was upgraded to 0.3.9.
 - 2023-5-02 – Fixed executing flow, and version bumped to 0.3.13
 
 ## Contributors
@@ -43,3 +44,4 @@ Redis Service Name | - | yes | activepieces-redis
 - [abuaboud](https://github.com/abuaboud)
 - [Supernova3339](https://github.com/Supernova3339)
 - [Ponkhy](https://github.com/Ponkhy)
+- [BerkSMBL](https://berksmbl.com)

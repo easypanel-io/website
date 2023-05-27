@@ -23,7 +23,7 @@ Radarr is a movie collection manager for Usenet and BitTorrent users. It can mon
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | radarr
-App Service Image | - | yes | linuxserver/radarr:version-4.3.2.6857
+App Service Image | - | yes | linuxserver/radarr:version-4.4.4.7068
 
 ## Screenshots
 

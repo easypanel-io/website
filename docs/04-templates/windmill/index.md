@@ -28,7 +28,8 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | windmill
 Domain | - | yes | 
-App Service Image | - | yes | ghcr.io/windmill-labs/windmill:1.80.1
+App Service Image | - | yes | ghcr.io/windmill-labs/windmill:main
+EE License Key | - | no | 
 Database Service Name | - | yes | windmill-db
 
 ## Screenshots
@@ -39,6 +40,7 @@ Database Service Name | - | yes | windmill-db
 
 - 2023-03-1 – first release
 - 2023-03-22 – Update to v.1.80.1
+- 2023-05-25 – Update to latest + EE
 
 ## Contributors
 

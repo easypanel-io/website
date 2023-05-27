@@ -78,6 +78,12 @@
     "description": "Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
   },
   {
+    "slug": "blender",
+    "logo": "logo.png",
+    "name": "Blender",
+    "description": "Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games."
+  },
+  {
     "slug": "bookstack",
     "logo": "logo.svg",
     "name": "Bookstack",
@@ -88,6 +94,12 @@
     "logo": "logo.png",
     "name": "Budibase",
     "description": "Budibase is an open source low-code platform, and the easiest way to build internal apps that improve productivity."
+  },
+  {
+    "slug": "calcom",
+    "logo": "logo.png",
+    "name": "Calcom",
+    "description": "Scheduling infrastructure for absolutely everyone."
   },
   {
     "slug": "calibre",
@@ -112,6 +124,12 @@
     "logo": "logo.svg",
     "name": "Chatwoot",
     "description": "Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc."
+  },
+  {
+    "slug": "chromium",
+    "logo": "logo.png",
+    "name": "Chromium",
+    "description": "Chromium Browser is an open source version of Google Chrome"
   },
   {
     "slug": "clickhouse",
@@ -156,6 +174,12 @@
     "description": "CyberChef is a simple, intuitive web app for carrying out all manner of \"cyber\" operations within a web browser."
   },
   {
+    "slug": "dashdot",
+    "logo": "logo.png",
+    "name": "Dashdot",
+    "description": "A simple status page for your homeserver"
+  },
+  {
     "slug": "dashy",
     "logo": "logo.png",
     "name": "Dashy",
@@ -172,6 +196,12 @@
     "logo": "logo.png",
     "name": "Directus",
     "description": "Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.Directus Flows are extremely flexible and easy to configure. Using a simple no-code interface, you can connect any number of operations to create simple or complex workflows that execute automatically in response to a trigger."
+  },
+  {
+    "slug": "docker-registry",
+    "logo": "logo.png",
+    "name": "Docker Registry",
+    "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
   },
   {
     "slug": "documize",
@@ -312,6 +342,18 @@
     "description": "Gitea is a community managed lightweight code hosting solution written in Go. Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc.Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi"
   },
   {
+    "slug": "github-desktop",
+    "logo": "logo.png",
+    "name": "Github Desktop",
+    "description": "Focus on what matters instead of fighting with Git."
+  },
+  {
+    "slug": "glitchtip",
+    "logo": "logo.png",
+    "name": "GlitchTip",
+    "description": "An open source reimplementation of Sentry error tracking platform."
+  },
+  {
     "slug": "gogs",
     "logo": "logo.png",
     "name": "Gogs",
@@ -424,6 +466,12 @@
     "logo": "logo.svg",
     "name": "Isso",
     "description": "Isso – Ich schrei sonst – is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus."
+  },
+  {
+    "slug": "ittools",
+    "logo": "logo.png",
+    "name": "It Tools",
+    "description": "Handy online tools for developers"
   },
   {
     "slug": "jellyfin",
@@ -654,6 +702,12 @@
     "description": "The self-hosted productivity platform that keeps you in control"
   },
   {
+    "slug": "nocobase",
+    "logo": "logo.png",
+    "name": "Nocobase",
+    "description": "Scalability first low/no-code platform for web artisans"
+  },
+  {
     "slug": "nocodb",
     "logo": "logo.png",
     "name": "NocoDB",
@@ -708,6 +762,12 @@
     "description": "Pure HTML5 Network Performance Estimation Tool."
   },
   {
+    "slug": "opera",
+    "logo": "logo.svg",
+    "name": "Opera",
+    "description": "Opera is a multi-platform web browser developed by its namesake company Opera. The browser is based on Chromium, but distinguishes itself from other Chromium-based browsers (Chrome, Edge, etc.) through its user interface and other features."
+  },
+  {
     "slug": "outline",
     "logo": "logo.png",
     "name": "Outline Wiki",
@@ -742,6 +802,12 @@
     "logo": "logo.png",
     "name": "Paperless-ngx",
     "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper."
+  },
+  {
+    "slug": "passbolt",
+    "logo": "logo.png",
+    "name": "Passbolt",
+    "description": "The open source password manager for teams"
   },
   {
     "slug": "pgweb",
@@ -846,12 +912,6 @@
     "description": "Schedule group meetings with friends, colleagues and teams. Create meeting polls to find the best date and time to organize an event based on your participants' availability. Save time and avoid back-and-forth emails."
   },
   {
-    "slug": "registry",
-    "logo": "logo.png",
-    "name": "Registry",
-    "description": "The toolset to pack, ship, store, and deliver content. Docker Registry is the Open Source Registry implementation for storing and distributing container images using the OCI Distribution Specification. The goal of this project is to provide a simple, secure, and scalable base for building a large scale registry solution or running a simple private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor Project, and VMware Harbor Registry."
-  },
-  {
     "slug": "remmina",
     "logo": "logo.png",
     "name": "Remmina",
@@ -882,6 +942,12 @@
     "description": "This project is a free and open source webmail solution with a desktop-like user interface which is easy to install/configure and that runs on a standard LAMPP server. The skins use the latest web standards to render a functional and customizable UI. Roundcube includes other sophisticated open-source libraries such as PEAR, an IMAP library derived from IlohaMail, the TinyMCE rich text editor, Googiespell library for spell checking and the HTML5-PHP sanitizer by Masterminds."
   },
   {
+    "slug": "searxng",
+    "logo": "logo.svg",
+    "name": "SearXNG",
+    "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled."
+  },
+  {
     "slug": "serpbear",
     "logo": "logo.png",
     "name": "SerpBear",
@@ -892,6 +958,12 @@
     "logo": "logo.svg",
     "name": "Servas",
     "description": "A self-hosted bookmark management tool. Servas is based on Laravel and Inertia.js and uses Tailwind CSS and Svelte for the frontend."
+  },
+  {
+    "slug": "shaarli",
+    "logo": "logo.png",
+    "name": "Shaarli",
+    "description": "Shaarli is a minimalist bookmark manager and link sharing service that you can install on your own server. It is designed to be personal (single-user), fast and handy."
   },
   {
     "slug": "shiori",
@@ -990,6 +1062,12 @@
     "description": "Umami is an open source, privacy-focused alternative to Google Analytics. Umami lets you to gather the data you need while respecting the privacy of your users. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. Best of all, you don't need to display an annoying cookie notice."
   },
   {
+    "slug": "unleash",
+    "logo": "logo.png",
+    "name": "Unleash",
+    "description": "Simplify your code production through the world’s largest open-source feature management platform."
+  },
+  {
     "slug": "uptimekuma",
     "logo": "logo.svg",
     "name": "UptimeKuma",
@@ -1060,6 +1138,12 @@
     "logo": "logo.svg",
     "name": "Wordpress",
     "description": "WordPress powers nearly a third of the world’s websites. With tools for everyone from personal bloggers to large corporations, this powerful site builder and content management system (cms) aims to make it possible for anyone to create an online presence in minutes."
+  },
+  {
+    "slug": "wps-office",
+    "logo": "logo.png",
+    "name": "WPS Office",
+    "description": "WPS Office is a lightweight, feature-rich comprehensive office suite with high compatibility. As a handy and professional office software, WPS Office allows you to edit files in Writer, Presentation, Spreadsheet, and PDF to improve your work efficiency."
   },
   {
     "slug": "zipline",

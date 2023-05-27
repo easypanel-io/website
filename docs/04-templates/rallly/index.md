@@ -25,7 +25,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rallly
 Domain | - | yes | 
-App Service Image | - | yes | lukevella/rallly:2.1.1
+App Service Image | - | yes | lukevella/rallly:2.11.0
 Database Service Name | - | yes | rallly-db
 Support Email | - | yes | 
 Email Host | - | yes | 

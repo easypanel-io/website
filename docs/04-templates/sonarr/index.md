@@ -23,7 +23,7 @@ Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS fee
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sonarr
-App Service Image | - | yes | linuxserver/sonarr:version-3.0.9.1549
+App Service Image | - | yes | linuxserver/sonarr:version-3.0.10.1567
 
 ## Screenshots
 

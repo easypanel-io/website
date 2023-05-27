@@ -22,7 +22,7 @@ Your Music Your Way
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | substreamer
-App Service Image | - | yes | ghenry22/substreamer:6.0.25
+App Service Image | - | yes | ghenry22/substreamer:6.0.41
 
 ## Screenshots
 
