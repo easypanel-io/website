@@ -1,9 +1,32 @@
 import Link from "@docusaurus/Link";
 import templates from "@site/docs/04-templates/templates.json";
 import Layout from "@theme/Layout";
-import React from "react";
+import React, { useEffect, useState } from "react";
+
+
 
 export default function Templates(): JSX.Element {
+  const [searchQ, setSearchQ] = useState("")
+  const [selectedTag, setSelectedTag] = useState("")
+  const [resultTemplates, setResultTemplates] = useState(templates)
+
+  const filterByTag = () => {
+    if (!selectedTag) {
+      return templates
+    }
+    return templates.filter((t) => {
+      return t.tags.find((t) => t === selectedTag) ? true : false
+    })
+  }
+
+  useEffect(() => {
+    const templates = filterByTag()
+    setResultTemplates(
+      templates.filter((t) =>
+        t.name.toLowerCase().includes(searchQ.toLowerCase())
+      )
+    )
+  }, [searchQ, selectedTag])
   return (
     <Layout
       title="Templates"
@@ -18,8 +41,64 @@ export default function Templates(): JSX.Element {
             1-Click Installers for Your Favorite Applications
           </p>
         </div>
+        <div className="tw-flex tw-justify-center tw-items-center tw-mb-4">
+          <input 
+            className="tw-p-2 tw-border-2 tw-border-gray-200 tw-rounded-md tw-mr-2 tw-w-1/10" 
+            placeholder="Search..." 
+            value={searchQ} 
+            onChange={(e) => setSearchQ(e.target.value)}
+          />
+          <select 
+            className="tw-p-2 tw-border-2 tw-border-gray-200 tw-rounded-md tw-w-1/10" 
+            placeholder="Tags" 
+            onChange={(e) => setSelectedTag(e.target.value)}
+          >
+            <option value="">Tags</option>
+            <option value="Analytics">Analytics</option>
+            <option value="Blog">Blog</option>
+            <option value="Bookmarks">Bookmarks</option>
+            <option value="Business Apps">Business Apps</option>
+            <option value="Calendars">Calendars</option>
+            <option value="Chat">Chat</option>
+            <option value="CMS">CMS</option>
+            <option value="Code Hosting">Code Hosting</option>
+            <option value="Communication">Communication</option>
+            <option value="CRM">CRM</option>
+            <option value="Customer Support">Customer Support</option>
+            <option value="Dashboard">Dashboard</option>
+            <option value="Data Science">Data Science</option>
+            <option value="Databases">Databases</option>
+            <option value="Developer Tools">Developer Tools</option>
+            <option value="Documentation">Documentation</option>
+            <option value="Documents">Documents</option>
+            <option value="E-Commerce">E-Commerce</option>
+            <option value="Educational">Educational</option>
+            <option value="Email">Email</option>
+            <option value="ERP">ERP</option>
+            <option value="File Management">File Management</option>
+            <option value="Finance">Finance</option>
+            <option value="Forums">Forums</option>
+            <option value="Gallery">Gallery</option>
+            <option value="Gaming">Gaming</option>
+            <option value="Guest Books">Guest Books</option>
+            <option value="Logging">Logging</option>
+            <option value="Media">Media</option>
+            <option value="Monitoring">Monitoring</option>
+            <option value="Network Tools">Network Tools</option>
+            <option value="Notes">Notes</option>
+            <option value="Productivity">Productivity</option>
+            <option value="Project Management">Project Management</option>
+            <option value="RSS">RSS</option>
+            <option value="Security">Security</option>
+            <option value="Social Networking">Social Networking</option>
+            <option value="Storage">Storage</option>
+            <option value="Web Hosting">Web Hosting</option>
+            <option value="Wiki">Wiki</option>
+          </select>
+        </div>
+        
         <div className="tw-max-w-7xl tw-mx-auto tw-mt-16 tw-grid tw-grid-cols-2 lg:tw-grid-cols-4 tw-gap-4 lg:tw-gap-8">
-          {templates.map((template) => (
+          {resultTemplates.map((template) => (
             <Link
               key={template.slug}
               href={`/docs/templates/${template.slug}`}
