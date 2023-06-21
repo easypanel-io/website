@@ -6,7 +6,7 @@ description: Deploying a Ruby on Rails Application with Easypanel Guide
 
 # Ruby on Rails
 
-Ruby on Rails is a popular web application framework that follows the Model-View-Controller (MVC) architectural pattern, providing developers with a productive and elegant way to build dynamic web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying a Ruby on Rails application on Easypanel, making it accessible via a public URL.
+Ruby on Rails is a popular web application framework that follows the Model-View-Controller (MVC) architectural pattern, providing developers with a productive and elegant way to build dynamic web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Ruby on Rails application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -77,6 +77,6 @@ Once the deployment is complete, your Ruby on Rails application will be accessib
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Ruby on Rails application. By following the steps outlined in this tutorial, you can successfully deploy your Ruby on Rails application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Ruby on Rails application. By following the steps outlined in this guide, you can successfully deploy your Ruby on Rails application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting!

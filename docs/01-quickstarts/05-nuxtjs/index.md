@@ -6,7 +6,7 @@ description: Deploying a Nuxt.js Application with Easypanel
 
 # Nuxt.js
 
-Nuxt.js is a powerful framework based on Vue.js, designed for creating server-side rendered (SSR) and static websites. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying a Nuxt.js application on Easypanel, making it accessible via a public URL.
+Nuxt.js is a powerful framework based on Vue.js, designed for creating server-side rendered (SSR) and static websites. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Nuxt.js application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -77,6 +77,6 @@ Once the deployment is complete, your Nuxt.js application will be accessible thr
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Nuxt.js application. By following the steps outlined in this tutorial, you can successfully deploy your Nuxt.js application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Nuxt.js application. By following the steps outlined in this guide, you can successfully deploy your Nuxt.js application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team

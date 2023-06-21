@@ -6,7 +6,7 @@ description: Step-by-step guide on deploying a Nest.js application using Easypan
 
 # Nest.js
 
-Nest.js is a popular web application framework built with Node.js and TypeScript, offering a scalable and modular approach to developing server-side applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including deployment and configuration of web applications. This tutorial will walk you through deploying a Nest.js application on Easypanel, allowing you to access it via a public URL.
+Nest.js is a popular web application framework built with Node.js and TypeScript, offering a scalable and modular approach to developing server-side applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including deployment and configuration of web applications. This guide will walk you through deploying a Nest.js application on Easypanel, allowing you to access it via a public URL.
 
 ## Prerequisites
 
@@ -77,7 +77,7 @@ Once the deployment is complete, your Nest.js application will be accessible thr
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Nest.js application. By following the steps outlined in this tutorial, you can successfully deploy your Nest.js application on Easypanel and make it available through a public URL. Don't forget to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Nest.js application. By following the steps outlined in this guide, you can successfully deploy your Nest.js application on Easypanel and make it available through a public URL. Don't forget to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. They will be able to provide you with the necessary guidance to resolve any issues you may encounter.
 

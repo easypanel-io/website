@@ -6,7 +6,7 @@ description: Deploying a .NET Application with Easypanel Guide
 
 # .NET
 
-.NET is a powerful and versatile framework developed by Microsoft, offering a robust platform for building a wide range of applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying a .NET application on Easypanel, making it accessible via a public URL.
+.NET is a powerful and versatile framework developed by Microsoft, offering a robust platform for building a wide range of applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a .NET application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -77,6 +77,6 @@ Once the deployment is complete, your .NET application will be accessible throug
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your .NET application. By following the steps outlined in this tutorial, you can successfully deploy your .NET application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your .NET application. By following the steps outlined in this guide, you can successfully deploy your .NET application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting!

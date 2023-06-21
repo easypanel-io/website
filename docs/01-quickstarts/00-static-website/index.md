@@ -6,7 +6,7 @@ description: Deploying an Static Website with Easypanel guide
 
 # Hosting a Static Website with Easypanel
 
-In this tutorial, we will be guiding you through the process of hosting a static website on Easypanel. You have two options available: using a Git repository or a Docker image. Let's dive into the steps involved:
+In this guide we will take you through the process of hosting a static website on Easypanel. You have two options available: using a Git repository or a Docker image. Let's dive into the steps involved:
 
 ## Prerequisites
 

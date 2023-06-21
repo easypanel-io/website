@@ -6,11 +6,11 @@ description: Custom SSL Certificate Configuration guide
 
 # Custom SSL Certificate Configuration
 
-In this tutorial, we will guide you through the process of configuring a custom SSL certificate for your Easypanel Traefik installation. Follow the steps below to successfully set up your SSL certificate.
+In this guide, we will take you through the process of configuring a custom SSL certificate for your Easypanel Traefik installation. Follow the steps below to successfully set up your SSL certificate.
 
-## Step 1: Creating a Directory
+## Step 1 - Creating a Directory for Certificates
 
-Open your terminal and execute the following command to create a directory named "certs" under /etc/easypanel/traefik/:
+Connect to your server via SSH and execute the following command to create a directory named "certs" under `/etc/easypanel/traefik/`.
 
 ```
 sudo mkdir -p /etc/easypanel/traefik/certs
@@ -18,18 +18,17 @@ sudo mkdir -p /etc/easypanel/traefik/certs
 
 The `-p` flag will create the necessary parent directories if they do not exist.
 
-## Step 2: Copying Certificates
+## Step 2 - Copying Certificates
 
-Copy your SSL certificate files (`.crt` and `.key`) to the newly created directory. Replace `source-path` with the current location of your certificate files:
+Move your SSL certificate files (`.crt` and `.key`) to the newly created directory.
 
-```
-sudo cp source-path/examplecert.crt /etc/easypanel/traefik/certs/
-sudo cp source-path/examplecert.key /etc/easypanel/traefik/certs/
-```
+:::info
+In order to move your certificates to `/etc/easypanel/traefik/certs/` you can connect via SSH / [FileZilla](/docs/guides/filezilla-client) or install the [Filebrowser template](/docs/templates/filebrowser) on your project.
+:::
 
-## Step 3: Creating the "custom.yaml" File
+## Step 3 - Creating the "custom.yaml" File
 
-Create a new file named "custom.yaml" under /etc/easypanel/traefik/config/ using the following command:
+Create a new file named "custom.yaml" under `/etc/easypanel/traefik/config/` via FileZilla or using the following command:
 
 ```
 sudo nano /etc/easypanel/traefik/config/custom.yaml
@@ -37,20 +36,29 @@ sudo nano /etc/easypanel/traefik/config/custom.yaml
 
 This will open the file in the nano text editor. If you prefer to use a different text editor such as vim or emacs, replace `nano` with your preferred editor.
 
-## Step 4: Restarting Traefik
+`custom.yaml` example:
 
-Restart Traefik using the appropriate command for your operating system and installation method. Head to settings and click the restart button:
+```
+tls:
+  certificates:
+    - certFile: /etc/easypanel/traefik/certs/**examplecert**.crt
+      keyFile: /etc/easypanel/traefik/certs/**examplecert**.key
+```
+
+## Step 4 - Restarting Traefik
+
+Restart Traefik using the appropriate command for your operating system and installation method. Head to settings and click the restart button.
 
 ![Environment Setup](./restart.png)
 
-## Step 5: Configuring Domain Settings
+## Step 5 - Configuring Domain Settings
 
-Open the EasyPanel user interface in your web browser and navigate to the "Domains" tab. Locate the domain you're working with and update its settings:
+Open the EasyPanel user interface in your web browser and navigate to the "Domains" tab. Locate the domain you're working with and update its settings.
 
-- Set the expose port to "80".
+- Set the expose port (ex: 80).
 - Enable the option for Let's Encrypt, typically by checking a box or toggling a switch.
 
-## Step 6: Clearing Browser Cache and Testing
+## Step 6 - Clearing Browser Cache and Testing
 
 Clear your browser cache to ensure you load the most recent version of your site. The process may vary depending on the browser you're using. Generally, you can find this option in the browser's settings or preferences.
 

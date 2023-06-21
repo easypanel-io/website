@@ -6,7 +6,7 @@ description: Deploying a Django Application with Easypanel Guide
 
 # Django
 
-Django is a popular web framework built with Python, known for its simplicity and efficiency in developing robust web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying a Django application on Easypanel, making it accessible via a public URL.
+Django is a popular web framework built with Python, known for its simplicity and efficiency in developing robust web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Django application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -131,6 +131,6 @@ Once the deployment is complete, your Django application will be accessible thro
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Django application. By following the steps outlined in this tutorial, you can successfully deploy your Django application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Django application. By following the steps outlined in this guide, you can successfully deploy your Django application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting!

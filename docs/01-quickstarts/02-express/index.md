@@ -6,7 +6,7 @@ description: Deploying an Express.js Application with Easypanel guide
 
 # Express.js
 
-Express.js is a popular web application framework built with Node.js, providing a minimalist and flexible approach for developing web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying an Express.js application on Easypanel, making it accessible via a public URL.
+Express.js is a popular web application framework built with Node.js, providing a minimalist and flexible approach for developing web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying an Express.js application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -77,6 +77,6 @@ Once the deployment is complete, your Express.js application will be accessible 
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Express.js application. By following the steps outlined in this tutorial, you can successfully deploy your Express.js application on Easypanel and make it available through a public URL. Don't forget to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Express.js application. By following the steps outlined in this guide, you can successfully deploy your Express.js application on Easypanel and make it available through a public URL. Don't forget to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting

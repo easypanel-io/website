@@ -1,27 +1,27 @@
 ---
-sidebar_label: Running a Cron Job
+sidebar_label: Cron Job
 title: Running a Cron Job on Easypanel
 description: Running a Cron Job on Easypanel Guide
 ---
 
-# Running a Cron Job on Easypanel
+# Cron Job
 
-A cron job is a Linux command used to schedule tasks for future execution. It allows you to automate repetitive tasks, such as sending notifications or running scripts at specific intervals. In this tutorial, we will explain how to set up a cron job on Easypanel using two different scenarios: with a Dockerfile and without a Dockerfile.
+A cron job is a Linux command used to schedule tasks for future execution. It allows you to automate repetitive tasks, such as sending notifications or running scripts at specific intervals. In this guide, we will explain how to set up a cron job on Easypanel using two different scenarios: with a Dockerfile and without a Dockerfile.
 
-## Scenario 1: Using a Dockerfile
+## Using a Dockerfile
 
 If you have a Dockerfile for your application, you can follow these steps to set up a cron job:
 
-1. Open your Dockerfile and add the following lines:
+Open your Dockerfile and add the following lines:
 
-   ```Dockerfile
-   RUN echo '*/5 * * * * /path/to/script.sh' >> /etc/crontabs/root
-   CMD ["/usr/sbin/crond", "-f"]
-   ```
+```Dockerfile
+RUN echo '*/5 * * * * /path/to/script.sh' >> /etc/crontabs/root
+CMD ["/usr/sbin/crond", "-f"]
+```
 
-   The above example sets up a cron job to run the `script.sh` file every 5 minutes. You can adjust the interval as per your requirements. For more information on how to write cron job intervals, you can refer to [crontab.guru](https://crontab.guru/).
+The above example sets up a cron job to run the `script.sh` file every 5 minutes. You can adjust the interval as per your requirements. For more information on how to write cron job intervals, you can refer to [crontab.guru](https://crontab.guru/).
 
-## Scenario 2: Without a Dockerfile
+## Using an External Service
 
 If you don't have a Dockerfile, you can use an external service like [cron-job.org](https://cron-job.org/en/) to set up your cron job. Here's how:
 

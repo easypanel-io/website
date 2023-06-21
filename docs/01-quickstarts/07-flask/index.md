@@ -6,7 +6,7 @@ description: Deploying a Flask Application with Easypanel Guide
 
 # Flask
 
-Flask is a lightweight and versatile web framework built with Python, offering a straightforward approach to developing web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This tutorial will guide you through the process of deploying a Flask application on Easypanel, making it accessible via a public URL.
+Flask is a lightweight and versatile web framework built with Python, offering a straightforward approach to developing web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Flask application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
@@ -77,6 +77,6 @@ Once the deployment is complete, your Flask application will be accessible throu
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Flask application. By following the steps outlined in this tutorial, you can successfully deploy your Flask application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Flask application. By following the steps outlined in this guide, you can successfully deploy your Flask application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting!
