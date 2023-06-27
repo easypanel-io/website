@@ -1,7 +1,7 @@
 import Link from "@docusaurus/Link";
 import templates from "@site/docs/04-templates/templates.json";
 import Layout from "@theme/Layout";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 
 
 
@@ -27,6 +27,30 @@ export default function Templates(): JSX.Element {
       )
     )
   }, [searchQ, selectedTag])
+
+  function getTagsFromTemplates(templates: any) {
+    const tags: Record<string, number> = {}
+
+    templates.forEach((template: any) => {
+      template.tags.forEach((tag: any) => {
+        tags[tag] = tags[tag] ? tags[tag] + 1 : 1
+      })
+    })
+
+    const sortedTags: Record<string, number> = {}
+    Object.keys(tags)
+      .sort()
+      .forEach((key: string) => {
+        sortedTags[key] = tags[key]
+      })
+
+    return sortedTags
+  }
+
+  const tagsForTemplates = useMemo(
+    () => getTagsFromTemplates(templates),
+    [templates]
+  )
   return (
     <Layout
       title="Templates"
@@ -43,13 +67,13 @@ export default function Templates(): JSX.Element {
         </div>
         <div className="tw-flex tw-justify-center tw-items-center tw-mb-4">
           <input 
-            className="tw-p-2 tw-border-2 tw-border-gray-200 tw-rounded-md tw-mr-2 tw-w-1/10" 
+            className="tw-p-2 tw-border-2 tw-border-gray-450 tw-rounded-md tw-mr-2 tw-w-1/10" 
             placeholder="Search..." 
             value={searchQ} 
             onChange={(e) => setSearchQ(e.target.value)}
           />
           <select 
-            className="tw-p-2 tw-border-2 tw-border-gray-200 tw-rounded-md tw-w-1/10" 
+            className="tw-p-2 tw-border-2 tw-border-gray-450 tw-rounded-md tw-w-1/10" 
             placeholder="Tags" 
             onChange={(e) => setSelectedTag(e.target.value)}
           >
