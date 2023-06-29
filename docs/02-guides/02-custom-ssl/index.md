@@ -18,12 +18,12 @@ sudo mkdir -p /etc/easypanel/traefik/certs
 
 The `-p` flag will create the necessary parent directories if they do not exist.
 
-## Step 2 - Copying Certificates
+## Step 2 - Uploading Certificates
 
-Move your SSL certificate files (`.crt` and `.key`) to the newly created directory.
+Upload your SSL certificate files (`.crt` and `.key`) to the newly created directory.
 
 :::info
-In order to move your certificates to `/etc/easypanel/traefik/certs/` you can connect via SSH / [FileZilla](/docs/guides/filezilla-client) or install the [Filebrowser template](/docs/templates/filebrowser) on your project.
+In order to upload your certificates to `/etc/easypanel/traefik/certs/` you can check out the [file management guide](/docs/guides/file-management)
 :::
 
 ## Step 3 - Creating the "custom.yaml" File
