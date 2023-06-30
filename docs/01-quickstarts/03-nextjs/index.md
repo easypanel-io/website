@@ -77,6 +77,6 @@ Once the deployment is complete, your Next.js application will be accessible thr
 
 ## Conclusion
 
-Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Next.js application. By following the steps outlined in this guide, you can successfully deploy your Next.js application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
+Easypanel simplifies the process of deploying web applications, making it an ideal hosting solution for your Next.js application. By following the steps outlined in this tutorial, you can successfully deploy your Next.js application on Easypanel and make it available through a public URL. Remember to regularly update and secure your application to ensure smooth and secure operations.
 
 If you encounter any issues or have further questions, don't hesitate to refer to Easypanel's documentation or seek assistance from their support team. Happy hosting!
