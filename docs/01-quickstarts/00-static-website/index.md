@@ -40,7 +40,7 @@ After creating the app, you will be redirected to the app's page where you can c
 
 If you are using a Git provider such as GitHub, GitLab, or Bitbucket, follow these steps to set up your SSH key:
 
-1. Refer to the [SSH key setup guide](https://easypanel.io/docs/code-sources/git-ssh) for detailed instructions.
+- Refer to the [SSH key setup guide](https://easypanel.io/docs/code-sources/git-ssh) for detailed instructions.
 
 ## Step 4 - Choosing NixPacks as the Build Method
 
