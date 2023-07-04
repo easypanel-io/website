@@ -90,10 +90,28 @@
     "description": "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters & pages. BookStack is built using PHP, on top of the Laravel framework and it uses MySQL to store data."
   },
   {
+    "slug": "botpress",
+    "logo": "logo.png",
+    "name": "Botpress",
+    "description": "Dev tools to reliably understand text and automate conversations. Built-in NLU. Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc)."
+  },
+  {
     "slug": "budibase",
     "logo": "logo.png",
     "name": "Budibase",
     "description": "Budibase is an open source low-code platform, and the easiest way to build internal apps that improve productivity."
+  },
+  {
+    "slug": "bytebase",
+    "logo": null,
+    "name": "Bytebase",
+    "description": "Bytebase offers a web-based collaboration workspace to help DBAs and Developers manage the database development lifecycle."
+  },
+  {
+    "slug": "cachet",
+    "logo": "logo.png",
+    "name": "Cachet",
+    "description": "An open source status page system for everyone."
   },
   {
     "slug": "calcom",
@@ -109,7 +127,7 @@
   },
   {
     "slug": "changedetection",
-    "logo": null,
+    "logo": "logo.png",
     "name": "Change Detection",
     "description": "The best and simplest self-hosted free open source website change detection tracking, monitoring, and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free."
   },
@@ -138,6 +156,12 @@
     "description": "ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time."
   },
   {
+    "slug": "cockpit",
+    "logo": "logo.png",
+    "name": "Cockpit",
+    "description": "Headless Content Platform CMS"
+  },
+  {
     "slug": "codex-docs",
     "logo": "logo.svg",
     "name": "CodeX Docs",
@@ -148,6 +172,12 @@
     "logo": "logo.png",
     "name": "Commento",
     "description": "Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications."
+  },
+  {
+    "slug": "commentoplusplus",
+    "logo": "logo.png",
+    "name": "Commento++",
+    "description": "Commento with out of the box patches and updates to add useful features and fixes."
   },
   {
     "slug": "coralproject",
@@ -240,6 +270,12 @@
     "description": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. It works with: Amazon S3, OneDrive, Google Drive, Rackspace Cloud Files, HubiC, Backblaze (B2), Amazon Cloud Drive (AmzCD), Swift / OpenStack, WebDAV, SSH (SFTP), FTP, and more!"
   },
   {
+    "slug": "easyshortener",
+    "logo": "logo.png",
+    "name": "Easyshortener",
+    "description": "A dead simple URL shortening tool"
+  },
+  {
     "slug": "element",
     "logo": "logo.svg",
     "name": "Element",
@@ -250,6 +286,18 @@
     "logo": "logo.png",
     "name": "Emby",
     "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices."
+  },
+  {
+    "slug": "etherpad",
+    "logo": "logo.png",
+    "name": "Etherpad",
+    "description": "A modern really-real-time collaborative document editor."
+  },
+  {
+    "slug": "evobot",
+    "logo": "logo.png",
+    "name": "EvoBot",
+    "description": "EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages"
   },
   {
     "slug": "excalidraw",
@@ -304,6 +352,12 @@
     "logo": "logo.png",
     "name": "Flarum",
     "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free."
+  },
+  {
+    "slug": "flowise",
+    "logo": "logo.png",
+    "name": "Flowise",
+    "description": "Drag & drop UI to build your customized LLM flow using LangchainJS"
   },
   {
     "slug": "focalboard",
@@ -372,6 +426,12 @@
     "description": "Gotify is a simple server for sending and receiving messages.Both Gotify's API and user interface are designed to be as simple as possible.Gotify is written in Go and can be easily compiled for different platforms."
   },
   {
+    "slug": "gotosocial",
+    "logo": "logo.png",
+    "name": "GoToSocial",
+    "description": "GoToSocial is an ActivityPub social network server, written in Golang. It doesn't provide a client interface. Instead, you can use any Mastodon client."
+  },
+  {
     "slug": "grafana",
     "logo": "logo.png",
     "name": "Grafana",
@@ -424,6 +484,12 @@
     "logo": "logo.png",
     "name": "Heimdall",
     "description": "Heimdall Application Dashboard is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. There are no iframes here, no apps within apps, no abstraction of APIs. if you think something should work a certain way, it probably does."
+  },
+  {
+    "slug": "hiccup",
+    "logo": "logo.png",
+    "name": "Hiccup",
+    "description": "A static start page to get to your most important links, FAST"
   },
   {
     "slug": "homarr",
@@ -528,6 +594,18 @@
     "description": "Komga is a media server for your comics, mangas, BDs and magazines."
   },
   {
+    "slug": "kutt",
+    "logo": "logo.png",
+    "name": "Kutt",
+    "description": "Free Modern URL Shortener."
+  },
+  {
+    "slug": "langflow",
+    "logo": "logo.png",
+    "name": "Langflow",
+    "description": "An effortless way to experiment and prototype LangChain pipelines"
+  },
+  {
     "slug": "languagetool",
     "logo": "logo.svg",
     "name": "Languagetool",
@@ -600,16 +678,34 @@
     "description": "Mailhog is a web and API based SMTP tool for testing emails"
   },
   {
+    "slug": "mastodon",
+    "logo": "logo.svg",
+    "name": "Mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
     "slug": "matomo",
     "logo": "logo.png",
     "name": "Matomo",
     "description": "Google Analytics alternative that protects your data and your customers' privacy. Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership."
   },
   {
+    "slug": "matrix-synapse",
+    "logo": "logo.svg",
+    "name": "Matrix Synapse",
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
+  },
+  {
     "slug": "mattermost",
     "logo": "logo.png",
     "name": "Mattermost",
     "description": "Open source platform for developer collaboration. Secure, flexible, and integrated with the tools you love."
+  },
+  {
+    "slug": "mcaptcha",
+    "logo": "logo.png",
+    "name": "mCaptcha",
+    "description": "A no-nonsense CAPTCHA system with seamless UX"
   },
   {
     "slug": "mealie",
@@ -666,6 +762,12 @@
     "description": "The easiest music streaming server available"
   },
   {
+    "slug": "muse",
+    "logo": "logo.png",
+    "name": "Muse",
+    "description": "Muse is a highly-opinionated midwestern self-hosted Discord music bot that doesn't suck. It's made for small to medium-sized Discord servers/guilds (think about a group the size of you, your friends, and your friend's friends)."
+  },
+  {
     "slug": "mysql-backup",
     "logo": null,
     "name": "MySQL Backup",
@@ -714,6 +816,12 @@
     "description": "NocoDB is an open source Airtable alternative and no code platform that turns any database into a smart spreadsheet."
   },
   {
+    "slug": "nodebb",
+    "logo": "logo.png",
+    "name": "NodeBB",
+    "description": "Node.js based forum software built for the modern web"
+  },
+  {
     "slug": "nodered",
     "logo": "logo.png",
     "name": "Node-RED",
@@ -730,6 +838,12 @@
     "logo": "logo.png",
     "name": "Nzbget",
     "description": "NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.NZBGet is written in C++ and is known for its performance and efficiency.NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android."
+  },
+  {
+    "slug": "octobox",
+    "logo": "logo.png",
+    "name": "Octobox",
+    "description": "Octobox helps you manage your GitHub notifications efficiently so you can spend less time managing and more time getting things done."
   },
   {
     "slug": "odoo",
@@ -810,6 +924,12 @@
     "description": "The open source password manager for teams"
   },
   {
+    "slug": "pgvector",
+    "logo": null,
+    "name": "pgvector",
+    "description": "Open-source vector similarity search for Postgres"
+  },
+  {
     "slug": "pgweb",
     "logo": "logo.png",
     "name": "pgweb",
@@ -838,6 +958,12 @@
     "logo": "logo.png",
     "name": "Pidgin",
     "description": "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously."
+  },
+  {
+    "slug": "planka",
+    "logo": "logo.png",
+    "name": "Planka",
+    "description": "The realtime kanban board for workgroups built with React and Redux."
   },
   {
     "slug": "plausible",
@@ -894,6 +1020,18 @@
     "description": "Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.No accounts, no logins. Mobile friendly responsive interface."
   },
   {
+    "slug": "pufferpanel",
+    "logo": "logo.png",
+    "name": "Pufferpanel",
+    "description": "https://github.com/PufferPanel/PufferPanel"
+  },
+  {
+    "slug": "qdrant",
+    "logo": "logo.svg",
+    "name": "Qdrant",
+    "description": "Vector Search Engine for the next generation of AI applications"
+  },
+  {
     "slug": "rabbitmq",
     "logo": "logo.svg",
     "name": "RabbitMQ",
@@ -904,6 +1042,12 @@
     "logo": "logo.png",
     "name": "Radarr",
     "description": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported."
+  },
+  {
+    "slug": "radicale",
+    "logo": "logo.png",
+    "name": "Radicale",
+    "description": "A simple CalDAV (calendar) and CardDAV (contact) server"
   },
   {
     "slug": "rallly",
@@ -925,7 +1069,7 @@
   },
   {
     "slug": "rocketchat",
-    "logo": "logo.png",
+    "logo": "logo.svg",
     "name": "Rocket.Chat",
     "description": "Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure."
   },
@@ -1044,6 +1188,18 @@
     "description": "Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics. Most importantly, these statistics include what has been watched, who watched it, when and where they watched it, and how it was watched."
   },
   {
+    "slug": "tolgee",
+    "logo": "logo.svg",
+    "name": "Tolgee",
+    "description": "Developer & translator friendly web-based localization platform"
+  },
+  {
+    "slug": "trilium",
+    "logo": "logo.png",
+    "name": "Trilium Notes",
+    "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases."
+  },
+  {
     "slug": "typebot",
     "logo": "logo.svg",
     "name": "Typebot",
@@ -1098,6 +1254,18 @@
     "description": "A minimalist, self-hosted WakaTime-compatible backend for coding statistics"
   },
   {
+    "slug": "weaviate",
+    "logo": "logo.svg",
+    "name": "Weaviate",
+    "description": "Vector Search Engine for the next generation of AI applications"
+  },
+  {
+    "slug": "webcord",
+    "logo": "logo.png",
+    "name": "Webcord",
+    "description": "WebCord can be summarized as a pack of security and privacy hardenings, Discord features reimplementations, Electron / Chromium / Discord bugs workarounds, stylesheets, internal pages and wrapped https://discord.com/ page, designed to conform with ToS as much as it is possible (or hide the changes that might violate it from Discord's eyes)."
+  },
+  {
     "slug": "weblate",
     "logo": "logo.png",
     "name": "Weblate",
@@ -1144,6 +1312,12 @@
     "logo": "logo.png",
     "name": "WPS Office",
     "description": "WPS Office is a lightweight, feature-rich comprehensive office suite with high compatibility. As a handy and professional office software, WPS Office allows you to edit files in Writer, Presentation, Spreadsheet, and PDF to improve your work efficiency."
+  },
+  {
+    "slug": "yao",
+    "logo": "logo.png",
+    "name": "YAO",
+    "description": "YAO is an open-source application engine,"
   },
   {
     "slug": "zipline",

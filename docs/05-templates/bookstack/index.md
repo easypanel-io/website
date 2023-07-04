@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | bookstack
-App Service Image | - | yes | lscr.io/linuxserver/bookstack:23.01.1
+App Service Image | - | yes | lscr.io/linuxserver/bookstack:23.05.2
 Database Service Name | - | yes | bookstack-db
 
 ## Screenshots
@@ -40,3 +40,4 @@ Database Service Name | - | yes | bookstack-db
 - [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/Supernova3339)
+- [BerkSMBL](https://berksmbl.com)

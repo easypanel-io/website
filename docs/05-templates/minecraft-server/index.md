@@ -22,7 +22,7 @@ Minecraft Server that will automatically download the latest stable version at s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | minecraft-server
-App Service Image | - | yes | itzg/minecraft-server:2023.3.0
+App Service Image | - | yes | itzg/minecraft-server:2023.6.1
 Server Name | - | no | MyServer
 Version | - | no | LATEST
 Server Types | - | no | VANILLA

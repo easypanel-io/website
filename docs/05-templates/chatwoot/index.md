@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 Domain | - | yes | 
 Default Locale | - | yes | en
 App Service Name | - | yes | chatwoot
-App Service Image | - | yes | chatwoot/chatwoot:v2.16.0
+App Service Image | - | yes | chatwoot/chatwoot:v2.17.1
 Database Service Name | - | yes | chatwoot-db
 Redis Service Name | - | yes | chatwoot-redis
 
@@ -39,3 +39,4 @@ Redis Service Name | - | yes | chatwoot-redis
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [BerkSMBL](https://berksmbl.com)

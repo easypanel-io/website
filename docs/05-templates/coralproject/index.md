@@ -23,9 +23,10 @@ Coral improves community on your website through smart technology, effective des
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coral
-App Service Image | - | yes | coralproject/talk:7.4.7
+App Service Image | - | yes | coralproject/talk:8.2.4
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
+Metrics Port Enable | - | yes | false
 
 ## Screenshots
 
@@ -34,7 +35,9 @@ Database Service Name | - | yes | coral-db
 ## Change Log
 
 - 2023-2-19 – first release
+- 2023-06-18 – Fixed bug that prevented the application from working version has been replaced with the current version
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [BerkSMBL](https://berksmbl.com)

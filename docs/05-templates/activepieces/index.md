@@ -24,7 +24,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
 App Service Name | - | yes | activepieces
-App Service Image | - | yes | activepieces/activepieces:0.3.13
+App Service Image | - | yes | activepieces/activepieces:0.3.15
 Database Service Name | - | yes | activepieces-db
 Redis Service Name | - | yes | activepieces-redis
 
@@ -38,6 +38,7 @@ Redis Service Name | - | yes | activepieces-redis
 - 2023-3-16 – Fixed startup, added domain properties and version bump to 0.3.6
 - 2023-4-6 – Various error corrections were made and version was upgraded to 0.3.9.
 - 2023-5-02 – Fixed executing flow, and version bumped to 0.3.13
+- 2023-6-03 – Version bumped to 0.3.15
 
 ## Contributors
 

@@ -28,7 +28,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | no | 
 App Service Name | - | yes | audiobookshelf
-App Service Image | - | yes | ghcr.io/advplyr/audiobookshelf:2.2.16
+App Service Image | - | yes | ghcr.io/advplyr/audiobookshelf:2.2.22
 Starter Host Path | - | yes | 
 
 ## Screenshots
@@ -42,3 +42,4 @@ Starter Host Path | - | yes |
 ## Contributors
 
 - [Ponkhy](https://github.com/Ponkhy)
+- [BerkSMBL](https://berksmbl.com)

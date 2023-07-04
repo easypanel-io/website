@@ -23,7 +23,7 @@ Rocket.Chat is an open-source fully customizable communications platform develop
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
-App Service Image | - | yes | rocket.chat:5.2.0
+App Service Image | - | yes | rocketchat/rocket.chat:5.4.5
 Database Service Name | - | yes | rocketchat-db
 
 ## Screenshots
@@ -33,8 +33,10 @@ Database Service Name | - | yes | rocketchat-db
 ## Change Log
 
 - 2022-08-10 – first release
+- 2023-3-20 – Update to v5.4.5
 
 ## Contributors
 
 - [Bedeoan Raul](https://github.com/bedeoan)
 - [Andrei Canta](https://github.com/deiucanta)
+- [Supernova3339](https://github.com/supernova3339)

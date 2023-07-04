@@ -38,4 +38,4 @@ Redis Service Name | - | yes | nocodb-redis
 
 ## Contributors
 
-- [spaceb0t](https://github.com/spacec0de)
+- [spacec0de](https://github.com/spacec0de)

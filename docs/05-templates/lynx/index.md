@@ -18,8 +18,10 @@ Registration is disabled by default, but the first registration will always be a
 
 ## Links
 
-- [Demo](https://demo.jck.cx/)
-- [Github](https://github.com/JackBailey/Lynx/)
+- [Demo](https://demo.getlynx.dev/)
+- [Github](https://github.com/Lynx-Shortener/Lynx/)
+- [Website](https://getlynx.dev)
+- [Docs](https://docs.getlynx.dev)
 
 ## Options
 
