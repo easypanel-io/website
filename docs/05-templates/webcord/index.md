@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Webcord
-title: Webcord
+title: Webcord | Self-Host on Easypanel
 description: How to install Webcord on Easypanel? 1-Click installation template for Webcord on Easypanel
 ---
 
 <!-- generated -->
+
+# Webcord
 
 1-Click installation template for Webcord on Easypanel
 
@@ -20,6 +23,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 
 - [Documentation](https://docs.linuxserver.io/images/docker-webcord)
 - [Github](https://github.com/SpacingBat3/WebCord)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/webcord)
 
 ## Options
 
@@ -39,4 +43,4 @@ App Service Image | - | yes | lscr.io/linuxserver/webcord:latest
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
-- [BerkSMBL](https://berksmbl.com/)
+- [Berk Sümbül](https://berksmbl.com)

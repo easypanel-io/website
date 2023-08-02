@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Chromium
-title: Chromium
+title: Chromium | Self-Host on Easypanel
 description: How to install Chromium on Easypanel? 1-Click installation template for Chromium on Easypanel
 ---
 
 <!-- generated -->
+
+# Chromium
 
 1-Click installation template for Chromium on Easypanel
 
@@ -16,6 +19,7 @@ Chromium Browser is an open source version of Google Chrome
 
 - [Documentation](https://docs.linuxserver.io/images/docker-chromium)
 - [Github](https://github.com/linuxserver/docker-chromium)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/chromium)
 
 ## Options
 

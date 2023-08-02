@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Qdrant
-title: Qdrant
+title: Qdrant | Self-Host on Easypanel
 description: How to install Qdrant on Easypanel? 1-Click installation template for Qdrant on Easypanel
 ---
 
 <!-- generated -->
+
+# Qdrant
 
 1-Click installation template for Qdrant on Easypanel
 
@@ -17,6 +20,7 @@ Vector Search Engine for the next generation of AI applications
 - [Website](https://qdrant.tech/)
 - [Documentation](https://qdrant.tech/documentation/)
 - [Github](https://github.com/qdrant/qdrant)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/qdrant)
 
 ## Options
 

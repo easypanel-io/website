@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: SuiteCRM
-title: SuiteCRM
+title: SuiteCRM | Self-Host on Easypanel
 description: How to install SuiteCRM on Easypanel? 1-Click installation template for SuiteCRM on Easypanel
 ---
 
 <!-- generated -->
+
+# SuiteCRM
 
 1-Click installation template for SuiteCRM on Easypanel
 
@@ -17,6 +20,7 @@ SuiteCRM is a completely open source, enterprise-grade Customer Relationship Man
 - [Website](https://suitecrm.com/)
 - [Documentation](https://docs.suitecrm.com/)
 - [Github](https://github.com/salesagility/SuiteCRM)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/suitecrm)
 
 ## Options
 

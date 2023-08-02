@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Botpress
-title: Botpress
+title: Botpress | Self-Host on Easypanel
 description: How to install Botpress on Easypanel? 1-Click installation template for Botpress on Easypanel
 ---
 
 <!-- generated -->
+
+# Botpress
 
 1-Click installation template for Botpress on Easypanel
 
@@ -21,6 +24,7 @@ Botpress needs at least 10 GB of RAM to run!
 - [Website](https://botpress.com)
 - [Documentation](https://botpress.com/docs)
 - [Github](https://github.com/botpress/botpress)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/botpress)
 
 ## Options
 

@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Muse
-title: Muse
+title: Muse | Self-Host on Easypanel
 description: How to install Muse on Easypanel? 1-Click installation template for Muse on Easypanel
 ---
 
 <!-- generated -->
+
+# Muse
 
 1-Click installation template for Muse on Easypanel
 
@@ -16,6 +19,7 @@ Muse is a highly-opinionated midwestern self-hosted Discord music bot that doesn
 
 - [Github](https://github.com/codetheweb/muse)
 - [Documentation](https://github.com/codetheweb/muse#running)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/muse)
 
 ## Options
 

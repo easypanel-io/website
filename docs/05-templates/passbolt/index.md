@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Passbolt
-title: Passbolt
+title: Passbolt | Self-Host on Easypanel
 description: How to install Passbolt on Easypanel? 1-Click installation template for Passbolt on Easypanel
 ---
 
 <!-- generated -->
+
+# Passbolt
 
 1-Click installation template for Passbolt on Easypanel
 
@@ -21,13 +24,13 @@ In order to create the first admin account, the following needs to be executed i
 - [Website](https://passbolt.com)
 - [Documentation](https://help.passbolt.com)
 - [Github](https://github.com/passbolt/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/passbolt)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | passbolt
-Domain | - | yes | 
 App Service Image | - | yes | passbolt/passbolt:3.12.0-3-ce
 Database Service Name | - | yes | passbolt-db
 

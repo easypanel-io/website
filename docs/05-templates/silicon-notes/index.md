@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Silicon Notes
-title: Silicon Notes
+title: Silicon Notes | Self-Host on Easypanel
 description: How to install Silicon Notes on Easypanel? 1-Click installation template for Silicon Notes on Easypanel
 ---
 
 <!-- generated -->
+
+# Silicon Notes
 
 1-Click installation template for Silicon Notes on Easypanel
 
@@ -15,6 +18,7 @@ A somewhat lightweight, low-friction personal knowledge base.
 ## Links
 
 - [Github](https://github.com/cu/silicon)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/silicon-notes)
 
 ## Options
 

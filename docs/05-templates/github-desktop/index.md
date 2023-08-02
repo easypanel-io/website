@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Github Desktop
-title: Github Desktop
+title: Github Desktop | Self-Host on Easypanel
 description: How to install Github Desktop on Easypanel? 1-Click installation template for Github Desktop on Easypanel
 ---
 
 <!-- generated -->
+
+# Github Desktop
 
 1-Click installation template for Github Desktop on Easypanel
 
@@ -20,6 +23,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 
 - [Documentation](https://docs.linuxserver.io/images/docker-github-desktop)
 - [Github](https://github.com/desktop/desktop)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/github-desktop)
 
 ## Options
 

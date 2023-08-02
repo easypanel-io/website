@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Flarum
-title: Flarum
+title: Flarum | Self-Host on Easypanel
 description: How to install Flarum on Easypanel? 1-Click installation template for Flarum on Easypanel
 ---
 
 <!-- generated -->
+
+# Flarum
 
 1-Click installation template for Flarum on Easypanel
 
@@ -21,6 +24,7 @@ Please use the credentials flarum:flarum to login.
 - [Website](https://flarum.org/)
 - [Documentation](https://docs.flarum.org/)
 - [Github](https://github.com/flarum/flarum)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/flarum)
 
 ## Options
 
@@ -28,7 +32,6 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flarum
 App Service Image | - | yes | crazymax/flarum:1.6.2
-App Domain | - | yes | 
 Database Type | - | yes | mariadb
 Database Service Name (URL if external) | - | yes | flarum-db
 Database Port (blank to default) | - | no | 

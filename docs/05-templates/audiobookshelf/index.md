@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Audiobookshelf
-title: Audiobookshelf
+title: Audiobookshelf | Self-Host on Easypanel
 description: How to install Audiobookshelf on Easypanel? 1-Click installation template for Audiobookshelf on Easypanel
 ---
 
 <!-- generated -->
+
+# Audiobookshelf
 
 1-Click installation template for Audiobookshelf on Easypanel
 
@@ -21,12 +24,12 @@ Starter Host Path will be bind to &quot;/audiobooks&quot; inside the container. 
 - [Website](https://www.audiobookshelf.org)
 - [Documentation](https://www.audiobookshelf.org/docs)
 - [Github](https://github.com/advplyr/audiobookshelf)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/audiobookshelf)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | no | 
 App Service Name | - | yes | audiobookshelf
 App Service Image | - | yes | ghcr.io/advplyr/audiobookshelf:2.2.22
 Starter Host Path | - | yes | 
@@ -42,4 +45,4 @@ Starter Host Path | - | yes |
 ## Contributors
 
 - [Ponkhy](https://github.com/Ponkhy)
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

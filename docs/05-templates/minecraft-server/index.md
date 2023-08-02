@@ -1,21 +1,37 @@
 ---
+hide_title: true
 sidebar_label: Minecraft Server
-title: Minecraft Server
+title: Minecraft Server | Self-Host on Easypanel
 description: How to install Minecraft Server on Easypanel? 1-Click installation template for Minecraft Server on Easypanel
 ---
 
 <!-- generated -->
 
+# Minecraft Server
+
 1-Click installation template for Minecraft Server on Easypanel
 
 ## Description
 
-Minecraft Server that will automatically download the latest stable version at startup. You can also run/upgrade to any specific version or the latest snapshot.
+The itzg/minecraft-server Docker image provides a Minecraft Server that will automatically download the latest stable version at startup. It supports running/upgrading to any specific version or the latest snapshot. The image exposes the standard server port, 25565, on the host machine. For Minecraft clients running on consoles, mobile, or native Windows, a different image (itzg/minecraft-bedrock-server) should be used.
+
+## Benefits
+
+- Automatic version management: The Minecraft Server automatically downloads the latest stable version at startup, ensuring you are always up to date.
+- Flexible version selection: You can run or upgrade to any specific version of Minecraft or use the latest snapshot.
+- Easy deployment: The Docker image makes it easy to deploy and manage a Minecraft Server.
+
+## Features
+
+- Dynamic version support: The server automatically downloads the latest stable version or any specific version you choose.
+- Server type support: The image supports different server types, including modpacks.
+- Port exposure: The standard server port, 25565, is exposed on the host machine.
 
 ## Links
 
 - [Github](https://github.com/itzg/docker-minecraft-server)
 - [Docker](https://hub.docker.com/r/itzg/minecraft-server)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/minecraft-server)
 
 ## Options
 
@@ -64,4 +80,4 @@ RCON Password | - | no |
 
 ## Contributors
 
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

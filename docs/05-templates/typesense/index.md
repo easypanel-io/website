@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Typesense
-title: Typesense
+title: Typesense | Self-Host on Easypanel
 description: How to install Typesense on Easypanel? 1-Click installation template for Typesense on Easypanel
 ---
 
 <!-- generated -->
+
+# Typesense
 
 1-Click installation template for Typesense on Easypanel
 
@@ -21,6 +24,7 @@ Find your API key in the environment tab
 - [Documentation](https://typesense.org/docs/)
 - [Github](https://github.com/typesense/typesense)
 - [Website](https://typesense.org/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/typesense)
 
 ## Options
 

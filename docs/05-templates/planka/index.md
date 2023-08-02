@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Planka
-title: Planka
+title: Planka | Self-Host on Easypanel
 description: How to install Planka on Easypanel? 1-Click installation template for Planka on Easypanel
 ---
 
 <!-- generated -->
+
+# Planka
 
 1-Click installation template for Planka on Easypanel
 
@@ -21,13 +24,13 @@ Login with demo@demo.demo:demo
 - [Website](https://planka.app)
 - [Documentation](https://docs.planka.cloud)
 - [Github](https://github.com/plankanban/planka)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/planka)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | planka
-Domain | - | yes | 
 App Service Image | - | yes | ghcr.io/plankanban/planka:1.11.0
 Database Service Name | - | yes | planka-db
 

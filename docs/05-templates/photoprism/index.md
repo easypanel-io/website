@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: PhotoPrism
-title: PhotoPrism
+title: PhotoPrism | Self-Host on Easypanel
 description: How to install PhotoPrism on Easypanel? 1-Click installation template for PhotoPrism on Easypanel
 ---
 
 <!-- generated -->
+
+# PhotoPrism
 
 1-Click installation template for PhotoPrism on Easypanel
 
@@ -18,6 +21,7 @@ PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use
 - [Demo](https://try.photoprism.app)
 - [Github](https://github.com/photoprism/photoprism)
 - [Docker](https://hub.docker.com/r/photoprism/photoprism)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/photoprism)
 
 ## Options
 
@@ -40,4 +44,4 @@ Database Service Name | - | yes | photoprism-db
 
 ## Contributors
 
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Opera
-title: Opera
+title: Opera | Self-Host on Easypanel
 description: How to install Opera on Easypanel? 1-Click installation template for Opera on Easypanel
 ---
 
 <!-- generated -->
+
+# Opera
 
 1-Click installation template for Opera on Easypanel
 
@@ -20,6 +23,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 
 - [Documentation](https://docs.linuxserver.io/images/docker-opera)
 - [Github](https://github.com/linuxserver/docker-opera)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/opera)
 
 ## Options
 

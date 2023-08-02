@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: OpenSpeedTest
-title: OpenSpeedTest
+title: OpenSpeedTest | Self-Host on Easypanel
 description: How to install OpenSpeedTest on Easypanel? 1-Click installation template for OpenSpeedTest on Easypanel
 ---
 
 <!-- generated -->
+
+# OpenSpeedTest
 
 1-Click installation template for OpenSpeedTest on Easypanel
 
@@ -16,6 +19,7 @@ Pure HTML5 Network Performance Estimation Tool.
 
 - [Website](https://openspeedtest.com/)
 - [Github](https://github.com/openspeedtest/Speed-Test)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/openspeedtest)
 
 ## Options
 

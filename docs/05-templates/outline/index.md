@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Outline Wiki
-title: Outline Wiki
+title: Outline Wiki | Self-Host on Easypanel
 description: How to install Outline Wiki on Easypanel? 1-Click installation template for Outline Wiki on Easypanel
 ---
 
 <!-- generated -->
+
+# Outline Wiki
 
 1-Click installation template for Outline Wiki on Easypanel
 
@@ -21,6 +24,7 @@ Notice, Auththenication Method is Required to use Outline. To use Other Login Me
 - [Website](https://www.getoutline.com/)
 - [Documentation](https://www.getoutline.com/developers)
 - [Github](https://github.com/outline)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/outline)
 
 ## Options
 

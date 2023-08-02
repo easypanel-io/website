@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: NodeBB
-title: NodeBB
+title: NodeBB | Self-Host on Easypanel
 description: How to install NodeBB on Easypanel? 1-Click installation template for NodeBB on Easypanel
 ---
 
 <!-- generated -->
+
+# NodeBB
 
 1-Click installation template for NodeBB on Easypanel
 
@@ -18,12 +21,12 @@ Node.js based forum software built for the modern web
 - [Documentation](https://docs.nodebb.org/)
 - [Github](https://github.com/NodeBB/NodeBB)
 - [Demo](https://try.nodebb.org/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/nodebb)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | no | 
 Admin Username | - | no | 
 Admin Mail | - | no | 
 Admin Password | - | no | 
@@ -42,4 +45,4 @@ Database Service Name | - | yes | nodebb-db
 
 ## Contributors
 
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

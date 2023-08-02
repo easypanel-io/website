@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Freescout
-title: Freescout
+title: Freescout | Self-Host on Easypanel
 description: How to install Freescout on Easypanel? 1-Click installation template for Freescout on Easypanel
 ---
 
 <!-- generated -->
+
+# Freescout
 
 1-Click installation template for Freescout on Easypanel
 
@@ -17,12 +20,12 @@ FreeScout is the super lightweight and powerful free open source help desk and s
 - [Website](https://freescout.net)
 - [Documentation](https://github.com/freescout-helpdesk/freescout/wiki)
 - [Github](https://github.com/freescout-helpdesk/freescout/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/freescout)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | freescout
 App Service Image | - | yes | tiredofit/freescout:php8.1-1.16.25
 Database Service Name | - | yes | freescout-db

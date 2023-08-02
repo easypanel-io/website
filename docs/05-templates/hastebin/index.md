@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Hastebin
-title: Hastebin
+title: Hastebin | Self-Host on Easypanel
 description: How to install Hastebin on Easypanel? 1-Click installation template for Hastebin on Easypanel
 ---
 
 <!-- generated -->
+
+# Hastebin
 
 1-Click installation template for Hastebin on Easypanel
 
@@ -16,6 +19,7 @@ Hastebin is an open-source pastebin software written in node.js, which is easily
 
 - [Documentation](https://github.com/toptal/haste-server/wiki)
 - [Github](https://github.com/toptal/haste-server)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/hastebin)
 
 ## Options
 

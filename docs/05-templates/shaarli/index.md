@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Shaarli
-title: Shaarli
+title: Shaarli | Self-Host on Easypanel
 description: How to install Shaarli on Easypanel? 1-Click installation template for Shaarli on Easypanel
 ---
 
 <!-- generated -->
+
+# Shaarli
 
 1-Click installation template for Shaarli on Easypanel
 
@@ -16,6 +19,7 @@ Shaarli is a minimalist bookmark manager and link sharing service that you can i
 
 - [Documentation](https://demo.shaarli.org/doc/html/index.html)
 - [Github](https://github.com/shaarli/Shaarli)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/shaarli)
 
 ## Options
 

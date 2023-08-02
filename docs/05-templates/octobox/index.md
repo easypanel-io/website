@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Octobox
-title: Octobox
+title: Octobox | Self-Host on Easypanel
 description: How to install Octobox on Easypanel? 1-Click installation template for Octobox on Easypanel
 ---
 
 <!-- generated -->
+
+# Octobox
 
 1-Click installation template for Octobox on Easypanel
 
@@ -17,6 +20,7 @@ Octobox helps you manage your GitHub notifications efficiently so you can spend 
 - [Website](https://octobox.io)
 - [Documentation](https://octobox.io/documentation)
 - [Github](https://github.com/octobox/octobox)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/octobox)
 
 ## Options
 

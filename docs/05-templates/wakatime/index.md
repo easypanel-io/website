@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Wakapi
-title: Wakapi
+title: Wakapi | Self-Host on Easypanel
 description: How to install Wakapi on Easypanel? 1-Click installation template for Wakapi on Easypanel
 ---
 
 <!-- generated -->
+
+# Wakapi
 
 1-Click installation template for Wakapi on Easypanel
 
@@ -16,6 +19,7 @@ A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
 - [Website](https://wakapi.dev/)
 - [Github](https://github.com/muety/wakapi)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/wakatime)
 
 ## Options
 

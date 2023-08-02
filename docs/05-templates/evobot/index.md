@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: EvoBot
-title: EvoBot
+title: EvoBot | Self-Host on Easypanel
 description: How to install EvoBot on Easypanel? 1-Click installation template for EvoBot on Easypanel
 ---
 
 <!-- generated -->
+
+# EvoBot
 
 1-Click installation template for EvoBot on Easypanel
 
@@ -16,6 +19,7 @@ EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docke
 
 - [Github](https://github.com/eritislami/evobot)
 - [Documentation](https://github.com/eritislami/evobot#%EF%B8%8F-configuration)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/evobot)
 
 ## Options
 

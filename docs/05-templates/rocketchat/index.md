@@ -1,22 +1,45 @@
 ---
+hide_title: true
 sidebar_label: Rocket.Chat
-title: Rocket.Chat
+title: Rocket.Chat | Self-Host on Easypanel
 description: How to install Rocket.Chat on Easypanel? 1-Click installation template for Rocket.Chat on Easypanel
 ---
 
 <!-- generated -->
 
+# Rocket.Chat
+
 1-Click installation template for Rocket.Chat on Easypanel
 
 ## Description
 
-Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. Real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure.
+Rocket.Chat is a customizable open-source communications platform for organizations with high data protection standards. It enables real-time conversations between colleagues, other companies, or customers across web, desktop, or mobile devices. Rocket.Chat integrates with multiple conversation channels and offers a mobile app for easy access. It can be deployed on your server or used as a SaaS solution. Rocket.Chat 6.0 is the latest version, offering enhanced security and scalability.
+
+## Benefits
+
+- Secure and Compliant: Rocket.Chat ensures data privacy and security, supporting compliance with GDPR, HIPAA, and other regulations.
+- Customizable and Flexible: Rocket.Chat can be customized and integrated with your ecosystem using open APIs. It offers a wide range of customization and white-labeling options.
+- Team Collaboration: Bring together messages, projects, and tasks into one place to improve team productivity.
+- Omnichannel Customer Service: Engage in seamless interactions with customers across various channels, ensuring great customer experiences.
+- Chat Engine: Create custom messaging experiences within your app or website by integrating Rocket.Chat components.
+- Marketplace: Extend and customize your workspace with custom apps, plugins, and webhooks from the Rocket.Chat Marketplace.
+
+## Features
+
+- Team Collaboration: Bring together messages, projects, and tasks into one place to improve team productivity.
+- Omnichannel Customer Service: Engage in seamless interactions with customers across various channels, ensuring great customer experiences.
+- Chat Engine: Create custom messaging experiences within your app or website by integrating Rocket.Chat components.
+- Marketplace: Extend and customize your workspace with custom apps, plugins, and webhooks from the Rocket.Chat Marketplace.
+- 100% in Control: Choose from self-hosted, air-gapped, or secure cloud deployment options that meet your security and compliance needs.
+- 100% Privacy: Rocket.Chat is E2E encrypted, ISO 27001 certified, and supports compliance with GDPR, HIPAA, and other regulations.
+- 100% Customizable: Integrate with your ecosystem using open APIs and enjoy a wide range of customization and white-labeling options.
 
 ## Links
 
 - [Website](https://rocket.chat/)
 - [Documentation](https://docs.rocket.chat/)
 - [Github](https://github.com/RocketChat/Rocket.Chat)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/rocketchat)
 
 ## Options
 

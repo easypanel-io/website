@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: pgvector
-title: pgvector
+title: pgvector | Self-Host on Easypanel
 description: How to install pgvector on Easypanel? 1-Click installation template for pgvector on Easypanel
 ---
 
 <!-- generated -->
+
+# pgvector
 
 1-Click installation template for pgvector on Easypanel
 
@@ -15,6 +18,7 @@ Open-source vector similarity search for Postgres
 ## Links
 
 - [Github](https://github.com/pgvector/pgvector)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/pgvector)
 
 ## Options
 

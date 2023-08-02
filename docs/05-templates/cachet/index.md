@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Cachet
-title: Cachet
+title: Cachet | Self-Host on Easypanel
 description: How to install Cachet on Easypanel? 1-Click installation template for Cachet on Easypanel
 ---
 
 <!-- generated -->
+
+# Cachet
 
 1-Click installation template for Cachet on Easypanel
 
@@ -17,6 +20,7 @@ An open source status page system for everyone.
 - [Website](https://cachethq.io)
 - [Documentation](https://docs.cachethq.io/)
 - [Github](https://github.com/cachethq/cachet)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/cachet)
 
 ## Options
 

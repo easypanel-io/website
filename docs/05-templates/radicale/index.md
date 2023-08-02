@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Radicale
-title: Radicale
+title: Radicale | Self-Host on Easypanel
 description: How to install Radicale on Easypanel? 1-Click installation template for Radicale on Easypanel
 ---
 
 <!-- generated -->
+
+# Radicale
 
 1-Click installation template for Radicale on Easypanel
 
@@ -21,6 +24,7 @@ Login with any username or password
 - [Website](https://radicale.org/)
 - [Documentation](https://radicale.org/v3.html)
 - [Github](https://github.com/Kozea/Radicale)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/radicale)
 
 ## Options
 

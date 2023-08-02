@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: It Tools
-title: It Tools
+title: It Tools | Self-Host on Easypanel
 description: How to install It Tools on Easypanel? 1-Click installation template for It Tools on Easypanel
 ---
 
 <!-- generated -->
+
+# It Tools
 
 1-Click installation template for It Tools on Easypanel
 
@@ -16,6 +19,7 @@ Handy online tools for developers
 
 - [Website](https://it-tools.tech)
 - [Github](https://github.com/CorentinTh/it-tools)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/ittools)
 
 ## Options
 

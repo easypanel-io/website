@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Activepieces
-title: Activepieces
+title: Activepieces | Self-Host on Easypanel
 description: How to install Activepieces on Easypanel? 1-Click installation template for Activepieces on Easypanel
 ---
 
 <!-- generated -->
+
+# Activepieces
 
 1-Click installation template for Activepieces on Easypanel
 
@@ -17,12 +20,12 @@ No-code Business Automation Tool. An open source alternative to Zapier.
 - [Website](https://activepieces.com)
 - [Documentation](https://activepieces.com/docs)
 - [Github](https://github.com/activepieces/activepieces)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/activepieces)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | activepieces
 App Service Image | - | yes | activepieces/activepieces:0.3.15
 Database Service Name | - | yes | activepieces-db
@@ -45,4 +48,4 @@ Redis Service Name | - | yes | activepieces-redis
 - [abuaboud](https://github.com/abuaboud)
 - [Supernova3339](https://github.com/Supernova3339)
 - [Ponkhy](https://github.com/Ponkhy)
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

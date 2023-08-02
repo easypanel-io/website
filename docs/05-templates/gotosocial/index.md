@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: GoToSocial
-title: GoToSocial
+title: GoToSocial | Self-Host on Easypanel
 description: How to install GoToSocial on Easypanel? 1-Click installation template for GoToSocial on Easypanel
 ---
 
 <!-- generated -->
+
+# GoToSocial
 
 1-Click installation template for GoToSocial on Easypanel
 
@@ -17,12 +20,12 @@ GoToSocial is an ActivityPub social network server, written in Golang. It doesn&
 - [Website](https://gotosocial.org/)
 - [Documentation](https://docs.gotosocial.org/en/latest/)
 - [Github](https://github.com/superseriousbusiness/gotosocial/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/gotosocial)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | gotosocial
 App Service Image | - | yes | superseriousbusiness/gotosocial:0.9.0
 

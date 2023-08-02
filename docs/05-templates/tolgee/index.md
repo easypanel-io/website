@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Tolgee
-title: Tolgee
+title: Tolgee | Self-Host on Easypanel
 description: How to install Tolgee on Easypanel? 1-Click installation template for Tolgee on Easypanel
 ---
 
 <!-- generated -->
+
+# Tolgee
 
 1-Click installation template for Tolgee on Easypanel
 
@@ -17,6 +20,7 @@ Developer &amp; translator friendly web-based localization platform
 - [Website](https://tolgee.io)
 - [Documentation](https://tolgee.io/platform)
 - [Github](https://github.com/tolgee/tolgee-platform)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/tolgee)
 
 ## Options
 

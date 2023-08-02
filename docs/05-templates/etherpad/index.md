@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Etherpad
-title: Etherpad
+title: Etherpad | Self-Host on Easypanel
 description: How to install Etherpad on Easypanel? 1-Click installation template for Etherpad on Easypanel
 ---
 
 <!-- generated -->
+
+# Etherpad
 
 1-Click installation template for Etherpad on Easypanel
 
@@ -17,6 +20,7 @@ A modern really-real-time collaborative document editor.
 - [Website](https://etherpad.org)
 - [Documentation](https://etherpad.org/doc/v1.8.18/)
 - [Github](https://github.com/ether/etherpad-lite)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/etherpad)
 
 ## Options
 

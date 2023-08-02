@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Pufferpanel
-title: Pufferpanel
+title: Pufferpanel | Self-Host on Easypanel
 description: How to install Pufferpanel on Easypanel? 1-Click installation template for Pufferpanel on Easypanel
 ---
 
 <!-- generated -->
+
+# Pufferpanel
 
 1-Click installation template for Pufferpanel on Easypanel
 
@@ -21,6 +24,7 @@ Run &quot;./pufferpanel user add&quot; in the console to create a new user.
 - [Website](https://pufferpanel.com/)
 - [Documentation](https://docs.pufferpanel.com/en/latest)
 - [Github](https://github.com/PufferPanel/PufferPanel)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/pufferpanel)
 
 ## Options
 

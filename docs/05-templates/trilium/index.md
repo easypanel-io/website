@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Trilium Notes
-title: Trilium Notes
+title: Trilium Notes | Self-Host on Easypanel
 description: How to install Trilium Notes on Easypanel? 1-Click installation template for Trilium Notes on Easypanel
 ---
 
 <!-- generated -->
+
+# Trilium Notes
 
 1-Click installation template for Trilium Notes on Easypanel
 
@@ -16,6 +19,7 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 - [Documentation](https://github.com/zadam/trilium/wiki)
 - [Github](https://github.com/zadam/trilium)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/trilium)
 
 ## Options
 

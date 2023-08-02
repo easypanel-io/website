@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Cockpit
-title: Cockpit
+title: Cockpit | Self-Host on Easypanel
 description: How to install Cockpit on Easypanel? 1-Click installation template for Cockpit on Easypanel
 ---
 
 <!-- generated -->
+
+# Cockpit
 
 1-Click installation template for Cockpit on Easypanel
 
@@ -21,6 +24,7 @@ Navigate to /install to create the initial user account.
 - [Website](https://getcockpit.com)
 - [Documentation](https://getcockpit.com/documentation)
 - [Github](https://github.com/Cockpit-HQ)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/cockpit)
 
 ## Options
 

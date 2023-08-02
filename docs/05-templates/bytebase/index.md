@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Bytebase
-title: Bytebase
+title: Bytebase | Self-Host on Easypanel
 description: How to install Bytebase on Easypanel? 1-Click installation template for Bytebase on Easypanel
 ---
 
 <!-- generated -->
+
+# Bytebase
 
 1-Click installation template for Bytebase on Easypanel
 
@@ -16,12 +19,12 @@ Bytebase offers a web-based collaboration workspace to help DBAs and Developers 
 
 - [Documentation](https://www.bytebase.com/docs/get-started/install/deploy-with-docker/)
 - [Github](https://github.com/bytebase/bytebase)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/bytebase)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 App Service Name | - | yes | bytebase
 App Service Image | - | yes | bytebase/bytebase:2.2.0
 Database Service Name | - | yes | bytebase-db

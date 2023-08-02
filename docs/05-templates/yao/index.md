@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: YAO
-title: YAO
+title: YAO | Self-Host on Easypanel
 description: How to install YAO on Easypanel? 1-Click installation template for YAO on Easypanel
 ---
 
 <!-- generated -->
+
+# YAO
 
 1-Click installation template for YAO on Easypanel
 
@@ -21,6 +24,7 @@ Use xiang@iqka.com:A123456p+ to login at /xiang/login/admin . Use amd64 instead 
 - [Website](https://yaoapps.com/)
 - [Documentation](https://yaoapps.com/en-US/doc/)
 - [Github](https://github.com/YaoApp/yao)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/yao)
 
 ## Options
 

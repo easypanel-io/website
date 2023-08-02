@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: GlitchTip
-title: GlitchTip
+title: GlitchTip | Self-Host on Easypanel
 description: How to install GlitchTip on Easypanel? 1-Click installation template for GlitchTip on Easypanel
 ---
 
 <!-- generated -->
+
+# GlitchTip
 
 1-Click installation template for GlitchTip on Easypanel
 
@@ -22,12 +25,12 @@ To create an admin user, run the command ./manage.py createsuperuser
 - [Gitlab](https://gitlab.com/glitchtip)
 - [Docker](https://hub.docker.com/r/glitchtip/glitchtip)
 - [Documentation](https://glitchtip.com/documentation)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/glitchtip)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | no | 
 Enable User Registration | - | no | false
 Enable Organization Creation | - | no | false
 App Service Name | - | yes | glitchtip
@@ -45,4 +48,4 @@ Redis Service Name | - | yes | glitchtip-redis
 
 ## Contributors
 
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)

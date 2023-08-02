@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Blender
-title: Blender
+title: Blender | Self-Host on Easypanel
 description: How to install Blender on Easypanel? 1-Click installation template for Blender on Easypanel
 ---
 
 <!-- generated -->
+
+# Blender
 
 1-Click installation template for Blender on Easypanel
 
@@ -16,6 +19,7 @@ Blender is a free and open-source 3D computer graphics software toolset used for
 
 - [Documentation](https://docs.linuxserver.io/images/docker-blender)
 - [Github](https://github.com/linuxserver/docker-blender)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/blender)
 
 ## Options
 

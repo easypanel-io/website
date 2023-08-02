@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Weaviate
-title: Weaviate
+title: Weaviate | Self-Host on Easypanel
 description: How to install Weaviate on Easypanel? 1-Click installation template for Weaviate on Easypanel
 ---
 
 <!-- generated -->
+
+# Weaviate
 
 1-Click installation template for Weaviate on Easypanel
 
@@ -17,6 +20,7 @@ Vector Search Engine for the next generation of AI applications
 - [Website](https://weaviate.io)
 - [Documentation](https://weaviate.io/developers/weaviate)
 - [Github](https://github.com/weaviate/weaviate)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/weaviate)
 
 ## Options
 

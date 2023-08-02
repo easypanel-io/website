@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: WPS Office
-title: WPS Office
+title: WPS Office | Self-Host on Easypanel
 description: How to install WPS Office on Easypanel? 1-Click installation template for WPS Office on Easypanel
 ---
 
 <!-- generated -->
+
+# WPS Office
 
 1-Click installation template for WPS Office on Easypanel
 
@@ -20,6 +23,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 
 - [Documentation](https://docs.linuxserver.io/images/docker-wps-office)
 - [Github](https://github.com/linuxserver/docker-wps-office)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/wps-office)
 
 ## Options
 

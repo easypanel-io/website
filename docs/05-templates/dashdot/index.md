@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Dashdot
-title: Dashdot
+title: Dashdot | Self-Host on Easypanel
 description: How to install Dashdot on Easypanel? 1-Click installation template for Dashdot on Easypanel
 ---
 
 <!-- generated -->
+
+# Dashdot
 
 1-Click installation template for Dashdot on Easypanel
 
@@ -16,6 +19,7 @@ A simple status page for your homeserver
 
 - [Website](https://getdashdot.com/)
 - [Github](https://github.com/MauriceNino/dashdot)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/dashdot)
 
 ## Options
 

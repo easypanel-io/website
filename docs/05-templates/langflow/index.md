@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Langflow
-title: Langflow
+title: Langflow | Self-Host on Easypanel
 description: How to install Langflow on Easypanel? 1-Click installation template for Langflow on Easypanel
 ---
 
 <!-- generated -->
+
+# Langflow
 
 1-Click installation template for Langflow on Easypanel
 
@@ -15,6 +18,7 @@ An effortless way to experiment and prototype LangChain pipelines
 ## Links
 
 - [Github](https://github.com/logspace-ai/langflow)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/langflow)
 
 ## Options
 

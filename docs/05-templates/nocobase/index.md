@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Nocobase
-title: Nocobase
+title: Nocobase | Self-Host on Easypanel
 description: How to install Nocobase on Easypanel? 1-Click installation template for Nocobase on Easypanel
 ---
 
 <!-- generated -->
+
+# Nocobase
 
 1-Click installation template for Nocobase on Easypanel
 
@@ -21,6 +24,7 @@ The initial account and password are admin@nocobase.com and admin123.
 - [Website](https://nocobase.com)
 - [Documentation](https://docs.nocobase.com)
 - [Github](https://github.com/nocobase/nocobase)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/nocobase)
 
 ## Options
 

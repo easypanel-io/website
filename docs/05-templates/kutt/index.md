@@ -1,10 +1,13 @@
 ---
+hide_title: true
 sidebar_label: Kutt
-title: Kutt
+title: Kutt | Self-Host on Easypanel
 description: How to install Kutt on Easypanel? 1-Click installation template for Kutt on Easypanel
 ---
 
 <!-- generated -->
+
+# Kutt
 
 1-Click installation template for Kutt on Easypanel
 
@@ -17,12 +20,12 @@ Free Modern URL Shortener.
 - [Website](https://kutt.it/)
 - [Documentation](https://docs.kutt.it/)
 - [Github](https://github.com/thedevs-network/kutt)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/kutt)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-Domain | - | yes | 
 Site Name | - | no | 
 Admin Emails | Comma seperated | no | 
 Report Email | - | no | 
@@ -47,4 +50,4 @@ Redis Service Name | - | yes | kutt-redis
 
 ## Contributors
 
-- [BerkSMBL](https://berksmbl.com)
+- [Berk Sümbül](https://berksmbl.com)
