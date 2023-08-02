@@ -13,28 +13,22 @@ description: How to install Change Detection on Easypanel? 1-Click installation 
 
 ## Description
 
-changedetection.io is a website change detection, notification, and restock alert system. It allows users to monitor website pages for changes, such as price updates or restock notifications. The app supports various notification formats and offers features like PDF text support, JSON and XML monitoring, and extensive text triggers. It is loved by smart-shoppers, data-journalists, research engineers, data-scientists, security researchers, and more. The app is fully open-source and relies on and financially supports the libraries it builds on. It offers an easy subscription plan for $8.99/month with 5,000 URL watches included. The app can be used for a wide range of use cases, including monitoring pricing changes, tracking PDF file changes, detecting changes in JSON API responses, monitoring HTML source code for unexpected changes, and more. It also supports notifications via various channels like Discord, Email, Slack, Telegram, and API calls. The app can be installed using Docker, Python Pip, or as a standalone Windows application. It also provides proxy configuration options and supports Raspberry Pi and ARM devices. Commercial support is available for organizations that require it.
+Changedetection.io is an intelligent tool designed to monitor changes on websites. It is perfect for smart shoppers, data journalists, research engineers, data scientists, security researchers, and more. The app allows you to watch up to 5,000 URLs and supports over 85 notification formats. It is capable of monitoring simple changes on a website, like price alterations or restock notifications, to deep inspections such as PDF text changes, JSON and XML monitoring, and extensive text triggers. The app also features intelligent product restock detection, making it easier for you to keep track of product availability. Additionally, it can perform interactive browser steps such as filling in text boxes, clicking buttons, and setting up your change detection scenario. With Changedetection.io, you can live your data life proactively, receiving notifications straight away when changes occur on your watched websites.
 
 ## Benefits
 
-- Monitor Website Changes: Detect and monitor changes in website content, such as pricing updates, restock notifications, and more.
-- Flexible Notification Formats: Receive notifications via Discord, Email, Slack, Telegram, API calls, and more. Supports 85+ notification formats.
-- Extensive Monitoring Features: Monitor PDF files, JSON API responses, HTML source code, and more. Use filters and selectors to target specific elements.
-- Open-Source and Community-Driven: The app is fully open-source and relies on and financially supports the libraries it builds on. It is developed with the help of the open-source community.
-- Easy Subscription Plan: Subscribe to the app for $8.99/month and get 5,000 URL watches included. Cancel anytime.
+- Real-Time Website Change Detection: Stay ahead of the curve by receiving instant notifications when a website you're monitoring undergoes changes. This is particularly useful for tracking price changes, restock notifications, and more.
+- Intelligent Product Restock Detection: Never miss out on a restock again. Our intelligent product restock detection feature alerts you the moment a product is back in stock.
+- Extensive Text Triggers: Our app allows you to set up extensive text triggers, enabling you to receive notifications based on specific changes in the text content of a website.
+- Affordable Subscription: For just $8.99 per month, you can monitor up to 5,000 URLs. This is half the price of other website change monitoring services, making it a cost-effective solution.
 
 ## Features
 
-- Website Change Monitoring: Monitor website pages for changes, such as price updates, restock notifications, and more.
-- PDF Text Support: Monitor and track changes in PDF files. Detect when a PDF file has text changes.
-- JSON and XML Monitoring: Detect and monitor changes in JSON and XML API responses. Trigger notifications based on text changes.
-- Extensive Text Triggers: Use text triggers to monitor specific changes in website content. Trigger notifications based on specific words, lines, or characters.
-- Flexible Notification Channels: Receive notifications via Discord, Email, Slack, Telegram, API calls, and more. Supports 85+ notification formats.
-- Visual Selector Tool: Target specific parts of a webpage using the Visual Selector tool. Easily monitor complex JSON with JSONPath or jq.
-- Browser Steps Configuration: Perform interactive browser steps before performing change detection. Fill in text boxes, click buttons, and more.
-- Proxy Configuration: Configure proxies for website monitoring. Supports Bright Data global proxy services.
-- Raspberry Pi and ARM Support: Supports Raspberry Pi and ARM devices. Install and run the app on these devices.
-- Commercial Support: Commercial support is available for organizations that require assistance with the app.
+- PDF Text Support: Our app supports PDF text monitoring, allowing you to track and receive notifications when a PDF file undergoes text changes.
+- JSON and XML Monitoring: Stay updated with changes in JSON and XML data on websites. This feature is particularly useful for developers and data scientists.
+- Visual Selector Tool: Target specific parts of a webpage for monitoring using our Visual Selector tool. This feature allows you to focus on the content you're most interested in.
+- Interactive Browser Steps: Set up your change detection scenario by performing interactive browser steps such as filling in text boxes, clicking buttons, and more.
+- 85+ Notification Formats Supported: Receive notifications in a format that suits you. Our app supports over 85 notification formats, including Discord, Email, Slack, Telegram, API calls, and many more.
 
 ## Links
 
@@ -47,7 +41,7 @@ changedetection.io is a website change detection, notification, and restock aler
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | changedetection
-App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.40.2
+App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.42.2
 
 ## Screenshots
 

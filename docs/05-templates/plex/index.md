@@ -13,7 +13,7 @@ description: How to install Plex on Easypanel? 1-Click installation template for
 
 ## Description
 
-Plex Media Server is an app that allows you to stream your video, music, and photo collections to any device. It is easy to install and can be used on phones, tablets, streaming devices, gaming consoles, and smart TVs. With Plex Media Server, you can access your media anytime, anywhere.
+Plex Media Server is a powerful app that makes it easy to manage and stream your media collection to all your devices, anytime, anywhere. With Plex, you can stream your video, music, and photo collections from your phone, tablet, gaming console, smart TV, or any other favorite streaming device. The app is designed to work with three types of networking: bridge, host, and macvlan, each offering a unique way to connect your media server to your devices. Plex also offers advanced features like hardware transcoding support for Intel Quick Sync, making it a versatile choice for all your media streaming needs.
 
 ## Instructions
 
@@ -21,16 +21,15 @@ If you get a libusb error, please ignore it.
 
 ## Benefits
 
-- Stream your media anywhere: With Plex Media Server, you can stream your video, music, and photo collections to any device, no matter where you are.
-- Easy installation: Installing Plex Media Server is simple and straightforward, allowing you to start streaming your media in no time.
-- Support for multiple devices: Plex Media Server is compatible with a wide range of devices, including phones, tablets, streaming devices, gaming consoles, and smart TVs.
+- Access Your Media Anywhere: With Plex Media Server, you can stream your video, music, and photo collections any time, anywhere, to any device. Whether you're on your phone, tablet, gaming console, or smart TV, your media is always at your fingertips.
+- Easy to Use: Plex Media Server is designed to be easy to install and use. With our intuitive interface, you can easily manage your media collections and enjoy seamless streaming experience.
+- Flexible Networking Options: Plex Media Server supports three types of networking: bridge, host, and macvlan. This flexibility allows you to choose the networking setup that best suits your needs.
 
 ## Features
 
-- Networking options: Plex Media Server offers three types of networking options: bridge, host, and macvlan. You can choose the one that best suits your needs.
-- Docker support: Plex Media Server provides an official Docker container, making it easy to deploy and manage the app in a Docker environment.
-- Configurable settings: You can customize various settings of Plex Media Server, such as the timezone, claim token, IP address, hostname, and more.
-- Hardware transcoding support: If your Docker host has an Intel CPU with Quick Sync feature and you have a Plex Pass subscription, you can enable hardware transcoding for improved performance.
+- Media Streaming: Stream your video, music, and photo collections to any device. Plex Media Server supports streaming to all your favorite phones, tablets, streaming devices, gaming consoles, and smart TVs.
+- Networking Options: Choose from three types of networking: bridge, host, and macvlan. Each type offers different benefits, and you can choose the one that best fits your setup.
+- Docker Container: Plex Media Server comes in an official Docker container, making it easy to deploy and manage. Docker allows you to isolate your app in a container to ensure that it works uniformly across different environments.
 
 ## Links
 

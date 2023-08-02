@@ -13,7 +13,7 @@ description: How to install Jellyfin on Easypanel? 1-Click installation template
 
 ## Description
 
-Jellyfin is a volunteer-built media solution that allows you to collect, manage, and stream your media. It is a free software entertainment system that puts you in control of your media. With Jellyfin, you can enjoy your entire movie collection, watch your favorite shows, listen to music, watch live TV, read books, organize photos, and share memories with friends and family. Jellyfin is available on various platforms, including web, desktop, Android, Apple, Amazon, Roku, and Kodi. It is privacy-focused, with no tracking or central servers collecting your data. Jellyfin is free to download and use, and it is community-built with contributions from volunteers. You can get started by downloading and setting up your server today.
+Jellyfin is a free software media system that allows you to take full control of your media. It enables you to collect, manage, and stream your media from your own server to any device. With Jellyfin, you can enjoy your entire movie collection, watch your favorite shows, listen to your music, and even read your books and comics. It also offers features for live TV and DVR, allowing you to watch TV and set automatic recordings to expand your library. Jellyfin also provides a SyncPlay feature, making remote movie nights easier than ever. The app is available on most popular platforms, ensuring your media is ready to follow you wherever you go. Jellyfin is licensed under the GNU GPL, meaning you can use, study, modify, build, and distribute it for free. It is a privacy-focused solution with no tracking or central servers collecting your data.
 
 ## Instructions
 
@@ -21,20 +21,18 @@ Jellyfin takes a few minutes to get ready. Sit back, relax, and get some popcorn
 
 ## Benefits
 
-- Control Your Media: Jellyfin allows you to collect, manage, and stream your media from your own server. You have full control over your media library and can customize it to your preferences.
-- Free Software: Jellyfin is licensed under the GNU GPL and is free to use, modify, and distribute. There are no hidden costs or fees to use Jellyfin.
-- Privacy Focused: Jellyfin does not track your data or have central servers collecting your information. It is open and transparent, and the only media you see is your own.
-- Available on Multiple Platforms: Jellyfin is available on web, desktop, Android, Apple, Amazon, Roku, and Kodi. Your media is ready to follow you wherever you go.
+- Control Your Media: Jellyfin is a free software media system that allows you to manage and stream your media your way. You have full control over your media, with no strings attached.
+- Stream Anywhere: With Jellyfin, you can stream your media to any device from your own server. Your media is ready to follow you, wherever you go.
+- Free and Open Source: Jellyfin is Free Software, licensed under the GNU GPL. You can use it, study it, modify it, build it, and distribute it for free.
+- Privacy Focused: Jellyfin has no tracking, phone-home, or central servers collecting your data. Your media is your own, and Jellyfin respects that.
 
 ## Features
 
-- Movies: Enjoy your entire movie collection, easily browse and with beautiful artwork.
-- Shows: Watch your favorite shows, automatically sorted by season and ready to binge.
-- Music: Listen to music, your artists, and your playlists at home or on the go.
-- Live TV & DVR: Watch TV and set automatic recordings to expand your library.
-- Books: Read your books, comics, and magazines.
-- Photos: Organize your photos and share memories with your friends and family.
-- SyncPlay: Easily share a movie night remotely with friends or family.
+- Media Management: Jellyfin enables you to collect, manage, and stream your media. Enjoy your entire movie collection, watch your favorite shows, listen to your music, and more.
+- Live TV & DVR: With Jellyfin, you can watch TV and set automatic recordings to expand your library.
+- Books, Comics, and Magazines: Jellyfin isn't just for video and music. You can also read your books, comics, and magazines.
+- Photos: Organize your photos and share memories with your friends and family using Jellyfin.
+- SyncPlay: Sharing a movie night remotely has never been so easy. With Jellyfin's SyncPlay feature, you can enjoy media with friends or family, no matter where they are.
 
 ## Links
 

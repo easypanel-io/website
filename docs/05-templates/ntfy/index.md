@@ -13,21 +13,19 @@ description: How to install Ntfy on Easypanel? 1-Click installation template for
 
 ## Description
 
-ntfy is a simple HTTP-based pub-sub notification service that allows you to send push notifications to your phone or desktop via scripts from any computer. It is used to notify yourself when scripts fail or long-running commands complete.
+ntfy, pronounced as &#39;notify&#39;, is a simple, HTTP-based pub-sub notification service that allows you to send push notifications to your phone or desktop from any computer. It operates via scripts using simple HTTP PUT or POST requests. This makes it a handy tool for notifying yourself when scripts fail or when long-running commands complete. To use ntfy, you simply need to install the app on your phone, subscribe to a topic of your choice, and start sending messages to your topic. The app is available on Google Play, F-Droid, and the App Store. ntfy is open-source and free to use, but also offers paid plans for those who wish to support its development.
 
 ## Benefits
 
-- Easy to use: ntfy allows you to send push notifications using simple HTTP PUT or POST requests, making it easy to integrate into your scripts or commands.
-- Cross-platform: ntfy supports both Android and iOS devices, as well as desktop notifications, so you can receive notifications on any device.
-- No sign-up or fees: ntfy is free to use and does not require any sign-up or payment. You can start sending push notifications right away.
-- Open source: ntfy is an open source project, which means you can run your own instance of the service if you prefer. The source code is available on GitHub.
+- Instant Notifications: With ntfy, you can receive instant push notifications on your phone or desktop. This can be particularly useful for keeping track of scripts or long-running commands, as you'll be notified immediately when they fail or complete.
+- Easy to Use: ntfy is designed to be simple and straightforward to use. You can send notifications using simple HTTP PUT or POST requests, and there's no need to sign up or pay any fees.
+- Open Source: ntfy is an open-source app, which means you can review its code, contribute to its development, or even run your own instance of the service if you wish.
 
 ## Features
 
-- Publishing messages: You can publish messages to ntfy using HTTP PUT or POST requests, or using the ntfy CLI. Messages can be sent in any language and can include custom content.
-- Subscribing to topics: To receive notifications, you can subscribe to topics of your choosing. Topics do not need to be explicitly created, so you can pick a name and use it when publishing a message.
-- Mobile and desktop support: ntfy supports both Android and iOS devices, allowing you to receive push notifications on your phone. It also supports desktop notifications, so you can receive notifications on your computer.
-- API and self-hosting: ntfy provides an API that allows you to integrate push notifications into your own applications. If you prefer, you can also run your own instance of ntfy using the open source code.
+- Push Notifications: ntfy allows you to send push notifications to your phone or desktop. You can use scripts from any computer to send these notifications, making it a versatile tool for a variety of use cases.
+- Topic Subscription: With ntfy, you can subscribe to a topic of your choosing. Once you've subscribed, the app will listen for new messages on that topic and notify you when they arrive.
+- Message Publishing: ntfy makes it easy to publish messages to your chosen topic. You can do this using HTTP PUT/POST requests, or with the ntfy CLI. The message is included in the request body.
 
 ## Links
 

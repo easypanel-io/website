@@ -13,7 +13,7 @@ description: How to install Homer on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Homer is a full static html/js dashboard that allows you to keep your services on hand. It is based on a simple yaml configuration file and can be customized with themes. It supports search, grouping, and offline health check. The app can be installed as a PWA and has keyboard shortcuts for easy navigation.
+Homer is a straightforward, static homepage for your server, designed to keep all your services easily accessible. It operates based on a simple yaml configuration file. This app serves as a full static HTML/JS dashboard, providing a centralized platform where you can manage and access all your services. It features a search function, grouping, theme customization, and offline health checks. It also supports keyboard shortcuts for quick navigation. Homer is designed to be served by an HTTP server and is perfect for those who want to keep their services organized and within reach.
 
 ## Instructions
 
@@ -21,22 +21,17 @@ The config files can be found under &quot;/etc/easypanel/projects/PROJECT_NAME/h
 
 ## Benefits
 
-- Easy Configuration: Homer uses a simple yaml configuration file to define your services and customize the dashboard.
-- Search and Grouping: You can easily search for services and group them for better organization.
-- Theme Customization: Homer supports theme customization, allowing you to personalize the look and feel of the dashboard.
-- Offline Health Check: Homer can perform offline health checks for your services, providing you with information about their availability.
-- Installable as PWA: You can install Homer as a Progressive Web App (PWA) for easy access and offline usage.
-- Keyboard Shortcuts: Homer provides keyboard shortcuts for quick navigation, making it even easier to use.
+- Convenience: Homer is a static homepage for your server, providing a convenient way to keep all your services at your fingertips. It's based on a simple yaml configuration file, making it easy to set up and use.
+- Customization: Homer allows for theme customization, enabling you to personalize your homepage to suit your preferences. It also supports grouping of services for better organization.
+- Accessibility: With Homer, you can easily search for your services and access them with keyboard shortcuts. It also offers offline health checks, ensuring you're always up-to-date with the status of your services.
 
 ## Features
 
-- YAML Configuration: Homer uses a simple yaml configuration file to define your services and customize the dashboard.
-- Installable (PWA): Homer can be installed as a Progressive Web App (PWA) for easy access and offline usage.
-- Search: Homer supports search functionality, allowing you to quickly find the services you need.
-- Grouping: You can group your services in Homer for better organization and easier navigation.
-- Theme Customization: Homer allows you to customize the theme of the dashboard to match your preferences.
-- Offline Health Check: Homer can perform offline health checks for your services, providing you with information about their availability.
-- Keyboard Shortcuts: Homer provides keyboard shortcuts for quick navigation, making it even easier to use.
+- yaml file configuration: Homer uses a simple yaml configuration file, making it easy to set up and manage your homepage.
+- Search and Grouping: Homer supports search and grouping of services, making it easy to find and organize your services.
+- Theme customization: Homer allows for theme customization, enabling you to personalize your homepage to suit your preferences.
+- Offline health check: Homer offers offline health checks, ensuring you're always up-to-date with the status of your services.
+- Keyboard shortcuts: Homer supports keyboard shortcuts for quick and easy access to your services.
 
 ## Links
 

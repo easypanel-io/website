@@ -13,23 +13,21 @@ description: How to install Meilisearch on Easypanel? 1-Click installation templ
 
 ## Description
 
-Meilisearch is an open-source, lightning-fast, and hyper-relevant search engine that can be added to any website or application. It offers a flexible and powerful user-focused search experience with lightning-fast search-as-you-type functionality. Meilisearch can be deployed in minutes with smart presets that require zero configuration. It provides ultra-relevant search results and supports all languages with automatic language detection. Meilisearch is compatible with all major platforms and Docker, and it offers ironclad security with API keys and tenant tokens. It also supports custom relevancy and geo search. Meilisearch is easy to integrate with self-explanatory API documentation and SDKs for various programming languages. Join the Meilisearch community to contribute, ask questions, and stay updated on the latest releases and features.
+Meilisearch Cloud is a next-generation, open-source search engine designed to enhance your search experience. This powerful tool can be effortlessly integrated into any website or application, providing lightning-fast, hyper-relevant search results in less than 50 milliseconds. With Meilisearch, you can deploy a user-focused search experience in just a few minutes, thanks to its smart presets that require zero configuration. It offers the most advanced full-text search engine with great relevancy that fits every use case. Meilisearch supports all languages and automatically detects them, allowing for a truly global search experience. It also allows for custom relevancy, enabling you to create your own ranking rules. Meilisearch ensures secure searches with API keys and tenant tokens, and even allows for real-world geo searches. With Meilisearch Cloud, you can enhance your user&#39;s search experience with custom filters and build a faceted search interface in just a few lines of code.
 
 ## Benefits
 
-- Lightning Fast: Search-as-you-type returns answers in less than 50 milliseconds, providing an instant search experience for users.
-- Plug 'n Play: Deploy Meilisearch in a matter of minutes with smart presets that require zero configuration, making it easy to integrate into any website or application.
-- Ultra Relevant: Meilisearch offers the most advanced full-text search engine with out-of-the-box great relevancy, ensuring accurate and relevant search results for every use case.
-- Open Source: Meilisearch is an open-source project with a fast-growing community. It encourages collaboration and contributions from developers worldwide.
-- Easy Integration: Meilisearch provides self-explanatory API documentation and SDKs for popular programming languages, making it easy for developers to integrate and use.
+- Lightning Fast Search: Meilisearch Cloud provides search-as-you-type functionality that returns answers in less than 50 milliseconds, faster than the blink of an eye. This ensures an efficient and seamless search experience for users.
+- Ultra Relevant Results: The app leverages the most advanced full-text search engine to deliver highly relevant results for every use case. This enhances user satisfaction by ensuring they always find what they're searching for.
+- Easy Deployment: With smart presets and zero configuration requirements, Meilisearch Cloud can be deployed in a matter of minutes. This saves time and simplifies the process of integrating the search engine into your website or application.
 
 ## Features
 
-- Lightning Fast Search: Search-as-you-type functionality returns answers in less than 50 milliseconds, providing an instant search experience for users.
-- Plug 'n Play Deployment: Deploy Meilisearch in minutes with smart presets that require zero configuration, allowing for easy integration into any website or application.
-- Ultra Relevant Results: Meilisearch offers the most advanced full-text search engine with out-of-the-box great relevancy, ensuring accurate and relevant search results for every use case.
-- Open Source Community: Meilisearch is an open-source project with a fast-growing community. Developers can contribute, collaborate, and benefit from the collective knowledge and expertise.
-- Easy Integration: Meilisearch provides self-explanatory API documentation and SDKs for popular programming languages, making it easy for developers to integrate and use.
+- Custom Filters: Meilisearch Cloud allows you to enhance your user's search experience with custom filters. You can build a faceted search interface in just a few lines of code.
+- Language Detection: The app supports all languages and automatically detects them. This ensures a smooth and inclusive search experience for users from different linguistic backgrounds.
+- Custom Relevancy: With Meilisearch Cloud, you can break the rules and create your own ranking rules for search results. This gives you more control over the search experience you provide to your users.
+- Geo Search: The app allows users to search in the real world, eliminating the need for complex configurations or advanced technical knowledge.
+- Ironclad Security: Meilisearch Cloud ensures secure search experiences with API keys and tenant tokens that help you specify who can search what.
 
 ## Links
 

@@ -13,7 +13,7 @@ description: How to install Postgres Backup on Easypanel? 1-Click installation t
 
 ## Description
 
-This app allows you to backup your PostgresSQL database to S3, with support for periodic backups. It can be run as a Docker container or using Docker Compose.
+The postgres-backup-s3 app is a powerful tool designed to backup your PostgreSQL databases to Amazon S3. It supports periodic backups, allowing you to schedule automatic backups at your convenience. This ensures that your data is always safe and can be restored whenever needed. The app also offers the option to backup all available databases at once, creating a single archive with a timestamp for easy identification. For added security, the app provides an encryption feature. By setting an encryption password, your backup can be encrypted and only decrypted with the correct password. This app is perfect for those who want to ensure their PostgreSQL databases are securely backed up in a reliable and efficient manner.
 
 ## Instructions
 
@@ -21,15 +21,17 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 
 ## Benefits
 
-- Automated backups: You can schedule the backup to run automatically at a specified time using the SCHEDULE environment variable.
-- Selective backup: You can choose to backup a specific database or all available databases by setting the POSTGRES_BACKUP_ALL environment variable.
-- Encryption support: You can encrypt the backup file using the ENCRYPTION_PASSWORD environment variable.
+- Secure Database Backup: The app provides a secure way to backup your PostgreSQL databases to S3. It supports encryption, allowing you to set a password to encrypt your backup for an added layer of security.
+- Automatic Backups: The app supports automatic periodic backups. You can set a schedule for the app to automatically backup your databases, ensuring your data is always safe and up-to-date.
+- Comprehensive Backup Options: The app allows you to backup all available databases or select specific ones. This gives you the flexibility to choose what data to backup.
 
 ## Features
 
-- Docker support: The app can be run as a Docker container, making it easy to deploy and manage.
-- Docker Compose support: The app can also be run using Docker Compose, allowing you to define and manage the container along with other services.
-- Flexible configuration: You can configure various environment variables to customize the backup process, such as S3 access credentials, database connection details, and backup options.
+- PostgreSQL to S3 Backup: The app allows you to backup your PostgreSQL databases to S3. It supports both Docker and Docker Compose usage for flexibility and ease of use.
+- Encryption: The app supports encryption for your backups. You can set an encryption password to secure your data. The backup can be decrypted using openssl aes-256-cbc.
+- Scheduling: The app allows you to set a schedule for automatic backups. This ensures your databases are regularly backed up without manual intervention.
+- Backup All Databases: The app allows you to backup all available databases. This feature ensures that no data is left unprotected.
+- S3 Endpoint Configuration: The app allows you to specify an alternate S3 endpoint. This is useful if you're using an S3 Compatible Storage Provider.
 
 ## Links
 

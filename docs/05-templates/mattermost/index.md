@@ -13,21 +13,21 @@ description: How to install Mattermost on Easypanel? 1-Click installation templa
 
 ## Description
 
-Mattermost is a secure collaboration app designed for technical and operational teams. It provides a familiar user interface, fast performance, and a complete set of user collaboration tools and features. Mattermost offers a self-managed installation option for better integration with existing IT assets and more control over data storage. It is HIPAA compliant, making it suitable for healthcare organizations. With local hosting and simple Docker installation, data security compliance is easy to achieve. Mattermost is highly customizable and offers flexible integrations, allowing teams to adapt the app to their workflow. It is built with stringent security and privacy requirements in mind, providing granular admin controls, full control over data, advanced compliance auditing and reporting, and options for on-prem and secure cloud deployment. Mattermost is trusted by thousands of technical teams worldwide and has a large and active community of contributors.
+Mattermost is a secure collaboration platform designed to enhance the efficiency and productivity of technical and operational teams. It offers a range of features including team messaging, custom integrations, audio and screen sharing, and workflow automation. Mattermost is designed to improve time to response by 90%, decrease incident resolution time, and increase information availability by executing complex workflows faster and at a higher quality. It also helps in avoiding costly outages and downtime by decreasing the frequency and severity of system failures. The platform is built for enterprise scalability and can be deployed in air gapped networks and BYOD environments. It is also cloud neutral and offers self-host deployment options. Mattermost is open source and can be customized to fit your workflow with robust integrations or by building your own with its App Framework, Plugins, and open APIs.
 
 ## Benefits
 
-- Secure Collaboration: Give operational and engineering teams the workspace they need to collaborate securely and effectively. Improve time to response, decrease incident resolution time, and stay compliant with full data control.
-- Avoid Costly Outages and Downtime: Save costs by decreasing the frequency and severity of system failures and outages.
-- Increase Information Availability: Increase information availability by executing complex workflows faster at higher quality.
+- Secure Collaboration: Mattermost Version 8.0 provides a secure workspace for operational and engineering teams to collaborate effectively. It improves response time by 90% and decreases incident resolution time, ensuring full data control.
+- Avoid Outages and Downtime: The app helps in avoiding costly outages and downtime by decreasing the frequency and severity of system failures.
+- Increase Information Availability: Mattermost increases information availability by executing complex workflows faster at higher quality, enhancing productivity.
 
 ## Features
 
-- Team Messaging: Collaborate with your team through secure messaging, file sharing, and rich media support.
-- Project Management: Manage projects and tasks with built-in project management features, including task assignment, progress tracking, and notifications.
-- Custom Integrations: Integrate Mattermost with your existing tools and systems to streamline workflows and improve productivity.
-- Audio & Screen Sharing: Easily communicate with your team through audio and video calls, and share your screen for effective collaboration.
-- Workflow Automation: Automate repetitive tasks and streamline workflows with custom workflows and integrations.
+- Team Messaging: Mattermost offers team messaging feature for seamless communication within teams.
+- Custom Integrations: The app provides custom integrations to fit your workflow, making it flexible and extensible.
+- Audio & Screen Sharing: Mattermost supports audio and screen sharing, facilitating better collaboration.
+- Workflow Automation: The app is designed to automate workflows, increasing efficiency and productivity.
+- Data Control: Mattermost offers full control over your data with built-in identity and access controls, granular admin controls, and advanced compliance auditing & reporting.
 
 ## Links
 

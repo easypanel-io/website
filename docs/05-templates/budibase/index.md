@@ -13,7 +13,7 @@ description: How to install Budibase on Easypanel? 1-Click installation template
 
 ## Description
 
-Budibase is an open-source app that allows teams to build internal tools and forms without coding. It integrates seamlessly with any workflow and saves teams hundreds of hours. With Budibase, you can collect data securely on top of any database, automate tasks and workflows, and turn your data into powerful apps with just one click. The app offers a drag-and-drop interface, premade blocks, and easy automation of manual processes. You can self-host Budibase using Docker, Kubernetes, or Digital Ocean, or choose Budibase Cloud for easy deployment. Budibase is trusted by over 75,000 teams and has been proven to save time and money for businesses.
+Budibase is an open-source platform designed to simplify the creation of internal tools, saving teams hundreds of hours in the process. With Budibase, you can generate powerful internal tools and forms in just a few seconds, without any coding experience required. The platform allows you to connect to an external database, pull data from a Rest API, import a CSV, or start from scratch with Budibase&#39;s built-in database. You can design your tools using drag-and-drop components and automate workflows with just a few clicks. Budibase is trusted by over 75,000 teams and is designed to speed up your business operations. Whether you need to collect data securely, automate tasks, or streamline operations, Budibase has you covered.
 
 ## Instructions
 
@@ -21,19 +21,17 @@ Budibase takes a few minutes to get ready. Sit back, relax, and have a cup of te
 
 ## Benefits
 
-- Save Time and Effort: Budibase saves teams hundreds of hours by providing a no-code solution for building internal tools and forms. You don't need any coding experience to create powerful apps.
-- Seamless Integration: Budibase integrates seamlessly with any workflow, allowing you to collect data securely on top of any database. You can connect to external databases, Rest APIs, import CSVs, or use Budibase's built-in database.
-- Automate Workflows: With Budibase's automation platform, you can automate tasks and workflows. Turn your data into action and streamline operations within your app and business.
-- Easy Design and Deployment: Designing internal tools is easy and fast with Budibase's drag-and-drop interface and premade blocks. You can deliver internal tools that look beautiful and work perfectly across mobile, tablet, and desktop. You can self-host Budibase using Docker, Kubernetes, or Digital Ocean, or choose Budibase Cloud for easy deployment.
+- Efficiency and Speed: Budibase saves teams hundreds of hours by simplifying the process of building internal tools. It allows you to create solutions that speed up your business operations.
+- No Coding Experience Required: With Budibase, you don't need any coding experience to create powerful internal tools and forms. Its user-friendly interface allows you to design your tools with drag-and-drop components.
+- Automate Workflows: Budibase allows you to automate tasks and workflows with ease. With just a few clicks, you can automate manual processes and streamline operations within your app and business.
+- Data Integration: Budibase allows you to connect to an external database, pull data from a Rest API, import a CSV, or start from scratch with Budibase's built-in database. You can turn your data into an app with just one click.
 
 ## Features
 
-- Collect Data Securely: Budibase allows you to collect data securely on top of any database. You can connect to external databases, Rest APIs, import CSVs, or use Budibase's built-in database.
-- Automate Workflows: Budibase's automation platform enables you to automate tasks and workflows. You can turn your data into action and streamline operations within your app and business.
-- No Coding Required: You don't need any coding experience to use Budibase. You can generate powerful internal tools and forms in just a few seconds without writing a single line of code.
-- Drag-and-Drop Interface: Designing internal tools is easy and fast with Budibase's drag-and-drop interface. You can use premade blocks and components to create beautiful and functional tools.
-- Self-Host or Use Budibase Cloud: You have the option to self-host Budibase using Docker, Kubernetes, or Digital Ocean. Alternatively, you can choose Budibase Cloud and let Budibase manage everything for you.
-- Open Source: Budibase is open source, allowing you to transform operations within the security of your own infrastructure.
+- Data Collection: Budibase allows you to collect data securely on top of any database. It provides a platform for adding visitor contacts and managing company visits.
+- Notification System: Budibase comes with a built-in notification system that sends alerts for new visitors or actions taken within the app.
+- Design Flexibility: Budibase provides pre-made blocks and a drag-and-drop interface for designing internal tools. It allows you to deliver internal tools that look beautiful and work perfectly across mobile, tablet, and desktop.
+- Hosting Options: Budibase offers flexible hosting options. You can self-host using Docker, Kubernetes, or Digital Ocean, or choose Budibase Cloud and let Budibase manage everything for you.
 
 ## Links
 

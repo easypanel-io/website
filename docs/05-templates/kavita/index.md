@@ -13,40 +13,20 @@ description: How to install Kavita on Easypanel? 1-Click installation template f
 
 ## Description
 
-Kavita is a rocket fueled self-hosted digital library app that supports a vast array of file formats. It has a slick design and offers lightning-fast performance. With Kavita, you can quickly resume your reading from your homepage, browse manga, comics, and books, and search for content. The app supports metadata filtering, ratings, and reviews for manga. It also has a built-in manga/comic/image reader and a customizable book reader. Kavita supports extensive file formats including ZIP, RAR, CBR, CBZ, EPUB, PDF, and more. It offers features like image scaling, fullscreen mode, dark mode, immersive mode, and customizable reading settings. The app allows user management and sharing, with the ability to create users and share libraries. Kavita is cross-platform and responsive, with no dependencies. It has a fast and efficient library scan, full metadata support, and cool statistics for individual user accounts and the server. The app is accessible and frequently updated with new features. It is available on Windows, Linux, macOS, Docker, and other platforms.
+Kavita is a high-speed, sleekly designed, self-hosted digital library that supports a wide range of file formats. It allows you to quickly resume your reading from your homepage, browse your Manga, Comics, and Books, and search for your favorite manga with ease. Kavita also provides full support for all fields from ComicInfo.xml (and EPUB) for metadata filtering. It features built-in ratings and reviews for each Manga, integrated chapters and volumes, and user &amp; library management. Kavita also includes a responsive Manga/Comic/Image Reader with impressive caching for a seamless reading experience, and a customizable Book reader. It also provides server and user stats, and premium features with a Kavita+ Subscription. Kavita supports a wide array of file formats for Manga/Comics, Books, and Raw Images. It also offers user management and sharing features, allowing you to create users and share your libraries with them. Kavita is fast, efficient, and responsive, offering full text search, grouping and organizing features, full metadata support and filtering ability, and cool stats for individual user accounts and your server.
 
 ## Benefits
 
-- Lightning Fast: Kavita offers lightning-fast performance, ensuring a smooth reading experience.
-- Slick Design: The app has a slick design that enhances the user experience.
-- Supports Vast Array of File Formats: Kavita supports a wide range of file formats, including manga, comics, books, and raw images.
-- Customizable Reading Experience: The app allows users to customize their reading experience by controlling font, spacing, margin, color theme, and more.
-- User Management and Sharing: Kavita enables users to create accounts, manage libraries, and share content with others.
-- Cross-Platform and Responsive: The app is cross-platform and responsive, ensuring compatibility and optimal performance on various devices.
-- Extensive File Support: Kavita supports a wide range of file formats, including ZIP, RAR, CBR, CBZ, EPUB, PDF, and more.
-- Accessible and Frequently Updated: The app is designed to be accessible and undergoes frequent updates to introduce new features and improvements.
+- Efficient Digital Library: Kavita is a self-hosted digital library that is lightning fast and supports a wide array of file formats. It allows you to easily read and share your server with friends.
+- Customizable Reading Experience: Kavita offers a built-in book reader that allows you to customize your reading experience. Control font, spacing, margin, color theme, and navigate pages by tapping on the edges of the screen.
+- Rich User and Library Management: Kavita provides user-based roles, authentication, and library management right from the app. It also offers built-in ratings and reviews per Manga.
 
 ## Features
 
-- Homepage: Quickly resume your reading from your homepage, access reading lists and collections.
-- Browse Manga, Comics, and Books: Easily browse and access your manga, comics, and books in one place.
-- Search: Search for manga and other content quickly and efficiently.
-- Metadata Support: Fully supports all fields from ComicInfo.xml (and EPUB) to provide filtering on metadata.
-- Ratings and Reviews: Built-in ratings and reviews per manga, allowing users to share their opinions and recommendations.
-- Manga/Comic/Image Reader: A responsive manga reader with impressive caching, supports webtoon and double page reading modes.
-- Book Reader: Customize your reading experience with font, spacing, margin, and other settings. Supports column and dual column mode.
-- Server and User Stats: View interesting statistics for your server and individual user accounts.
-- Full Text Search: Quickly find what you want to read with the full text search feature.
-- Group and Organize Files: Organize your files with collections, reading lists, series relationships, and more.
-- Mixed Media Libraries: Light novels and manga can be organized together in mixed media libraries.
-- Fast and Efficient Library Scans: Kavita performs fast and efficient library scans, minimizing I/O operations.
-- Cool Statistics: Get cool statistics about your reading habits and user accounts.
-- Send to Kindle: Send content to Kindle or any email-supported device.
-- Built-in Child Accounts: Create child accounts with age restrictions and limited access to libraries.
-- Folder Watching: Automatically detect changes in folders without manual scans.
-- Rich Documentation: Access rich documentation to learn more about using Kavita.
-- Accessibility First: The app is designed with accessibility in mind, ensuring color contrast, screen reader, and keyboard-only support.
-- Available on Multiple Platforms: Kavita is available on Windows, Linux, macOS, Docker, and other platforms.
+- Extensive File Support: Kavita supports a wide range of file formats including ZIP, RAR, RAR5, CBR, CBZ, CB7, CBT, TAR.GZ, 7ZIP/7Z, EPUB2, EPUB3, PDF, JPG/JPEG, PNG, WebP, GIF, AVIF.
+- Built-in Manga/Comic/Image Reader: Kavita comes with a responsive manga reader with impressive caching. It supports webtoon and double page reading modes, ensuring you never experience loading times when reading.
+- Server and User Stats: Kavita provides interesting stats for your whole server or you as an individual. This feature helps you understand your reading habits and preferences better.
+- User Management and Sharing: With Kavita, you can create users and share your libraries with them. It also allows you to grant users permissions to view libraries or see different mixed-media collections.
 
 ## Links
 

@@ -13,18 +13,19 @@ description: How to install Node-RED on Easypanel? 1-Click installation template
 
 ## Description
 
-Node-RED is a programming tool for wiring together hardware devices, APIs, and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+Node-RED is a unique programming tool designed for creating event-driven applications in a low-code environment. It allows you to connect hardware devices, APIs, and online services in innovative ways. The app features a browser-based editor that simplifies the process of creating flows using a wide array of nodes available in the palette. These flows can be deployed to its runtime with just a single click. Node-RED also allows you to create JavaScript functions within the editor using a rich text editor and save useful functions, templates, or flows for future use. Built on Node.js, Node-RED is lightweight and can run on low-cost hardware like Raspberry Pi or in the cloud. It also supports the import and export of flows in JSON format for easy sharing.
 
 ## Benefits
 
-- Browser-based flow editing: Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be then deployed to the runtime in a single-click. JavaScript functions can be created within the editor using a rich text editor. A built-in library allows you to save useful functions, templates or flows for re-use.
-- Built on Node.js: The light-weight runtime is built on Node.js, taking full advantage of its event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi as well as in the cloud. With over 225,000 modules in Node's package repository, it is easy to extend the range of palette nodes to add new capabilities.
-- Social Development: The flows created in Node-RED are stored using JSON which can be easily imported and exported for sharing with others. An online flow library allows you to share your best flows with the world.
+- Low-Code Programming: Node-RED offers a low-code programming environment, making it accessible for users with varying levels of technical expertise. It allows for the creation of event-driven applications in an efficient and user-friendly manner.
+- Versatile Integration: The app allows for the integration of hardware devices, APIs, and online services in new and innovative ways. This opens up a wide range of possibilities for creating unique and customized applications.
+- Flexible Deployment: Node-RED can be run on various platforms, from low-cost hardware like Raspberry Pi to cloud services. This makes it a flexible tool that can be adapted to different needs and environments.
 
 ## Features
 
-- Browser-based flow editing: Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be then deployed to the runtime in a single-click. JavaScript functions can be created within the editor using a rich text editor. A built-in library allows you to save useful functions, templates or flows for re-use.
-- Built on Node.js: The light-weight runtime is built on Node.js, taking full advantage of its event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi as well as in the cloud. With over 225,000 modules in Node's package repository, it is easy to extend the range of palette nodes to add new capabilities.
+- Browser-Based Flow Editing: Node-RED provides a browser-based editor that simplifies the process of wiring together flows. It offers a wide range of nodes in the palette that can be deployed to its runtime in a single click.
+- JavaScript Function Creation: Within the editor, users can create JavaScript functions using a rich text editor. A built-in library is also available for saving useful functions, templates, or flows for future use.
+- Flow Sharing: Flows created in Node-RED are stored using JSON, which can be easily imported and exported. This feature facilitates the sharing of flows, allowing users to learn from each other and improve their own applications.
 
 ## Links
 

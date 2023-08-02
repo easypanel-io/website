@@ -13,26 +13,22 @@ description: How to install Ghost on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters &amp; offer paid subscriptions to members.
+Ghost is a robust application designed for new-media creators looking to turn their audience into a business. It provides a suite of modern tools to build a website, publish engaging content, send newsletters, and offer paid subscriptions to members. Ghost allows you to launch your website with a selection of beautiful free themes and design settings that can be tweaked to match your brand and style. It also offers an editor built for professionals, with advanced workflows and a user-friendly interface. With Ghost, you can expand your story beyond words, incorporating image galleries, gifs, video, audio, and more into your content. The app also includes built-in newsletters, allowing you to deliver posts by email to your audience. Ghost simplifies the process of building an indie publication with memberships and subscriptions, with native signup forms that convert anonymous views into logged-in members. It also provides detailed engagement analytics to understand what content is getting the most attention and who your biggest fans are. Ghost also supports offers and promotions to entice new subscribers and grow your business.
 
 ## Benefits
 
-- Advanced Creator Tools: Launch your website with a selection of beautiful free themes and customize the design to match your brand. Publish content with an editor designed for professionals and enhance your stories with rich media and dynamic cards.
-- Grow Your Audience: Turn anonymous views into logged-in members with native signup forms. Offer free or paid subscriptions to support your work and engage with your audience through newsletters.
-- Run Your Business: Manage memberships, track engagement analytics, and run offers and promotions to grow your business.
-- Integrations: Ghost integrates with various tools and platforms, including GeckoBoard, MailChimp, Pinterest, Buffer, Twitter, Stripe, Instagram, YouTube, Google Analytics, and more.
-- Creator Stats: Ghost publishers earn over $25,000,000 in revenue each year with 0% payment fees. Prominent creators like Ali Abdaal, David Sirota, and Buffer use Ghost for their content.
-- Built to Last: Ghost is open source, independent, and funded by its users. It provides a reliable platform for creators to launch their websites and build their businesses.
+- Turn Your Audience into a Business: Ghost is a powerful app that enables new-media creators to publish, share, and grow a business around their content. It offers modern tools to build a website, publish content, send newsletters, and offer paid subscriptions to members.
+- Advanced Creator Tools: Ghost provides an array of advanced tools to make your profile stand out. It offers a selection of beautiful free themes and design settings to match your brand and style. You can also explore hundreds of custom themes in the marketplace or build your own design from scratch.
+- Grow Your Audience: Ghost helps transform clicks into contacts. It offers native signup forms that turn anonymous views into logged-in members. It also allows people to sign up for free or purchase a paid subscription to support your work across monthly and yearly premium tiers.
+- Run Your Business: Ghost helps you manage your memberships, understand your audience, and grow your business. It provides detailed engagement analytics so you can understand what content is getting the most attention and who your biggest fans are.
 
 ## Features
 
-- Advanced Creator Tools: Launch your website with beautiful free themes or create a custom design. Publish content with a professional editor and enhance it with rich media and dynamic cards.
-- Publish by Web & Email Newsletter: Deliver posts by email newsletter to your audience and segment them based on preference.
-- Grow Your Audience: Turn anonymous views into logged-in members with native signup forms. Offer free or paid subscriptions to support your work.
-- Run Your Business: Manage memberships, track engagement analytics, and run offers and promotions to grow your business.
-- Integrations: Connect Ghost with various tools and platforms to enhance your workflow and reach.
-- Creator Stats: Ghost publishers earn over $25,000,000 in revenue each year with 0% payment fees. Prominent creators like Ali Abdaal, David Sirota, and Buffer use Ghost for their content.
-- Built to Last: Ghost is open source, independent, and funded by its users. It provides a reliable platform for creators to launch their websites and build their businesses.
+- Publish by Web & Email Newsletter: Ghost offers an editor built for professionals. It allows you to publish content via web and email newsletters. The interface is invisible until you need it, and powerful when you do.
+- Rich Media & Dynamic Cards: Ghost allows you to expand your story with image galleries, gifs, video, audio, products, info boxes, accordion toggles, downloadable files, bookmarks, and much more.
+- Newsletters Built-In: Ghost comes with built-in newsletter functionality. You can deliver posts by email newsletter to your audience, so they’ll be in the loop whenever something new goes live.
+- Offers & Promotions: Ghost allows you to entice new subscribers with offers and promotions. You can run discounts or special promotions for live events to grow your business.
+- Integrations: Ghost works with a variety of other tools including referral programs, push notifications, social sharing, payment gateways, A/B testing, desktop editors, mobile apps, comments, notifications, and more.
 
 ## Links
 
@@ -46,7 +42,7 @@ Ghost is a powerful app for new-media creators to publish, share, and grow a bus
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.53.3-alpine
+App Service Image | - | yes | ghost:5-alpine
 Database Service Name | - | yes | ghost-db
 
 ## Screenshots
@@ -58,9 +54,11 @@ Database Service Name | - | yes | ghost-db
 - 2022-07-12 – first release
 - 2023-02-24 – Update to v5.35.1
 - 2023-06-30 – Update to v5.53.3
+- 2023-07-23 – Update to v5
 
 ## Contributors
 
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/supernova3339)
 - [siriokun](https://github.com/siriokun)
+- [Berk Sümbül](https://berksmbl.com)

@@ -13,7 +13,7 @@ description: How to install Shynet on Easypanel? 1-Click installation template f
 
 ## Description
 
-Shynet is a self-hosted analytics platform that allows you to track and analyze website traffic. It provides detailed insights into visitor behavior, page views, referrers, and more. With Shynet, you have full control over your data and can customize the platform to meet your specific needs.
+Shynet is a powerful, open-source analytics tool designed to provide you with clear, comprehensive insights about your website&#39;s traffic and user behavior. Unlike traditional analytics platforms, Shynet respects user privacy and does not track individual users across websites. Instead, it focuses on providing aggregate data and trends, helping you understand how users interact with your website as a whole. Shynet offers a range of features including real-time analytics, session tracking, and primary key integration. It also supports single-page applications, ensuring you get accurate data even when users navigate between pages within your application. With Shynet, you can easily create and manage multiple services, each with its own unique tracking script. The app also offers an API, allowing you to access all the information displayed on the dashboard programmatically. Whether you&#39;re a small business owner, a web developer, or a data analyst, Shynet provides you with the tools you need to make informed decisions about your website.
 
 ## Instructions
 
@@ -21,16 +21,17 @@ Open a console session and run ./manage.py createsuperuser to create your admini
 
 ## Benefits
 
-- Privacy and Security: Shynet is self-hosted, meaning your data stays on your server and is not shared with any third parties. This ensures the privacy and security of your website analytics.
-- Customizable: Shynet is highly customizable, allowing you to configure it to fit your specific requirements. You can set up multiple services, track custom events, and integrate Shynet with other tools and platforms.
-- Open Source: Shynet is an open-source project, which means you have full access to the source code and can modify it to suit your needs. You can also contribute to the development of Shynet and help improve the platform for everyone.
+- Real-time Analytics: Shynet provides real-time analytics, allowing you to monitor your website's traffic and user behavior in real time. This can help you make informed decisions and take immediate action based on the latest data.
+- Privacy-Focused: Shynet respects user privacy by design. It does not use cookies or collect personally identifiable information. This makes it a great choice for businesses that value user privacy and want to comply with data protection regulations.
+- Detailed Insights: With Shynet, you can gain detailed insights into your website's performance and user behavior. It provides comprehensive data on page views, sessions, and more, helping you understand your audience better.
 
 ## Features
 
-- Real-time Analytics: Shynet provides real-time analytics, allowing you to see website traffic and visitor behavior as it happens. You can track page views, unique visitors, referrers, user agents, and more.
-- User-friendly Interface: Shynet has a user-friendly interface that makes it easy to navigate and understand your analytics data. You can view detailed reports, filter data, and generate custom charts and graphs.
-- Integration with Single-Page Applications: Shynet can be easily integrated with single-page applications. It provides a method to track page loads within your JavaScript code, ensuring accurate analytics for your SPA.
-- API Access: Shynet offers an API that allows you to access your analytics data programmatically. You can retrieve data for specific services, set custom date ranges, and integrate Shynet with other tools and platforms.
+- Easy Deployment: Shynet can be easily deployed using Docker, making it a convenient solution for businesses of all sizes. It supports both PostgreSQL and SQLite databases, giving you flexibility in your setup.
+- Admin User Creation: Shynet allows you to create an admin user with a temporary password, providing secure access to your analytics dashboard.
+- Customizable Whitelabel: You can customize the whitelabel of your Shynet instance, allowing you to rename it according to your preference.
+- Service Creation and Tracking: Shynet enables you to create a service and generate a tracking script code. By injecting this script on your web pages, you can start tracking user behavior and collecting analytics data.
+- API Access: Shynet provides API access to all the information displayed on the dashboard. This allows you to integrate Shynet's data with other systems or applications for further analysis and reporting.
 
 ## Links
 

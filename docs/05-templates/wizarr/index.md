@@ -13,30 +13,29 @@ description: How to install Wizarr on Easypanel? 1-Click installation template f
 
 ## Description
 
-Wizarr is an automatic user invitation system for Plex, Jellyfin, and Emby. It allows you to create a unique link and share it with users, who will automatically be invited to your media server. Wizarr also provides instructions on how to download the clients and use your requests software. It supports single-sign-on (SSO), multi-tiered invitations, and integration with Discord and requests software.
+Wizarr is an automatic user invitation system designed to streamline the process of inviting users to your media server. Whether you&#39;re using Plex, Jellyfin, or Emby, Wizarr allows you to create a unique link to share with users, automatically inviting them to your server. The app also guides users on how to download the necessary client and provides instructions on how to use your request software. Wizarr offers a secure invitation environment, plug and play SSO support, multi-tiered invitations, and customizable duration for membership. It also integrates with Discord, allowing you to invite users to your Discord server. The app is customizable, allowing you to add any custom HTML as needed.
 
 ## Benefits
 
-- Automatic Invitation: Wizarr automatically invites users to your media server when they click on the unique link.
-- Secured Invitation Environment: Wizarr provides a secure environment for user invitations.
-- Plug and Play SSO Support: Wizarr supports single-sign-on (SSO) for easy user authentication.
-- Multi-tiered Invitations: Wizarr allows you to create invitations with different membership tiers.
-- Guide User on Downloading Plex Client: Wizarr provides instructions on how to download the Plex client.
-- Requests Integration: Wizarr integrates with requests software (Jellyseerr, Overseerr, Ombi) to guide users on how to request movies.
-- Discord Server Integration: Wizarr integrates with Discord to invite users to your Discord server.
-- Customizable: Wizarr allows you to add custom HTML to personalize the user experience.
+- Automatic User Invitation: Easily invite users to your media server by sharing a unique link. They will be automatically invited and guided to download the client software.
+- Secured Invitation Environment: Ensure the security of your media server by using a secured invitation system.
+- Plug and Play SSO Support: Integrate single-sign-on (SSO) functionality with ease to provide a seamless user experience.
+- Multi-tiered Invitations: Create different invitation tiers with varying durations for membership.
+- Guide User on Downloading Plex Client: Help users easily download the Plex client software by providing step-by-step instructions.
+- Requests Integration: Guide users on how to request movies using popular request software like Jellyseerr, Overseerr, and Ombi.
+- Discord Server Integration: Invite users to your Discord server for community interaction and support.
+- Customizable: Add custom HTML to personalize the user experience and match your branding.
 
 ## Features
 
-- Automatic Invitation to your Media Server: Wizarr automatically invites users to your media server (Plex, Jellyfin, Emby) when they click on the unique link.
-- Secured Invitation Environment: Wizarr provides a secure environment for user invitations.
-- Plug and Play SSO Support: Wizarr supports single-sign-on (SSO) for easy user authentication.
-- Multi-tiered Invitations: Wizarr allows you to create invitations with different membership tiers.
-- Duration for Membership: Wizarr allows you to set a duration for user memberships.
-- Guide User on Downloading Plex Client: Wizarr provides instructions on how to download the Plex client.
-- Requests Integration: Wizarr integrates with requests software (Jellyseerr, Overseerr, Ombi) to guide users on how to request movies.
-- Discord Server Integration: Wizarr integrates with Discord to invite users to your Discord server.
-- Customizable: Wizarr allows you to add custom HTML to personalize the user experience.
+- Automatic Invitation: Automatically invite users to your media server by sharing a unique link.
+- Secured Invitation Environment: Ensure the security of your media server with a secured invitation system.
+- Plug and Play SSO Support: Integrate single-sign-on (SSO) functionality with ease.
+- Multi-tiered Invitations: Create different invitation tiers with varying durations for membership.
+- Guide User on Downloading Plex Client: Provide step-by-step instructions to help users download the Plex client software.
+- Requests Integration: Guide users on how to request movies using popular request software.
+- Discord Server Integration: Invite users to your Discord server for community interaction and support.
+- Customizable: Add custom HTML to personalize the user experience.
 
 ## Links
 

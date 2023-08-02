@@ -13,19 +13,17 @@ description: How to install Oxigen on Easypanel? 1-Click installation template f
 
 ## Description
 
-Oxigen is a dynamic social media image generator that allows users to easily create, customize, and use og images with both a user interface (UI) and an application programming interface (API).
+Oxigen is a dynamic social media image generator designed to streamline the process of creating and customizing og images. With a user-friendly interface and API, Oxigen allows you to effortlessly generate images tailored to your specific needs. Whether you&#39;re looking to create unique images for your social media posts or need a reliable tool for generating og images, Oxigen offers a flexible and efficient solution.
 
 ## Benefits
 
-- Easy to use: Oxigen provides a user-friendly interface that makes it simple for users to create and customize social media images.
-- Customizable: Users can customize their social media images by choosing from a variety of templates, fonts, colors, and other design elements.
-- API integration: Oxigen offers an API that allows developers to programmatically generate social media images, making it easy to automate the image generation process.
+- Dynamic Social Media Image Generation: Oxigen allows you to easily create and customize social media images. This dynamic image generation capability can greatly enhance your social media presence and engagement.
+- User Interface and API: Oxigen provides both a user interface and an API, giving you the flexibility to create images in the way that suits you best. Whether you prefer a visual approach or a more programmatic one, Oxigen has you covered.
 
 ## Features
 
-- Docker support: Oxigen can be easily installed and run using Docker, making it convenient for deployment in various environments.
-- Binary installation: Users can install Oxigen by downloading and unpacking the latest release, and then running the binary file.
-- Go installation: For users with Go installed, Oxigen can be installed globally using the 'go install' command.
+- Customizable Images: With Oxigen, you have the power to customize your social media images to your liking. You can easily adjust various elements of your images to make them truly unique and eye-catching.
+- API Access: Oxigen provides an API that allows you to programmatically create and customize images. This feature is perfect for those who prefer to automate their image creation process.
 
 ## Links
 

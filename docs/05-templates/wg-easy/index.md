@@ -13,27 +13,28 @@ description: How to install Wg-easy on Easypanel? 1-Click installation template 
 
 ## Description
 
-WireGuard Easy is an app that provides an easy way to install and manage WireGuard on any Linux host. It includes a web UI for easy configuration and management of clients. The app supports features such as creating, editing, and deleting clients, showing client QR codes, downloading client configuration files, and displaying statistics and charts for connected clients. It requires a host with a kernel that supports WireGuard and Docker installed.
+WireGuard Easy is an all-in-one application designed to simplify the installation and management of WireGuard on any Linux host. With a user-friendly web interface, it allows you to list, create, edit, delete, enable, and disable clients with ease. You can also view a client&#39;s QR code and download a client&#39;s configuration file directly from the app. The app provides statistics on which clients are connected and features Tx/Rx charts for each connected client. It also supports Gravatar. WireGuard Easy requires a host with a kernel that supports WireGuard and Docker installed.
 
 ## Benefits
 
-- Easy Installation: The app provides a simple installation process using Docker.
-- Web UI: The app includes a web UI for easy configuration and management of clients.
-- Client Management: The app allows users to list, create, edit, delete, enable, and disable clients.
-- QR Code Support: The app can generate QR codes for clients, making it easy to connect devices.
-- Configuration File Download: The app allows users to download client configuration files for easy setup.
-- Statistics and Charts: The app provides statistics and charts for monitoring connected clients.
-- Gravatar Support: The app supports Gravatar for user avatars.
+- Easy installation and management: Install and manage WireGuard on any Linux host with ease.
+- All-in-one solution: Includes both WireGuard and a web UI for easy configuration and control.
+- Client management: List, create, edit, delete, enable, and disable clients with ease.
+- QR code support: Generate QR codes for easy client configuration.
+- Configuration file download: Download client configuration files for easy setup.
+- Connection statistics: View statistics for connected clients.
+- Traffic charts: Monitor traffic charts for each connected client.
+- Gravatar support: Display client avatars using Gravatar.
 
 ## Features
 
-- All-in-one: The app includes both WireGuard and a web UI in a single package.
-- Easy Installation: The app can be installed easily using Docker.
-- Client Management: The app allows users to list, create, edit, delete, enable, and disable clients.
-- QR Code Generation: The app can generate QR codes for clients, making it easy to connect devices.
-- Configuration File Download: The app allows users to download client configuration files for easy setup.
-- Statistics and Charts: The app provides statistics and charts for monitoring connected clients.
-- Gravatar Support: The app supports Gravatar for user avatars.
+- Easy installation: Simple installation process for WireGuard and the web UI.
+- Client management: Easily manage clients, including creating, editing, deleting, enabling, and disabling.
+- QR code generation: Generate QR codes for easy client configuration.
+- Configuration file download: Download client configuration files for easy setup.
+- Connection statistics: View statistics for connected clients.
+- Traffic charts: Monitor traffic charts for each connected client.
+- Gravatar support: Display client avatars using Gravatar.
 
 ## Links
 

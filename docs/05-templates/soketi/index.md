@@ -13,22 +13,21 @@ description: How to install Soketi on Easypanel? 1-Click installation template f
 
 ## Description
 
-Soketi is a serverless WebSockets server that allows developers to deploy real-time applications at a cheaper cost. It is built with fast and resilient technology and is compatible with the Pusher protocol. With Soketi, developers have full control over app management and can trigger HTTP requests using webhooks. It can be deployed on Cloudflare Workers for global scalability. Soketi is a simple, fast, and open-source solution for real-time communication.
+Soketi Serverless is an open-source WebSockets server that offers a cost-effective, fast, and resilient solution for real-time deployment to Cloudflare. It is designed to be cheaper than any competitor, as you only pay for your infrastructure. It guarantees core message delivery in less than 100ms, thanks to its construction on top of C and porting to Node.js. Soketi is compatible with Pusher Protocol v7, meaning you can connect to the server without needing to replace your existing code. It is ready for production and can scale to hundreds of servers with Redis or NATS without losing performance. Soketi also offers built-in app management, allowing you to define your own app credentials and read from any database. Additionally, it features HTTP Webhooks that trigger HTTP requests whenever a channel gets occupied. Soketi can be deployed to Cloudflare Workers, bringing it closer to your users worldwide. It is also compatible with most popular databases, like MySQL or DynamoDB.
 
 ## Benefits
 
-- Cheaper Cost: Soketi is cheaper than its competitors because you only pay for your infrastructure. It can be as cheap as $5 on DigitalOcean.
-- Fast and Resilient: Soketi is built with fast and resilient technology, guaranteeing core message delivery in less than 100ms. It can scale to hundreds of servers without losing performance.
-- Pusher Compatible: Soketi is compatible with the Pusher protocol, allowing developers to connect to the server without replacing their existing code.
-- Full App Management: Soketi provides built-in app management, similar to Pusher. Developers can define their own app credentials and have full control over access. It also supports reading from popular databases like MySQL or DynamoDB.
-- HTTP Webhooks: Soketi allows developers to trigger HTTP requests using webhooks. This feature can be paired with Lambda functions for additional functionality.
+- Cost Effective: Soketi Serverless is cheaper than any competitor because you only pay for your infrastructure. Whether it's your basement server or cloud, it fits and runs. It can be as cheap as $5 on DigitalOcean.
+- Fast and Resilient: Guaranteed core message delivery in less than 100ms. Soketi is built with one of the fastest available technologies, making it blazing fast. It is also resilient enough to maintain performance even when scaled to hundreds of servers.
+- Pusher Compatible: Soketi uses the Pusher Protocol v7, meaning you don't need to replace your existing code. You just connect to the server.
+- Ready for Production: Soketi is ready for production. You can scale it to hundreds of servers with Redis or NATS and it will maintain its performance. It is resilient enough for you to have a good night's sleep.
 
 ## Features
 
-- Serverless Deployment: Soketi can be deployed as a serverless solution, allowing developers to deploy real-time applications at a cheaper cost using Cloudflare Workers.
-- Scalability: Soketi can scale to hundreds of servers using the Redis or NATS adapter without losing performance.
-- Open Source: Soketi is an open-source solution, providing transparency and flexibility for developers.
-- Fast Performance: Soketi is built with fast technology, written on top of C and ported to Node.js. It has an average time of 6ms to distribute a message to 1k users with minimal CPU and RAM usage.
+- Built-in App Management: Just like Pusher, you can define your own app credentials with Soketi. You don't even need Pusher for it, and you can read from any database.
+- HTTP Webhooks: Soketi can trigger HTTP requests whenever a channel gets occupied. Pair it with Lambda functions and Soketi will invoke them for you.
+- Unlimited Connections and Messages: Soketi offers unlimited peak connections and messages per month. The maximum message size and members per channel are also configurable.
+- Deployable on Cloudflare: Soketi can be deployed to Cloudflare Workers, bringing it closer to your users all around the world.
 
 ## Links
 

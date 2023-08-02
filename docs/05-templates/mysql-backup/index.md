@@ -13,7 +13,7 @@ description: How to install MySQL Backup on Easypanel? 1-Click installation temp
 
 ## Description
 
-mysql-backup-s3 is a Docker container that allows you to backup your MySQL databases to AWS S3. It supports periodic backups and multiple files.
+The mysql-backup-s3 app is a powerful tool designed to backup your MySQL databases to your AWS S3 bucket. It supports periodic backups, allowing you to schedule backup times in cron format, ensuring your data is always safe and up-to-date. The app also supports multi-files, meaning you can have one file per database if you choose to. The app requires your AWS access key, AWS secret key, and AWS S3 bucket path. It also requires your MySQL host, user, and password. You can customize the path prefix in your bucket, the AWS S3 bucket region, and the AWS Endpoint URL. The app also allows you to add extra mysqldump options without overriding the default ones. With the mysql-backup-s3 app, you can ensure your MySQL databases are always backed up and secure in your AWS S3 bucket.
 
 ## Instructions
 
@@ -21,18 +21,16 @@ In order to test that you configured it properly, remove the SCHEDULE variable f
 
 ## Benefits
 
-- Easy to use: Just run the Docker container with the required environment variables and your MySQL databases will be backed up to AWS S3.
-- Flexible backup options: You can customize the mysqldump options and specify the databases you want to backup.
-- Supports periodic backups: You can schedule the backup process to run at specific times using cron format.
-- Supports multiple files: You can choose to have one file per database if needed.
+- Secure and Reliable: The app provides a secure and reliable way to backup your MySQL databases to your AWS S3 bucket. It ensures that your data is safe and can be recovered whenever needed.
+- Flexible and Customizable: The app allows you to customize your backup process according to your needs. You can choose the databases you want to backup, set a consistent filename to overwrite with your backup or use a timestamp, and even decide the AWS S3 bucket region.
+- Automated Backups: The app supports periodic backups, allowing you to schedule your backup process in a cron format. This ensures that your databases are backed up regularly without any manual intervention.
 
 ## Features
 
-- Customizable mysqldump options: You can specify additional mysqldump options or override the default options.
-- Specify databases to backup: You can choose to backup all databases or specify a list of databases to backup.
-- AWS S3 integration: Backups are stored in your AWS S3 bucket with the specified path prefix.
-- Support for AWS Signature Version 4: Enables compatibility with minio servers.
-- Flexible scheduling: You can schedule the backup process to run at specific times using cron format.
+- MySQL to S3 Backup: The app enables you to backup your MySQL databases to your AWS S3 bucket. It supports all databases and uses mysqldump options for the backup process.
+- Multi-file Support: The app supports multi-file backups, allowing you to have one file per database. This makes it easier to manage and recover specific databases.
+- AWS S3 Bucket Customization: The app allows you to customize your AWS S3 bucket settings. You can set the access key, secret key, bucket path, path prefix in your bucket, bucket region, and endpoint URL.
+- Backup Scheduling: The app allows you to schedule your backup process in a cron format. This ensures that your databases are backed up regularly and automatically.
 
 ## Links
 

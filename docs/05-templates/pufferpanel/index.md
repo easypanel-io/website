@@ -13,11 +13,23 @@ description: How to install Pufferpanel on Easypanel? 1-Click installation templ
 
 ## Description
 
-https://github.com/PufferPanel/PufferPanel
+PufferPanel is a free, open-source game server management panel that simplifies the management of your game servers. It supports a wide variety of games including Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers, BungeeCord, PocketMine, and many more. With PufferPanel, you can easily manage multiple game servers from one central location, providing a streamlined and efficient way to control your gaming environment. Whether you&#39;re an individual user or a large network, PufferPanel&#39;s user-friendly interface makes game server management a breeze.
 
 ## Instructions
 
 Run &quot;./pufferpanel user add&quot; in the console to create a new user.
+
+## Benefits
+
+- Simplified Game Server Management: PufferPanel is a free, open-source game server management panel that simplifies the process of managing multiple game servers. It's designed to be user-friendly, making it easy for anyone to manage their game servers.
+- Support for Multiple Games: PufferPanel supports a wide range of games including Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers, BungeeCord, PocketMine, and more. This makes it a versatile tool for managing different types of game servers.
+- Centralized Control: With PufferPanel, you can manage all your game servers from one central location. This eliminates the need to switch between different platforms or tools, saving you time and effort.
+
+## Features
+
+- Open Source: PufferPanel is an open-source project, meaning you can freely use, modify, and distribute it. This also ensures transparency and continuous improvement of the platform.
+- User Management: PufferPanel allows you to give other users their own servers or grant them access to your servers. This makes it a great tool for teams and collaborative projects.
+- Easy-to-Use Interface: PufferPanel features an easy-to-use interface that's designed to be user-friendly, making it accessible to both individual users and large networks or companies.
 
 ## Links
 

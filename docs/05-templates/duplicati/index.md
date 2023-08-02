@@ -13,23 +13,20 @@ description: How to install Duplicati on Easypanel? 1-Click installation templat
 
 ## Description
 
-Duplicati is a free backup software that allows you to store encrypted backups online. It works on Windows, macOS, and Linux. You can backup files and folders with strong AES-256 encryption, save space with incremental backups and data deduplication, and run backups through the web-based interface or command line interface. Duplicati supports various protocols and services for backup storage, including FTP, SSH, WebDAV, Backblaze B2, Microsoft OneDrive, Amazon S3, Google Drive, and more. It is free and open source, and runs on Windows, Linux, and macOS.
+Duplicati is a free, open-source backup software designed to store encrypted backups online. It is compatible with Windows, macOS, and Linux. The software works with standard protocols like FTP, SSH, WebDAV, and popular services such as Backblaze B2, Tardigrade, Microsoft OneDrive, Amazon S3, Google Drive, box.com, Mega, hubiC, and many others. Duplicati allows you to backup files and folders with strong AES-256 encryption, saving space with incremental backups and data deduplication. It can run backups on any machine through a web-based interface or via command line interface. Duplicati has a built-in scheduler and auto-updater, ensuring your backups are always up-to-date. It is designed for online backups from scratch, handling network issues efficiently. For instance, interrupted backups can be resumed, and Duplicati regularly tests the content of backups, detecting broken backups on corrupt storage systems before it’s too late. The software is configured by a web interface that runs in any browser and can be accessed from anywhere.
 
 ## Benefits
 
-- Secure Backup: Duplicati uses strong AES-256 encryption to protect your privacy. You can also use GPG to encrypt your backup.
-- Online Backup: Duplicati was designed for online backups and handles network issues nicely. It can resume interrupted backups and regularly tests the content of backups.
-- Cross-Platform: Duplicati runs on Windows, macOS, and Linux, making it accessible on different operating systems.
+- Secure Backup: Duplicati is a free backup software that securely stores encrypted backups online, ensuring your data is safe and protected.
+- Efficient Data Handling: Designed for online backups from scratch, Duplicati is not only data efficient but also handles network issues effectively. Interrupted backups can be resumed and the content of backups is tested regularly.
+- Accessible Anywhere: With a web-based interface that runs in any browser, Duplicati can be accessed from anywhere. This makes it ideal for use on headless machines like a NAS (network attached storage).
 
 ## Features
 
-- Multiple Backends: Duplicati works with standard protocols like FTP, SSH, WebDAV, as well as popular services like Backblaze B2, Microsoft OneDrive, Amazon S3, Google Drive, and more.
-- Strong Encryption: Backup files and folders with strong AES-256 encryption to ensure the security of your data.
-- Incremental Backups: Save space with incremental backups that only backup changed parts of files.
-- Web-based Interface: Duplicati is configured through a web interface that can be accessed from any browser, even on mobile devices.
-- Command Line Interface: Run backups on any machine through the command line interface.
-- Built-in Scheduler: Duplicati has a built-in scheduler for automated backups.
-- Free and Open Source: Duplicati is free software and open source, licensed under LGPL. It can be used for free, even for commercial purposes.
+- Strong Encryption: Duplicati uses strong AES-256 encryption to protect your privacy. You can also use GPG to encrypt your backup, ensuring your data is secure.
+- Supports Many Backends: Duplicati works with standard protocols like FTP, SSH, WebDAV as well as popular services like Backblaze B2, Tardigrade, Microsoft OneDrive, Amazon S3, Google Drive, box.com, Mega, hubiC and many others.
+- Incremental Backups and Data Deduplication: Save space with incremental backups and data deduplication. Duplicati uploads a full backup initially and stores smaller, incremental updates afterwards to save bandwidth and storage space.
+- Built-in Scheduler and Auto-updater: Duplicati has a built-in scheduler and auto-updater, keeping your backups up-to-date automatically.
 
 ## Links
 

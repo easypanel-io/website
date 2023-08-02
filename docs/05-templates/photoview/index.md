@@ -13,7 +13,7 @@ description: How to install Photoview on Easypanel? 1-Click installation templat
 
 ## Description
 
-Photoview is a photo gallery app that allows you to organize and browse your photos and videos on your self-hosted personal server. It syncs with your file system, allowing you to organize your media how you want. It supports multiple users, sharing of albums and individual media, and displays EXIF metadata and maps. The app also has a mobile app for easy access on your phone. It supports RAW images, video conversion, and runs on ARM processors. Photoview is secure, private, free, and open-source.
+Photoview is a user-friendly photo gallery designed for photographers. It allows you to easily navigate through directories filled with high-resolution photos and videos. The app syncs with your file system, automatically organizing your media based on the file structure. Directories become albums filled with the photos and videos found within them. Photoview also automatically rescans for new media, keeping your gallery updated. Multiple users can be configured, each with their own directory of photos and videos, and each user&#39;s media is kept private with a username and password. Albums and individual photos or videos can be shared through public or password-protected links. Photoview also analyzes photos for EXIF metadata, displaying this information next to the photo and using it to present photos on a map. The app also has a mobile version for iOS, allowing you to quickly access your media library from your phone. Photoview supports RAW images, automatically extracts metadata from images and videos, and optimizes videos for the web. It also generates thumbnails automatically and ensures that your media is secure and private.
 
 ## Instructions
 
@@ -21,28 +21,20 @@ You will need to mount the location where your photos are to complete the instal
 
 ## Benefits
 
-- Syncs with file system: Photoview automatically organizes your media based on the file structure of your file system. It can sync with file servers like Samba or FTP, or even files from a Nextcloud instance. It also automatically rescans for new media and keeps it updated.
-- Multiple users and sharing: You can configure multiple users, each with their own directory of photos and videos. Each user has a username and password to keep their media private. Albums and individual media can be easily shared by generating public or password-protected links.
-- Maps: Photoview analyzes the EXIF metadata of photos to display information such as the location where the photo was taken. It can automatically present photos on a map and group multiple photos taken at the same location.
-- Mobile app: Photoview has an official iOS app that allows you to access your entire media library from your phone. You can navigate, share, and download photos and videos directly within the app.
-- RAW support: Photoview uses Darktable to convert RAW images, making it compatible with many common RAW formats. You can check the supported cameras on the app's website.
-- Video support: Photoview uses Ffmpeg to convert videos and optimize them for the web. It supports many common video formats.
-- Runs on ARM: Photoview can run on ARM processors, including embedded devices like the Raspberry Pi.
-- Performant: Photoview generates thumbnails automatically and loads photos when they are visible on the screen, making browsing fast. It also uses a cookie-token for media resource protection, properly hashes passwords, and has a strict CORS policy for API security.
-- Secure and private: Photoview ensures the security and privacy of your media. All media resources are protected with a cookie-token, passwords are properly hashed, and the app does not send your media outside of your server.
-- Free and open-source: Photoview is completely free to use and the code is open for everyone to look at and modify.
+- Easy Media Organization: Photoview allows you to easily organize your media files. It automatically scans your file system for media and organizes them based on the file structure. Directories become albums populated with the photos and videos found inside.
+- User Privacy: Photoview ensures user privacy by allowing each user to have their own directory of photos and videos. Each user is configured with a username and password, keeping their media private.
+- Quick Access: With the official iOS app, you can quickly access your entire media library from your phone. Navigate, share, and download photos and videos directly within the app.
+- Secure and Private: Photoview ensures the security of your media resources with a cookie-token, properly hashed passwords, and a strict CORS policy. Your media is valuable, and with Photoview, nothing leaves your server.
 
 ## Features
 
-- Closely tied to the file system: Photoview presents images found on the local file system of the server, mapping directories to albums.
-- User management: Each user has their own directory on the file system and can access photos within that directory.
-- Sharing: Albums and individual media can be easily shared with public or password-protected links.
-- Made for photography: Photoview supports RAW file formats and EXIF parsing, making it suitable for photographers.
-- Video support: Photoview supports many common video formats and optimizes videos for the web.
-- Face recognition: Photoview automatically detects faces in photos and groups photos of the same person together.
-- Performant: Photoview generates thumbnails automatically and loads photos when they are visible on the screen.
-- Secure: Photoview protects media resources with a cookie-token, hashes passwords, and has a strict CORS policy.
-- Supported platforms: Photoview runs on Docker, Arch Linux, Aur, Unraid, EmbassyOS, and YunoHost.
+- File System Sync: Photoview syncs with your file system, automatically scanning for new media and adding it to keep your gallery updated. This gives you full control to organize your media how you want.
+- User and Sharing: Photoview allows multiple users, each with their own directory of photos and videos. Albums and individual photos or videos can easily be shared by generating a public or password-protected link.
+- Maps: When photos are analyzed for EXIF metadata, this information is displayed next to the photo. If the photo is taken with a mobile phone, it most likely includes the coordinates of where the picture was taken. This is used to automatically present the photos on a map.
+- Mobile App: Photoview has an official iOS app that allows you to quickly access your entire media library from your phone. Navigate, share, and download photos and videos directly within the app.
+- RAW Support: Photoview uses Darktable under the hood to convert RAW images, supporting many common formats.
+- EXIF Metadata: Photoview automatically extracts the metadata of images and videos and shows it in the sidebar. It's also used to present images on a map.
+- Video Support: Photoview uses Ffmpeg under the hood to convert videos and optimize them for the web.
 
 ## Links
 

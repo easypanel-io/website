@@ -13,18 +13,19 @@ description: How to install Documize on Easypanel? 1-Click installation template
 
 ## Description
 
-Documize is a powerful app that combines Zerabase and Community to provide a comprehensive solution for product engineering and knowledge management. Zerabase is a desktop software that centralizes product plans, assets, documents, app analytics, and customer conversations, making it a game-changer for product teams. Community, on the other hand, is a self-hosted knowledge management solution that allows you to capture and share internal operational know-how, processes, guidelines, and manuals. With Documize, you can power your business with these two powerful tools and achieve better outcomes.
+Documize Zerabase is a powerful business tool designed to manage product delivery and insight discovery. It serves as a Product Engineering Hub, unifying product plans, assets, documents, app analytics, and customer conversations. This remarkable offline-first desktop software becomes your product headquarters, centralizing content and information for everyone to see and act upon, making it a game-changer for product teams. On the other hand, the Community feature of Documize offers a simple, delightful way to capture and share knowledge management. It covers processes, guidelines, manuals, and everything in-between, allowing you to document your business with ease. It&#39;s designed for both technical and non-technical users, organizing content through labels, spaces, and categories. The Community+ edition offers advanced capabilities such as content approval workflows, content organization, version management, lifecycle management, feedback capture, PDF export, analytics, reporting, and more.
 
 ## Benefits
 
-- Centralized Product Information: Zerabase allows you to centralize all your product plans, assets, documents, app analytics, and customer conversations in one place, making it easy for everyone in your team to access and act upon the information.
-- Efficient Knowledge Management: Community provides a simple and delightful way to capture and share knowledge management within your organization. It allows you to document processes, guidelines, manuals, and everything in-between, making it easy for your team to find and use the information they need.
-- Flexible Deployment Options: Documize offers both cloud-based and self-hosted solutions, giving you the flexibility to choose the deployment option that best suits your organization's needs and security requirements.
+- Unified Product Management: Documize Zerabase is a game-changer for product teams, unifying product plans, assets, documents, app analytics, and customer conversations in one place. It serves as your product HQ, centralizing content and information for everyone to see and act upon.
+- Efficient Knowledge Management: The Community feature of Documize offers a simple, delightful way to capture and share knowledge management. It helps document your business with ease, handling processes, guidelines, manuals, and everything in-between.
+- Offline-First Desktop Software: Documize Zerabase is an offline-first desktop software, ensuring that your product management and knowledge sharing can continue uninterrupted, even without an internet connection.
 
 ## Features
 
-- Zerabase Features: Zerabase offers features such as centralized product plans, assets, documents, app analytics, and customer conversations, offline-first desktop software, and integration with other tools like Productboard, ProdPad, Notion, and Airfocus.
-- Community Features: Community provides features like capturing and sharing knowledge management, built-in workflows, self-hosted solution, and integration with other tools like Confluence and Notion.
+- Product Engineering Hub: Zerabase serves as your Product Engineering Hub, bringing together product plans, assets, documents, app analytics, and customer conversations. It helps manage product delivery and insight discovery.
+- Knowledge Management: The Community feature is designed for capturing and sharing knowledge management. It handles everything from processes and guidelines to manuals, making it easier to document your business.
+- Offline-First Capability: Documize Zerabase is an offline-first desktop software, ensuring that you can continue managing your product and sharing knowledge, even without an internet connection.
 
 ## Links
 

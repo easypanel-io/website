@@ -13,34 +13,21 @@ description: How to install PsiTransfer on Easypanel? 1-Click installation templ
 
 ## Description
 
-PsiTransfer is a simple open-source self-hosted file sharing solution. It allows users to easily share files without the need for accounts or logins. The app is mobile-friendly and supports the uploading and downloading of large files. It also offers features such as resumable uploads and downloads, one-time downloads, and the ability to download all files as a zip or tar.gz archive. PsiTransfer is lightweight, with a Vue-based frontend and a gzipped size of less than 100k. It also provides password protection for download lists and supports modal-style file preview. The app requires Node.js version 7.4 or higher.
+PsiTransfer is a simple, open-source, self-hosted file sharing solution designed to provide an alternative to paid services like Dropbox and WeTransfer. The app allows for the sharing of many and very large files with ease, thanks to its support for streams. It also offers resumable uploads and downloads, ensuring you never lose progress. With PsiTransfer, you can set an expiry time for your upload bucket, and even offer one-time downloads. The app also supports downloading all files as a zip or tar.gz archive, and provides a modal-style file preview. For added security, PsiTransfer offers a password-protected download list. The app is lightweight and mobile-friendly, making it easy to use on any device. It also allows for explicit named bucket IDs with a query param sid=&lt;myBucketID&gt;.
 
 ## Benefits
 
-- Simple and Self-hosted: PsiTransfer provides a simple and self-hosted file sharing solution, allowing users to easily share files without relying on paid services.
-- No Accounts or Logins: PsiTransfer does not require users to create accounts or log in, making it convenient for quick file sharing.
-- Mobile-friendly Interface: PsiTransfer has a responsive interface that is optimized for mobile devices, ensuring a seamless user experience across different devices.
-- Supports Large Files: PsiTransfer supports the uploading and downloading of large files, making it suitable for sharing files of any size.
-- Resumable Uploads and Downloads: PsiTransfer supports resumable uploads and downloads, allowing users to pause and resume file transfers without losing progress.
-- One-time Downloads: PsiTransfer allows users to set an expiration time for their upload bucket, ensuring that files are only available for a limited period of time.
-- Download All Files as Archive: PsiTransfer provides the option to download all files in a bucket as a zip or tar.gz archive, making it convenient for bulk downloads.
-- Modal-style File Preview: PsiTransfer supports modal-style file preview, allowing users to preview files before downloading them.
-- Password Protected Download List: PsiTransfer offers password protection for download lists, ensuring that only authorized users can access the files.
-- Lightweight and Gzipped: PsiTransfer is a lightweight app with a Vue-based frontend. It is gzipped by default and has a size of less than 100k, ensuring fast loading times.
-- Explicit Named Bucket IDs: PsiTransfer uses explicit named bucket IDs with query parameters, allowing users to easily share specific buckets.
+- Effortless File Sharing: PsiTransfer is a simple, open-source, self-hosted file sharing solution. It provides an easy and efficient way to share files without the need for accounts or logins.
+- Mobile Friendly: The app has a responsive interface that is mobile-friendly, making it easy to use on any device.
+- Secure and Private: With PsiTransfer, your files are protected. You can set an expire-time for your upload bucket and even password protect your download list.
 
 ## Features
 
-- No Accounts or Logins: PsiTransfer does not require users to create accounts or log in, making it convenient for quick file sharing.
-- Mobile-friendly Interface: PsiTransfer has a responsive interface that is optimized for mobile devices, ensuring a seamless user experience across different devices.
-- Supports Large Files: PsiTransfer supports the uploading and downloading of large files, making it suitable for sharing files of any size.
-- Resumable Uploads and Downloads: PsiTransfer supports resumable uploads and downloads, allowing users to pause and resume file transfers without losing progress.
-- One-time Downloads: PsiTransfer allows users to set an expiration time for their upload bucket, ensuring that files are only available for a limited period of time.
-- Download All Files as Archive: PsiTransfer provides the option to download all files in a bucket as a zip or tar.gz archive, making it convenient for bulk downloads.
-- Modal-style File Preview: PsiTransfer supports modal-style file preview, allowing users to preview files before downloading them.
-- Password Protected Download List: PsiTransfer offers password protection for download lists, ensuring that only authorized users can access the files.
-- Lightweight and Gzipped: PsiTransfer is a lightweight app with a Vue-based frontend. It is gzipped by default and has a size of less than 100k, ensuring fast loading times.
-- Explicit Named Bucket IDs: PsiTransfer uses explicit named bucket IDs with query parameters, allowing users to easily share specific buckets.
+- Supports Large Files: PsiTransfer supports the sharing of many and very large files, making it a great solution for all your file sharing needs.
+- Resumable Uploads and Downloads: The app supports resumable up- and downloads, ensuring that you can pick up where you left off if your connection is interrupted.
+- One-Time Downloads: PsiTransfer allows for one-time downloads, ensuring that your files are only accessed when you want them to be.
+- Download All Files as Archive: With PsiTransfer, you can download all files as a zip/tar.gz archive, making it easier to manage and organize your downloads.
+- File Preview: PsiTransfer offers a modal-style file preview, allowing you to view your files before downloading them.
 
 ## Links
 

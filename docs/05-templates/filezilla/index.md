@@ -13,7 +13,7 @@ description: How to install Filezilla Client on Easypanel? 1-Click installation 
 
 ## Description
 
-FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
+FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client. It is designed with a lot of useful features and an intuitive graphical user interface. The app is capable of delivering a true lossless image at a high framerate to your web browser. It supports multiple architectures and can be accessed via HTTP or HTTPS. The app also allows you to specify the user PUID and group PGID to avoid permission issues between the host OS and the container. It also provides the ability to override the default umask settings for services started within the containers.
 
 ## Instructions
 
@@ -21,18 +21,15 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 
 ## Benefits
 
-- Cross-platform: FileZilla Client is available for Windows, macOS, and Linux, making it accessible to users on different operating systems.
-- Fast and reliable: FileZilla Client is known for its fast and reliable performance, allowing users to transfer files quickly and securely.
-- FTP, FTPS, and SFTP support: FileZilla Client supports multiple file transfer protocols, including FTP, FTPS (FTP over SSL/TLS), and SFTP (SSH File Transfer Protocol).
-- Intuitive graphical user interface: FileZilla Client has an easy-to-use graphical user interface that allows users to navigate and manage their files effortlessly.
+- Cross-Platform Compatibility: FileZilla Client is a cross-platform FTP, FTPS, and SFTP client, meaning it can be used on various operating systems without compatibility issues.
+- Intuitive User Interface: The app features an intuitive graphical user interface, making it easy for users to navigate and operate, regardless of their technical expertise.
+- Fast and Reliable: FileZilla Client is known for its speed and reliability, ensuring efficient and uninterrupted file transfers.
 
 ## Features
 
-- Multi-platform support: FileZilla Client is available for Windows, macOS, and Linux, ensuring compatibility with different operating systems.
-- File transfer protocols: FileZilla Client supports FTP, FTPS, and SFTP, providing users with flexibility in transferring files.
-- Drag and drop functionality: FileZilla Client allows users to easily transfer files by dragging and dropping them from their local machine to the remote server.
-- Site Manager: FileZilla Client includes a Site Manager feature that allows users to save and manage their FTP server connections for easy access.
-- File editing: FileZilla Client provides basic file editing capabilities, allowing users to edit files directly on the remote server.
+- Multi-Platform Awareness: The app utilizes the docker manifest for multi-platform awareness, allowing it to retrieve the correct image for your architecture.
+- Customizable Environment Variables: FileZilla Client offers customizable environment variables, enabling users to adjust settings such as internal port, HTTP Basic auth username and password, and more.
+- Lossless Mode: The app is capable of delivering a true lossless image at a high framerate to your web browser, ensuring the highest quality of image transmission.
 
 ## Links
 

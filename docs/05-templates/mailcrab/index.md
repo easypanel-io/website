@@ -13,25 +13,20 @@ description: How to install MailCrab on Easypanel? 1-Click installation template
 
 ## Description
 
-MailCrab is an email test server for development, written in Rust. It is inspired by MailHog and MailCatcher. The app allows users to view and inspect all incoming email, including formatted mail, attachments, headers, and raw mail contents. It runs on all amd64 and arm64 platforms using Docker. The backend server and frontend are both written in Rust. The backend receives email over an unencrypted connection on a configurable port and stores all email in memory while the application is running. The frontend communicates with the backend via an API and a websocket connection to receive and display email metadata and message contents. The app also supports commands to mark messages as opened or delete messages. MailCrab can be easily installed and run using Docker. TLS and authentication can be enabled for secure communication. The app can be configured with a prefix path and can be used behind a reverse proxy. By default, messages are stored in memory until the app is restarted, but a retention period can be set to automatically clear old messages. Sample messages are provided for testing purposes. The app can be developed and tested locally using Rust and Trunk.
+MailCrab is an email test server designed for development purposes. It is an accept-all SMTP server that provides a web interface for viewing and inspecting all incoming emails. You can view formatted mail, download attachments, view headers, or view the complete raw mail contents. The app runs on all amd64 and arm64 platforms using docker. The backend server and the frontend of the app are both written in Rust. The backend receives email over an unencrypted connection on a configurable port, and all email is stored in memory while the application is running. The frontend initially performs a call to receive all existing email metadata and then subscribes for new messages using the websocket connection. When opening a message, the endpoint is used to retrieve the complete message body and raw email. The backend also accepts a few commands over the websocket, to mark a message as opened, to delete a single message or delete all messages.
 
 ## Benefits
 
-- Easy email testing: MailCrab provides a simple and convenient way to test email functionality during development. It allows developers to easily view and inspect incoming email without the need for a real email server.
-- Lightweight and efficient: MailCrab is written in Rust, which ensures high performance and efficient memory usage. The app stores email in memory while running, making it lightweight and fast.
-- Flexible and customizable: MailCrab can be easily configured and customized to fit different development environments. It supports various options such as port configuration, TLS and authentication, prefix path, and integration with reverse proxies.
+- Efficient Email Testing: MailCrab is an email test server that allows developers to efficiently test their email functionalities during development. It accepts all SMTP server emails, making it a versatile tool for various email testing scenarios.
+- Comprehensive Email Inspection: With MailCrab, you can view and inspect all incoming emails in a user-friendly web interface. It allows you to view formatted mail, download attachments, view headers, or see the complete raw mail contents, providing a comprehensive overview of your email tests.
+- Lightweight and Versatile: MailCrab is a lightweight app, with just a 7.77 MB docker image, making it easy to deploy and run. It is also versatile, running on all amd64 and arm64 platforms using docker.
 
 ## Features
 
-- Accept-all SMTP server: MailCrab acts as an SMTP server that accepts all incoming email. It can receive email over an unencrypted connection on a configurable port.
-- Web interface: MailCrab provides a web interface to view and inspect all incoming email. Users can access the interface through a browser and perform actions such as viewing formatted mail, downloading attachments, viewing headers, and accessing the complete raw mail contents.
-- API and websocket communication: MailCrab exposes an API that allows users to retrieve email metadata and message contents. The frontend communicates with the backend using the API and a websocket connection to receive real-time updates on new messages.
-- Docker support: MailCrab can be easily installed and run using Docker. It provides a lightweight Docker image that can be deployed on all amd64 and arm64 platforms.
-- TLS and authentication: MailCrab supports TLS and authentication for secure communication. It can generate a self-signed certificate or use a user-provided certificate for encryption. Any username/password combination is accepted.
-- Path prefix: MailCrab can be configured with a prefix path for the web interface. This allows users to access the interface at a specific URL, such as http://localhost:1080/emails.
-- Reverse proxy integration: MailCrab can be used behind a reverse proxy for additional security and flexibility. A reverse proxy guide is provided to assist with the integration.
-- Retention period: By default, MailCrab stores messages in memory until the app is restarted. However, a retention period can be set to automatically clear old messages. This prevents memory overflow when the app receives a large number of messages.
-- Development and testing: MailCrab can be developed and tested locally using Rust and Trunk. The backend server can be started using Cargo, and the frontend can be served using Trunk. Test messages are provided for testing purposes.
+- Accept-all SMTP Server: MailCrab operates as an accept-all SMTP server, allowing you to test a wide range of email functionalities.
+- Web Interface: The app provides a web interface where you can view and inspect all incoming emails, offering a user-friendly way to manage your email tests.
+- Email Inspection Tools: MailCrab offers tools to view formatted mail, download attachments, view headers, or see the complete raw mail contents, giving you a detailed insight into your email tests.
+- Cross-Platform Compatibility: MailCrab is compatible with all amd64 and arm64 platforms using docker, making it a versatile tool for various development environments.
 
 ## Links
 

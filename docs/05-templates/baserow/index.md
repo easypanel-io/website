@@ -13,7 +13,7 @@ description: How to install Baserow on Easypanel? 1-Click installation template 
 
 ## Description
 
-Baserow is an open-source no-code database and Airtable alternative. It allows users to create their own online database without any technical experience. The user-friendly no-code tool gives users the powers of a developer without leaving their browser. Baserow is a flexible software that can be tailored to the needs of the user. It provides clear and accessible data for all team members, eliminating unorganized projects, ideas, and notes. The platform also allows for easy integration with other software and supports custom and third-party plugins. Baserow offers a hosted SaaS offering on the baserow.io website, as well as the option to self-host on-premise or in the cloud. There are different pricing plans available, including a free plan, premium plan, and advanced plan. Baserow is designed to bring structure to organizations and make businesses future-proof.
+Baserow is an open-source, no-code database tool that allows you to create your own online database without any technical experience. It is a user-friendly alternative to Airtable, offering the power of a developer right from your browser. Baserow is perfect for organizing your projects, ideas, or business processes, allowing you to structure everything according to your needs. It is a flexible software that can be tailored to your needs, ensuring clear and accessible data for all your team members. With Baserow, you can easily integrate with other software, collaborate in real-time, and enjoy unlimited rows for your data. It is also developer-friendly, allowing for the creation of custom plugins. Baserow offers a free plan for those who want to try it out, as well as premium and advanced plans for users with more advanced needs.
 
 ## Instructions
 
@@ -21,19 +21,18 @@ It may take several minutes for Baserow to boot up.
 
 ## Benefits
 
-- No-Code Database: Create your own online database without any technical experience.
-- Flexible Software: Tailored to your needs instead of the other way around. Clear and accessible data for all team members.
-- Easy Integration: Easily integrate with other software and collaborate in real-time.
-- Open Source: Built with modern and proven frameworks. Self-hosted option available.
-- Different Pricing Plans: Choose from a free plan, premium plan, or advanced plan based on your needs.
+- No-Code Database Creation: Baserow allows you to create your own online database without any technical experience. It's a user-friendly no-code tool that gives you the powers of a developer without leaving your browser.
+- Flexible and Customizable: With Baserow, you decide how you want to structure everything. It's a flexible software tailored to your needs. You can manage customers, products, airplanes or all of them. If you know how a spreadsheet works, you know how Baserow works.
+- Real-Time Collaboration: Baserow allows you to collaborate in real-time, ensuring clear and accessible data by all your team members. It's a one-stop solution for all your project, idea, and note organization needs.
+- Self-Hosted and Open Source: Baserow is an open-source platform that you can self-host. It's built with modern and proven frameworks, making it a breeze for developers. It supports custom and third-party plugins.
 
 ## Features
 
-- User-Friendly Interface: Works similar to a spreadsheet, making it easy to use for anyone familiar with spreadsheets.
-- Custom Plugins: Easily create custom plugins with the provided boilerplate or use third-party plugins.
-- Unlimited Rows: No limit on the number of rows in your database.
-- Fast Performance: Continuously tested with 100,000+ rows per table for blazingly fast performance.
-- Premium and Enterprise Features: Export data to Excel, XML, or JSON. Role-based permissions. Kanban and Calendar views. Admin panel, signup rules, SSO login, and more.
+- Unlimited Rows: Baserow offers unlimited rows, making it a powerful tool for managing large amounts of data.
+- Integration with Other Software: Baserow can easily integrate with other software, making it a versatile tool for managing and organizing data.
+- Custom Plugins: Baserow allows you to easily create custom plugins or use third-party ones, providing a high level of customization and flexibility.
+- Role-Based Permissions: Baserow offers role-based permissions, allowing you to control who has access to what data.
+- Data Visualization: Baserow offers various ways to visualize your data, including a Kanban or Calendar view.
 
 ## Links
 
@@ -46,7 +45,9 @@ It may take several minutes for Baserow to boot up.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | baserow
-App Service Image | - | yes | baserow/baserow:1.14.0
+App Service Image | - | yes | baserow/baserow:1.19.1
+Database Service Name | - | yes | baserow-db
+Redis Service Name | - | yes | baserow-redis
 
 ## Screenshots
 
@@ -54,8 +55,10 @@ App Service Image | - | yes | baserow/baserow:1.14.0
 
 ## Change Log
 
-- 2022-10-05 – first release
+- 2022-10-05 – First Release
+- 2023-07-07 – Version update and external redis and database support
 
 ## Contributors
 
 - [Andrei Canta](https://github.com/deiucanta)
+- [Berk Sümbül](https://berksmbl.com)

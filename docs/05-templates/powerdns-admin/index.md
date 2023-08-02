@@ -13,29 +13,25 @@ description: How to install PowerDNS-Admin on Easypanel? 1-Click installation te
 
 ## Description
 
-PowerDNS-Admin is a web interface for managing PowerDNS, a DNS server software. It provides advanced features such as forward and reverse zone management, zone templating, user management with role-based access control, activity logging, and zone-specific access control. It also supports authentication with local users, SAML, LDAP, and OAuth providers. The app includes two-factor authentication support and provides an API for zone and record management. It has easy IPv6 PTR record editing and supports the DynDNS 2 protocol. PowerDNS-Admin has full IDN/Punycode support and offers configuration and statistics monitoring for the PowerDNS service.
+PowerDNS-Admin is a comprehensive web interface for PowerDNS with a plethora of advanced features. It offers forward and reverse zone management, zone templating, and user management with role-based access control. The app also provides zone-specific access control and activity logging. It supports various authentication methods including Local User, SAML, LDAP, and OAuth with Google, GitHub, Azure, and OpenID. It also supports two-factor authentication (TOTP). PowerDNS-Admin is equipped with PDNS Service Configuration &amp; Statistics Monitoring and supports the DynDNS 2 protocol. It makes IPv6 PTR record editing easy and provides an API for zone and record management. The app also fully supports IDN/Punycode. PowerDNS-Admin can be run in several ways, with Docker being the quickest.
 
 ## Benefits
 
-- Easy DNS Management: PowerDNS-Admin provides a user-friendly web interface for managing DNS zones and records. It allows users to easily create, edit, and delete DNS records, as well as manage zone configurations.
-- Advanced Features: PowerDNS-Admin offers advanced features such as zone templating, user management with role-based access control, activity logging, and zone-specific access control. It also supports authentication with various providers and includes two-factor authentication support.
-- API Integration: PowerDNS-Admin provides an API for zone and record management, allowing users to automate DNS management tasks and integrate with other systems and applications.
-- Monitoring and Statistics: PowerDNS-Admin includes configuration and statistics monitoring for the PowerDNS service. Users can easily monitor the health and performance of their DNS infrastructure.
+- Advanced DNS Management: PowerDNS-Admin provides forward and reverse zone management, allowing you to easily manage your DNS records.
+- User and Access Control: With user management and role-based access control, you can ensure that only authorized individuals have access to specific zones.
+- Activity Logging: Keep track of all activities within your DNS management with the activity logging feature.
+- Secure Authentication: PowerDNS-Admin supports various authentication methods including Local User, SAML, LDAP, OAuth, and two-factor authentication for enhanced security.
+- Service Monitoring: Stay updated with your PDNS service configuration and statistics with the monitoring feature.
 
 ## Features
 
-- Forward and Reverse Zone Management: PowerDNS-Admin allows users to manage both forward and reverse DNS zones. Users can create, edit, and delete zones, as well as manage zone configurations.
-- Zone Templating: PowerDNS-Admin supports zone templating, allowing users to create new zones based on predefined templates. This helps streamline the process of creating and managing multiple similar zones.
-- User Management with Role-Based Access Control: PowerDNS-Admin provides user management functionality with role-based access control. Administrators can create and manage user accounts, assign roles, and control access to zones and features based on user roles.
-- Activity Logging: PowerDNS-Admin logs user activities, providing administrators with a detailed audit trail of changes made to DNS zones and records. This helps with troubleshooting and compliance.
-- Zone-Specific Access Control: PowerDNS-Admin allows administrators to define zone-specific access control rules, granting or restricting access to specific zones based on user roles and permissions.
-- Authentication Support: PowerDNS-Admin supports various authentication methods, including local user authentication, SAML, LDAP (OpenLDAP/Active Directory), and OAuth (Google/GitHub/Azure/OpenID). This allows users to authenticate using their existing credentials.
-- Two-Factor Authentication Support: PowerDNS-Admin includes support for two-factor authentication using TOTP (Time-based One-Time Password). This adds an extra layer of security to user accounts.
-- PDNS Service Configuration & Statistics Monitoring: PowerDNS-Admin provides configuration and statistics monitoring for the PowerDNS service. Users can view and modify PDNS service settings, as well as monitor the health and performance of the service.
-- DynDNS 2 Protocol Support: PowerDNS-Admin supports the DynDNS 2 protocol, allowing users to easily manage dynamic DNS records for their domains.
-- Easy IPv6 PTR Record Editing: PowerDNS-Admin simplifies the process of editing IPv6 PTR (reverse DNS) records. Users can easily manage PTR records for their IPv6 addresses.
-- API for Zone and Record Management: PowerDNS-Admin provides an API for zone and record management. Users can programmatically create, edit, and delete DNS zones and records, as well as perform other DNS management tasks.
-- Full IDN/Punycode Support: PowerDNS-Admin fully supports Internationalized Domain Names (IDN) and Punycode encoding. Users can manage DNS records for domains with non-ASCII characters.
+- Zone Management: PowerDNS-Admin provides forward and reverse zone management, allowing you to easily manage your DNS records.
+- User Management: Manage users and their access with role-based access control. You can also provide zone-specific access control.
+- Activity Logging: Keep track of all activities within your DNS management with the activity logging feature.
+- Authentication: PowerDNS-Admin supports various authentication methods including Local User, SAML, LDAP, OAuth, and two-factor authentication.
+- Service Monitoring: Stay updated with your PDNS service configuration and statistics with the monitoring feature.
+- API for Zone and Record Management: PowerDNS-Admin provides an API for zone and record management among other features.
+- IDN/Punycode Support: PowerDNS-Admin provides full IDN/Punycode support.
 
 ## Links
 

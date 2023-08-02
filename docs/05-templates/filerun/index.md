@@ -13,30 +13,22 @@ description: How to install Filerun on Easypanel? 1-Click installation template 
 
 ## Description
 
-FileRun is a private file sharing and collaboration platform that allows you to access and manage your files from anywhere. It runs fast on any hardware and supports various file types. With FileRun, you can easily organize and share your files, collaborate with others, and access your files through FTP, SMB, or WebDAV. It also offers features like desktop sync, virtual drive, metadata support, guest users, file requests, and various plugins for editing and previewing files. FileRun is secure, customizable, and comes with extensive features and options.
+FileRun is a private, fully controlled file management and sharing solution. It&#39;s like having your own personal Google Drive, but with complete control and privacy. FileRun allows you to instantly access your files on any server without the need for importing or scanning. It supports access via FTP, SMB, and WebDAV, reflecting any changes made to your files instantly. You can sync files using desktop apps and access your files on the go with compatible mobile apps. FileRun is also great for managing photos with fast thumbnail and preview generation, timeline browsing, and metadata support. It even allows you to group photos from various folders into virtual albums that you can share online. The new virtual drive feature lets you access files directly from your computer without using up all your disk space. FileRun also supports collaboration with guest users and file requests for easy file collection and submission. It also integrates with various plugins for file editing, viewing, and conversion. FileRun ensures your files are safe with automatic file versioning and a trash folder for deleted files. It also allows for full customization to match your branding. FileRun is secure, loaded with features, and offers a smooth and intuitive mobile experience.
 
 ## Benefits
 
-- Private and under your control: Unlike other file sharing platforms, FileRun gives you full control over your files. It runs on your own server, ensuring the privacy and security of your data.
-- Fast and versatile: FileRun runs fast on any hardware, including Linux, Windows, VPS, shared hosting, and NAS. It supports various file types and allows you to access your files through FTP, SMB, or WebDAV.
-- Easy file management: With FileRun, you can easily manage your files without the need for import or scanning. Simply point FileRun to the location of your files on your server, and you'll get instant web access to them.
-- Collaboration made easy: FileRun allows you to collaborate with others without creating accounts for them. You can share files with guest users and collect files from anyone using file requests.
-- Extensive features and plugins: FileRun offers a wide range of features, including desktop sync, virtual drive, metadata support, timeline browsing for photos and videos, file versioning, and more. It also supports various plugins for editing and previewing files.
+- Private and Controlled File Management: FileRun is like your private Google Drive, offering full control over your files. It runs efficiently on any hardware, including Linux, Windows, VPS, Shared hosting, NAS, etc. No import or scanning is required, and you get instant web access to your files.
+- Effortless File Synchronization: FileRun allows you to sync files using desktop apps and access them from anywhere using compatible mobile apps. It also offers a virtual drive for direct access to files from your computer without using all of your disk space.
+- Advanced Photo Management: FileRun is great for managing photos with fast thumbnail and preview generation. It supports timeline browsing, sorting photos and videos chronologically, and grouping photos from various folders into virtual albums that you can share online.
+- Secure and Customizable: FileRun ensures the safety of your files with automatic file versioning and a trash folder for deleted files. It also allows for complete customization to match your own branding, including background images, colors, and logos.
 
 ## Features
 
-- Private and under your control: FileRun runs on your own server, ensuring the privacy and security of your files. You have full control over your data.
-- Fast and versatile: FileRun runs fast on any hardware, including Linux, Windows, VPS, shared hosting, and NAS. It supports various file types and access methods.
-- Easy file management: No import or scanning required. Simply point FileRun to the location of your files on your server, and you'll get instant web access to them. You can also access your files through FTP, SMB, or WebDAV.
-- Collaboration made easy: Collaborate with others without creating accounts for them. Share files with guest users and collect files from anyone using file requests.
-- Desktop sync: Sync files using desktop apps and access your files from anywhere using compatible mobile apps.
-- Virtual drive: Access files directly from your computer without impacting disk space. Spend less time waiting for files to sync.
-- Metadata support: Automatically extract and index information from files, such as Exif, XMP, and IPTC. Search photos by keywords, dates, author, and more. Add custom metadata fields.
-- Timeline browsing for photos and videos: Sort photos and videos chronologically. Group photos together in virtual albums and share them online.
-- Various plugins: FileRun offers various plugins for creating, editing, and previewing files, including Google Docs Editor, Zoho Editor, ONLYOFFICE, Office Web View, LibreOffice Integration, Autodesk Preview, EPUB reader, and more.
-- Secure: FileRun provides protection against XSS, CSRF, SQL injections, session hijacking, and brute force login attempts. It supports HTTPS/SSL and offers automatic file versioning and trash folder for deleted files.
-- Customizable: Customize FileRun with your own branding, including color presets, background images, logos, and more. Choose from various themes and set file space quotas.
-- Loaded with features: FileRun offers a range of features, including full text file indexing and searching, 2-factor authentication, user roles and groups, user activity feed, per-file activity log, file locking, per-folder notifications, and more.
+- File Access and Management: FileRun allows you to point to where you keep the files on your server for instant web access. You can upload, download, or manage the same files, and all changes made reflect via FileRun without delay.
+- Metadata Support: FileRun automatically extracts and indexes information Exif, XMP, and IPTC, allowing you to search photos by keywords, dates, author, and more. You can also add custom metadata fields for any additional information you want to attach to the pictures.
+- File Requests and Guest Users: FileRun allows you to collaborate with other people without creating accounts for them. You can send file requests to collect and receive files from anyone right into your FileRun user account with just a link.
+- Various Plugins and File Conversion: FileRun supports various plugins for creating, editing, and previewing Office files, text files, and more. It also allows you to convert files from one format to another and manipulate PDF documents.
+- Mobile Support and Extendability: FileRun offers fantastic mobile support, adapting to screens of any size for a smooth and intuitive experience. It also allows PHP web developers to develop plugins for viewing, creating, or manipulating files.
 
 ## Links
 

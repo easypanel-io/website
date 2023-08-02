@@ -13,23 +13,22 @@ description: How to install Hammond on Easypanel? 1-Click installation template 
 
 ## Description
 
-Hammond is a self-hosted vehicle expense tracking system with support for multiple users. It is a successor to the Clarkson project and is under active development. It allows users to track fuel and other expenses related to their vehicles, manage multiple vehicles and users, and generate reports. Hammond can be run as a Docker container or installed natively on Linux servers. It is built with Go for the backend and Vue.js for the frontend.
+Hammond is a self-hosted vehicle management system designed to track fuel and other expenses related to your vehicles. It supports multiple users sharing multiple vehicles, making it an ideal solution for families, businesses, or any group with shared vehicles. With Hammond, you can manage multiple vehicles, track fuel and other expenses, and even save attachments against vehicles. The app also features quick entries, allowing you to take a photo of a receipt or pump screen for later entry. It provides vehicle-level and overall reporting, helping you keep a close eye on your vehicle expenses. Furthermore, Hammond allows you to import data from Clarkson or Fuelly, making the transition to this system seamless and straightforward.
 
 ## Benefits
 
-- Self-hosted: Hammond can be self-hosted, giving users full control over their data and privacy.
-- Multiple Users and Vehicles: Hammond supports multiple users sharing multiple vehicles, making it suitable for families or small businesses.
-- Expense Tracking: Users can track fuel and other expenses related to their vehicles, helping them manage their vehicle costs.
-- Reporting: Hammond provides vehicle-level and overall reporting, allowing users to analyze their expenses and make informed decisions.
+- Self-Hosted Vehicle Expense Tracking: Hammond is a self-hosted vehicle expense tracking system. It allows you to keep track of fuel and other expenses related to all of your vehicles in one place.
+- Support for Multiple Users: The app supports multiple users sharing multiple vehicles. This makes it ideal for families or businesses with a fleet of vehicles.
+- Data Migration: Hammond allows you to migrate data from Clarkson, making it easy to switch over without losing any of your previous data.
 
 ## Features
 
-- Migrate data from Clarkson: Users can migrate their data from the Clarkson project to Hammond, ensuring a smooth transition.
-- Add/Manage multiple vehicles: Users can add and manage multiple vehicles in Hammond, keeping track of expenses for each vehicle separately.
-- Add/Manage multiple users: Hammond supports multiple users, allowing families or small businesses to track expenses for their vehicles.
-- Save attachment against vehicles: Users can save attachments, such as receipts or pump screens, against their vehicles for future reference.
-- Quick Entries: Users can take a photo of a receipt or pump screen to make an entry later, making expense tracking more convenient.
-- Import from Fuelly: Hammond supports importing data from Fuelly, with support for more apps coming soon.
+- Vehicle Management: Add and manage multiple vehicles, tracking fuel and other expenses for each one.
+- User Management: Add and manage multiple users, allowing them to share vehicles and track expenses.
+- Expense Tracking: Keep track of fuel and other expenses related to your vehicles. You can even save attachments against vehicles for easy reference.
+- Quick Entries: Take a photo of a receipt or pump screen to make an entry later, ensuring you never forget to log an expense.
+- Reporting: Get vehicle level and overall reporting on your expenses, helping you to better understand your spending.
+- Import from Fuelly: Easily import your data from Fuelly, with more apps coming soon.
 
 ## Links
 

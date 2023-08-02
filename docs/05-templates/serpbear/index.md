@@ -13,25 +13,22 @@ description: How to install SerpBear on Easypanel? 1-Click installation template
 
 ## Description
 
-SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website&#39;s keyword positions in Google and get notified of their positions.
+SerpBear is an open-source search engine position tracking app designed to help you monitor your website&#39;s keyword positions in Google. With SerpBear, you can add unlimited domains and keywords to track their Search Engine Results Page (SERP) positions. The app provides email notifications to keep you updated on your keyword position changes on a daily, weekly, or monthly basis. It also features a built-in SERP API for integration with your marketing and data reporting tools. SerpBear integrates with Google Search Console, allowing you to get actual visit counts, impressions, and more for each keyword. You can discover new keywords, identify the most performing ones, and find the most visited pages and countries. The app also allows you to export your domain keywords and their data in CSV files. For a better mobile experience, you can add the PWA app to your mobile. SerpBear is free to run on platforms like mogenius.com or Fly.io. The app uses third-party website scrapers like ScrapingAnt, ScrapingRobot, or your given Proxy IPs to scrape Google search results to see if your domain appears in the search result for the given keyword.
 
 ## Benefits
 
-- Unlimited Keywords: Add unlimited domains and unlimited keywords to track their SERP.
-- Email Notification: Get notified of your keyword position changes daily/weekly/monthly through email.
-- SERP API: SerpBear comes with built-in API that you can use for your marketing & data reporting tools.
-- Google Search Console Integration: Get the actual visit count, impressions & more for each keyword.
-- Mobile App: Add the PWA app to your mobile for a better mobile experience.
-- Zero Cost to RUN: Run the App on mogenius.com or Fly.io for free.
+- Track Your Website's Keyword Positions: SerpBear allows you to monitor your website's keyword positions in Google. This feature enables you to understand your website's visibility in search engine results and make necessary adjustments to improve your SEO strategy.
+- Get Notified of Keyword Position Changes: Stay updated with your keyword positions as SerpBear sends you notifications of any changes daily, weekly, or monthly through email. This ensures that you are always aware of your website's performance in search engine rankings.
+- Zero Cost to Run: SerpBear is a cost-effective solution for tracking your website's keyword positions. You can run the app on mogenius.com or Fly.io for free, making it an affordable choice for businesses of all sizes.
 
 ## Features
 
-- Unlimited Keywords: Add unlimited domains and unlimited keywords to track their SERP.
-- Email Notification: Get notified of your keyword position changes daily/weekly/monthly through email.
-- SERP API: SerpBear comes with built-in API that you can use for your marketing & data reporting tools.
-- Google Search Console Integration: Get the actual visit count, impressions & more for each keyword.
-- Mobile App: Add the PWA app to your mobile for a better mobile experience.
-- Zero Cost to RUN: Run the App on mogenius.com or Fly.io for free.
+- Unlimited Keywords: With SerpBear, you can add unlimited domains and unlimited keywords to track their Search Engine Results Page (SERP). This feature provides you with the flexibility to monitor as many keywords as you need for your SEO strategy.
+- Email Notification: SerpBear comes with an email notification feature that alerts you of your keyword position changes. You can choose to receive these notifications daily, weekly, or monthly, depending on your preference.
+- SERP API: SerpBear offers a built-in API that you can use for your marketing and data reporting tools. This feature allows you to integrate SerpBear with other platforms and streamline your SEO tracking process.
+- Google Search Console Integration: SerpBear integrates with Google Search Console to provide you with the actual visit count, impressions, and more for each keyword. This feature enables you to gain a comprehensive understanding of your website's performance in search engine results.
+- Export CSV: SerpBear allows you to export your domain keywords and their data in CSV files whenever you want. This feature makes it easy for you to analyze your keyword data and share it with your team.
+- Mobile App: SerpBear offers a Progressive Web App (PWA) for a better mobile experience. This feature allows you to track your website's keyword positions on the go, making it convenient for busy professionals.
 
 ## Links
 

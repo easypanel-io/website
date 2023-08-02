@@ -13,7 +13,7 @@ description: How to install Umami on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Umami is an open source, privacy-focused alternative to Google Analytics. It allows you to gather the data you need while respecting the privacy of your users. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. It helps you stay compliant with data privacy laws by anonymizing all collected data. Umami is easy to use and understand, with simple analytics that fit on a single page. It is an open source project that is transparent, battle-tested, and community supported.
+Umami is a privacy-focused, open-source alternative to Google Analytics. It is designed to respect user privacy by not collecting any personal information, using cookies, or tracking users across websites. It is GDPR compliant and ensures that all data collected is anonymized, making it impossible to identify any individual user. Umami is simple and easy to use, collecting only the metrics you care about and presenting them on a single page. It is a reliable and transparent product with over 4 million downloads. With Umami, you can own your data and stay compliant with ever-changing data privacy laws.
 
 ## Instructions
 
@@ -21,17 +21,14 @@ You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 
 ## Benefits
 
-- Privacy-focused: Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant.
-- Own your data: All data collected by Umami is anonymized, making it impossible to identify any individual user. Your data is securely in your hands.
-- Simple analytics: Umami collects only the metrics you care about and presents them on a single page, making it easy to use and understand.
-- Open source: Umami is an open source project that is fully transparent, battle-tested, and community supported.
+- Privacy-focused analytics: Umami respects the privacy of your users by not collecting any personal information, using cookies, or tracking users across websites. It is GDPR compliant and does not require a cookie notice.
+- Data ownership: With Umami, you own your website analytics data. All data collected is anonymized, making it impossible to identify individual users. Rest assured knowing that your data is securely in your hands.
+- Simple and easy to use: Umami provides simple and easy-to-understand analytics without the need for complicated reports. It collects only the metrics you care about and presents them on a single page.
 
 ## Features
 
-- Privacy-focused alternative to Google Analytics: Umami is designed to respect the privacy of your users by not collecting any personal information, not using cookies, not tracking users across websites, and being GDPR compliant.
-- Anonymized data collection: Umami anonymizes all collected data, making it impossible to identify any individual user.
-- Easy to use and understand: Umami collects only the metrics you care about and presents them on a single page, making it simple to use and understand.
-- Open source development: Umami is an open source project that is fully transparent, battle-tested, and community supported.
+- Privacy-focused alternative to Google Analytics: Umami is an open-source, privacy-focused alternative to Google Analytics. It allows you to gather the data you need while respecting the privacy of your users.
+- Open source and transparent: Umami is an open-source project, fully transparent, battle-tested, and community-supported. Place your confidence in a product that is dedicated to open source development.
 
 ## Links
 

@@ -13,23 +13,20 @@ description: How to install Directus on Easypanel? 1-Click installation template
 
 ## Description
 
-Directus is an open-source data platform that allows developers to turn any SQL database into an API and create beautiful no-code apps. With over 22,000 stars on GitHub and millions of downloads, Directus is a powerful tool for managing and visualizing data.
+Directus is a modern, open-source data platform that instantly transforms any SQL database into an API and a beautiful no-code app. It is designed to work with any SQL database, allowing you to maintain complete control over your new or existing database without the need for migration to a proprietary data model. The Directus API layers on top of your database, providing both REST and GraphQL APIs for your data. The Directus App enables your entire team to safely and intuitively browse, manage, and visualize data. It is a flexible platform that can be used as a Backend-as-a-Service, a Headless CMS, an Internal Tool Builder, and for Data Management &amp; Analytics. With Directus, you can connect external digital experiences, design APIs, control data flows, build internal tools, and much more.
 
 ## Benefits
 
-- Flexible and customizable: Directus can be used with any SQL database and offers a dynamic API that can be easily customized to fit your specific needs.
-- No vendor lock-in: Directus allows you to remain in complete control of your database, with no need to migrate to a proprietary data model.
-- Blazing-fast performance: Built with Node.js and Vue.js, Directus offers high performance and easy extensibility for developers.
+- Efficient Data Management: Directus is a modern, open-source data platform that allows you to efficiently manage your SQL database. It provides a dynamic API for your data, enabling you to browse, manage, and visualize your data in an intuitive no-code app.
+- Flexible and Scalable: Whether you're managing content for websites, apps, or digital signage, or building back-office apps and admin panels, Directus offers endless solutions. Its flexibility and scalability make it an ideal solution for projects of any size.
+- No Vendor Lock-In: Directus installs on top of any SQL database, allowing you to remain in complete control of your new or existing database. There's no need to migrate to a proprietary data model, so there's no vendor lock-in.
 
 ## Features
 
-- Data Engine: Turn any SQL database into an API and manage data with ease.
-- Data Studio: Create custom dashboards and visualizations for your data.
-- Flows: Automate workflows and data processes with no code.
-- Headless CMS: Manage content for websites, apps, and other digital experiences.
-- Backend-as-a-Service: Efficiently connect data and build APIs for scalable projects.
-- Internal Tool Builder: Build back-office apps and admin panels for your business data.
-- Data Management & Analytics: Build no-code dashboards for IoT data and business intelligence.
+- Data Engine: Directus features a modern data stack that turns any SQL database into an API and a beautiful no-code app. It's the world's first Open Data Platform for instantly managing your data.
+- Data Studio: The Data Studio feature allows for no-code data collaboration. It enables your entire team to safely and intuitively browse, manage, and visualize data.
+- Workflow Automation: With the Workflow Automation feature, Directus allows you to automate your workflows, increasing efficiency and productivity.
+- Asset Management: Directus also features an Asset Management system that allows you to manage and deliver assets efficiently.
 
 ## Links
 

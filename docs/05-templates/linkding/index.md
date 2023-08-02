@@ -13,7 +13,7 @@ description: How to install linkding on Easypanel? 1-Click installation template
 
 ## Description
 
-linkding is a self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker. It provides a clean UI optimized for readability and allows users to organize bookmarks with tags, add notes using Markdown, and use read-it-later functionality. Users can also share bookmarks with other users, perform bulk editing, and automatically create snapshots of bookmarked websites on the Internet Archive Wayback Machine. linkding supports importing and exporting bookmarks in Netscape HTML format and provides extensions for Firefox and Chrome, as well as a bookmarklet. It also offers a REST API for developing third-party apps and an admin panel for user self-service and raw data access. linkding can be installed using Docker or Docker Compose, and it supports both SQLite and PostgreSQL databases. Managed hosting options are available for users who prefer a more convenient solution. The application is open source and built using the Django web framework.
+Linkding is a self-hosted bookmark manager that allows you to efficiently manage and organize your bookmarks. With a clean and optimized user interface, you can easily add, share, and edit bookmarks. The app also allows you to add notes to your bookmarks using Markdown and provides a &#39;read it later&#39; functionality. It automatically generates titles, descriptions, and icons for your bookmarked websites and creates snapshots of them on the Internet Archive Wayback Machine. You can also import and export bookmarks in Netscape HTML format. The app offers light and dark themes for your convenience. It also provides a REST API for developing third-party apps and an admin panel for user self-service and raw data access.
 
 ## Instructions
 
@@ -21,36 +21,19 @@ If the login fails with a error 500, please restart the &quot;linkding&quot; app
 
 ## Benefits
 
-- Minimal and Fast: linkding is designed to be minimal and fast, providing a clean UI optimized for readability.
-- Easy Setup with Docker: linkding can be easily set up using Docker, allowing users to quickly deploy the application.
-- Bookmark Organization: linkding allows users to organize bookmarks with tags, making it easy to find and manage saved links.
-- Read-it-Later Functionality: linkding provides read-it-later functionality, allowing users to save links for later reading.
-- Bookmark Sharing: linkding allows users to share bookmarks with other users, making it easy to collaborate and discover new content.
-- Bulk Editing: linkding supports bulk editing, allowing users to perform actions on multiple bookmarks at once.
-- Automatic Website Snapshots: linkding automatically creates snapshots of bookmarked websites on the Internet Archive Wayback Machine, ensuring that users can access saved content even if the original website is no longer available.
-- Import and Export Bookmarks: linkding supports importing and exporting bookmarks in Netscape HTML format, making it easy to migrate data to and from other bookmark managers.
-- Extensions and Bookmarklet: linkding provides extensions for Firefox and Chrome, as well as a bookmarklet, allowing users to quickly add bookmarks from their browsers.
-- REST API: linkding offers a REST API for developing third-party apps, allowing users to extend the functionality of the application.
-- Admin Panel: linkding provides an admin panel for user self-service and raw data access, giving users control over their data.
-- Multiple Database Options: linkding supports both SQLite and PostgreSQL databases, giving users flexibility in choosing their preferred database solution.
-- Managed Hosting Options: For users who prefer a more convenient solution, linkding offers managed hosting options provided by third-party services.
-- Open Source: linkding is an open-source application built using the Django web framework, allowing users to modify and contribute to the codebase.
+- Self-Hosted Bookmark Manager: Linkding provides a self-hosted solution for managing your bookmarks. It offers a clean and minimalistic user interface optimized for readability, making it easy to manage and organize your bookmarks.
+- Fast and Easy Setup: Designed to be minimal, fast, and easy to set up, Linkding can be quickly deployed using Docker. It supports SQLite as a default database with PostgreSQL as an optional choice.
+- Read it Later Functionality: Linkding comes with a 'Read it Later' feature that allows you to save bookmarks for later reading. This feature is particularly useful for users who come across interesting content but don't have time to read it immediately.
+- Share Bookmarks: Linkding allows you to share your bookmarks with other users. This feature is especially useful for teams working on a project together or for individuals who want to share interesting finds with friends or family.
 
 ## Features
 
-- Clean UI optimized for readability: linkding provides a clean UI optimized for readability, making it easy to navigate and manage bookmarks.
-- Organize bookmarks with tags: linkding allows users to organize bookmarks with tags, making it easy to categorize and find saved links.
-- Add notes using Markdown: linkding supports adding notes to bookmarks using Markdown, allowing users to add additional context or information to saved links.
-- Read-it-Later functionality: linkding provides read-it-later functionality, allowing users to save links for later reading.
-- Share bookmarks with other users: linkding allows users to share bookmarks with other users, making it easy to collaborate and discover new content.
-- Bulk editing: linkding supports bulk editing, allowing users to perform actions on multiple bookmarks at once.
-- Automatic website snapshots: linkding automatically creates snapshots of bookmarked websites on the Internet Archive Wayback Machine, ensuring that users can access saved content even if the original website is no longer available.
-- Import and export bookmarks: linkding supports importing and exporting bookmarks in Netscape HTML format, making it easy to migrate data to and from other bookmark managers.
-- Extensions for Firefox and Chrome, as well as a bookmarklet: linkding provides extensions for Firefox and Chrome, as well as a bookmarklet, allowing users to quickly add bookmarks from their browsers.
-- Light and dark themes: linkding offers light and dark themes, allowing users to customize the appearance of the application.
-- REST API for developing third-party apps: linkding offers a REST API for developing third-party apps, allowing users to extend the functionality of the application.
-- Admin panel for user self-service and raw data access: linkding provides an admin panel for user self-service and raw data access, giving users control over their data.
-- Easy setup using Docker and a SQLite database, with PostgreSQL as an option: linkding can be easily set up using Docker and a SQLite database. PostgreSQL is also supported as an alternative database option.
+- Organize Bookmarks with Tags: Linkding allows you to organize your bookmarks using tags. This feature makes it easy to categorize and find your bookmarks.
+- Add Notes using Markdown: Linkding supports Markdown, a lightweight markup language, for adding notes to your bookmarks. This feature allows you to add context or additional information to your bookmarks.
+- Bulk Editing: Linkding provides a bulk editing feature, allowing you to make changes to multiple bookmarks at once. This feature can save you time when you need to update or organize your bookmarks.
+- Automatically Provides Titles, Descriptions and Icons: Linkding automatically provides titles, descriptions, and icons for bookmarked websites. This feature saves you the hassle of manually entering this information.
+- Import and Export Bookmarks: Linkding supports importing and exporting bookmarks in Netscape HTML format. This feature makes it easy to migrate your bookmarks to and from other bookmark managers.
+- Browser Extensions: Linkding offers extensions for Firefox and Chrome, as well as a bookmarklet. These tools make it easy to add and manage bookmarks directly from your browser.
 
 ## Links
 

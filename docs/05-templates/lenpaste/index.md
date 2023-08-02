@@ -13,23 +13,21 @@ description: How to install Lenpaste on Easypanel? 1-Click installation template
 
 ## Description
 
-Lenpaste is an open-source web service that allows users to share notes anonymously. It is an alternative to pastebin.com and offers its own API. The service supports multiple languages, does not require registration, and uses cookies only to store settings. It can also work without JavaScript. Lenpaste is self-hosted and has a public servers list where users can find and add their own servers.
+Lenpaste is a web service that allows you to share notes anonymously. It is an open-source alternative to pastebin.com. The app supports multiple languages and uses cookies only to store settings. It can work without JavaScript and has its own API. Lenpaste allows you to set maximum length for the paste title and body, maximum lifetime of the paste, and rate limits for viewing and creating pastes. It also provides options to prohibit search engine crawlers from indexing the site and to set information about the server admin. Lenpaste is self-hosted and provides a list of public servers managed by various contributors.
 
 ## Benefits
 
-- No registration required: Users can start sharing notes immediately without the need to create an account.
-- Supports multiple languages: Lenpaste supports sharing notes in multiple programming languages and text formats.
-- Self-hosted: Users have the option to host their own Lenpaste server, giving them full control over their data.
-- Open-source: Lenpaste is an open-source project, allowing users to contribute to its development and customize it to their needs.
-- API available: Lenpaste provides its own API, allowing developers to integrate it into their applications or services.
+- Anonymity: Lenpaste allows you to share notes anonymously, ensuring your privacy and confidentiality.
+- No Registration Required: With Lenpaste, there's no need to go through a lengthy sign-up process. You can start sharing notes immediately.
+- Multilingual Support: Lenpaste supports multiple languages, making it accessible to users from different linguistic backgrounds.
+- Self-Hosted: Lenpaste is open-source and self-hosted, giving you full control over your data and usage.
 
 ## Features
 
-- No registration: Users can start sharing notes immediately without the need to create an account.
-- Multiple languages: Supports sharing notes in multiple programming languages and text formats.
-- Self-hosted: Users have the option to host their own Lenpaste server, giving them full control over their data.
-- Open-source: Lenpaste is an open-source project, allowing users to contribute to its development and customize it to their needs.
-- API: Lenpaste provides its own API, allowing developers to integrate it into their applications or services.
+- Note Sharing: Lenpaste allows you to easily share notes with others. It's a great tool for quickly sharing text or code snippets.
+- Multiple Language Support: Lenpaste supports multiple languages, ensuring that users from different linguistic backgrounds can use the app with ease.
+- Customizable Settings: Lenpaste uses cookies only to store settings, allowing you to customize your user experience according to your preferences.
+- API Availability: Lenpaste has its own API, enabling developers to integrate it with other applications or services.
 
 ## Links
 

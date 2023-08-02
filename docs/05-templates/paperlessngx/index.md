@@ -13,7 +13,7 @@ description: How to install Paperless-ngx on Easypanel? 1-Click installation tem
 
 ## Description
 
-Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive. It allows you to organize and index your scanned documents with tags, correspondents, types, and more. It performs OCR on your documents, adds selectable text to image-only documents, and supports various file formats including PDF, images, plain text files, and Office documents. The app stores your documents plain on disk and provides a single-page application front end with a dashboard for basic statistics and document upload. It also offers full-text search, auto-completion, highlighting, and searching for similar documents. Paperless-ngx supports email processing, machine learning-powered document matching, and is optimized for multi-core systems. The app can be deployed using docker-compose or by manually installing the dependencies and setting up Apache and a database server. Paperless-ngx is available in multiple languages and welcomes contributions from the community. However, it should be run on a trusted host due to the lack of encryption for stored information.
+Paperless-ngx is a modern document management system designed to convert your physical documents into a searchable online archive, helping you maintain a clutter-free, paperless environment. It uses advanced OCR technology to add selectable text to image-only documents, and allows you to organize and index your scanned documents with tags, correspondents, types, and more. The app supports a variety of file formats including PDFs, images, plain text files, and Office documents. It also features a single-page application front end with a dashboard that displays basic statistics and allows document upload. With its full-text search functionality, you can easily find the documents you need, with results sorted by relevance to your search query. The app also includes email processing, enabling it to add documents from your email accounts. Moreover, Paperless-ngx is powered by machine learning, enabling it to learn from your documents and automatically assign tags, correspondents, and types to documents once you&#39;ve stored a few documents in it. It is optimized for multi-core systems, allowing it to process multiple documents in parallel.
 
 ## Instructions
 
@@ -21,26 +21,18 @@ Please use the following credentials to login. admin|password
 
 ## Benefits
 
-- Reduce Paper Usage: Transform physical documents into a searchable online archive, reducing the need for paper.
-- Organize and Index Documents: Tag, categorize, and index scanned documents for easy retrieval and management.
-- OCR and File Format Support: Perform OCR on documents, add selectable text to image-only documents, and support various file formats including PDF, images, plain text files, and Office documents.
-- Email Processing: Automatically add documents from email accounts, configure multiple accounts and filters, and perform actions on the emails such as moving, marking as read, flagging, or deleting.
-- Machine Learning-Powered Document Matching: Learn from stored documents to automatically assign tags, correspondents, and types to new documents.
-- Optimized for Multi-Core Systems: Efficiently process multiple documents in parallel, taking advantage of multi-core systems.
+- Efficient Document Management: Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive, reducing the need for physical storage and making document retrieval easier and faster.
+- Advanced Search Capabilities: With full text search, auto completion, and results sorted by relevance, Paperless-ngx makes it easy to find the documents you need. Highlighting shows you which parts of the document matched the query, and you can even search for similar documents.
+- Email Processing: Paperless-ngx can add documents from your email accounts, allowing you to manage and archive important emails alongside your other documents. You can configure multiple accounts and filters for each account.
+- Machine Learning Powered Document Matching: Paperless-ngx learns from your documents and can automatically assign tags, correspondents, and types to documents once you've stored a few documents in the system, saving you time and effort in document organization.
 
 ## Features
 
-- Document Organization and Indexing: Organize and index scanned documents with tags, correspondents, types, and more.
-- OCR and Text Extraction: Perform OCR on documents, add selectable text to image-only documents, and extract metadata.
-- File Format Support: Support PDF documents, images, plain text files, and Office documents (Word, Excel, PowerPoint, and LibreOffice equivalents).
-- Plain Text Storage: Store documents plain on disk with configurable filenames and folders managed by the app.
-- Single-Page Application Front End: Access the app through a single-page application front end with a dashboard for basic statistics and document upload.
-- Full-Text Search: Search for documents using full-text search, with auto-completion, relevance sorting, and highlighting of matched parts.
-- Similar Document Search: Find similar documents based on content and metadata.
-- Email Processing: Automatically add documents from email accounts, configure multiple accounts and filters, and perform actions on the emails.
-- Machine Learning-Powered Document Matching: Learn from stored documents to automatically assign tags, correspondents, and types to new documents.
-- Multi-Core Optimization: Efficiently process multiple documents in parallel, optimized for multi-core systems.
-- Sanity Checker: Check the health of your document archive to ensure data integrity.
+- Document Scanning and Indexing: Paperless-ngx allows you to organize and index your scanned documents with tags, correspondents, types, and more. It performs OCR on your documents, adds selectable text to image-only documents, and adds tags, correspondents, and document types to your documents.
+- Support for Various Document Types: Paperless-ngx supports PDF documents, images, plain text files, and Office documents (Word, Excel, Powerpoint, and LibreOffice equivalents). Office document support is optional and provided by Apache Tika.
+- Customizable Views: You can customize views in Paperless-ngx, save them, and display them on the dashboard. This allows you to tailor the system to your specific needs and preferences.
+- Email Processing: When adding documents from mail, Paperless-ngx can move these mail to a new folder, mark them as read, flag them as important or delete them. This helps in managing your email documents efficiently.
+- Sanity Checker: The integrated sanity checker in Paperless-ngx makes sure that your document archive is in good health, providing peace of mind and ensuring the integrity of your document archive.
 
 ## Links
 

@@ -13,7 +13,7 @@ description: How to install Servas on Easypanel? 1-Click installation template f
 
 ## Description
 
-Servas is a self-hosted bookmark management tool that allows you to organize your bookmarks with tags and groups. It also has a &#39;later list&#39; feature to save bookmarks for later access. Servas supports multiple user accounts and has a responsive design that looks good on all devices. It also provides a Chrome browser extension for easy bookmarking. Two Factor Authentication is available for added security.
+Servas is a self-hosted bookmark management tool that allows you to organize and access your bookmarks in a more efficient and streamlined manner. With Servas, you can categorize your bookmarks using tags and groups, which can also be nested for better organization. The app also features a &#39;Later List&#39; where you can add bookmarks that you wish to access at a later time. Servas also comes with a Chrome browser extension, allowing you to add sites to your bookmark list directly from your browser. The app supports multiple user accounts and boasts a responsive design that ensures it looks good on all your devices. For added security, Servas also offers Two Factor Authentication.
 
 ## Instructions
 
@@ -21,22 +21,16 @@ Visit /register to create an account
 
 ## Benefits
 
-- Organize Your Bookmarks: Servas allows you to organize your bookmarks with tags and groups, making it easy to find and manage your saved links.
-- Save Bookmarks for Later: With the 'later list' feature, you can save bookmarks for later access, ensuring you don't forget to check out interesting links.
-- Multiple User Accounts: Servas supports multiple user accounts, allowing you to create separate profiles for different users and keep their bookmarks separate.
-- Responsive Design: Servas has a responsive design that adapts to different screen sizes, ensuring a seamless experience across all your devices.
-- Chrome Browser Extension: Servas provides a Chrome browser extension that allows you to add sites to Servas directly from your browser, making bookmarking quick and easy.
-- Two Factor Authentication: Servas offers Two Factor Authentication for added security, ensuring that only authorized users can access your bookmarks.
+- Efficient Bookmark Management: Servas is a self-hosted bookmark management tool that allows you to efficiently organize and access your bookmarks. It provides a centralized platform where you can store all your bookmarks and retrieve them whenever needed.
+- Multi-Device Accessibility: With its responsive design, Servas ensures that you can manage your bookmarks from any device. Whether you're using a desktop, tablet, or smartphone, you'll have a seamless user experience.
+- Enhanced Security: Servas offers two-factor authentication, providing an extra layer of security to your bookmarks. This ensures that only you can access your bookmarks, even if someone else knows your password.
 
 ## Features
 
-- Tags: Organize your bookmarks with tags to easily categorize and find them.
-- Groups: Group your bookmarks and create nested groups for better organization.
-- Later List: Add bookmarks to the 'later list' to access them at a later time.
-- Chrome Browser Extension: Use the Chrome browser extension to add sites to Servas directly from your browser.
-- Multiple User Accounts: Create multiple user accounts to keep bookmarks separate for different users.
-- Responsive Design: Servas is designed to look good on all your devices, providing a seamless experience.
-- Two Factor Authentication: Enable Two Factor Authentication for added security and protect your bookmarks.
+- Tags and Groups: Servas allows you to organize your bookmarks using tags and groups. You can even nest groups within other groups for more detailed organization.
+- Later List: With the 'Later List' feature, you can add bookmarks that you want to access at a later time. This helps you prioritize your bookmarks and keep your list organized.
+- Browser Extension: Servas comes with a Chrome browser extension, enabling you to add sites to your bookmark list directly from your browser.
+- Multiple Users: Servas supports multiple user accounts. This means you can have different sets of bookmarks for different users, all managed from the same platform.
 
 ## Links
 

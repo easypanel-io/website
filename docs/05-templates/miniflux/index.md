@@ -13,22 +13,19 @@ description: How to install Miniflux on Easypanel? 1-Click installation template
 
 ## Description
 
-Miniflux is a minimalist and opinionated feed reader. It focuses on simplicity and readability, with a lightweight user interface and optimized page layout. It allows you to download original article contents and removes pixel trackers for privacy. Miniflux is fast and efficient, with keyboard shortcuts for easy navigation. It is free, open source, and self-hosted, with options for installation via binary, package, or Docker image. Donations are accepted to support the project.
+Miniflux is a minimalist and opinionated feed reader designed to prioritize content and readability. It optimizes the page layout, fonts, and colors to ensure that they are screen-friendly. If you have feeds that display only a summary, Miniflux fetches the original article automatically. The app is designed with simplicity in mind, focusing on essential features and avoiding bloated software. It is fast and efficient, allowing you to navigate through the application using keyboard shortcuts and quickly scan your unread items with a lightweight user interface. Miniflux also respects your privacy, ensuring that no one resells your private data or tracks your usage. It automatically removes pixel trackers and does not feature any advertising or user tracking. Miniflux is a free, open-source project distributed under the permissive Apache 2.0 License.
 
 ## Benefits
 
-- Optimized for readability: The page layout, fonts, and colors are chosen to be readable on a screen. The most important thing is the content.
-- Download original article contents: Do you have feeds that display only a summary? Fetch the original article automatically.
-- No fancy features: Miniflux focuses on simplicity. Less is more!
-- Fast and efficient: Be productive, use the keyboard shortcuts to navigate through the application. Scan quickly your unread items with the lightweight user interface.
-- Your privacy is guaranteed: Nobody resells your private data or tracks your usage. No advertising and user tracking. Miniflux removes automatically pixel trackers.
-- Super simple installation: Miniflux is compiled statically without external dependencies, drop the binary on your server and you are done. You also have the choice to use the RPM/Debian package or the Docker image.
-- Free, open source and self-hosted: Miniflux is a free and open source project distributed under the permissive Apache 2.0 License.
-- Donations: Do you like Miniflux? Make a donation. You can donate via LiberaPay or PayPal.
+- Optimized for Readability: Miniflux is designed with a page layout, fonts, and colors that are easy on the eyes, making it comfortable to read on a screen. The focus is on the content, ensuring a distraction-free reading experience.
+- Privacy Guaranteed: Miniflux respects your privacy. It does not resell your private data or track your usage. It also automatically removes pixel trackers, ensuring a secure and private reading experience.
+- Fast and Efficient: Miniflux is designed to be fast and efficient. It has keyboard shortcuts for easy navigation and a lightweight user interface that allows you to quickly scan through your unread items.
 
 ## Features
 
-- Minimalist and opinionated feed reader: Miniflux is a minimalist and opinionated feed reader that focuses on simplicity and readability.
+- Minimalist Feed Reader: Miniflux is a minimalist and opinionated feed reader. It focuses on simplicity, avoiding bloated features and providing only what's necessary for a smooth reading experience.
+- Fetch Original Article Contents: Miniflux can fetch the original article contents for feeds that display only a summary. This ensures that you get the full content of the articles you're interested in.
+- Keyboard Shortcuts: Miniflux supports keyboard shortcuts, allowing you to easily navigate through the application. This makes it more productive and efficient to use.
 
 ## Links
 

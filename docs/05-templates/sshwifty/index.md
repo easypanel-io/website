@@ -13,21 +13,20 @@ description: How to install Sshwifty on Easypanel? 1-Click installation template
 
 ## Description
 
-Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on your computer or server to provide SSH and Telnet access interface for any compatible (standard) web browser.
+Sshwifty is a web-based SSH and Telnet client that allows you to access these services directly from any standard web browser. It can be deployed on your computer or server, providing a convenient and accessible interface for SSH and Telnet connections. Sshwifty is designed to be highly configurable, allowing you to set up multiple servers, define presets for known remotes, and even restrict connections to preset remotes only. It also supports secure connections through TLS, and can be configured to connect through a Socks5 proxy. Whether you need to connect to a remote server or a local machine, Sshwifty provides a flexible and user-friendly solution.
 
 ## Benefits
 
-- Web-based SSH and Telnet access: Access SSH and Telnet servers directly from your web browser, without the need for additional software.
-- Easy deployment: Sshwifty can be easily deployed on your computer or server, allowing you to provide SSH and Telnet access to multiple users.
-- Secure connection: Sshwifty supports TLS encryption, ensuring that your SSH and Telnet connections are secure.
+- Web-Based SSH and Telnet Access: Sshwifty provides a web-based interface for SSH and Telnet connections, allowing you to access these services from any standard web browser.
+- Secure Connections: Sshwifty supports TLS, ensuring that your connections are secure and your data is protected.
+- Flexible Configuration: Sshwifty can be configured through either a file or environment variables, giving you the flexibility to set up the software in a way that best suits your needs.
 
 ## Features
 
-- Binary installation: Download and install precompiled binaries to quickly set up Sshwifty on your machine.
-- Docker image: Use the prebuilt Docker image to easily deploy Sshwifty in a containerized environment.
-- Compile from source: Build Sshwifty from the source code for more control and customization.
-- Configuration options: Customize Sshwifty's behavior through configuration files or environment variables.
-- Remote presets: Define presets for commonly used SSH and Telnet connections, making it easier for users to connect.
+- SSH and Telnet Connector: Sshwifty allows you to connect to SSH and Telnet services directly from your web browser, eliminating the need for additional software.
+- Predefined Remote Presets: Sshwifty allows you to define presets for known remote hosts, saving you time and effort when connecting to these hosts.
+- Secure Connections with TLS: Sshwifty supports TLS, ensuring that your connections are secure and your data is protected.
+- Flexible Configuration Options: Sshwifty can be configured through either a file or environment variables, giving you the flexibility to set up the software in a way that best suits your needs.
 
 ## Links
 
@@ -39,7 +38,7 @@ Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sshwifty
-App Service Image | - | yes | niruix/sshwifty:0.2.32-beta-release
+App Service Image | - | yes | niruix/sshwifty:0.2.33-beta-release
 
 ## Screenshots
 

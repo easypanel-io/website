@@ -13,7 +13,7 @@ description: How to install Hasty Paste on Easypanel? 1-Click installation templ
 
 ## Description
 
-Hasty Paste is a fast and minimal paste bin app that allows users to quickly paste and share text. It is commonly used for sharing debug logs and providing tech support. The app is designed to be lightweight and resource-efficient, with features such as publicly accessible pastes, randomly generated IDs, optional long IDs for added security, expiring pastes, dark theme, and optional syntax highlighting. It also offers a REST API and supports custom file systems, including flat-file system and S3 objects. Hasty Paste is available as a lightweight Docker image and is easy to install and use. The project is actively maintained and welcomes contributions from the community.
+Hasty Paste is a fast and minimalistic app designed for quickly pasting and sharing text. It is primarily used for sharing debug logs and similar content to aid developers in providing tech support. The app is publicly accessible with no authentication required. It generates random IDs for each paste, with an optional &#39;long&#39; ID to reduce the chances of brute force attacks. Users can also add expiring pastes. The app features a dark theme and optional syntax highlighting. It is designed to use minimal resources and does not require JavaScript. Hasty Paste also allows users to choose their file system and offers a custom flat-file system. The app is named &#39;Hasty Paste&#39; to reflect its speed and ease of use.
 
 ## Instructions
 
@@ -21,30 +21,18 @@ Hasty Paste takes a minute or two on first launch.
 
 ## Benefits
 
-- Fast and Minimal: Hasty Paste is designed to be fast and minimal, allowing users to quickly paste and share text without any unnecessary features or distractions.
-- Publicly Accessible: Pastes created in Hasty Paste are publicly accessible, meaning no authentication is required to view or access the shared text.
-- Secure and Random IDs: Hasty Paste generates random IDs for each paste, reducing the risk of brute force attacks. It also offers an optional 'long' ID for added security.
-- Expiring Pastes: Users can choose to create expiring pastes, which automatically delete after a certain period of time. This is useful for sharing temporary or sensitive information.
-- Dark Theme: Hasty Paste offers a dark theme option for users who prefer a darker interface.
-- Optional Syntax Highlighting: Users can enable optional syntax highlighting for their pastes, making it easier to read and understand code snippets.
-- REST API: Hasty Paste provides a REST API for programmatic access to create and manage pastes. This allows developers to integrate the app into their own applications or workflows.
-- Custom File Systems: Hasty Paste supports custom file systems, including a flat-file system and S3 objects. This flexibility allows users to choose the storage solution that best fits their needs.
-- Lightweight Docker Image: Hasty Paste is available as a lightweight Docker image, built on Alpine Linux. This makes it easy to deploy and run the app in containerized environments.
+- Quick and Efficient: Hasty Paste is designed for speed and efficiency. It allows you to quickly paste and save text, making it perfect for those who need to share information swiftly.
+- Accessible: The app is publicly accessible with no authentication needed. This makes it easy for anyone to use and share text.
+- Secure: Hasty Paste uses randomly generated IDs to reduce the risk of brute force attacks. It also offers the option to add expiring pastes for added security.
 
 ## Features
 
-- Quickly Paste and Save: Hasty Paste allows users to quickly paste and save text, making it easy to share information with others.
-- Randomly Generated IDs: Each paste in Hasty Paste is assigned a randomly generated ID, ensuring uniqueness and reducing the risk of brute force attacks.
-- Optional 'Long' IDs: Hasty Paste offers an optional 'long' ID format, which provides added security by increasing the complexity of the ID.
-- Expiring Pastes: Users can choose to create expiring pastes, which automatically delete after a certain period of time. This is useful for sharing temporary or sensitive information.
-- Dark Theme: Hasty Paste offers a dark theme option, providing a visually appealing interface for users who prefer darker colors.
-- Optional Syntax Highlighting: Users can enable optional syntax highlighting for their pastes, making it easier to read and understand code snippets.
-- No JavaScript Needed: Hasty Paste does not require JavaScript to function, ensuring compatibility with a wide range of devices and browsers.
-- Minimal Resource Usage: Hasty Paste is designed to use minimal resources, making it efficient and lightweight.
-- REST API: Hasty Paste provides a REST API for programmatic access to create and manage pastes. This allows developers to integrate the app into their own applications or workflows.
-- Pick Your File System: Hasty Paste supports custom file systems, allowing users to choose the storage solution that best fits their needs. Options include a custom flat-file system and S3 objects.
-- Caching: Hasty Paste supports caching, both internal and with Redis, to improve performance and reduce load on the file system.
-- Lightweight Docker Image: Hasty Paste is available as a lightweight Docker image, built on Alpine Linux. This makes it easy to deploy and run the app in containerized environments.
+- Fast Pasting: Hasty Paste allows you to quickly paste and save text. This is ideal for sharing debug logs or any other text-based information.
+- Public Access: The app is publicly accessible, meaning anyone can use it to share text. No authentication is needed.
+- Random ID Generation: Hasty Paste generates random IDs for each paste, reducing the risk of brute force attacks.
+- Expiring Pastes: The app allows you to add expiring pastes, providing an extra layer of security for your shared text.
+- Dark Theme and Syntax Highlighting: Hasty Paste offers a dark theme for comfortable viewing in low-light environments. It also provides optional syntax highlighting to make code easier to read.
+- Minimal Resource Usage: The app uses minimal resources, making it a lightweight solution for sharing text.
 
 ## Links
 

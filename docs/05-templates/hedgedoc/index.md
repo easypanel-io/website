@@ -13,27 +13,27 @@ description: How to install HedgeDoc on Easypanel? 1-Click installation template
 
 ## Description
 
-HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor. It allows users to easily collaborate on notes, graphs, and presentations in real-time. The editor runs in the browser and can be installed on a server. HedgeDoc supports features such as real-time collaboration, presentation mode, graphs and diagrams, easy-to-use permission system, revisions, and low system requirements. It is licensed under AGPLv3 and is community-driven.
+HedgeDoc, previously known as CodiMD, is an open-source, web-based, self-hosted, collaborative markdown editor. It allows you to collaborate on notes, graphs, and presentations in real-time. Simply share your note-link with your co-workers and they can join in the collaboration. The editor runs directly in your browser, allowing you to stay in control of your data by keeping it on your server. HedgeDoc also offers a presentation mode for building and presenting slides in markdown, and supports a variety of graphs, diagrams, and embedded content. It features an easy-to-use permission system for managing note permissions, and keeps track of changes to your notes through revisions, even allowing you to revert to older versions. Despite its extensive features, HedgeDoc has low system requirements and can run smoothly even on a Raspberry Pi.
 
 ## Benefits
 
-- Web-based: The editor runs in the browser, so no extra software is needed.
-- Self-hosted: Users can keep control of their data by hosting HedgeDoc on their own server.
-- Real-time collaboration: Users can collaborate in real-time with others on notes, graphs, and presentations.
+- Real-time Collaboration: HedgeDoc allows you to collaborate on notes, graphs, and presentations in real-time. Simply share your note-link with your co-workers and they’re ready to go.
+- Data Control: Being a self-hosted solution, HedgeDoc gives you complete control over your data. Your notes and documents stay on your server, ensuring privacy and security.
+- Web-based Solution: HedgeDoc is a web-based application, meaning you don’t need to install extra software. The editor runs smoothly in your browser, making it accessible from anywhere.
 
 ## Features
 
-- Presentation mode: HedgeDoc can be used to build and present slides in markdown, powered by reveal.js.
-- Graphs & diagrams: HedgeDoc supports various types of graphs, diagrams, and embedded content.
-- Easy-to-use permission system: Users can manage permissions of their notes with a simple dropdown selection.
-- Revisions: HedgeDoc keeps track of changes to notes and allows users to revert to any older version.
-- Low system requirements: HedgeDoc can run smoothly on a Raspberry Pi and doesn't require much resources.
+- Presentation Mode: HedgeDoc comes with a presentation mode that allows you to build and present slides in markdown. It's powered by reveal.js, providing a seamless presentation experience.
+- Graphs & Diagrams: HedgeDoc supports many types of graphs, diagrams, and embedded content. This makes it a versatile tool for visualizing data and ideas.
+- Easy Permission System: HedgeDoc features an easy-to-use permission system. You can manage the permissions of your notes with a simple dropdown selection.
+- Revisions: HedgeDoc keeps track of changes to your notes and allows you to revert to any older version. This feature ensures you never lose important information.
+- Low System Requirements: HedgeDoc doesn’t require much resources. It runs smoothly even on low-powered devices like a Raspberry Pi.
 
 ## Links
 
+- [Website](https://hedgedoc.org/)
 - [Documentation](https://docs.hedgedoc.org/)
 - [Github](https://git.hedgedoc.org/)
-- [Website](https://hedgedoc.org/)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/hedgedoc)
 
 ## Options
@@ -41,7 +41,8 @@ HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown edito
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hedgedoc
-App Service Image | - | yes | linuxserver/hedgedoc:1.9.7
+App Service Image | - | yes | quay.io/hedgedoc/hedgedoc:1.9.8
+Database Service Name | - | yes | hedgedoc-db
 
 ## Screenshots
 
@@ -51,7 +52,9 @@ App Service Image | - | yes | linuxserver/hedgedoc:1.9.7
 
 - 2022-10-28 – first release
 - 2023-2-24 – Update to v1.9.7
+- 2023-07-11 – Update to v1.9.8 and return to main image
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)

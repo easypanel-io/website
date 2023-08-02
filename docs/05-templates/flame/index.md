@@ -13,21 +13,24 @@ description: How to install Flame on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Flame is a self-hosted startpage app for your server. It allows you to create, update, and delete applications and bookmarks directly from the app using built-in GUI editors. You can pin your favorite items to the homescreen for quick and easy access. Flame also includes an integrated search bar with local filtering and support for 11 web search providers. It has an authentication system to protect your settings, apps, and bookmarks. You can customize the Flame interface with dozens of options, including support for custom CSS and 15 built-in color themes. It also includes a weather widget with current temperature, cloud coverage, and animated weather status. Flame can be installed using Docker or without Docker. It supports Docker integration and Kubernetes integration. You can also import HTML bookmarks into Flame. Flame is written in Node.js + Express on the backend and React Redux TypeScript on the frontend.
+Flame is a self-hosted startpage for your server, designed to be your very own application hub. Inspired by SUI, its sleek design is not only visually appealing but also incredibly easy to use. With Flame, you can create, update, and delete your applications and bookmarks directly from the app using built-in GUI editors. It also allows you to pin your favorite items to the homescreen for quick and easy access. The app features an integrated search bar with local filtering and 11 web search providers, and even gives you the ability to add your own. Flame also includes an authentication system to protect your settings, apps, and bookmarks. The interface is highly customizable, with dozens of options including support for custom CSS, 15 built-in color themes, and a custom theme builder. Additionally, Flame features a weather widget with current temperature, cloud coverage, and animated weather status. It also integrates with Docker to automatically pick and add apps based on their labels.
 
 ## Benefits
 
-- Easy to setup and use: Flame is very easy to setup and use. It includes built-in editors that allow you to setup your own application hub without any file editing.
-- Customizable interface: Flame offers dozens of options to customize the interface to your needs. You can use custom CSS, choose from 15 built-in color themes, and even create your own custom theme.
-- Integrated search bar: Flame includes an integrated search bar with local filtering. It supports 11 web search providers and allows you to add your own. You can search through all your apps and bookmarks or use specific search engines with shortcuts.
-- Authentication system: Flame has an authentication system to protect your settings, apps, and bookmarks. You can set a password to secure your Flame instance.
-- Docker and Kubernetes integration: Flame supports Docker integration, allowing you to automatically add apps based on their labels. It also supports Kubernetes integration, allowing you to add apps using Kubernetes ingresses.
+- Personalized Startpage: Flame provides a self-hosted startpage for your server, allowing you to create a personalized hub for all your applications and bookmarks. Its design, inspired by SUI, is easy to navigate and use.
+- Easy Setup: With built-in editors, Flame allows you to set up your very own application hub in no time. There's no need for file editing, making it a user-friendly solution for managing your applications.
+- Customizable Interface: Flame offers dozens of options to customize the interface according to your needs. It includes support for custom CSS, 15 built-in color themes, and a custom theme builder.
+- Integrated Weather Widget: Flame includes a weather widget that provides current temperature, cloud coverage, and animated weather status. This feature adds a personal touch to your startpage.
+- Docker Integration: Flame seamlessly integrates with Docker, allowing it to automatically pick and add apps based on their labels. This feature simplifies the process of managing your applications.
 
 ## Features
 
-- Create, update, and delete applications and bookmarks: Flame allows you to create, update, and delete applications and bookmarks directly from the app using built-in GUI editors. No file editing is necessary.
-- Pin favorite items to the homescreen: You can pin your favorite items to the homescreen for quick and easy access. This allows you to have quick access to your most frequently used apps and bookmarks.
-- Weather widget: Flame includes a weather widget that displays the current temperature, cloud coverage, and animated weather status. You can obtain an API key from a Weather API and enter the lat/long for your location to enable the weather widget.
+- Application and Bookmark Management: Flame allows you to create, update, and delete your applications and bookmarks directly from the app using built-in GUI editors.
+- Quick Access: With Flame, you can pin your favorite items to the homescreen for quick and easy access.
+- Integrated Search Bar: Flame features an integrated search bar with local filtering, 11 web search providers, and the ability to add your own.
+- Authentication System: Flame includes an authentication system to protect your settings, apps, and bookmarks.
+- Weather Widget: Flame features a weather widget that provides current temperature, cloud coverage, and animated weather status.
+- Docker Integration: Flame integrates with Docker to automatically pick and add apps based on their labels.
 
 ## Links
 

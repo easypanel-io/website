@@ -13,20 +13,17 @@ description: How to install Heimdall on Easypanel? 1-Click installation template
 
 ## Description
 
-Heimdall Application Dashboard is a dashboard for all your web applications. It allows you to add links to any web application or website. It is designed to be simple and elegant, with a visually pleasing interface. Heimdall is backed by the linuxserver.io group and has a strong support system. It supports three types of apps: Generic apps, Foundation apps, and Enhanced apps. Installation is easy, with options for Docker or manual installation.
+Heimdall Application Dashboard is a versatile and visually pleasing dashboard for all your web applications. It provides a simple and elegant interface where you can add links to any web application or site you frequently use. The app is designed with simplicity in mind, avoiding the trap of over-complication that many projects fall into. With Heimdall, you can add a link to anything, whether it&#39;s intrinsically supported or not, by simply filling in the name, background color, and the link URL. The app also supports Foundation and Enhanced apps. Foundation apps are those supported by Heimdall, and Enhanced apps are like Foundation apps but with the added feature of displaying extra information automatically by entering API credentials. Heimdall is all about making your web application experience smooth, simple, and enjoyable.
 
 ## Benefits
 
-- Simplicity: Heimdall is designed to be simple and easy to use. It avoids the trap of introducing too many options and features, making it complicated for users.
-- Elegance: Heimdall has a visually pleasing interface, with a focus on design. It aims to encourage users to use the app and discover its benefits.
-- Support: Heimdall is backed by the linuxserver.io group, which provides strong support. They have contributed to over 150 million Docker pulls.
+- Simplicity: Heimdall Application Dashboard is designed to avoid the trap of over-complication. It offers a straightforward interface that users can fine-tune to match their needs without getting overwhelmed by a multitude of options.
+- Elegance: The design of Heimdall Application Dashboard is visually pleasing, encouraging users to explore and utilize its features. The goal is to make users want to use the app, not just need to use it.
 
 ## Features
 
-- Generic Apps: Heimdall allows you to add links to any web application or website, even if it's not intrinsically supported. You can customize the name, background color, and icon.
-- Foundation Apps: Heimdall supports a list of foundation apps, where you can simply start typing the app name and it will show up in a dropdown. It fills in the default background color and icon for you.
-- Enhanced Apps: Enhanced apps in Heimdall allow you to use an app's API to display extra information automatically. You just need to enter the API credentials.
-- Installation: Heimdall can be installed using Docker, which is the easiest way. There are also manual installation instructions available for Ubuntu.
+- Versatile Dashboard: Heimdall Application Dashboard serves as a comprehensive dashboard for all your web applications. It's not limited to applications; you can add links to anything you like, making it a versatile tool for managing your digital resources.
+- Generic, Foundation, and Enhanced Apps: Heimdall supports three types of items: Generic, Foundation, and Enhanced apps. Generic items allow you to add a link to anything, while Foundation and Enhanced apps offer more features, such as default icons and background colors, and the ability to display extra information through an app's API.
 
 ## Links
 

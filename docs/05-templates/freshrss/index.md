@@ -13,19 +13,21 @@ description: How to install Freshrss on Easypanel? 1-Click installation template
 
 ## Description
 
-Freshrss is a free, self-hostable aggregator for rss feeds.
+FreshRSS is a free, self-hostable aggregator for RSS feeds. It allows you to gather and read your favorite news sources in one place, providing a streamlined and efficient way to stay informed. The app supports multiple platforms and can be easily accessed through a web user interface. FreshRSS also offers the ability to use external databases, enabling users to create a user and database in their MySQL/MariaDB server. Additional extensions can be added to enhance the functionality of the app. FreshRSS is designed to be simple to use, yet powerful, providing a comprehensive solution for RSS feed aggregation.
 
 ## Benefits
 
-- Self-hosted: You have full control over your data and can customize the application to your needs.
-- Multi-platform support: The Docker image supports multiple architectures, making it easy to run on different systems.
-- Easy setup: The application can be set up quickly using either docker-compose or the docker CLI.
+- Stay Updated: Freshrss is a self-hostable aggregator for RSS feeds. It allows you to stay updated with your favorite websites, blogs, and more, all in one place.
+- Multi-platform Support: Freshrss supports multiple platforms. It utilizes the docker manifest for multi-platform awareness, ensuring you can use it on your preferred platform.
+- Easy Setup: Freshrss comes with an easy setup wizard. For external databases, you can create a user and database in your MySQL/MariaDB server and follow the setup wizard in the web user interface.
 
 ## Features
 
-- WebUI: Access the application through a web interface.
-- External database support: You can use an external MySQL/MariaDB server for storing data.
-- Extensions support: Additional extensions can be added to enhance the functionality of the application.
+- RSS Feed Aggregator: Freshrss is a powerful RSS feed aggregator. It allows you to collect and view content from your favorite websites, blogs, and more, all in one place.
+- Self-Hostable: Freshrss is self-hostable, giving you full control over your data and privacy. You can host it on your own server and access it from anywhere.
+- Multi-platform Support: Freshrss supports multiple platforms. Whether you're using x86-64 or arm64, Freshrss has got you covered.
+- Easy Setup: Freshrss comes with an easy setup wizard. It guides you through the process of setting up the application, making it easy even for non-technical users.
+- External Database Support: Freshrss supports external databases. You can create a user and database in your MySQL/MariaDB server and connect it to Freshrss.
 
 ## Links
 

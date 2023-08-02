@@ -13,21 +13,21 @@ description: How to install Element on Easypanel? 1-Click installation template 
 
 ## Description
 
-Element is a secure communications platform that allows users to communicate and collaborate with people and organizations they trust. It offers features such as instant messaging, voice/video calls, location sharing, voting polls, and more. Element is built on the Matrix open standard for secure and sovereign real-time communication. It provides secure and compliant communication solutions for businesses, allowing them to protect and strengthen their critical communications. Element also offers flexible hosting options to enable data sovereignty and allows users to connect with partners in real-time across organizations.
+Element is a secure communications platform designed to protect and strengthen your business critical communications. It offers real-time trusted communication across organizations, giving you the freedom to communicate on your own terms. With Element, you can control your data through its open source and flexible hosting, enabling data sovereignty. The app allows you to structure discussion spaces, customize chat rooms, and share live data through widgets and integrations to boost your productivity. It also provides instant messaging, voice/video calls, location sharing, voting polls and more. Element ensures your data is secure by default, allowing you to focus on getting your work done. You have complete independence to own and control your entire communication platform, configure networks to suit organizational requirements, and strengthen cybersecurity and business continuity plans. Element is led by the creators of Matrix, the decentralized open standard for secure and sovereign real time communication.
 
 ## Benefits
 
-- Secure and Compliant: Element provides a secure communications platform that helps businesses protect and strengthen their critical communications. It ensures compliance with data protection regulations and offers secure messaging, voice/video calls, and more.
-- Control Your Data: Element allows users to host their own communication platform, giving them full control over their data. It offers open source and flexible hosting options to enable data sovereignty.
-- Trusted Communication: Element enables trusted communication in real-time across organizations. It allows users to collaborate with people and organizations they trust, ensuring secure and reliable communication.
-- Customizable and Flexible: Element provides customization options to tailor the communication platform according to individual needs. Users can customize discussion spaces, chat rooms, and network configurations to suit their requirements.
+- Secure Communications: This platform is designed with security at its core, providing a safe environment for your critical business communications. It gives you the freedom to communicate on your own terms, ensuring your data is protected and your conversations are confidential.
+- Data Sovereignty: The app is open-source and offers flexible hosting options, enabling you to maintain complete control over your data. You can choose how you host, share, and manage your data, ensuring it remains in your hands.
+- Real-Time Communication: The app allows for trusted, real-time communication across organizations. It supports instant messaging, voice and video calls, location sharing, voting polls, and more, ensuring you can connect with partners effectively and efficiently.
+- Customization: The app offers the freedom to structure discussion spaces and customize chat rooms according to your needs. You can also configure networks to suit organizational requirements, ensuring the platform works for you.
 
 ## Features
 
-- Instant Messaging and Voice/Video Calls: Element offers instant messaging and voice/video call features, allowing users to communicate in real-time with their contacts.
-- Location Sharing and Voting Polls: Element allows users to share their location with others and conduct voting polls to gather opinions and make decisions collaboratively.
-- Data Protection and Security: Element prioritizes data protection and security. It ensures that user data is protected while they focus on their work. The platform is built on the Matrix open standard, which provides a decentralized and secure communication infrastructure.
-- Customizable Network Configurations: Element allows users to customize network configurations, enabling them to create communication networks that meet their organizational requirements.
+- Secure by Default: The app's technology protects your data so you can focus on getting your work done. It strengthens your cybersecurity and business continuity plans, reducing risks and ensuring your communications remain secure.
+- Boost Collaboration: The app allows you to share live data through widgets and integrations, supercharging your productivity. It enables you to collaborate with confidence, enhancing teamwork and improving outcomes.
+- Admin Console: The app provides a streamlined way to manage your network configurations and permissions. It also supports ID management and access control using SSO and ACLs, ensuring you maintain control over your platform.
+- Bridges: The app allows you to connect to internal and external partners based on siloed communication apps. This ensures you can communicate effectively with all your partners, regardless of the platforms they use.
 
 ## Links
 

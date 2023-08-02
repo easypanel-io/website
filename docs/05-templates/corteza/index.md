@@ -13,7 +13,7 @@ description: How to install Corteza on Easypanel? 1-Click installation template 
 
 ## Description
 
-Corteza is a 100% open-source, fully standardized low-code app development, business process, integration and data harmonization platform. It is built in Golang and Vue.js, and uses W3C standards and formats. Corteza is cloud-native and deploys via Docker containers. It is licensed under an Apache 2.0 license and is freely available to all.
+Corteza is a powerful, open-source low-code platform designed to streamline the process of app development, business process integration, and data harmonization. Built with a backend in Golang and a front end in Vue.js, Corteza allows you to easily build native web apps and expand your software ecosystem with complete control and flexibility. You can connect with any record data source, control everything you build, transform your data into a standardized JSON format, and build unlimited web applications and process workflows using block-based tools and Javascript automations. Corteza is cloud-native and deploys via Docker containers, providing a seamless and efficient app development experience. It is 100% free and open-source, ensuring that it will always be accessible to all.
 
 ## Instructions
 
@@ -21,18 +21,17 @@ Create an account to login. The first account created will have administrator pr
 
 ## Benefits
 
-- Rapid Application Development: Build unlimited web applications and process workflows using block-based tools and Javascript automations in a fraction of the time of traditional coding.
-- Integration Management: Integrate with data from any machine-readable system or database, regardless of format, across and between instances.
-- Data Harmonization: Transform all data into a standardized JSON format to create data models for apps and workflows or to federate out.
-- Complete Flexibility and Control: Build native web apps and expand your third-party software ecosystem with complete flexibility, freedom, and control over your platform and everything you build on it.
-- Open Source and Free: Corteza is 100% open-source and freely available to all. You can use, modify, distribute, or sell Corteza or apps built with it under your own license and trademark.
+- Open-Source and Free: Corteza is a 100% open-source platform, meaning it is freely available to all. You can use, modify, distribute or even sell Corteza or apps built with it under your own license and trademark for free, with no obligation to publish your modified code.
+- Complete Control: Corteza gives you complete flexibility, freedom, and control over your platform and everything you build on it. You can export and import complete app configurations, workflows, and record data without limits.
+- Data Standardization: Corteza allows you to transform all data into a standardized JSON format to create data models for app and workflows or to federate out.
+- Unlimited App Creation: With Corteza, you can create unlimited web applications and process workflows using block-based tools and Javascript automations in a fraction of the time of traditional coding.
 
 ## Features
 
-- Low-Code Platform: Corteza is a low-code app development platform that allows you to build web applications and process workflows using block-based tools and Javascript automations.
-- Business Process Workflows: Corteza enables you to create and manage business process workflows, automating repetitive tasks and improving efficiency.
+- Low-Code Platform: Corteza is a fully standardized low-code app development platform. It makes it easy to build native web apps and expand your third-party software ecosystem.
 - Integration Management: Corteza allows you to integrate with data from any machine-readable system or database, regardless of format, across and between instances.
-- Data Harmonization: Corteza helps you transform all data into a standardized JSON format, making it easier to create data models for apps and workflows or to federate out.
+- Business Process Workflows: Corteza enables you to create business process workflows. You can deploy applications and workflows instantly, iterate and redeploy as much as you want.
+- Data Harmonization: Corteza provides a platform for data harmonization. It allows you to transform all data into a standardized JSON format to create data models for app and workflows or to federate out.
 
 ## Links
 

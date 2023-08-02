@@ -13,22 +13,21 @@ description: How to install Verdaccio on Easypanel? 1-Click installation templat
 
 ## Description
 
-Verdaccio is a lightweight private npm proxy registry built in Node.js. It provides a compatible API with npm clients and supports semantic versioning. Verdaccio is a web app based on Node.js that acts as a private npm registry and a local network proxy. It is easy to install and use, and offers Docker and Kubernetes support. It is 100% compatible with yarn, npm, and pnpm.
+Verdaccio is a lightweight, private npm proxy registry built in Node.js, designed to simplify and enhance your development workflow. It provides a simple, zero-configuration-required local private NPM registry, eliminating the need for a full database to get started. Verdaccio comes equipped with its own compact database and the capability to proxy other registries, such as npmjs.org, while caching the downloaded modules for improved efficiency. It allows you to use all the benefits of the npm package system in your company without exposing all your code to the public. You can link multiple registries, fetch packages from multiple sources in a single project, and even publish locally modified versions of third-party packages. Verdaccio is compatible with popular npm clients like npm, yarn, and pnpm, and supports various plugins for extended storage capabilities.
 
 ## Benefits
 
-- Use private packages: Verdaccio allows you to use private packages in your company without sending the code to the public. You can use your private packages just as easily as public ones.
-- Link multiple registries: If you use multiple registries in your organization and need to fetch packages from multiple sources in one project, you can chain multiple registries and fetch from a single endpoint.
-- Cache npmjs.org registry: Verdaccio can cache the npmjs.org registry, reducing latency and providing limited failover if you have multiple servers from which you want to install packages.
-- Override public packages: If you want to use a modified version of a 3rd-party package, you can publish your version locally under the same name.
+- Private Package Management: Easily use private packages in your company without sending code to the public.
+- Multiple Registries: Fetch packages from multiple sources in one project by chaining registries.
+- Caching and Failover: Decrease latency and provide limited failover by caching the npmjs.org registry.
+- Override Public Packages: Use modified versions of 3rd-party packages by publishing your own version locally.
 
 ## Features
 
-- Private npm proxy registry: Verdaccio acts as a private npm registry, allowing you to publish and access private packages.
-- Local network proxy: Verdaccio can act as a proxy for other registries, such as npmjs.org, and cache downloaded modules to decrease latency and provide failover.
-- Pluggable application: Verdaccio supports various community-made plugins to extend its storage capabilities, such as integrating with Amazon's S3 or Google Cloud Storage.
-- Easy to install and use: Verdaccio comes with its own tiny database and requires no configuration to get started. It is compatible with popular npm clients like npm, yarn, and pnpm.
-- Docker and Kubernetes support: Verdaccio provides an official Docker image and supports deployment using Kubernetes Helm for easy DevOps integration.
+- Private NPM Registry: A lightweight Node.js private proxy registry for managing npm packages.
+- Zero-Config Required: No need for an entire database, comes with its own tiny database out of the box.
+- Proxy Other Registries: Ability to proxy other registries like npmjs.org and cache downloaded modules.
+- Extendable Storage: Supports community-made plugins to hook into services like Amazon's S3 or Google Cloud Storage.
 
 ## Links
 
@@ -42,7 +41,7 @@ Verdaccio is a lightweight private npm proxy registry built in Node.js. It provi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | verdaccio
-App Service Image | - | yes | verdaccio/verdaccio:5.19.1
+App Service Image | - | yes | verdaccio/verdaccio:5.24.1
 
 ## Screenshots
 

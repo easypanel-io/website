@@ -13,20 +13,21 @@ description: How to install pgweb on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Pgweb is a web-based database explorer for PostgreSQL. It is written in Go and works on Mac, Linux, and Windows machines. It is distributed as a single binary with zero dependencies. Pgweb is easy to use and provides features such as executing and analyzing custom SQL queries, exporting table and query data to CSV/JSON/XML, query history, and server bookmarks.
+Pgweb is a simple, web-based, cross-platform PostgreSQL database explorer. It is designed to work seamlessly on Mac, Linux, and Windows machines. The app is distributed as a single binary with zero dependencies, making it incredibly easy to use. It supports PostgreSQL 9.1 and later versions, and allows for multiple database sessions. With Pgweb, you can execute and analyze custom SQL queries, export table and query data to CSV/JSON/XML, and keep track of your query history. The app also supports native SSH tunnels and server bookmarks for easy navigation.
 
 ## Benefits
 
-- Cross-platform: Pgweb works on Mac, Linux, and Windows machines.
-- Simple installation: Pgweb is distributed as a single binary with zero dependencies.
-- Multiple database sessions: Pgweb supports multiple database sessions, allowing you to work with multiple databases simultaneously.
+- Cross-Platform Compatibility: Pgweb is a web-based PostgreSQL database explorer that works seamlessly across Mac, Linux, and Windows machines, making it a versatile tool for database management.
+- Zero Dependencies: The app is distributed as a simple binary with zero dependencies, making it extremely easy to use.
+- Supports Multiple Database Sessions: Pgweb supports multiple database sessions, allowing you to manage and interact with multiple databases simultaneously.
 
 ## Features
 
-- Execute and analyze custom SQL queries: Pgweb allows you to execute and analyze custom SQL queries directly from the web interface.
-- Table and query data export: Pgweb provides the ability to export table and query data to CSV, JSON, and XML formats.
-- Query history: Pgweb keeps a history of executed queries, making it easy to refer back to previous queries.
-- Server bookmarks: Pgweb allows you to bookmark database servers for quick access.
+- Native SSH Tunnels: Pgweb supports native SSH tunnels, providing secure and encrypted channels for database communication.
+- Custom SQL Queries: With Pgweb, you can execute and analyze custom SQL queries, providing you with the flexibility to interact with your database as needed.
+- Data Export: Pgweb allows you to export table and query data to CSV, JSON, and XML formats, making data migration and backup a breeze.
+- Query History: The app keeps a history of your queries, allowing you to revisit and analyze past database interactions.
+- Server Bookmarks: Pgweb allows you to bookmark your servers for quick and easy access in the future.
 
 ## Links
 

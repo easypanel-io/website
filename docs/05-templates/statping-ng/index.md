@@ -13,29 +13,23 @@ description: How to install Statping-ng on Easypanel? 1-Click installation templ
 
 ## Description
 
-Statping is an easy-to-use status page and monitoring server for websites and applications. It automatically fetches the application and renders a beautiful status page with tons of features. It allows you to use MySQL, Postgres, or SQLite on multiple operating systems. Statping is lightweight, fast, and available for Linux, Mac, and Windows. It also has a mobile app for viewing services and receiving notifications. You can run Statping on any server, including Docker and AWS EC2. It supports custom SASS styling and integrates with Slack, email, Twilio, and more. Statping is highly customizable and allows you to create your own plugins and notifiers. It has an easy-to-use dashboard and includes a Prometheus Exporter for additional monitoring power. You can run Statping on an EC2 server using the AWS AMI image and create security groups for port 80 and 443. Statping accepts push requests to the dev branch and provides testing on MySQL, Postgres, and SQLite.
+Statping is a web and app status monitoring tool designed for any type of project. It automatically fetches your application and generates a beautiful, feature-rich status page. This status page generator supports MySQL, Postgres, or SQLite on multiple operating systems, ensuring future-proof and resilient monitoring. If your server crashes, your Statping service will remain online to notify your users of downtime. Lightweight and fast, Statping is available for Linux, Mac, and Windows, and even on a Raspberry Pi. The mobile app, available on the App Store and Google Play, allows you to view services, receive notifications when a service is offline, and manage groups, users, services, and messages. Statping can run on any server, from Docker to AWS EC2, and offers custom SASS styling for complete customization of your status page. It includes email notification via SMTP and Slack integration, and allows you to create your own plugins to interact with every element of your status page. With its easy-to-use dashboard, you can monitor your websites and applications with a basic HTTP GET request or a POST request with your own JSON.
 
 ## Benefits
 
-- Easy to use: Statping is designed to be user-friendly and easy to set up and use. It provides a straightforward dashboard and intuitive features.
-- Future-proof: Statping is built to remain intact even in the event of a failure. It ensures that your status page remains online to notify users of downtime, even if your server crashes.
-- No requirements: Statping is built in Go Language and only requires the precompiled binary based on your operating system. There is no need to install anything extra.
-- Lightweight and fast: Statping is a lightweight application available for Linux, Mac, and Windows. The Docker image is only ~16Mb, ensuring it doesn't take up much hard drive space.
-- Mobile app: Statping has a mobile app available on the App Store and Google Play. The app allows you to view services, receive notifications, and update groups, users, services, messages, and more.
-- Run on any server: Statping provides multiple options for running on different servers, including Docker and AWS EC2. It offers flexibility and compatibility with various hosting environments.
-- Customizable: Statping allows you to customize your status page using SASS styling with easy-to-use variables. It also supports custom plugins and notifiers for greater customization.
-- Integration with Slack, email, Twilio, and more: Statping includes email notification via SMTP and Slack integration using Incoming Webhook. It supports integration with various communication channels for efficient status updates.
+- Future-Proof Status Page: Statping is designed to remain future-proof and intact even in the event of a failure. It ensures that your status page remains online to notify your users of downtime, even if your server crashes.
+- Lightweight and Fast: Statping is a very lightweight application, ensuring that it won't be filling up your hard drive space. It is available for Linux, Mac, and Windows, and even runs on a Raspberry Pi.
+- Cost-Effective Hosting: Statping offers multiple options for hosting your status page. It can run on any server, including AWS EC2, which might be the most cost-effective way to host your own Statping Status Page.
+- Customizable Styling: Statping allows you to completely customize your Status Page using SASS styling with easy-to-use variables.
+- Notification Integration: Statping includes email notification via SMTP and Slack integration using Incoming Webhook. Anytime a service fails, your specified Slack channel will receive a message.
 
 ## Features
 
-- Status page generator: Statping automatically fetches the application and generates a status page with various features.
-- Support for multiple databases: Statping supports MySQL, Postgres, and SQLite on multiple operating systems.
-- Framework for creating plugins: Statping is not just a status page, but also a framework that allows you to create your own plugins to interact with every element of your status page.
-- Easy-to-use dashboard: Statping provides a straightforward dashboard for monitoring websites and applications with basic HTTP GET or POST requests.
-- Docker support: Statping can be run using the Docker image, making it easy to set up a status page in seconds.
-- Prometheus Exporter: Statping includes a Prometheus Exporter for additional monitoring power with services.
-- AWS EC2 support: Statping can be run on AWS EC2 servers, providing a cost-effective way to host your own status page.
-- Contribution-friendly: Statping accepts push requests to the dev branch, allowing users to contribute their own features and notifiers.
+- Status Page & Monitoring Server: Statping provides an easy-to-use Status Page for your websites and applications. It automatically fetches the application and renders a beautiful status page with tons of features.
+- Mobile App: The Statping app, available on the App Store and Google Play, allows you to view services, receive notifications when a service is offline, update groups, users, services, messages, and more.
+- User Created Notifiers: Statping is not just another Status Page for your applications, it's a framework that allows you to create your own plugins to interact with every element of your status page.
+- Easy-to-use Dashboard: Statping provides a straightforward dashboard for monitoring your websites and applications with a basic HTTP GET request, or add a POST request with your own JSON to post to the endpoint.
+- Prometheus Exporter: Statping includes a Prometheus Exporter so you can have even more monitoring power with your services.
 
 ## Links
 

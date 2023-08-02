@@ -13,26 +13,22 @@ description: How to install Chatwoot on Easypanel? 1-Click installation template
 
 ## Description
 
-Chatwoot is an open-source customer engagement platform that provides a multi-channel customer experience for businesses of all sizes. It is an alternative to Intercom, Zendesk, and Salesforce Service Cloud. With Chatwoot, you can manage your customer interactions from various channels such as live chat, email, Facebook, Instagram, Twitter, and more. The platform offers features like automations, chatbots, canned responses, and keyboard shortcuts to help you work smarter and provide quick responses to your customers. You can also track your agents&#39; performance, measure CSAT scores, and get detailed insights into your conversations. Chatwoot is self-hosted and provides extensive documentation, API reference, and a contribution guide for developers.
+Chatwoot is a new age multi-channel customer experience platform designed for businesses of all sizes. It serves as an open-source customer engagement suite, providing an alternative to platforms like Intercom, Zendesk, and Salesforce Service Cloud. With Chatwoot, you can manage your agents&#39; workload, track their performance through auto-updating reports, and work smarter with automations. The app allows you to perform key actions on multiple conversations at once and provides super quick responses to customer conversations, making your agents super productive. It also offers features to manage your email, Facebook, Instagram, Line, SMS, Telegram, and Twitter customer interactions directly from the platform. Additionally, Chatwoot provides detailed insights into your conversations and allows you to measure and track your CSAT score on autopilot.
 
 ## Benefits
 
-- Manage Customer Interactions: Chatwoot allows you to manage customer interactions from multiple channels, including live chat, email, social media, and more. You can stay connected with your customers and provide support across different platforms.
-- Automations and Chatbots: With Chatwoot, you can automate conversations and perform key actions on multiple conversations at once. You can also integrate chatbots to provide quick responses to customer queries.
-- Insights and Reports: Chatwoot provides detailed insights into your conversations and allows you to track your CSAT score. You can measure your agents' performance and get auto-updating reports to monitor your customer support operations.
-- Self-Hosted and Open-Source: Chatwoot is a self-hosted platform, which means you have full control over your data and infrastructure. It is also open-source, allowing developers to contribute and customize the platform according to their needs.
+- Efficient Customer Engagement: Chatwoot is a powerful customer engagement suite that allows businesses to manage their customer interactions across multiple channels. It provides a streamlined platform for handling customer queries, ensuring quick responses and high productivity.
+- Multi-Channel Support: With Chatwoot, businesses can stay connected with their customers across various platforms including email, Facebook, Instagram, Line, SMS, Telegram, Twitter, and WhatsApp. This ensures a seamless customer experience, regardless of the communication channel.
+- Real-Time Insights: Chatwoot provides real-time insights into your conversations and agent performance. It allows businesses to track their customer satisfaction score on autopilot, ensuring continuous improvement in customer service.
 
 ## Features
 
-- Multi-Channel Support: Manage customer interactions from various channels, including live chat, email, Facebook, Instagram, Twitter, and more.
-- Automations: Perform key actions on multiple conversations at once with automations. Save time and streamline your customer support operations.
-- Chatbots: Integrate chatbots to automate conversations and provide quick responses to customer queries.
-- Canned Responses: Access a curated collection of canned responses to use in your customer communication. Save time and provide consistent responses.
-- Keyboard Shortcuts: Use keyboard shortcuts to navigate and perform actions in Chatwoot quickly. Increase your productivity and efficiency.
-- Agent Performance Tracking: Track your agents' performance with auto-updating reports. Monitor response times, resolution rates, and customer satisfaction.
-- CSAT Score Measurement: Measure and track your CSAT (Customer Satisfaction) score on autopilot. Get insights into customer satisfaction levels.
-- Self-Hosted Instance: Set up and run a self-hosted instance of Chatwoot. Have full control over your data and infrastructure.
-- Extensive Documentation: Access product documentation, API reference, and a contribution guide to learn how to set up and customize Chatwoot.
+- Shared Inbox: Chatwoot offers a shared inbox feature that allows teams to collaborate and solve customer queries together. This ensures efficient workload management and faster resolution of customer issues.
+- Automations: Work smarter with Chatwoot's automation feature. It allows businesses to perform key actions on multiple conversations at once, saving time and improving efficiency.
+- Live Chat Channels: Chatwoot provides live chat channels to facilitate real-time communication with customers. This feature enables businesses to provide instant support and enhance customer satisfaction.
+- Chatbots: Chatwoot's chatbot feature allows businesses to automate conversations, providing quick responses to customer queries and improving agent productivity.
+- Mobile Apps: Stay connected with your customers on the go with Chatwoot's mobile apps. It ensures uninterrupted customer service, regardless of your location.
+- Integrations: Chatwoot can be integrated with various platforms including Slack, Dialogflow, and more. This allows businesses to extend Chatwoot's functionalities for back-office operations and other use cases.
 
 ## Links
 

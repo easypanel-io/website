@@ -13,18 +13,20 @@ description: How to install Prowlarr on Easypanel? 1-Click installation template
 
 ## Description
 
-Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. It supports management of both Torrent Trackers and Usenet Indexers and integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr. Prowlarr offers features such as Usenet support for 24 indexers natively, Torrent support for over 500 trackers, support for custom YML definitions via Cardigann, indexer sync to other applications, manual searching of trackers and indexers, indexer health and status notifications, and more.
+Prowlarr is a powerful indexer manager and proxy designed to integrate with various PVR applications. It is built on the popular arr .net/reactjs base stack, offering a seamless experience for users. Prowlarr supports the management of both Torrent Trackers and Usenet Indexers, eliminating the need for per app Indexer setup. It works in harmony with LazyLibrarian, Lidarr, Mylar3, Radarr, Readarr, and Sonarr, providing comprehensive management of your indexers. The app includes features such as Usenet support for 24 indexers natively, Torrent support for over 500 trackers, support for custom YML definitions, Indexer Sync to various apps, manual searching of Trackers &amp; Indexers, and much more. Prowlarr also provides Indexer health and status notifications and supports multiple releases pushing directly to your download clients.
+
+## Benefits
+
+- Seamless Integration: Prowlarr integrates effortlessly with various PVR apps such as LazyLibrarian, Lidarr, Mylar3, Radarr, Readarr, and Sonarr. This allows for a streamlined and efficient management of your indexers.
+- Comprehensive Management: With Prowlarr, you can manage both Torrent Trackers and Usenet Indexers. This eliminates the need for per app Indexer setup, making the process more convenient and less time-consuming.
+- Wide Support: Prowlarr supports Usenet for 24 indexers natively and Torrent for over 500 trackers. This wide range of support ensures that you can manage your indexers regardless of the platform they are on.
 
 ## Features
 
-- Usenet Support: Prowlarr natively supports 24 Usenet indexers, including Headphones VIP. It also supports any Newznab compatible indexer via 'Generic Newznab'.
-- Torrent Support: Prowlarr supports over 500 Torrent trackers, with more being added regularly. It also supports any Torznab compatible tracker via 'Generic Torznab'.
-- Custom YML Definitions: Prowlarr supports custom YML definitions via Cardigann, which includes JSON and XML parsing. This allows you to define and configure indexers according to your specific needs.
-- Indexer Sync: Prowlarr can sync indexers with Lidarr, Mylar3, Radarr, Readarr, and Sonarr, eliminating the need for manual configuration of these applications.
-- Manual Searching: Prowlarr allows you to manually search trackers and indexers at a category level. You can also perform parameter-based manual searching to find specific releases.
-- Push to Download Clients: Prowlarr supports pushing multiple releases at once directly to your download clients, making it easy to manage your downloads.
-- Indexer Health and Status Notifications: Prowlarr provides notifications for indexer health and status, allowing you to stay informed about the performance and availability of your indexers.
-- Per Indexer Proxy Support: Prowlarr supports proxying requests to indexers using SOCKS4, SOCKS5, HTTP, and Flaresolverr.
+- Indexer Sync: Prowlarr offers Indexer Sync to Lidarr, Mylar3, Radarr, Readarr, and Sonarr. This means you don't have to manually configure the other applications.
+- Manual Searching: Prowlarr allows for manual searching of Trackers & Indexers at a category level and parameter-based manual searching. This gives you more control and flexibility in finding what you need.
+- Indexer Health and Status Notifications: Stay informed about the health and status of your indexers with Prowlarr's notification feature. This ensures that you can promptly address any issues that may arise.
+- Per Indexer Proxy Support: Prowlarr provides per Indexer proxy support, including SOCKS4, SOCKS5, HTTP, and Flaresolverr. This enhances the security and efficiency of your indexer management.
 
 ## Links
 

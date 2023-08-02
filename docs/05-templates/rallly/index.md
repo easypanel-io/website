@@ -13,23 +13,19 @@ description: How to install Rallly on Easypanel? 1-Click installation template f
 
 ## Description
 
-Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier. It allows users to create meeting polls to find a time that works for everyone. The app is free to use and does not require login. It is mobile-friendly and provides notifications for participants. Users can also comment on polls. Rallly is open-source and self-hostable, giving users full control of their data. The app is ad-free and user-funded. It is created by Luke Vella and is available on GitHub.
+Rallly is a free, open-source tool designed to simplify your scheduling process. It allows you to create meeting polls in seconds, helping you find a time that works for everyone. With Rallly, you can ditch the back-and-forth emails and streamline your scheduling tasks for a more organized and less stressful workday. The app supports multiple languages and has been used to create over 100k+ polls by 45k+ registered users. Whether you&#39;re an executive assistant at a large organization or simply trying to coordinate a group event, Rallly is the perfect tool to keep your RSVPs simple and your scheduling process efficient.
 
 ## Benefits
 
-- Streamline your scheduling process: Ditch the back-and-forth emails and use Rallly to easily find a time that works for everyone.
-- Save time: Rallly helps you save time by automating the scheduling process and providing notifications for participants.
+- Efficient Scheduling: Rallly is designed to streamline your scheduling process, saving you time and reducing the stress of back-and-forth emails. It simplifies your scheduling tasks, making your workday more organized and less stressful.
+- Easy Poll Creation: With Rallly, you can set up a scheduling poll in as little time as possible. It's a simple and efficient way to find a time that works for everyone.
+- Multi-language Support: Rallly supports 10+ languages, making it accessible to users around the world. It's a tool that transcends language barriers, making scheduling meetings a breeze no matter where you are.
 
 ## Features
 
-- Scheduling, the smart way: Set individual start and end times for each option in your poll. Times can be automatically adjusted to each participant's timezone or they can be set to ignore timezones completely.
-- Mobile friendly: Rallly works great on mobile devices, allowing participants to respond to polls wherever they may be.
-- Notifications: Keep track of who's responded to your poll and get notified when participants vote or comment.
-- Comments: Participants can comment on your poll, and the comments will be visible to everyone.
-- No login required: You don't need to login to create or participate in a poll.
-- Open-source: The codebase is fully open-source and available on GitHub.
-- Self-hostable: Run Rallly on your own server to take full control of your data.
-- Ad-free: Rallly is user-funded and does not display ads.
+- Meeting Polls: Rallly allows you to create meeting polls to help schedule meetings with groups of people. The host of the meeting can select a few date and time options for participants to choose from, and then tally the results to find the best time.
+- No Login Required: Rallly is free to use and does not require a login. This means you can create as many polls as you want without the hassle of signing in.
+- User-Funded: Rallly is a user-funded project. This means it relies on the generosity of its users to keep it free and open-source.
 
 ## Links
 

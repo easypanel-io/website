@@ -13,20 +13,19 @@ description: How to install Netbox on Easypanel? 1-Click installation template f
 
 ## Description
 
-NetBox is a comprehensive DCIM solution that serves as the source of truth for everything on your network. It provides visibility and control across the entire enterprise, allowing efficient management of IP assets and customization of functionality to fit your needs.
+NetBox is a comprehensive solution designed to be the single source of truth for everything on your network. It provides a detailed overview of both physical and virtual assets, including power systems, cabling, IP addresses, and VLANs. The app is designed to facilitate network automation and monitoring, drawing from an authoritative plan to push out configurations and monitor changes across the enterprise. It offers a complete DCIM solution, providing visibility and control across the entire enterprise. NetBox also features efficient IP Address Management, ensuring the safe and efficient management of IP assets across the enterprise, thereby minimizing the risk of data entry errors. The app is customizable and can be integrated to extend its functionality to fit your specific needs.
 
 ## Benefits
 
-- Comprehensive DCIM Solution: Gain visibility and control across the entire enterprise.
-- IP Address Management: Efficient management of IP assets across the enterprise, removing the danger from data entry errors.
-- Customization and Integration: Customize and extend NetBox's functionality to fit your needs.
+- Comprehensive Network Management: NetBox provides a comprehensive solution for managing everything on your network. From physical components like power systems and cabling to virtual assets like IP addresses and VLANs, NetBox serves as the source of truth for your entire network.
+- Efficient IP Address Management: NetBox offers efficient management of IP assets across the enterprise, removing the danger from data entry errors. This ensures that your network remains organized and error-free.
+- Customizable and Integrable: NetBox is highly customizable and can be extended to fit your specific needs. This makes it a versatile tool that can be integrated into any network environment.
 
 ## Features
 
-- Built for Networks: NetBox has a curated data model specifically designed for network engineers and operators, covering all facets of network technology.
-- Customizable & Extensible: NetBox offers various customization and extension mechanisms, including custom fields, validation, export templates, webhooks, plugins, and REST & GraphQL APIs.
-- Always Open: NetBox is an open source application licensed under Apache 2, allowing complete access to the code base and avoiding vendor lock-in.
-- Powered by Python: NetBox is built on the Django framework for Python, making it easy for network engineers to extend its functionality using Python tools.
+- Comprehensive DCIM Solution: NetBox provides a comprehensive Data Center Infrastructure Management (DCIM) solution, giving you visibility and control across your entire enterprise.
+- IP Address Management: NetBox includes a feature for efficient management of IP assets across the enterprise. This feature helps to eliminate data entry errors and keeps your network organized.
+- Customization and Integration: NetBox allows you to customize and extend its functionality to fit your needs. This makes it a flexible tool that can be integrated into any network environment.
 
 ## Links
 

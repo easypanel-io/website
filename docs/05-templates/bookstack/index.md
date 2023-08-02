@@ -13,26 +13,24 @@ description: How to install Bookstack on Easypanel? 1-Click installation templat
 
 ## Description
 
-BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It is a free and open-source wiki software that allows users to create and manage books, chapters, and pages. The content in BookStack is fully searchable, and users can link directly to any paragraph to keep documentation connected. BookStack is highly configurable, allowing users to customize the name, logo, and registration options. It is built using PHP and MySQL and can run on a $5 Digital Ocean VPS. BookStack supports multiple languages and offers an optional Markdown editor. It also provides integrated authentication with social providers and enterprise options like Okta, SAML2, and LDAP. Other features include powerful search and linking, page revisions, image management, role and permission system, multi-factor authentication, dark and light modes, and more. BookStack is developed by Dan Brown and the community.
+BookStack is a free and open-source platform designed to help you organize and store information in a simple and efficient way. It is a self-hosted solution that allows you to create, edit, and manage content through an easy-to-use interface. The content is divided into three real-world groups: Books, Chapters, and Pages, making it easy to navigate and find the information you need. The platform also includes a powerful search feature that allows you to search at the book level or across all books, chapters, and pages. You can also link directly to any paragraph, keeping your documentation interconnected. BookStack offers configuration options that let you customize the system to suit your needs, including changing the name, logo, and registration options. It also includes built-in diagrams.net drawing capability for creating diagrams within your documentation, a markdown editor for those who prefer to write in markdown, and integrated authentication options. The platform supports multiple languages and offers both dark and light modes for a comfortable user experience. It also includes a full role and permission system, multi-factor authentication, and features like cross-book sorting, page revisions, and image management.
 
 ## Benefits
 
-- Simple and Easy to Use: BookStack has a simple and intuitive interface, making it easy for users to organize and store information.
-- Fully Searchable and Connected: The content in BookStack is fully searchable, and users can link directly to any paragraph to keep documentation connected.
-- Configurable and Customizable: BookStack is highly configurable, allowing users to customize the name, logo, registration options, and more.
-- Multi-Lingual Support: BookStack supports multiple languages, thanks to community contributors.
-- Integrated Authentication: BookStack provides integrated authentication with social providers like GitHub, Google, Slack, AzureAD, and more. It also offers options for enterprise environments like Okta, SAML2, and LDAP.
-- Powerful Features: BookStack offers powerful features such as search and linking, cross-book sorting, page revisions, image management, role and permission system, multi-factor authentication, dark and light modes, and more.
+- Organised Information Storage: BookStack is a simple, self-hosted platform that allows you to organise and store information in a structured manner. It breaks down content into three real-world groups: Books, Chapters, and Pages, making it easy to navigate and find the information you need.
+- Searchable and Connected Content: The content in BookStack is fully searchable, allowing you to find information quickly and efficiently. You can search at the book level or across all books, chapters, and pages. Plus, the ability to link directly to any paragraph keeps your documentation connected.
+- Customisable to Suit Your Needs: BookStack is highly configurable, allowing you to set it up to suit your specific use case. You can change the name, logo, and registration options, and decide whether the whole system is publicly viewable or not.
+- Multi-Lingual Support: BookStack supports multiple languages, allowing users to set their preferred language. This makes it a versatile tool for global teams and organisations.
 
 ## Features
 
-- Simple and Easy Interface: BookStack has a simple WYSIWYG interface for editing pages, and all content is organized into books, chapters, and pages.
-- Free and Open Source: BookStack is fully free and open-source, released under the MIT license.
-- Low System Requirements: BookStack is built using PHP and MySQL and can run on a $5 Digital Ocean VPS.
-- Built-In Diagrams: BookStack has built-in diagrams.net drawing capability for creating diagrams within documentation.
-- Optional Markdown Editor: BookStack supports writing in Markdown with a provided markdown editor and live-preview.
-- Multi-Factor Authentication: BookStack has built-in multi-factor authentication options, including TOTP and static backup codes.
-- Dark and Light Modes: BookStack provides both a light theme and a dark theme for the user interface.
+- Easy, Simple Interface: BookStack has been designed with simplicity in mind. The page editor features a straightforward WYSIWYG interface, making it easy for anyone to use.
+- Built-In diagrams.net: The page editor within BookStack has a built-in diagrams.net drawing capability, allowing for the quick and easy creation of diagrams within your documentation.
+- Optional Markdown Editor: If you prefer to write in Markdown, BookStack supports you. A markdown editor is provided, complete with a live-preview as you write your documentation.
+- Integrated Authentication: BookStack supports various login methods, including default email/password and social providers such as GitHub, Google, Slack, AzureAD and more. Enterprise environments can utilise Okta, SAML2 and LDAP options.
+- Powerful Features: BookStack comes packed with powerful features like cross-book sorting, page revisions, image management, and a full role and permission system to lock down content and actions as required.
+- Multi-Factor Authentication: For enhanced security, BookStack has built-in Multi-Factor Authentication (MFA) which can be enforced at a per-role level. MFA options include TOTP (Google/Microsoft Authenticator, Authy, etc.) and static backup codes.
+- Dark & Light Modes: BookStack provides its user interface in both a light theme and a dark theme, catering to individual user preferences. This is configurable at a user level.
 
 ## Links
 

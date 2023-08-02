@@ -13,7 +13,7 @@ description: How to install Wakapi on Easypanel? 1-Click installation template f
 
 ## Description
 
-A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+Wakapi is a powerful open-source tool designed to help you track and analyze your coding time. It allows you to monitor the time you&#39;ve spent coding on various projects, in different programming languages, and more. It&#39;s perfect for those who love statistics and want to gain insights into their coding habits. Wakapi provides fancy statistics and plots, public leaderboards, cool badges for readmes, and weekly email reports. It&#39;s built by developers for developers, ensuring it meets your needs perfectly. With Wakapi, you can easily keep track of your coding time and improve your productivity.
 
 ## Links
 

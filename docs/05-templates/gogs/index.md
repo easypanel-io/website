@@ -13,24 +13,22 @@ description: How to install Gogs on Easypanel? 1-Click installation template for
 
 ## Description
 
-Gogs is a self-hosted Git service that aims to be simple, stable, and extensible. It can be set up easily on various platforms and supports features like user management, repository access, webhooks, Git hooks, issues, pull requests, wiki, and more. Gogs is open source and free to use.
+Gogs is a self-hosted Git service designed to be simple, stable, and extensible. It allows you to set up your own Git service in the most painless way possible. The app is built with Go, enabling it to run on all platforms that Go supports, including Linux, macOS, Windows, and ARM-based systems. Gogs is lightweight and has low minimal requirements, making it possible to run even on an inexpensive Raspberry Pi. It offers a range of features including user dashboard, access to repositories via SSH, HTTP and HTTPS protocols, repository and organization management, and more. Gogs is 100% open source and free of charge, with all source code available under the MIT License.
 
 ## Benefits
 
-- Easy to install: Gogs can be installed by running the binary for your platform, using Docker or Vagrant, or getting it packaged. It has low minimal requirements and can even run on a Raspberry Pi or NAS devices.
-- Cross-platform: Gogs runs on any platform that Go can compile for, including Windows, Mac, Linux, and ARM-based systems.
-- Open source: Gogs is 100% open source and free of charge. All source code is available under the MIT License on GitHub.
+- Self-Hosted Git Service: Gogs is a painless self-hosted Git service. It is designed to be simple, stable, and extensible, and can be set up in the most straightforward way possible.
+- Cross-Platform: Gogs is a cross-platform application. It runs anywhere Go can compile for, including Windows, Mac, Linux, ARM, and more.
+- Lightweight: Gogs is lightweight and has low minimal requirements. It can run on an inexpensive Raspberry Pi, making it accessible to a wide range of users.
+- Open Source: Gogs is 100% open source and free of charge. All of its source code is available under the MIT License on GitHub.
 
 ## Features
 
-- User management: Gogs provides a user dashboard, user profile, and activity timeline for managing users.
-- Repository access: Gogs supports SSH, HTTP, and HTTPS protocols for accessing repositories.
-- Webhooks and Git hooks: Gogs allows you to set up webhooks for repositories, as well as Git hooks for custom actions.
-- Issues, pull requests, and wiki: Gogs provides features for managing issues, pull requests, and a wiki for collaboration.
-- Authentication: Gogs supports authentication via SMTP, LDAP, reverse proxy, GitHub.com, and GitHub Enterprise with 2FA.
-- Customization: Gogs allows you to customize HTML templates, static files, and more.
-- Database backend: Gogs supports various database backends, including PostgreSQL, MySQL, SQLite3, and TiDB.
-- Localization: Gogs is available in over 31 languages.
+- User Dashboard: Gogs provides a user dashboard, user profile, and activity timeline. This allows users to manage their projects and track their progress effectively.
+- Access Repositories: With Gogs, users can access repositories via SSH, HTTP, and HTTPS protocols. This provides flexibility and convenience for users.
+- Repository Management: Gogs offers comprehensive repository management. It includes features like repository and organization webhooks, Git hooks, deploy keys, Git LFS, and more.
+- Authentication: Gogs supports authentication via SMTP, LDAP, reverse proxy, GitHub.com, and GitHub Enterprise with 2FA. This ensures the security and integrity of your projects.
+- Customization: Gogs allows users to customize HTML templates, static files, and many others. This gives users the freedom to tailor the application to their specific needs.
 
 ## Links
 

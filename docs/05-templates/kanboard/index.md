@@ -13,28 +13,21 @@ description: How to install Kanboard on Easypanel? 1-Click installation template
 
 ## Description
 
-Kanboard is a free and open source Kanban project management software. It provides a visual and clear overview of tasks, allowing users to easily manage and track their projects. With features like drag and drop task management, limiting work in progress, and search and filter capabilities, Kanboard helps teams stay organized and focused. The software is simple and minimalistic, with a user-friendly interface that requires no training. Kanboard also offers automatic actions to automate workflow, multiple authentication backends for easy integration, and is available in over 30 languages. It is free and open source, distributed under the MIT License.
+Kanboard is a free and open-source project management software that utilizes the Kanban methodology. It provides a visual and clear overview of your tasks, allowing you to easily manage your projects by dragging and dropping tasks between columns. The app is designed with simplicity and minimalism in mind, limiting the number of features to maintain focus on your work. It also includes a search and filter function, enabling you to quickly find tasks using a simple query language. Tasks can be broken down into sub-tasks, with the ability to add comments, documents, and change various aspects such as color, category, assignee, and due date. Kanboard also offers automated actions to streamline your workflow, eliminating the need for repetitive manual tasks. It supports multiple authentication backends and is translated in over 30 languages.
 
 ## Benefits
 
-- Visualize your work: Kanboard provides a visual and clear overview of tasks, allowing users to easily track and manage their projects.
-- Limit work in progress: Kanboard helps users stay focused and efficient by limiting the number of tasks they can work on at a time.
-- Simple and minimalistic: Kanboard has a simple and minimalistic user interface, focusing on simplicity and ease of use.
-- Search and filter tasks: Kanboard offers a simple query language that allows users to quickly search and filter tasks based on various criteria.
-- Automate workflow: Kanboard provides automated actions to streamline workflow and reduce manual repetitive tasks.
-- Multiple authentication backends: Kanboard supports LDAP/Active Directory integration and OAuth2 providers like Google, GitHub, and GitLab.
-- Free and open source: Kanboard is distributed under the permissive MIT License and is developed by a community of contributors.
+- Visualize Your Work: Kanboard allows you to visualize your work in a clear and concise manner. It helps you to limit your work in progress and focus on your goal. The Kanban board provides a visual and clear overview of your tasks, making it easy to understand the current status of a project.
+- Efficient Task Management: With Kanboard, you can easily manage your project by dragging and dropping tasks. You can add, rename, and remove columns at any time to adapt the board to your project. It also allows you to limit your work in progress to be more efficient and avoid multitasking.
+- Automate Your Workflow: Kanboard offers automated actions to streamline your workflow. It allows you to automate repetitive tasks such as changing the assignee, colors, categories, and more based on events. This feature helps to save time and increase productivity.
 
 ## Features
 
-- Visual and clear overview of tasks: The Kanban board provides a visual representation of tasks, making it easy to understand the current status of a project.
-- Drag and drop task management: Tasks can be easily managed by dragging and dropping them between columns on the Kanban board.
-- Limit work in progress: Users can set limits on the number of tasks they can work on at a time, helping them stay focused and efficient.
-- Search and filter capabilities: Kanboard offers a simple query language that allows users to search and filter tasks based on various criteria.
-- Tasks, subtasks, attachments, and comments: Tasks can be broken down into subtasks, and users can add attachments and comments to tasks.
-- Automatic actions: Kanboard provides automated actions that can be triggered based on events, allowing users to automate their workflow.
-- Translated in 30+ languages: Kanboard is available in over 30 languages, thanks to contributions from the community.
-- Multiple authentication backends: Kanboard supports LDAP/Active Directory integration and OAuth2 providers for easy authentication.
+- Task Breakdown: Kanboard allows you to break down a task into sub-tasks, estimate the time or complexity, and describe your task using Markdown syntax. You can add comments, documents, change the color, the category, the assignee, and the due date.
+- Search and Filter Tasks: Kanboard has a simple query language that offers the flexibility to find tasks quickly. You can dynamically apply custom filters on the board to find what you need. Search by assignees, description, categories, due date, and more.
+- Task Duplication and Movement: With Kanboard, you can move or duplicate your tasks across projects with just one click. This feature provides flexibility and ease in managing tasks across different projects.
+- Multilingual Support: Kanboard supports multiple languages, making it accessible to users around the globe. It is translated in over 30 languages including Bahasa Indonesia, Bosnian, Brazilian Portuguese, Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Spanish, Swedish, Thai, Turkish, Vietnamese.
+- Multiple Authentication Backends: Kanboard can be connected to your LDAP/Active Directory server or use any OAuth2 provider such as Google, GitHub, GitLab, etc. This feature ensures secure and flexible authentication.
 
 ## Links
 

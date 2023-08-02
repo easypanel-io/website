@@ -13,21 +13,19 @@ description: How to install Deluge on Easypanel? 1-Click installation template f
 
 ## Description
 
-Deluge is a BitTorrent client that utilizes a daemon/client model. It has various user interfaces available such as the GTK-UI, Web-UI, and Console-UI. It uses libtorrent at its core to handle the BitTorrent protocol.
+Deluge is a comprehensive BitTorrent client designed to cater to your torrenting needs. It operates on a daemon/client model and is equipped with various user interfaces, including GTK-UI, Web-UI, and Console-UI. At its core, Deluge uses libtorrent to efficiently manage the BitTorrent protocol. The app allows you to start various user-interfaces and the Deluge daemon with simple commands. It also provides a web UI that can be accessed at http://localhost:8112 with the default password &#39;deluge&#39;. For advanced users, Deluge offers features like bandwidth tweaking, VPN, and reverse proxy.
 
 ## Benefits
 
-- Flexible User Interfaces: Deluge offers multiple user interfaces, including GTK-UI, Web-UI, and Console-UI, allowing users to choose the interface that suits their preferences.
-- Daemon/Client Model: Deluge uses a daemon/client model, which allows for running the Deluge daemon in the background and connecting to it remotely using various user interfaces.
-- Wide Platform Support: Deluge is available for FreeBSD, Linux, MacOSX, Windows, and can also be installed from source code. This wide platform support ensures that users can use Deluge on their preferred operating system.
+- Efficient Torrent Management: Deluge is a BitTorrent client that efficiently manages your torrent downloads. It uses a daemon/client model, making it a powerful tool for handling the BitTorrent protocol.
+- Multiple User Interfaces: Deluge offers various user interfaces to cater to different user preferences. These include the GTK-UI, Web-UI, and Console-UI, providing flexibility and convenience.
 
 ## Features
 
-- Download Plugins: Deluge supports download plugins, which enhance its functionality and allow users to customize their BitTorrent downloading experience.
-- Forum Support: Deluge has an active forum where users can seek support, ask questions, and participate in discussions related to the Deluge BitTorrent client.
-- Bug Reporting and Development: Deluge provides a bug reporting system and supports development through Trac and GitHub. Users can report bugs and contribute to the development of the Deluge client.
-- Authentication and Bandwidth Tweaking: Deluge offers advanced usage features such as authentication and bandwidth tweaking, allowing users to customize their Deluge client according to their specific needs.
-- VPN and Reverse Proxy Support: Deluge supports VPN and reverse proxy, enabling users to enhance their privacy and security while using the Deluge BitTorrent client.
+- Daemon/Client Model: Deluge operates on a daemon/client model. This allows it to run the Deluge daemon in the background, enabling efficient torrent management.
+- Various User Interfaces: Deluge provides multiple user interfaces. You can choose from the GTK-UI, Web-UI, and Console-UI based on your preference or needs.
+- Libtorrent Core: At its core, Deluge uses libtorrent to handle the BitTorrent protocol. This ensures robust and reliable torrent downloading.
+- Remote Connection: Deluge allows clients to remotely connect to the daemon, providing flexibility and convenience for managing your torrents.
 
 ## Links
 

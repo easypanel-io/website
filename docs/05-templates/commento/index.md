@@ -13,23 +13,23 @@ description: How to install Commento on Easypanel? 1-Click installation template
 
 ## Description
 
-Commento is a comments widget that can be added to any website. It allows readers to leave comments without signing up and provides features such as sticky comments, upvotes and downvotes, moderation tools, spam detection, and nested replies. Adding Commento to a website is easy and takes less than 10 minutes. The widget can be customized to match the website&#39;s look, and it is used by hundreds of bloggers, startups, magazines, and non-profits.
+Commento is a comments widget designed to enhance the interaction on your website. It allows your readers to contribute to the discussion by upvoting comments that add value and downvoting those that don&#39;t. The widget supports markdown formatting, enabling bold, italics, external links, quotes, bullet points, code, and more. Commento also provides moderation tools to manage the conversation, allowing you to lock heated threads, remove off-topic comments, and enforce timeouts. It features a spam detection system, saving you the hassle of dealing with spammers. The widget supports nested replies, making discussions easier to follow. Importantly, Commento does not require your readers to sign up, reducing friction and encouraging more interaction. You can easily customize the look of the widget to match your website&#39;s aesthetics.
 
 ## Benefits
 
-- Easy to use: Adding Commento to your website is easy and painless. It usually takes less than 10 minutes from start to finish.
-- Customizable: Commento can be customized to match your website's look with just a few lines of CSS.
-- No sign-up required: Readers can comment without signing up, reducing friction and increasing engagement.
-- Spam detection: Commento automatically detects and filters out spam comments, saving you time and effort.
-- Nested replies: Comments can be replied to in a nested format, making discussions easier to follow.
+- Engage Your Audience: Commento allows your readers to engage in discussions, ask questions, and provide feedback on your content. This interaction can enhance the user experience and increase the value of your website.
+- Effortless Integration: Adding Commento to your website is a breeze. It usually takes less than 10 minutes from start to finish, making it a quick and easy way to enhance your website's functionality.
+- Customizable Appearance: While Commento looks great out of the box, you can easily customize the widget to match your website's look. This ensures a seamless integration with your existing design.
+- Spam-Free Environment: Don't waste time fighting spammers. Commento comes with built-in spam detection, ensuring a clean and pleasant discussion environment for your readers.
 
 ## Features
 
-- Sticky comments: Pin important comments to the top of the comment thread for better visibility.
-- Upvotes and downvotes: Readers can upvote comments that contribute to the discussion, helping to highlight valuable content.
-- Markdown formatting: Supports markdown formatting for text styling, links, quotes, bullet points, and code snippets.
-- Moderation tools: Lock heated threads, remove off-topic comments, and enforce timeouts to maintain a healthy discussion environment.
-- Import comments: Easily switch from Disqus to Commento without losing existing comments by uploading your data export from Disqus.
+- Sticky Comments: Pin important comments to the top of the thread to ensure they don't get lost in the discussion.
+- Upvotes and Downvotes: Your readers can upvote comments that contribute to the discussion and downvote those that don't, promoting a healthy and constructive conversation.
+- Markdown Formatting: Commento supports markdown formatting, allowing your readers to use bold, italics, external links, quotes, bullet points, code, and more in their comments.
+- Moderation Tools: Manage your comment threads effectively with Commento's moderation tools. You can lock heated threads, remove off-topic comments, and enforce timeouts.
+- Nested Replies: Commento supports nested replies, similar to how Reddit comments work. This makes discussions easier to follow and understand.
+- No Sign-Up Required: Commento reduces friction by allowing your readers to comment without creating an account, encouraging more people to join the discussion.
 
 ## Links
 

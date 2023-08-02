@@ -13,38 +13,22 @@ description: How to install Gitea on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Gitea is a lightweight DevOps platform that brings teams and developers high-efficiency but easy operations from planning to production. It enables the creation and management of repositories, exploration of commit history and code files, review and merging of code commits, collaboration management, branch handling, and more. Gitea also supports code review, CI/CD, project management, package management, and offers universal compatibility and flexible deployment options. It is open-source, secure, and can be tailored to meet specific requirements. Gitea integrates with various tools and offers support plans for additional benefits.
+Gitea is a lightweight DevOps platform designed to streamline operations from planning to production. It enables the creation and management of repositories, exploration of commit history and code files, review and merging of code commits, and more. Gitea also supports standard Git features, including tags, cherry-picking, hooks, and integrated collaboration tools. It features an integrated CI/CD system, Gitea Actions, that is compatible with GitHub Actions. With Gitea, you can efficiently manage a project&#39;s requirements, features, and bugs through issue tasks, labeling, and kanban project boards. It supports more than 20 different kinds of public or private package management. Gitea is an open-source project that accelerates development and collaboration, offering universal compatibility and flexible deployment options. It also provides a powerful built-in CI/CD system and is developed with a focus on security. Gitea can be tailored to your requirements and is integrated with your favorite tools to boost your workflow.
 
 ## Benefits
 
-- High-efficiency DevOps: Gitea streamlines the DevOps process, making it easy for teams and developers to plan, develop, and deploy software efficiently.
-- Code Review: Gitea provides code review capabilities, allowing reviewers to examine code online, submit comments or inquiries, and facilitate enhanced code quality.
-- CI/CD Integration: Gitea features an integrated CI/CD system, Gitea Actions, compatible with GitHub Actions. Users can create workflows using YAML format or utilize existing plugins.
-- Project Management: Gitea helps manage project requirements, features, and bugs through issue tasks, labeling, and kanban project boards. It incorporates branches, tags, milestones, assignments, time tracking, deadlines, and dependencies.
-- Package Management: Gitea supports more than 20 different kinds of public or private package management, including popular ones like npm, Maven, and PyPI.
-- Open Source: Gitea is an open-source project licensed under the MIT License, allowing users to contribute and make the platform better for everyone.
-- Universal Compatibility: Gitea is universally compatible with diverse operating systems and environments, including Linux, Windows, macOS, Freebsd, and Kubernetes. It also supports multiple architectures.
-- Flexible Deployment Options: Gitea offers flexible deployment options, supporting both single server setups and replication configurations. It seamlessly integrates with various databases.
-- Secure Code Ownership: Gitea is developed using Golang, a memory-safe language, with a focus on security. It supports secure systems, code signing enforcement, and WebAuthn-based 2FA login.
-- Customizable: Gitea offers various configurations to satisfy diverse user needs. It allows enabling or disabling features, customizing site themes, UI languages, and more.
-- Integration with Favorite Tools: Gitea integrates with popular tools like Slack, Discord, MS Teams for chat, and Github Actions, Drone, Woodpecker, ArgoCD, Jenkins for CI/CD. It also provides API and webhooks for custom workflows.
-- Support Plans: Gitea is available for free under the MIT license with community support. Additional support plans are offered for installation/upgrade service, professional business support, and customized requirements.
+- Efficient Development and Collaboration: Gitea is a lightweight DevOps platform that accelerates development and collaboration. It offers high-efficiency operations from planning to production, making development simpler and faster.
+- Secure Code Ownership: Developed using Golang, a memory-safe language, Gitea focuses on security. It ensures that you securely own your code, with features like branch protection for enforcing code signing and WebAuthn-based 2FA login.
+- Flexible and Customizable: Gitea offers universal compatibility and flexible deployment options. It can be tailored to your requirements, allowing you to enable or disable features with a single configuration file, customize site themes, UI languages, and more.
+- Integrated with Your Favorite Tools: Gitea boosts your workflow with its versatile integrations. It syncs seamlessly with chat tools like Slack, Discord, MS Teams, Lark, and more, and improves workflows with CI/CD service compatibility.
 
 ## Features
 
 - Code Hosting: Gitea enables the creation and management of repositories, exploration of commit history and code files, review and merging of code commits, collaboration management, branch handling, and more.
-- Code Review: Gitea accommodates both Pull Request and AGit workflows for code review. Reviewers can examine code online, submit comments or inquiries, and submitters can view and address the feedback.
-- CI/CD: Gitea features an integrated CI/CD system, Gitea Actions, compatible with GitHub Actions. Users can create workflows using YAML format or utilize existing plugins. It also supports third-party CI/CD integrations.
-- Project Management: Gitea efficiently manages a project's requirements, features, and bugs through issue tasks, labeling, and kanban project boards. It incorporates branches, tags, milestones, assignments, time tracking, deadlines, and dependencies.
+- Code Review: Gitea's code review accommodates both Pull Request and AGit workflows. Reviewers can easily examine code online and submit comments or inquiries, facilitating enhanced code quality.
+- CI/CD: Gitea features an integrated CI/CD system, Gitea Actions, that is compatible with GitHub Actions. Users can create workflows using the familiar YAML format or utilize numerous existing plugins.
+- Project Management: With Gitea, you can efficiently manage a project's requirements, features, and bugs through issue tasks, labeling, and kanban project boards. These tools help plan and track the progress of your software.
 - Package Management: Gitea supports more than 20 different kinds of public or private package management, including Cargo, Chef, Composer, Conan, Conda, Container, Helm, Maven, npm, NuGet, Pub, PyPI, RubyGems, Vagrant, and more.
-- Open Source: Gitea is an open-source project licensed under the MIT License. Users can contribute to make the project better for everyone.
-- Accelerate Development & Collaboration: Gitea runs faster with lower resource usage while maintaining feature richness. It simplifies development and collaboration processes.
-- Run Gitea Anywhere: Gitea offers universal compatibility with diverse operating systems and environments. It is compatible with multiple architectures and supports various databases. It provides flexible deployment options.
-- Powerful built-in CI/CD: Gitea Actions is an internal CI/CD system that offers compatibility with GitHub Actions. It has an integrated UI and supports workflow/action syntax.
-- Securely Own Your Code: Gitea is developed using Golang, a memory-safe language, with a focus on security. It is compatible with various secure systems, supports branch protection for code signing enforcement, and offers WebAuthn-based 2FA login.
-- Tailor Gitea to Your Requirements: Gitea offers various configurations to satisfy diverse user needs. It can be set up as a private or public instance and allows enabling or disabling features, customizing site themes, UI languages, and more.
-- Integrated with Your Favorite Tools: Gitea integrates with popular tools like Slack, Discord, MS Teams for chat, and Github Actions, Drone, Woodpecker, ArgoCD, Jenkins for CI/CD. It provides API and webhooks for custom workflows.
-- Service Plans: Gitea is available for free under the MIT license. Support plans are offered for additional benefits, including installation/upgrade service, professional business support, and customized requirements.
 
 ## Links
 

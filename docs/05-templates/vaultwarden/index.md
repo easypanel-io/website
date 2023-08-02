@@ -13,7 +13,7 @@ description: How to install Vaultwarden on Easypanel? 1-Click installation templ
 
 ## Description
 
-Vaultwarden is an unofficial Bitwarden server implementation written in Rust. It is compatible with the official Bitwarden clients, and is ideal for self-hosted deployments where running the official resource-heavy service is undesirable. Vaultwarden is targeted towards individuals, families, and smaller organizations.
+Vaultwarden is an unofficial Bitwarden server implementation designed for self-hosted deployments. It is written in Rust and is compatible with the official Bitwarden clients. This application is ideal for individuals, families, and smaller organizations who find the official resource-heavy service undesirable. Vaultwarden supports a wide range of features including personal and organization vault support, password sharing and access control, file attachments, two-step login via email, Duo, YubiKey, and FIDO2 WebAuthn, and many more. It also supports live sync for desktop/browser clients/extensions and mobile clients (Android/iOS). However, it does not prioritize the development of features mainly useful to larger organizations such as single sign-on and directory syncing.
 
 ## Instructions
 
@@ -21,17 +21,18 @@ To access the administration interface, please go to /admin on your installation
 
 ## Benefits
 
-- Self-hosted: Vaultwarden allows you to host your own Bitwarden server, giving you full control over your data and privacy.
-- Compatible with official clients: Vaultwarden is compatible with the official Bitwarden clients, so you can continue using your favorite client apps.
-- Lightweight: Vaultwarden is written in Rust and is designed to be lightweight, making it ideal for smaller deployments.
+- Self-hosted deployment: Vaultwarden allows you to host your own Bitwarden server, giving you full control over your data and privacy.
+- Compatibility with official Bitwarden clients: Vaultwarden is fully compatible with the official Bitwarden clients, ensuring a seamless user experience.
+- Ideal for individuals, families, and smaller organizations: Vaultwarden is designed to meet the needs of individuals, families, and smaller organizations, providing a lightweight and efficient solution.
 
 ## Features
 
-- Web interface: Vaultwarden provides a web interface similar to the official Bitwarden web interface, allowing you to access your passwords and other data from any device with a web browser.
-- Personal and organization vault support: Vaultwarden supports both personal and organization vaults, allowing you to organize and share your passwords and other data.
-- Password sharing and access control: Vaultwarden allows you to share passwords with others and control their access to your shared items.
-- File attachments: Vaultwarden supports attaching files to your items, allowing you to store additional information or documents securely.
-- Two-step login: Vaultwarden supports two-step login using email, Duo, YubiKey, and FIDO2 WebAuthn, providing an extra layer of security for your account.
+- Web interface: Access your vault and manage your passwords through a user-friendly web interface.
+- Password sharing and access control: Share passwords securely with others and control their access to your shared items.
+- File attachments and website icons: Attach files to your passwords and store website icons for easy identification.
+- Two-step login and authentication options: Enhance the security of your vault with two-step login and authentication options, including email, Duo, YubiKey, and FIDO2 WebAuthn.
+- Emergency Access and Master password re-prompt: Set up emergency access to your vault and enable master password re-prompt for added security.
+- Live sync for desktop/browser and mobile clients: Keep your vault in sync across all your devices, including desktop/browser clients/extensions and mobile clients (Android/iOS).
 
 ## Links
 

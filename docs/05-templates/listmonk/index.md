@@ -13,22 +13,23 @@ description: How to install Listmonk on Easypanel? 1-Click installation template
 
 ## Description
 
-listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
+Listmonk is a self-hosted, high-performance mailing list and newsletter manager. It is designed to manage millions of subscribers across various single and double opt-in lists, with custom JSON attributes for each subscriber. The app allows you to query and segment subscribers with SQL expressions and offers a fast bulk importer for easy integration with external CRMs and subscriber databases. Listmonk also provides a simple API for sending transactional messages to subscribers using pre-defined templates. These messages can be sent via email, SMS, Whatsapp, or any medium via Messenger interfaces. The app also includes simple analytics and visualization tools, a powerful templating system for creating dynamic email templates, and a media manager for uploading images for email campaigns. Listmonk is free, open-source, and designed for high performance, with a single binary application that runs everywhere with a minimal CPU and memory footprint.
 
 ## Benefits
 
-- Performance: listmonk is designed to handle millions of subscribers and can send campaigns of millions of emails. It has a low CPU and memory footprint, making it efficient and scalable.
-- Flexibility: listmonk offers a range of features including mailing list management, transactional mails, analytics, templating, media management, and more. It can be easily integrated with external systems and supports multiple messaging mediums.
-- Privacy: listmonk prioritizes subscriber privacy by allowing them to blocklist themselves, export their data, and wipe their data with a single click.
+- High Performance: Listmonk is a high-performance mailing list and newsletter manager that can handle millions of subscribers with ease. It is designed to be efficient and fast, ensuring that your campaigns reach your audience quickly and effectively.
+- Customizable: With Listmonk, you have the power to customize your newsletters to your liking. It supports powerful, dynamic email templates with the Go templating language, allowing you to create unique and engaging content for your subscribers.
+- Privacy Focused: Listmonk respects the privacy of your subscribers. It allows subscribers to permanently blocklist themselves, export all their data, and to wipe all their data in a single click, ensuring that their privacy is always protected.
 
 ## Features
 
-- Mailing Lists: Manage millions of subscribers across multiple lists with custom JSON attributes. Query and segment subscribers using SQL expressions. Import data in bulk or integrate with external CRMs and subscriber databases.
-- Transactional Mails: Send transactional messages to subscribers using pre-defined templates. Supports various messaging mediums including email, SMS, and messaging interfaces like Whatsapp.
-- Analytics: Provides simple analytics and visualizations. Allows easy integration with external visualization programs.
-- Templating: Create dynamic email templates using the Go templating language. Supports template expressions, logic, and functions. Write emails in HTML, Markdown, or plain text.
-- Media Management: Upload images for email campaigns on the server's filesystem or use S3 compatible backends like Amazon S3 or Minio.
-- Extensibility: Connect HTTP webhooks to send messages through various mediums like SMS, Whatsapp, FCM notifications, and more.
+- Mailing Lists Management: Manage millions of subscribers across many single and double opt-in lists with custom JSON attributes for each subscriber. Query and segment subscribers with SQL expressions.
+- Transactional Mails: Listmonk provides a simple API to send arbitrary transactional messages to subscribers using pre-defined templates. Send messages as e-mail, SMS, Whatsapp messages or any medium via Messenger interfaces.
+- Analytics: Listmonk comes with simple analytics and visualizations. Connect external visualization programs to the database easily with the simple table structure.
+- Templating: Create powerful, dynamic e-mail templates with the Go templating language. Use template expressions, logic, and 100+ functions in subject lines and content.
+- Performance: Listmonk is designed for high performance. It is multi-threaded, high-throughput, multi-SMTP email queues. It has throughput and sliding window rate limiting for fine grained control.
+- Media Management: Use the media manager to upload images for e-mail campaigns on the server's filesystem, Amazon S3, or any S3 compatible (Minio) backend.
+- Extensibility: More than just e-mail campaigns. Connect HTTP webhooks to send SMS, Whatsapp, FCM notifications, or any type of messages.
 
 ## Links
 

@@ -13,23 +13,22 @@ description: How to install Monica on Easypanel? 1-Click installation template f
 
 ## Description
 
-Monica is an open-source personal relationship management system that helps you organize and record your interactions with your loved ones. It allows you to keep track of important information about your friends and family, such as activities, conversations, birthdays, and more. With Monica, you can strengthen your relationships and be a better friend, family member, or spouse.
+OfficeLife is an all-in-one tool designed to manage a company efficiently. It serves as your personal CRM, helping you organize and follow-up on your social interactions, thereby strengthening your relationships. With Monica, you can easily log and remember important details about your friends, family, and colleagues. It allows you to store everything you know about your loved ones in one place, from their work information, family details, activities you&#39;ve done together, to reminders about important dates. Monica is designed for busy individuals striving to maintain a good work-life balance. It&#39;s a private space, free from ads or malicious software, where you can safely document what you know about who you love. Monica is open source, ensuring transparency and security.
 
 ## Benefits
 
-- Organize Your Relationships: Monica provides an easy-to-use interface to store everything you know about your loved ones. You can add and manage contacts, define relationships between contacts, set reminders for important dates, and more.
-- Stay Connected: With Monica, you can stay in touch with your contacts by sending reminders at a given interval. You can also record activities, tasks, and gifts related to your contacts, ensuring that you never miss an important event or occasion.
-- Personalize Your Experience: Monica allows you to customize your contact fields, define custom genders, and track conversations on social media or SMS. You can also export and import data, making it easy to manage your information across different platforms.
+- Strengthen Your Relationships: OfficeLife, our new open source product, is designed to help you manage your personal relationships more effectively. It allows you to log and remember important details about your loved ones, helping you to be a better friend, family member, or spouse.
+- Organize Your Social Interactions: With OfficeLife, you can easily organize your social interactions. It provides a simple interface to store everything you know about your loved ones, from their work information to the activities you've done together.
+- Manage Your Time: OfficeLife is designed for busy people trying to find a good work/life balance. It helps you remember to call a friend, wish a nephew a happy birthday, or invite someone special for dinner next week.
+- Secure and Private: OfficeLife is a private place for your eyes only, without any ads or malicious software. You can safely document what you know about who you love. And if you want another level of security, you can always install OfficeLife on a server that you own, for free.
 
 ## Features
 
-- Contact Management: Add and manage contacts, define relationships between contacts, and track activities, tasks, and gifts related to your contacts.
-- Reminders: Set automatic reminders for birthdays and other important dates, and stay in touch with your contacts by sending reminders at a given interval.
-- Debt Management: Manage debts and record notes about your contacts, including how you met them and other important information.
-- Journal: Keep a basic journal to record how your day went and upload documents and photos related to your contacts.
-- Customization: Customize your contact fields, define custom genders, and track conversations on social media or SMS.
-- Data Export and Import: Export and import data, including contacts as vCards, making it easy to manage your information across different platforms.
-- Open Source: Monica is open source, meaning the code is publicly available and can be scrutinized by thousands. It is transparent, secure, and free to use.
+- Contact Management: OfficeLife allows you to add and manage contacts, define relationships between contacts, and manage debts. It also provides the ability to add notes to a contact and record how you met someone.
+- Reminders and Activities: With OfficeLife, you can set automatic reminders for birthdays and stay in touch with a contact by sending reminders at a given interval. It also allows you to manage activities with a contact.
+- Gifts and Tasks: OfficeLife provides features for managing gifts given and received and ideas for gifts. It also allows you to manage tasks.
+- Journal and Document Upload: OfficeLife includes a basic journal feature that allows you to record how your day went. It also allows you to upload documents and photos.
+- Data Export and Import: OfficeLife provides features for exporting and importing data. You can export contacts as vCards and define custom genders and activity types.
 
 ## Links
 

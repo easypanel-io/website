@@ -13,19 +13,19 @@ description: How to install Gotenberg on Easypanel? 1-Click installation templat
 
 ## Description
 
-Gotenberg is a Docker-powered stateless API for PDF files. It provides a developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more!
+Gotenberg is a Docker-powered stateless API designed to handle PDF files. It offers a developer-friendly interface to interact with robust tools like Chromium and LibreOffice, enabling the conversion of various document formats such as HTML, Markdown, Word, Excel, and more into PDF files. The app also supports an asynchronous workflow with a webhook feature, allowing you to upload the output file to your preferred destination. Gotenberg is a modular platform, meaning you can customize each module according to your needs. Additionally, it provides the option to build your own Docker image by adding new tools and creating modules that offer new routes to the API.
 
 ## Benefits
 
-- Easy Integration: Drop the Docker image in your stack and start using the API without the need to install each tool individually.
-- Modular Platform: Customize the platform by adding new tools and creating modules that provide new routes to the API.
-- Asynchronous Workflow: Upload the output file to the destination of your choice using the webhook feature.
+- Efficient Document Conversion: Gotenberg is a Docker-powered stateless API that efficiently converts various document formats into PDF files. It works with HTML, Markdown, Word, Excel, and more, making it a versatile tool for all your document conversion needs.
+- Asynchronous Workflow: Gotenberg's webhook feature allows for an asynchronous workflow. You can upload the output file to the destination of your choice, with many options to fit your requirements, from the custom HTTP headers sent to your webhook to the HTTP method used to call it.
+- Modular Platform: Gotenberg is a modular platform composed of modules, each with properties you may customize to your liking. This flexibility allows you to tailor the platform to your specific needs.
 
 ## Features
 
-- Convert Documents: Convert various document formats (HTML, Markdown, Word, Excel, etc.) into PDF files.
-- Merge Documents: Merge multiple PDF files into a single PDF document.
-- Customize Output: Customize the output PDF by setting properties like landscape, margins, and more.
+- Document Conversion: Gotenberg provides a developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting various document formats into PDF files.
+- Webhook Feature: The webhook feature allows you to upload the output file to the destination of your choice. You can customize the HTTP headers and the HTTP method used to call your webhook.
+- Modular Design: Gotenberg is composed of modules, each with properties you can customize. This modular design allows for a high degree of flexibility and adaptability.
 
 ## Links
 

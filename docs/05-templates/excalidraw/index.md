@@ -13,30 +13,23 @@ description: How to install Excalidraw on Easypanel? 1-Click installation templa
 
 ## Description
 
-Excalidraw is an open-source virtual hand-drawn style whiteboard app. It allows users to create beautiful hand-drawn like diagrams, wireframes, or any other type of drawing. The app features an infinite, canvas-based whiteboard with a hand-drawn style. It also supports dark mode, customization, image support, shape libraries, localization, and export to PNG, SVG, and clipboard. Other features include arrow-binding, undo/redo, zoom and panning support. The app is hosted at excalidraw.com and supports PWA, real-time collaboration, end-to-end encryption, local-first support, and shareable links. The Excalidraw npm package can be installed to use the app locally. The app is actively maintained and welcomes contributions and bug reports. It is integrated with various platforms and services such as VScode, Google Cloud, CodeSandbox, Obsidian, Replit, Slite, Notion, and HackerRank. Excalidraw is sponsored by Open Collective and offers a paid version called Excalidraw+.
+Excalidraw is an open-source virtual whiteboard designed to bring your creativity to life. It allows you to create beautiful hand-drawn like diagrams, wireframes, or any other visuals you can imagine. The app is equipped with an infinite, canvas-based whiteboard that supports a hand-drawn like style. It offers a wide range of tools including rectangle, circle, diamond, arrow, line, free-draw, eraser, and more. You can customize your drawings with the help of image support and shape libraries. The app also supports localization and allows you to export your creations to PNG, SVG, and clipboard. It also features an open format that lets you export drawings as an .excalidraw json file. The app is also equipped with features like arrow-binding, labeled arrows, undo/redo, and zoom and panning support. Excalidraw also offers real-time collaboration and end-to-end encryption for secure and efficient teamwork.
 
 ## Benefits
 
-- Open-Source: Excalidraw is free and open-source, allowing users to contribute and customize the app.
-- Hand-Drawn Style: The app features a hand-drawn like style, giving drawings a unique and artistic look.
-- Collaborative: Excalidraw supports real-time collaboration, allowing multiple users to work on the same drawing simultaneously.
-- End-to-End Encryption: The app ensures the security of user data with end-to-end encryption, protecting it from unauthorized access.
-- Local-First Support: Excalidraw autosaves drawings to the browser, providing a local-first approach and ensuring data persistence.
+- Infinite, Canvas-Based Whiteboard: Excalidraw provides an infinite, canvas-based whiteboard, allowing you to create and expand your ideas without any limitations.
+- Hand-Drawn Style: With Excalidraw, you can create beautiful hand-drawn like diagrams, wireframes, or whatever you like, giving your work a unique and personal touch.
+- End-to-End Encryption: Excalidraw ensures the security of your work with end-to-end encryption, keeping your creations safe and private.
+- Local-First Support: All your data is saved locally in your browser, ensuring you have access to your work even when offline.
 
 ## Features
 
-- Infinite, Canvas-Based Whiteboard: Excalidraw provides an infinite canvas-based whiteboard for creating drawings of any size.
-- Dark Mode: The app supports a dark mode, providing a visually pleasing and comfortable drawing experience in low-light environments.
-- Customizable: Users can customize the app according to their preferences, including the style, tools, and interface.
-- Image Support: Excalidraw allows users to import and work with images, enhancing the drawing capabilities of the app.
-- Shape Libraries Support: The app provides shape libraries, allowing users to easily add predefined shapes to their drawings.
-- Localization Support: Excalidraw supports localization (i18n), making it accessible to users from different language backgrounds.
-- Export to PNG, SVG & Clipboard: Users can export their drawings in various formats, including PNG, SVG, and clipboard, for easy sharing and integration with other applications.
-- Open Format: Drawings can be exported as .excalidraw json files, ensuring compatibility and interoperability with other software.
-- Wide Range of Tools: Excalidraw offers a wide range of drawing tools, including rectangle, circle, diamond, arrow, line, free-draw, and eraser.
-- Arrow-Binding & Labeled Arrows: The app supports arrow-binding and labeled arrows, allowing users to create clear and informative diagrams.
-- Undo / Redo: Excalidraw provides undo and redo functionality, enabling users to easily correct mistakes or revert changes.
-- Zoom and Panning Support: Users can zoom in and out of their drawings and pan across the canvas, providing a flexible and detailed drawing experience.
+- Free & Open-Source: Excalidraw is a free and open-source application, making it accessible to everyone.
+- Customizable: Excalidraw is highly customizable, allowing you to tailor your workspace to your needs.
+- Image Support: Excalidraw supports image integration, enabling you to enhance your work with visuals.
+- Export Options: Excalidraw allows you to export your work to PNG, SVG, clipboard, or as an .excalidraw json file, providing flexibility in how you save and share your creations.
+- Wide Range of Tools: Excalidraw offers a wide range of tools including rectangle, circle, diamond, arrow, line, free-draw, eraser, and more, giving you the freedom to create as you wish.
+- Zoom and Panning Support: Excalidraw supports zoom and panning, allowing you to navigate your canvas with ease.
 
 ## Links
 

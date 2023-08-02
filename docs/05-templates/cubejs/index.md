@@ -13,21 +13,21 @@ description: How to install CubeJS on Easypanel? 1-Click installation template f
 
 ## Description
 
-Cube is an embedded analytics app that provides a semantic layer for every data app. It allows data engineers and developers to make their data consistent, secure, performant, and accessible across every application. Cube&#39;s semantic layer acts as a middleware between data sources and data applications, enabling users to define and manage metrics, grant access control, ensure data caching, and connect data to any front-end application through APIs. With Cube, users can unify their organization&#39;s knowledge base, improve application performance, reduce development time, and create beautiful, data-rich user experiences.
+Cube is a Semantic Layer for every data app that aims to connect data silos, drive consistent metrics, and power your AI and analytics with context. It allows you to define and manage metrics upstream to consolidate your workflow, centralize definitions, and create a single source of truth. The app also provides granular access controls to grant column- and role-based operational and viewing permissions upstream. Cube ensures your data is reliably performant with a powerful caching layer and advanced preaggregation capabilities. Furthermore, it allows you to connect your data to any front-end application to build beautiful custom visualizations with Cube’s GraphQL, REST, and SQL APIs. Cube is an API-first, four-part semantic layer that enables data engineers and developers to make their data consistent, secure, performant, and accessible across every application.
 
 ## Benefits
 
-- Consistent Metrics: Cube enables users to define and manage metrics upstream, creating a centralized, single source of truth with consistent metrics that only need to be defined once.
-- Secure Access Control: Cube's semantic layer coordinates access control upstream of data applications, ensuring that only authorized users have access to the right metrics.
-- Reliable Performance: Cube's caching layer and advanced preaggregation capabilities ensure that data is reliably performant, providing low-latency access to the latest information.
-- Flexible Integration: Cube's APIs (GraphQL, REST, and SQL) allow users to connect their data to any front-end application, enabling the creation of custom visualizations and integration with data visualization tools and business intelligence dashboards.
+- Unified Data Management: The app serves as a semantic layer for every data application, connecting data silos and driving consistent metrics. It powers your AI and analytics with context, creating a single source of truth for your data.
+- Enhanced Data Security: The app provides granular access controls, granting column- and role-based operational and viewing permissions. It ensures that only the right people have access to the right metrics.
+- Optimized Performance: With a powerful caching layer and advanced pre-aggregation capabilities, the app ensures your data is reliably performant. It keeps every downstream app updated with the latest information cost-effectively and with low latency.
+- Universal Compatibility: The app allows you to connect your data to any front-end application. With Cube’s GraphQL, REST, and SQL APIs, it provides the universal compatibility data engineers and developers need.
 
 ## Features
 
-- Data Modeling: Cube's data modeling feature allows users to define and manage metrics upstream, consolidating their workflow, centralizing definitions, and creating a single source of truth.
-- Access Control: Cube's access control feature enables users to grant column- and role-based operational and viewing permissions upstream, ensuring granular access controls.
-- Caching: Cube's caching feature ensures reliable data performance with a powerful caching layer and advanced preaggregation capabilities.
-- APIs: Cube's APIs (GraphQL, REST, and SQL) allow users to connect their data to any front-end application, building beautiful custom visualizations and integrating with data visualization tools and business intelligence dashboards.
+- Data Modeling: Define and manage metrics upstream to consolidate your workflow, centralize definitions, and create a single source of truth. The app uses Data Models to model raw data into meaningful business definitions and pre-aggregate data for optimal results.
+- Access Control: Grant column- and role-based operational and viewing permissions upstream with granular access controls. In the app, authorization is based on the security context, and authentication tokens are generated based on your API secret.
+- Caching: Ensure your data is reliably performant with a powerful caching layer and advanced pre-aggregation capabilities. The app provides a two-level caching system: in-memory cache and configurable pre-aggregations.
+- APIs: Connect your data to any front-end application to build beautiful custom visualizations. The app’s SQL, REST, and GraphQL APIs provide the universal compatibility data engineers and developers need.
 
 ## Links
 

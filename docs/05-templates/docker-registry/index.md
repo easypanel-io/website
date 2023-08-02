@@ -13,7 +13,7 @@ description: How to install Docker Registry on Easypanel? 1-Click installation t
 
 ## Description
 
-The Docker Registry is an implementation of the Docker Registry HTTP API V2 for storing and distributing Docker images. It is used with Docker 1.6+ and provides a simple, secure, and scalable base for building a large-scale registry solution or running a private registry. It is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry, and DigitalOcean Container Registry. The Docker Registry is available as an official Docker image and is supported on multiple architectures.
+Docker Registry 2.0 is a powerful application designed to store and distribute Docker images. This app is an implementation of the Docker Registry HTTP API V2, compatible with Docker 1.6 and later versions. It provides a secure and scalable base for building a large scale registry solution or running a simple private registry. Docker Registry 2.0 is a core library for many registry operators including Docker Hub, GitHub Container Registry, GitLab Container Registry, and DigitalOcean Container Registry. It is also used by the CNCF Harbor Project and VMware Harbor Registry. The app allows users to efficiently store, manage, package, and exchange content, providing a professional grade and extensible content distribution system.
 
 ## Instructions
 
@@ -21,15 +21,16 @@ The Registry doesn&#39;t have a UI. To interact with the registry you should use
 
 ## Benefits
 
-- Secure and Scalable: The Docker Registry provides a secure and scalable solution for storing and distributing Docker images. It is designed to handle large-scale deployments and can be easily scaled to meet the needs of your organization.
-- Integration with Docker: The Docker Registry integrates seamlessly with Docker and can be used with Docker 1.6+ to store and distribute Docker images. It provides an implementation of the Docker Registry HTTP API V2, allowing you to easily push and pull images from the registry.
-- Support for Multiple Architectures: The Docker Registry is available as an official Docker image and is supported on multiple architectures, including amd64, arm32v6, arm32v7, arm64v8, ppc64le, and s390x. This allows you to run the registry on a wide range of hardware platforms.
+- Efficient Content Distribution: The Docker Registry 2.0 app provides an efficient, secure, and reliable way to store, manage, package, and exchange content. It is designed to be a professional-grade and extensible content distribution system.
+- Scalability: Whether you're building a large scale registry solution or running a simple private registry, Docker Registry 2.0 is designed to scale to your needs. It's a core library for many registry operators, including Docker Hub, GitHub Container Registry, GitLab Container Registry, and DigitalOcean Container Registry.
+- Security: Security is a key focus of Docker Registry 2.0. The app is designed to provide a secure tool chain for distributing content, ensuring that your data is protected.
 
 ## Features
 
-- Implementation of Docker Registry HTTP API V2: The Docker Registry provides an implementation of the Docker Registry HTTP API V2, which allows you to interact with the registry using standard Docker commands. This includes features such as pushing and pulling images, tagging images, and searching for images.
-- Easy Deployment and Configuration: The Docker Registry can be easily deployed and configured using Docker. You can run a local registry with a single command, and it can be configured to run on a specific port and with custom settings. The registry can also be deployed in a high-availability setup for increased reliability.
-- Integration with Other Registry Operators: The Docker Registry is a core library for many registry operators, including Docker Hub, GitHub Container Registry, GitLab Container Registry, and DigitalOcean Container Registry. This means that you can use the Docker Registry as a base for building your own registry solution or integrate it with existing registry operators.
+- Open Source Registry: Docker Registry 2.0 is an open source registry implementation for storing and distributing container images using the OCI Distribution Specification.
+- Rich Set of Libraries: The app includes a rich set of libraries for interacting with distribution components. These libraries provide a range of functionalities, making it easier to work with the distribution components.
+- HTTP Communication: Clients can communicate with the registry using HTTP. This makes it easy to integrate Docker Registry 2.0 with Docker, containerd, and other OCI clients.
+- Customization: Docker Registry 2.0 is designed to be extensible, allowing users to hack/roll their own on top of healthy open-source components or implement their own home made solution through good specs and solid extensions mechanism.
 
 ## Links
 

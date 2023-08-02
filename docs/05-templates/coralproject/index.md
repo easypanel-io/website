@@ -13,24 +13,19 @@ description: How to install Coral on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Coral is an open-source commenting platform that improves community engagement on websites through smart technology, effective design, and strategies that work. It offers a better commenting experience for commenters, effective and easy-to-use moderation tools for moderators, and a platform built for publishing for journalists. Coral is fully customizable, lightweight, secure, flexible, and responsive. It prioritizes user privacy by not including any ads, trackers, or hidden pixels in its code. Coral is used by newsrooms around the world and has received positive feedback from media professionals. It can be easily integrated into existing websites and offers a range of features and customization options. Coral is built with love by Coral by Vox Media.
+Coral is a revolutionary app designed to enhance the commenting experience on your website. It employs smart technology and effective design to improve interactions, making it easier for commenters to engage in meaningful discussions. With Coral, commenters can easily identify journalists in the conversation, mute disruptive voices, share discussions, receive notifications, and see new comment alerts instantly. The app also provides a full suite of tools for moderators to easily identify disruptive comments and highlight the best submissions, all backed by smart AI technology. Coral is built for publishing, increasing loyalty and engagement on your website, giving you complete control of the interactions and data, without inserting any ads or trackers on your page. It&#39;s lightweight, secure, flexible, responsive, and fully customizable, allowing you to connect it to your existing registration system and customize the look and feel to match your brand. Coral is used across the globe in nearly 20 countries and 14 languages, in newsrooms large and small, trusted by more than 500 news sites in 28 countries, including The Washington Post, The Financial Times, Wired, USA Today, and Foreign Policy.
 
 ## Benefits
 
-- Improved Community Engagement: Coral enhances community engagement on websites through smart technology, effective design, and strategies that work.
-- Better Commenting Experience: Coral provides commenters with features such as identifying journalists in the conversation, muting annoying voices, sharing discussions, receiving notifications, and seeing new comment alerts instantly.
-- Effective Moderation Tools: Coral offers moderators a full suite of tools to easily identify disruptive comments and surface the best submissions, supported by smart AI technology.
-- Platform Built for Publishing: Coral increases loyalty and engagement on websites, giving publishers complete control of the interactions and data without inserting any ads or trackers on the page. It is also optimized for mobile.
-- Fully Customizable: Developers can easily connect Coral to existing registration systems, fully customize the look and feel, and extend the platform with the GraphQL API and by adding features to the open-source codebase.
-- Privacy First: Coral prioritizes user privacy by not including any ads, trackers, or hidden pixels in its code. This makes Coral more secure, faster to load, and transparently better for users and communities.
+- Improved Commenting Experience: Coral enhances the commenting experience on your website by using smart technology and effective design. It helps to increase loyalty and engagement on your website, giving you complete control of the interactions and data.
+- No Ads or Trackers: Coral prioritizes user privacy. It does not insert any ads or trackers on your page, making it more secure, faster to load, and transparently better for you and your users.
+- Customizable and Flexible: Coral is lightweight, secure, flexible, and responsive. You can easily connect it to your existing registration system, fully customize the look and feel, and extend the platform with our GraphQL API.
 
 ## Features
 
-- Join a Strong Community: Coral allows commenters to join a strong community where they can identify journalists in the conversation, mute annoying voices, share discussions, receive notifications, and see new comment alerts instantly.
-- Effective and Easy-to-Use Moderation Tools: Coral provides moderators with a full suite of tools to easily identify disruptive comments and surface the best submissions, supported by smart AI technology.
-- Built for Publishing: Coral increases loyalty and engagement on websites, giving publishers complete control of the interactions and data without inserting any ads or trackers on the page. It is also optimized for mobile.
-- Fully Customizable: Developers can easily connect Coral to existing registration systems, fully customize the look and feel, and extend the platform with the GraphQL API and by adding features to the open-source codebase.
-- Privacy First: Coral prioritizes user privacy by not including any ads, trackers, or hidden pixels in its code. This makes Coral more secure, faster to load, and transparently better for users and communities.
+- Smart Commenting Tools: With Coral, your commenters can identify journalists in the conversation, mute annoying voices, share discussions, receive notifications, and see new comment alerts instantly.
+- Effective Moderation Tools: Coral provides a full suite of tools that help moderators easily identify disruptive comments and surface the best submissions. These tools are supported by smart AI technology.
+- Built for Publishing: Coral is designed to increase loyalty and engagement on your website. It gives you complete control of the interactions and data, without inserting any ads or trackers on your page. It also works great on mobile.
 
 ## Links
 
@@ -47,6 +42,7 @@ App Service Name | - | yes | coral
 App Service Image | - | yes | coralproject/talk:8.2.4
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
+Metrics Port Enable | - | yes | false
 
 ## Screenshots
 

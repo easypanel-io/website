@@ -13,7 +13,7 @@ description: How to install Keila on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Keila is a free/libre open source email newsletter tool that allows you to grow your contact lists and send data-driven newsletter campaigns. It is proudly made in Germany and hosted in the EU. With Keila, you can import existing contacts, add custom data and tags to your contacts, and create smart subsets of your contact lists. Keila respects the privacy of your contacts and gives you live statistics for your newsletters. It also offers integration with other applications through its powerful API. Keila is open source and can be self-hosted.
+Keila is a reliable and easy-to-use email newsletter tool that helps you grow your contact lists and send data-driven campaigns effortlessly. With Keila, you can import your existing contacts simply by uploading a CSV file. The app offers complete freedom to add custom data and tags to your contacts, which can be used to filter contacts and as merge fields in campaigns. Keila also features powerful segmentation, allowing you to create smart subsets of your contact lists. The app respects the privacy of your contacts and ensures that your data remains yours. Keila provides live statistics for your newsletters, including open and click rates, and allows you to integrate your email newsletter with other applications using its powerful API. Keila is proudly Open Source, made in Germany, and hosted in the EU, ensuring strict European privacy standards.
 
 ## Instructions
 
@@ -21,22 +21,29 @@ Login with changeme@easypanel.io:password123 - change this from the administrato
 
 ## Benefits
 
-- Reliable & Easy: Keila makes it easy to grow your contact lists and send newsletter campaigns.
-- Built for Privacy: Keila respects the privacy of your contacts and ensures strict European privacy standards.
-- Live Statistics: Keila provides live statistics for your newsletters, including open and click rates.
-- Integrate & Automate: Keila offers a powerful API for integrating with other applications and automating email campaigns.
-- Open Source & Self-Hosting: Keila is free/libre open source software that can be self-hosted on your own servers.
+- Reliable & Easy Email Newsletters: Keila allows you to grow your contact lists and send data-driven newsletter campaigns with ease. It's an open-source tool, made in Germany and hosted in the EU.
+- Import Existing Contacts: Keila makes it easy to get started if you have a list of existing contacts. Simply upload a CSV file and you're ready to go.
+- Custom Data & Tags: Keila provides complete freedom to add custom data and tags to your contacts. Use data to filter contacts and as merge fields in campaigns.
+- Powerful Segmentation: Keila allows you to create smart subsets of your contact lists. Build segments with the visual segment editor or our powerful query language.
+- Built for Privacy: Keila gives you the stats you need while respecting the privacy of your contacts. Your data is yours and will never be shared with third parties.
+- Live Statistics: Keila provides live statistics for your newsletters, including open and click rates, as soon as you click Send.
 
 ## Features
 
-- Import Existing Contacts: Easily import existing contacts by uploading a CSV file.
-- Custom Data & Tags: Add custom data and tags to your contacts for better segmentation and personalization.
-- Powerful Segmentation: Create smart subsets of your contact lists using the visual segment editor or query language.
-- Built for Privacy: Keila ensures the privacy of your contacts and never shares your data with third parties.
-- Hosted in the EU: Keila's managed email newsletter service is fully operated within the European Union.
-- Live Statistics: Get live statistics for your newsletters, including open and click rates.
-- Integrate & Automate: Integrate your email newsletter with other applications using Keila's powerful API.
-- Open Source & Self-Hosting: Keila is free/libre open source software that can be self-hosted on your own servers.
+- Integrate & Automate: Keila's powerful API allows you to integrate your email newsletter with other applications for managing contacts and email campaigns.
+- Open Source & Self-Hosting: Keila is Free/Libre Open Source Software. You can run it on your own servers using the code on GitHub or our official Docker image.
+- Multi-Column Layouts: Build multi-column layouts with Keila’s Block Editor.
+- Hybrid Text & HTML Emails: Compose hybrid text & HTML emails with Markdown.
+- Personalize Your Campaigns: Personalize your campaigns with Liquid.
+- Various Email Sending Options: Send emails with SMTP, AWS SES, Mailgun, Postmark, Sendgrid.
+- Create & Design Signup Forms: Create & design your own signup forms.
+- Protect Against Spammers: Protect your forms against spammers with hCaptcha.
+- One-Click Unsubscriptions: Keila offers one-click unsubscriptions.
+- Click & Open Tracking: Keila provides click & open tracking of campaigns.
+- Automatic Contact Quality Monitoring & Bounce Handling: Keila offers automatic contact quality monitoring & bounce handling.
+- Powerful Segmentation and Custom Fields: Keila provides powerful segmentation and custom fields.
+- Fully-Featured API: Keila offers a fully-featured API for sending campaigns and syncing contacts.
+- Upload Images: Keila allows you to upload images.
 
 ## Links
 

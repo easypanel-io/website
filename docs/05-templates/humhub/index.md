@@ -13,32 +13,23 @@ description: How to install HumHub on Easypanel? 1-Click installation template f
 
 ## Description
 
-HumHub is a free social network software and framework that allows you to create your own customized social network, social intranet, or enterprise application. It is lightweight, powerful, and user-friendly. With HumHub, you can communicate and collaborate with others, create spaces for different projects or groups, extend your profile, and customize the platform according to your needs. It is open-source, flexible, and secure, giving you full control over your data. HumHub also offers professional services and support for your projects.
+HumHub is a flexible open-source social network kit designed to facilitate communication and collaboration. It allows you to create your own customized social network, social intranet, or large social enterprise application tailored to your specific needs. Whether you&#39;re looking to boost your business, support your customers, educate your students, or organize your football club, HumHub provides the tools to make it happen. It features an intuitive user interface and a powerful module system that can be extended with third-party tools, your own creations, or existing software. With HumHub, you have full control over your server and data. The app also offers features like posts and updates, file sharing, liking and commenting, and &#39;Spaces&#39; for group communication. You can extend your profile, create a portfolio, connect with others, and find people with specific skills. With its module system, you can modify anything on HumHub according to your requirements. The app also supports live updates, notifications, activity streams, dashboards, user profiles, groups, directories, file sharing, public access, search functionality, and mobile readiness.
 
 ## Benefits
 
-- Open Source: HumHub is completely open-source, allowing you to take advantage of the work already done and even improve it. Every suggestion or help is welcome.
-- Flexible: With a powerful module system, you can extend HumHub by using third-party tools, writing your own modules, or connecting existing software.
-- Secure: HumHub is a self-hosted solution, which means you have full control over your server and data. Your data is secure and protected.
-- Services: HumHub provides professional services and support for your projects. They don't leave you alone and help you with your HumHub implementation.
+- Open Source: HumHub is a completely open-source platform, allowing you to take advantage of the work already done and even improve upon it. It welcomes every suggestion or help.
+- Flexible: HumHub is equipped with a powerful module system. You can extend its functionality by using third-party tools, writing your own, or connecting existing software.
+- Secure: HumHub is a self-hosted solution that runs on almost every server. You are in full control of your data, ensuring your privacy and security.
+- Customizable: With HumHub, you can create your own customized social network, social intranet, or large social enterprise application that truly fits your needs.
 
 ## Features
 
-- Social Communication: Communicate like you already do in other social networks, but with your own rules. Write posts, share files, like and comment just the way you want it.
-- Spaces: The communication in HumHub works with spaces. A space can be a project, a group, or a topic. You can invite multiple users to a space and define access rights and rules.
-- Profile Customization: Extend your profile, create your portfolio, connect with other people, find the right person with special skills, and inform your followers with updates on your own wall.
-- Unlimited Possibilities: With modules, you can modify anything on HumHub according to your requirements. You can build anything you are missing on other social networks.
-- Notifications: Stay well-informed about things related to you with notifications.
-- Activity Stream: Monitor work and communications at a glance with the activity stream.
-- Dashboard: Get an overview and fast access to the most important information with the dashboard.
-- Social Tools: Post, comment, follow, like, and connect with other users using social tools.
-- User Profiles: Each user has a digital business card, which can be customized and used to showcase skills and connect with others.
-- Groups: Organize users in departments, branches, or any other groups for better collaboration and communication.
-- Directory: Easily find spaces, users, and groups in a sorted way using the directory.
-- File Sharing: Share documents and media files with others and discuss them within the platform.
-- Public Access: Share content with non-registered users, allowing them to access and view the content.
-- Search: Find people, discussions, and files easily using the search feature.
-- Mobile Ready: HumHub is compatible with all kinds of modern devices like smartphones and tablets, allowing you to access and use it on the go.
+- Social Communication: Communicate like you already do in other social networks, just with your own rules. Write posts and updates, share files, like and comment just the way you want it.
+- Spaces: The communication in HumHub works with spaces. A space can be anything, a project, a group or just a simple topic. For every space, you can invite multiple users and set up your own access rights and rules.
+- Digital V-Card: Extend your profile, create your portfolio, connect with other people, find the right person with special skills, inform your followers with updates on your own wall.
+- Unlimited Possibilities: With modules, you can modify anything on HumHub. Spaces, Profiles and other things according to your requirements. Anything you are missing on other social networks, you can build it.
+- Live Updates: Stay informed about upcoming features and be amongst the first to know about them.
+- Mobile Ready: HumHub is designed to work with all kinds of modern devices like smartphones and tablets, ensuring you can stay connected wherever you are.
 
 ## Links
 

@@ -13,7 +13,7 @@ description: How to install Calibre on Easypanel? 1-Click installation template 
 
 ## Description
 
-Calibre is an e-book library manager that can view, convert, and catalog e-books in various formats. It can also fetch metadata for books from the internet and download newspapers for convenient reading. Calibre is cross-platform and can run on Linux, Windows, and macOS.
+Calibre is a comprehensive e-book management tool designed to organize, convert, and read your e-book collection. It supports most of the major e-book formats and is compatible with various e-book reader devices. Calibre can fetch metadata for your books from the internet, enhancing your library with relevant information. It also allows you to download newspapers and convert them into e-books for a more convenient reading experience. The app is cross-platform, running on Linux, Windows, and macOS. With Calibre, you can easily add books to your library, convert them to a format your reader understands, and send them to your device. It also offers advanced features like e-book editing, metadata editing, and e-book comparison. The app is user-friendly, but also offers a Command Line Interface for more power and versatility.
 
 ## Instructions
 
@@ -21,18 +21,17 @@ Login using user ABC with your set password
 
 ## Benefits
 
-- Manage your e-book library: Calibre allows you to organize and manage your e-book collection, making it easy to find and access your favorite books.
-- Convert e-books to different formats: With Calibre, you can convert e-books to different formats, making them compatible with your preferred e-book reader or device.
-- Fetch metadata and download newspapers: Calibre can fetch metadata for your books from the internet, providing you with detailed information about each book. It can also download newspapers and convert them into e-books for convenient reading.
-- Cross-platform compatibility: Calibre is available for Linux, Windows, and macOS, allowing you to use it on your preferred operating system.
+- E-Book Management: Calibre is an e-book library manager that allows you to view, convert, and catalog e-books in most of the major e-book formats. It provides a centralized platform for all your e-book needs.
+- Fetch Metadata: Calibre can go out to the Internet and fetch metadata for your books, providing you with detailed information and enhancing your reading experience.
+- News Download: Calibre can download newspapers and convert them into e-books for convenient reading, keeping you updated with the latest news in a format that's comfortable for you.
+- Cross-Platform: Calibre is cross-platform, running on Linux, Windows, and macOS, making it accessible no matter what operating system you use.
 
 ## Features
 
-- E-book library management: Calibre provides a user-friendly interface to manage and organize your e-book collection.
-- E-book conversion: You can convert e-books to different formats using Calibre, making them compatible with various e-book readers and devices.
-- Metadata fetching: Calibre can fetch metadata for your books from the internet, providing you with detailed information about each book.
-- Newspaper downloading: Calibre can download newspapers and convert them into e-books for convenient reading.
-- Cross-platform support: Calibre is available for Linux, Windows, and macOS, ensuring compatibility with your preferred operating system.
+- E-Book Conversion: Calibre allows you to convert books to a format your reader understands. It makes the conversion process a breeze, with just a few clicks needed.
+- E-Book Viewer: Calibre comes with an e-book viewer that allows you to read your books right from the app. It supports a wide range of e-book formats.
+- Device Detection: Calibre can detect many e-book reader devices. Once your device is connected, you can easily send books to your device for offline reading.
+- Metadata Editing: Calibre allows you to edit e-book metadata, giving you full control over the information associated with your e-books.
 
 ## Links
 
@@ -46,7 +45,7 @@ Login using user ABC with your set password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre
-App Service Image | - | yes | linuxserver/calibre:6.14.0
+App Service Image | - | yes | linuxserver/calibre:6.23.0
 Password | - | yes | 
 
 ## Screenshots
@@ -56,6 +55,7 @@ Password | - | yes |
 ## Change Log
 
 - 2023-3-1 – first release
+- 2023-7-24 – update
 
 ## Contributors
 

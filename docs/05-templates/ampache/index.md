@@ -13,7 +13,7 @@ description: How to install Ampache on Easypanel? 1-Click installation template 
 
 ## Description
 
-Ampache is a web-based audio/video streaming application and file manager that allows you to access your music and videos from anywhere using almost any internet-enabled device.
+Ampache is a web-based audio/video streaming application and file manager that allows you to access your music and videos from anywhere, anytime. With this app, you can browse and manage your music collection through a simple web interface, and even synchronize local and remote catalogs to create a unique, consistent collection. Ampache also offers music streaming capabilities, allowing you to stream your music to your preferred player, control it with Localplay, or directly listen on the web page with the HTML5 player. The app is completely free and open source, and it&#39;s designed to work on almost any internet-enabled device, including your phone, tablet, or television. Ampache is not a media organizer, but a tool that presents an already organized collection in a useful way.
 
 ## Instructions
 
@@ -21,18 +21,15 @@ MySQL Username is &quot;admin&quot;. The logs will show a line that says &quot;m
 
 ## Benefits
 
-- Access your music and videos from anywhere: With Ampache, you can stream your music and videos from any internet-enabled device, whether it's your phone, tablet, or computer.
-- Manage your music collection: Ampache provides a simple web interface for browsing and managing your music collection. You can synchronize local and remote catalogs to create a consistent collection.
-- Stream music to your preferred player: You can stream your music to your preferred player, control it with Localplay, or directly listen on the web page with the HTML5 player.
-- Completely free and open source: Ampache has been free and open source since 2001 and is licensed under AGPLv3. You can get involved and take control of the application.
-- Access Ampache everywhere: You can listen to your music from your phone, tablet, or television. Whether you're at home, work, or on vacation, you can access Ampache using a compatible client.
+- Access Your Media Anywhere: Ampache allows you to access your music and videos from anywhere, using almost any internet-enabled device. Whether you're at home, at work, or on vacation, your media is always at your fingertips.
+- Manage Your Media Collection: With Ampache, you can browse and manage your music collection through a simple web interface. It synchronizes local and remote catalogs to create a unique, consistent collection.
+- Open Source Freedom: Ampache is completely free and open source, giving you the freedom to use and modify it as you see fit. It has been under the AGPLv3 license since 2001.
 
 ## Features
 
-- Music collection: Browse and manage your music collection through a simple web interface. Synchronize local and remote catalogs to create a consistent collection.
-- Music streaming: Stream your music to your preferred player, control it with Localplay, or directly listen on the web page with the HTML5 player.
-- Open source: Ampache is completely free and open source since 2001. It is licensed under AGPLv3, allowing you to get involved and take control.
-- Ampache everywhere: Listen to your music from your phone, tablet, or television. Access Ampache everywhere using a compatible client.
+- Music Streaming: Stream your music to your preferred player, control it with Localplay, or directly listen on the web page with the HTML5 player.
+- Ampache Everywhere: Listen to your music from your phone, tablet, or television using a compatible client.
+- File Manager: Ampache is not just a streaming application, it's also a file manager. It allows you to manage your media files in a way that suits you best.
 
 ## Links
 

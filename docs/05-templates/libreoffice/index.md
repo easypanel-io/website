@@ -13,25 +13,19 @@ description: How to install LibreOffice on Easypanel? 1-Click installation templ
 
 ## Description
 
-LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+LibreOffice is a free and powerful office suite app that serves as a successor to OpenOffice.org. It features a clean interface and feature-rich tools that help you unleash your creativity and enhance your productivity. The app can be accessed at http://yourhost:3000/ or https://yourhost:3001/. It is designed to deliver a true lossless image at a high framerate to your web browser. The app also supports multiple architectures, ensuring that it can be used on a variety of platforms. This app is perfect for those who need a comprehensive office suite for their daily tasks.
 
 ## Benefits
 
-- Free and Open Source: LibreOffice is free to use and is developed as an open-source project, which means that anyone can contribute to its development and improvement.
-- Cross-Platform Compatibility: LibreOffice is available for Windows, macOS, and Linux, making it a versatile office suite that can be used on different operating systems.
-- Clean Interface: LibreOffice has a clean and intuitive interface, making it easy to navigate and use its various features and tools.
-- Feature-Rich Tools: LibreOffice offers a wide range of tools for word processing, spreadsheets, presentations, and more. It includes features such as spell checking, formula editing, and advanced formatting options.
-- Compatibility with Microsoft Office: LibreOffice supports the Microsoft Office file formats, allowing you to open, edit, and save documents in formats such as .docx, .xlsx, and .pptx.
+- Powerful Office Suite: LibreOffice is a free and powerful office suite, a successor to OpenOffice.org. It offers a clean interface and feature-rich tools that help you unleash your creativity and enhance your productivity.
+- Multi-Platform Awareness: The app utilizes the docker manifest for multi-platform awareness. This means that pulling the LibreOffice image should retrieve the correct image for your architecture, ensuring optimal compatibility and performance.
+- Accessible Anywhere: The application can be accessed at your host, making it easy to work from anywhere. This flexibility allows you to stay productive no matter where you are.
 
 ## Features
 
-- Word Processing: Create and edit documents with a wide range of formatting options, styles, and templates.
-- Spreadsheets: Perform calculations, create charts, and analyze data using powerful spreadsheet tools.
-- Presentations: Create professional-looking presentations with customizable slides, animations, and transitions.
-- Drawings: Create and edit vector graphics, diagrams, and flowcharts.
-- Database Management: Create and manage databases with built-in tools for creating tables, queries, and reports.
-- Formula Editing: Create complex mathematical formulas and equations with the formula editor.
-- Extensions and Templates: Extend the functionality of LibreOffice with a wide range of extensions and customize your documents with templates.
+- Customizable Environment Variables: LibreOffice offers a range of environment variables that you can customize to suit your needs. These include the internal port the container listens on, HTTP Basic auth username and password, the home directory for the file manager, and more.
+- Optional Run Configurations: The app provides optional run configurations, including the ability to start a Docker in Docker setup inside the container, mount a GPU into the container for GPU accelerated applications, and deliver a true lossless image at a high framerate to your web browser.
+- User / Group Identifiers: When using volumes, you can specify the user PUID and group PGID to avoid permissions issues between the host OS and the container. This ensures that any volume directories on the host are owned by the same user you specify.
 
 ## Links
 

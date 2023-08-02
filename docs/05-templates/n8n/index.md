@@ -13,26 +13,22 @@ description: How to install n8n on Easypanel? 1-Click installation template for 
 
 ## Description
 
-n8n is a workflow automation tool designed for technical people. It allows users to build complex automations without the need to write extensive code. With n8n, users can connect APIs, manipulate data, and integrate with any app. The platform offers a user-friendly UI and supports JavaScript for added flexibility. n8n is highly customizable and can be self-hosted or used in the cloud. It offers a wide range of features, including bulk operations, independent instances for each environment, and painless debugging. n8n is suitable for various use cases, such as customer integrations, SaaS backend prototyping, lead automation, and CRM customization. The platform helps save time, boost efficiency, and optimize engineering resources. n8n is scalable, with the ability to handle 220 workflow executions per second on a single instance. It also provides customizable error handling, workflow sharing, and over 600 templates to accelerate workflow creation. n8n is available as a hosted solution or can be self-hosted using npm or Docker. The platform is open source, allowing users to audit, tweak, and fork the codebase. n8n offers flexible pricing options, including a free self-hosted version and paid packages for cloud usage. The platform has a strong community of over 55,000 members and provides extensive documentation and support through a forum of n8n engineers and community experts.
+n8n is a powerful workflow automation tool designed for technical people. It allows you to build complex automations 10x faster, without the need to fight with APIs. The app enables you to create flexible workflows focused on deep data integration. You can use JavaScript for complex tasks that require flexibility and the user-friendly UI for everything else. n8n provides the ability to connect APIs with no code for automating basic tasks, or write vanilla Javascript for manipulating complex data. It supports integration with any app and allows for the creation of custom scenarios at speed. With n8n, you can pump data around your entire tech stack with 350+ native integrations or use custom code to create your own. It also offers features like bulk operations, painless debugging, and the ability to host on your own infrastructure. n8n is not just a helpful tool, it&#39;s the heart of your business, helping you optimize engineering resources, boost efficiency, and focus on your KPIs, not your APIs.
 
 ## Benefits
 
-- Workflow automation for technical people: n8n enables technical users to build complex automations without the need for extensive coding.
-- Flexible and user-friendly: n8n offers a user-friendly UI and supports JavaScript for added flexibility in workflow creation.
-- Customizable and scalable: n8n allows for customization through independent instances, bulk operations, and customizable error handling. It is also scalable, with the ability to handle 220 workflow executions per second on a single instance.
-- Wide range of use cases: n8n can be used for various use cases, including customer integrations, SaaS backend prototyping, lead automation, and CRM customization.
-- Time and resource optimization: n8n helps save time, boost efficiency, and optimize engineering resources by automating tasks and reducing manual work.
+- Workflow Automation: n8n is a powerful tool that allows you to build complex automations 10x faster, without the need to fight with APIs. It is designed to save you from the tedious task of slogging through a spaghetti of scripts.
+- Flexible and User-friendly: With n8n, you can build flexible workflows focused on deep data integration. It features a user-friendly UI that makes it easy for both technical and non-technical people to collaborate on workflows.
+- Efficient and Scalable: n8n automates the frustrating work for you, allowing you to focus your energy on tasks that move the needle. It is capable of executing 220 workflow executions per second on a single instance, and you can add more instances if required.
+- Cost-effective: Unlike other platforms, n8n allows you to build complex workflows without stressing over budget. You can self-host for free, or pay for a package of workflows in the cloud.
 
 ## Features
 
-- Connect APIs with no code: n8n allows users to connect APIs and automate basic tasks without the need for extensive coding.
-- Build custom scenarios with JavaScript: Users can write vanilla JavaScript to manipulate complex data and build custom scenarios.
-- Integrate with any app: n8n supports integration with any app, offering over 350 native integrations and the ability to create custom integrations.
-- Independent instances for each environment: n8n allows for the creation of independent instances for each environment, ensuring separation and control.
-- Bulk operations: n8n supports bulk operations, allowing users to perform actions on multiple items at once.
-- Painless debugging: n8n provides a painless debugging experience, making it easier to identify and fix issues in workflows.
-- Host on your own infrastructure: n8n can be self-hosted, giving users full control over their infrastructure and data security.
-- Automated API authentication: n8n offers automated API authentication, simplifying the process of connecting to APIs.
+- No Code and Low Code Options: n8n allows you to connect APIs with no code to automate basic tasks. Or, if you need to manipulate complex data, you can write in vanilla Javascript.
+- Custom Scenarios: With n8n, you can build custom scenarios at speed. It allows you to integrate with any app and perform bulk operations.
+- Painless Debugging: n8n provides a painless debugging experience. It also allows you to host on your own infrastructure.
+- Wide Range of Integrations: n8n supports over 350 native integrations, allowing you to pump data around your entire tech stack. You can also use custom code to create your own integrations.
+- Customizable Error Handling: n8n offers customizable error handling. You can also share workflows with a click and use over 600 templates to move faster.
 
 ## Links
 

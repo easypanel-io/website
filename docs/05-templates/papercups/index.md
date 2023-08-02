@@ -13,38 +13,23 @@ description: How to install Papercups on Easypanel? 1-Click installation templat
 
 ## Description
 
-Papercups is an open-source live customer chat web app that allows businesses to streamline communication with their customers. It offers a privacy-focused alternative to popular customer communication tools like Intercom, Drift, and Zendesk. With Papercups, businesses can coordinate and reply to messages over chat, email, Slack, and SMS. The app provides a feature-rich dashboard for customer support and feedback management, allowing users to reply to conversations from Slack, the dashboard, or the mobile app. Papercups also offers a highly customizable chat widget that can be branded and customized without any coding. The app is open-source and developer-friendly, supporting HTML, React, React Native, and Flutter integrations. It can be self-managed and deployed on various cloud platforms, offering unlimited volume and personalized support. Papercups is built with Elixir on top of BEAM for scalability. The app is backed by Y Combinator and prioritizes privacy and security by keeping customer data within the user&#39;s infrastructure.
+Papercups is a privacy-focused, open-source app designed to streamline communication with your customers. It provides a powerful dashboard to coordinate and reply to messages over various platforms including chat, email, Slack, and SMS. The app offers a customizable widget that you can tailor to your brand&#39;s aesthetics, without the need for any coding. Papercups also integrates seamlessly with your existing work environment, eliminating the need to log in to another dashboard. It supports HTML, React, React Native, and Flutter integrations. The app is built with Elixir on top of BEAM for incredible scalability, making it a suitable choice for businesses of all sizes. It also offers personalized support, managing your deployment on your infrastructure while providing the benefits of self-hosting with the reliability and scalability of the cloud.
 
 ## Benefits
 
-- Streamline Communication: Coordinate and reply to messages over chat, email, Slack, and SMS in one powerful dashboard.
-- Privacy-Focused Alternative: Papercups offers a privacy-focused, open-source alternative to Intercom, Drift, and Zendesk.
-- Customizable Chat Widget: Brand and customize the chat widget with colors, greetings, and text without any coding.
-- Developer-Friendly: Papercups is open-source and supports HTML, React, React Native, and Flutter integrations.
-- Self-Managed Deployment: Deploy Papercups in your cloud infrastructure for painless adoption and onboarding.
-- Unlimited Volume: Papercups is built with Elixir on top of BEAM for incredible scalability, offering unlimited volume.
-- Personalized Support: Get personalized support for managing your deployment on your infrastructure.
+- Streamlined Communication: Coordinate and reply to messages over chat, email, Slack, and SMS, all from one powerful dashboard. This removes the friction of having to log in to multiple platforms to manage customer communications.
+- Privacy-focused: Papercups is a privacy-focused, open-source alternative to other customer communication platforms. It is designed with a focus on protecting customer data and ensuring secure communications.
+- Customizable Widget: Our widget is highly customizable. You can change your color, greetings, text and more through our simple UI without needing any code. This allows you to personalize your customer interactions and align them with your brand.
+- Scalability: Built with Elixir on top of BEAM, Papercups offers incredible scalability. This means it can handle an unlimited volume of customer communications, making it a reliable solution for businesses of all sizes.
+- Personalized Support: We offer personalized support, managing your deployment on your infrastructure. This combines the benefits of self-hosting with the reliability and scalability of the cloud.
 
 ## Features
 
-- Custom Chat Widget: Papercups provides a customizable chat widget that can be embedded on websites to talk to customers.
-- React Support: Embed the chat widget as a React component or a simple HTML snippet.
-- React Native Support: Embed the chat widget in React Native apps (alpha version).
-- Flutter Support: Embed the chat widget in Flutter apps (beta version).
-- Slack Integration: Connect Papercups with Slack to view and reply to messages directly from a Slack channel.
-- Mattermost Integration: Connect Papercups with Mattermost to view and reply to messages directly from a Mattermost channel.
-- Gmail Integration: Link your support Gmail account to sync messages and reply to emails directly from Papercups.
-- SMS Integration: Reply to incoming SMS messages directly from Papercups.
-- GitHub Integration: Link your GitHub organization to Papercups to easily create issues and notify customers when issues are closed.
-- Markdown and Emoji Support: Use markdown and emoji to add character to your messages.
-- Invite Your Team: Send invite links to your teammates to join your Papercups account.
-- Conversation Management: Close, assign, and prioritize conversations for efficient support and feedback management.
-- Private Notes: Send private notes that you share with your team for internal communication.
-- Customer and Conversation Tags: Organize customers and conversations with custom tags and labels.
-- @ Mentions: Notify your teammates about important messages using @ mentions.
-- Saved Replies: Create text snippets for responses to common inquiries to streamline your workflow.
-- Live Session Viewing: Watch how your customers are interacting with your webpage in real-time.
-- Built on Elixir: Papercups is built on Elixir, optimized for responsiveness, fault-tolerance, and support for real-time updates.
+- Powerful Dashboard: Streamline customer support and feedback with our feature-rich dashboard. It allows you to manage all your customer communications from one place.
+- Reply from Where You Work: You can reply to conversations from Slack, our dashboard, or our mobile app. This flexibility allows you to manage customer communications from wherever you are.
+- Brand and Customize Your Widget: Our widget is highly customizable. You can change your color, greetings, text and more through our simple UI without needing any code.
+- Integration Support: Papercups supports HTML, React, React Native and Flutter integrations. Our integration takes minutes to setup, saving your developers time.
+- Self-managed Deployment: Papercups can be deployed in your cloud, for painless adoption and onboarding. Whether it's AWS, Docker, or Heroku, we've got you covered.
 
 ## Links
 

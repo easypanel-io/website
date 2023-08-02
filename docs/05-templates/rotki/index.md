@@ -13,22 +13,20 @@ description: How to install Rotki on Easypanel? 1-Click installation template fo
 
 ## Description
 
-Rotki is an open source portfolio tracking, analytics, accounting, and tax reporting tool for crypto assets. It aims to bring transparency into the crypto and financial sectors through the use of open source. With Rotki, your data is stored encrypted locally on your computer, giving you ownership and control over your financial data.
+Rotki is a comprehensive asset management and accounting application, specifically designed for crypto assets. The app is designed to help with tax reporting by importing, displaying, storing, and generating reports and statistics from cryptocurrency transaction data and other assets. It integrates with multiple exchanges, providing a centralized platform for managing your crypto assets. Rotki also offers the ability to generate profit/loss reports, making it easier to understand your financial standing. It&#39;s important to note that while Rotki aids in tax reporting, it does not provide tax or legal advice, and it&#39;s the user&#39;s responsibility to ensure the accuracy of the data provided to the service. The app is not intended for continuous monitoring of transaction data or for automatic transmission of your transaction data to any tax authority.
 
 ## Benefits
 
-- Privacy Protection: Unlike other services, Rotki stores your data encrypted locally on your computer, ensuring your privacy and giving you control over your financial data.
-- Transparency: Rotki aims to bring transparency into the crypto and financial sectors through the use of open source.
-- Portfolio Tracking: Rotki provides an overview of your balances across multiple platforms, blockchains, exchanges, and protocols.
-- Analytics and Insights: Rotki offers graphs and analysis of your historical activity, providing insights into your portfolio.
-- Accounting and Tax Reporting: Rotki allows you to perform accounting analysis for profit/loss over any period of time and generate reports for tax purposes.
+- Asset Management: Rotki is an asset management application that specializes in crypto assets. It allows you to keep track of your assets in one place, making it easier to manage your portfolio.
+- Tax Reporting: Rotki aims to help with tax reporting. It generates reports and statistics from your cryptocurrency transaction data, which can be useful for tax purposes.
+- Privacy Protection: Unlike other services, Rotki stores your data encrypted locally on your computer. This ensures that your financial data remains private and secure.
 
 ## Features
 
-- Customization: Rotki is highly customizable, allowing you to customize the UI look, main currency, language, accounting settings, and more.
-- Decoding EVM Transactions: Rotki can decode EVM (Ethereum, Optimism, and more) transactions into a human-readable format and display them.
-- Data Import and Analysis: Rotki can pull, store, and analyze history from activities of all supported platforms, providing a comprehensive view of your financial data.
-- Profit/Loss Analysis: Rotki allows you to perform accounting analysis for profit/loss over any period of time using customized accounting settings and generate profit/loss reports.
+- Integration with Multiple Exchanges: Rotki has integration for multiple exchanges, with more coming soon. This allows you to manage your assets across different platforms easily.
+- Transaction Data Import and Display: Rotki allows you to import, display, and store your cryptocurrency transaction data. It also generates reports and statistics from this data.
+- Profit/Loss Report Generation: Rotki allows you to create a profit/loss report. This can help you understand your financial performance and make informed decisions.
+- Decentralized Finance: Rotki supports decentralized finance. This means you can manage your DeFi assets along with your traditional assets.
 
 ## Links
 
@@ -42,7 +40,7 @@ Rotki is an open source portfolio tracking, analytics, accounting, and tax repor
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rotki
-App Service Image | - | yes | rotki/rotki:v1.27.0
+App Service Image | - | yes | rotki/rotki:v1.27.1
 
 ## Screenshots
 

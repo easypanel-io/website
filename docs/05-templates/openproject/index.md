@@ -13,7 +13,7 @@ description: How to install OpenProject on Easypanel? 1-Click installation templ
 
 ## Description
 
-OpenProject is an open-source project management software that offers efficient classic, agile, or hybrid project management in a secure environment. It allows users to take control of their data and protect their privacy with data sovereignty. OpenProject provides system and network security, free and open-source software (FOSS), and peace of mind hosting in the EU. It is suitable for both on-premises installation and cloud hosting. With OpenProject, teams can easily connect, structure their work, and achieve results. It offers project planning and scheduling, agile project management with Scrum and Kanban methodologies, and a team planner to visually assign tasks. OpenProject is a leading open-source project management software with a large community of users and developers. It offers different hosting options, including self-managed, enterprise on-premises, and enterprise cloud. OpenProject is trusted by successful companies and has received positive feedback from customers.
+OpenProject is an open-source project management software designed to facilitate efficient project management in a secure environment. It caters to various project management styles including classic, agile, or hybrid. The software allows you to take control of your data with the highest standards in data security and privacy. OpenProject can be installed on-premises in your own infrastructure, ensuring full control and 100% data ownership. It offers a variety of security features such as https encryption of your data, password security, two-factor authentication, and more. OpenProject supports agile project management and methodologies such as Scrum and Kanban, allowing teams to deliver better and faster. It also features a team planner to visually assign tasks to team members, helping to plan activities and gain perspective on the team&#39;s workload. OpenProject is also a powerful tool for project planning and scheduling, enabling teams to collaboratively create and visualize project plans, analyze required activities, and create a detailed plan for project deliverables.
 
 ## Instructions
 
@@ -21,16 +21,16 @@ The default login credentials are admin:admin
 
 ## Benefits
 
-- Data Sovereignty: OpenProject allows users to take control of their data and protect their privacy in a secure environment. Users have full control and 100% data ownership, knowing where their data is stored and what happens to it.
-- System and Network Security: OpenProject offers the highest level of security and protection of data with features such as HTTPS encryption, password security, two-factor authentication, and session runtime definition.
-- Free and Open-Source Software (FOSS): OpenProject is free and open-source software, giving users the freedom to run, share, study, and modify it without limitations. It is licensed under GNU GPL v3.
-- Peace of Mind Hosting in the EU: With OpenProject's Enterprise Cloud, data is stored on secure servers within the EU. The data center and network architecture are designed to meet the needs of highly security-conscious organizations.
+- Efficient Project Management: OpenProject offers efficient classic, agile, or hybrid project management in a secure environment. It is designed to make your teams' working lives easier, more productive, and more enjoyable.
+- Data Sovereignty: With OpenProject, you have full control over your data. It offers the highest standards in data security and privacy, ensuring that your data is protected and secure.
+- Hosting in the EU: OpenProject offers peace of mind hosting in the EU. Your data is stored on secure servers within the EU, meeting the needs of highly security-conscious organizations.
 
 ## Features
 
-- Project Planning and Scheduling: OpenProject allows users to create and visualize project plans with shared timelines. It helps analyze required activities and create detailed plans to deliver project deliverables on time.
-- Agile, Scrum & Kanban: OpenProject supports agile project management and methodologies such as Scrum and Kanban. It provides the perfect tool for agile teams to build, measure, and learn with each iteration.
-- Team Planner: OpenProject's team planner allows users to visually assign tasks to team members in a weekly or bi-weekly calendar. It helps plan team activities and provides a better perspective on the topics the team is working on.
+- Project Management: OpenProject is your base for classic, agile or hybrid project management. It allows you to organize your own tasks and assign tasks to a teammate, providing all the information in one place.
+- Project Planning and Scheduling: With shared timelines, OpenProject enables you to activate the experience and creativity of your entire team to collaboratively create and visualize your project plan.
+- Agile, Scrum & Kanban: OpenProject supports agile project management and methodologies such as Scrum and Kanban, helping agile teams to deliver better and faster.
+- Team Planner: OpenProject includes a team planner feature that allows you to visually assign tasks to team members in a weekly or bi-weekly calendar.
 
 ## Links
 

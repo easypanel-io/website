@@ -13,24 +13,21 @@ description: How to install Appsmith on Easypanel? 1-Click installation template
 
 ## Description
 
-Appsmith is a platform that allows engineers to build custom software on top of their data. It provides intent-based auto-layouts to help build responsive apps faster. With Appsmith, technical users can quickly build, deploy, and share applications with end-users to run critical business operations. It simplifies internal tool development for businesses, streamlining operations, automating processes, and integrating multiple apps and data. Appsmith offers features such as data integration from any data source, drag and drop widgets to build UI, customization and control with code, dev-first workflows with git-based version control, and the ability to extend existing apps. It also provides security features such as RBAC, audit logging, single sign-on, and secure sign-ups and logins. Appsmith is open-source, transparent, and community-driven, with a growing partner ecosystem and best-in-class support.
+Appsmith is a powerful tool designed to help engineers build custom software on top of their data. It simplifies internal tool development for businesses, streamlining operations, automating processes, and integrating multiple apps and data sources. Appsmith allows you to quickly build, deploy, and share applications that run critical business operations. It features intent-based auto-layouts for building responsive apps faster and offers a drag-and-drop interface for creating beautiful UIs without writing a single line of HTML/CSS. You can connect to any database, SaaS tool, or GraphQL/REST API, and query your data directly using SQL or the built-in query builder. Appsmith also provides the ability to write in-line JavaScript or reusable code blocks to extend your app&#39;s functionality, customize your UI, or write conditional logic. It&#39;s a secure, open-source platform that can be self-hosted for total control, privacy, and security.
 
 ## Benefits
 
-- Build custom software on top of data: Appsmith allows engineers to build custom software on top of their data, enabling them to create applications tailored to their specific needs.
-- Streamline operations and automate processes: With Appsmith, businesses can simplify internal tool development, streamline operations, and automate processes, leading to increased efficiency and productivity.
-- Integrate multiple apps and data: Appsmith provides the ability to quickly integrate multiple apps and data, allowing businesses to consolidate their tools and streamline workflows.
-- Enhance legacy apps with new features: Appsmith enables businesses to enhance their legacy apps with new features, extending the functionality and lifespan of existing applications.
+- Streamlined Operations: Appsmith simplifies internal tool development for businesses, helping to streamline operations and automate processes. This allows businesses to scale faster and more efficiently.
+- Rapid Application Development: With Appsmith, technical users can quickly build, deploy, and share applications with end-users to run critical business operations. This accelerates the development process and reduces time to market.
+- Enhanced Legacy Apps: Appsmith allows businesses to quickly integrate multiple apps and data, enhancing legacy apps with new features. This ensures that your existing software remains relevant and continues to deliver value.
 
 ## Features
 
-- Data integration: Appsmith allows users to bring in data from any data source, including databases, SaaS tools, and GraphQL/REST APIs. Users can query their data directly using SQL or the query builder.
-- Drag and drop UI builder: Appsmith provides a drag and drop interface with 45+ customizable widgets, allowing users to create beautiful and responsive UIs without writing code.
-- Customization and control with code: Users can write in-line JavaScript or reusable code blocks to customize their app's functionality, extend the UI, or add conditional logic.
-- Dev-first workflows: Appsmith supports git-based version control, allowing users to sync their apps to a git repository and use familiar development workflows. It also provides a built-in JavaScript editor with autocomplete, multi-line editing, debugging, and linting.
-- Extend existing apps: Appsmith allows users to extend the functionalities of their existing SaaS apps by embedding them with Appsmith. It also provides RBAC, audit logging, single sign-on, and authentication integrations for secure access.
-- Secure self-hosting: Appsmith can be self-hosted for total control, privacy, and security. It offers solid 256-bit encryption, TLS-encrypted connections, and encrypted credentials.
-- Open-source and community-driven: Appsmith is an open-source platform licensed under Apache License 2.0. It has a thriving developer community, best-in-class support, and a growing partner ecosystem.
+- Data Integration: Appsmith can connect to any database, SaaS tool, or GraphQL/REST API within a few clicks. Users can query their data directly using SQL or the query builder, with 18+ native integrations available.
+- Drag and Drop UI Builder: Appsmith features a drag and drop UI builder with 45+ customizable widgets. Users can create beautiful responsive UI in minutes without writing a single line of HTML/CSS.
+- Customizable with Code: Users can write in-line JavaScript or reusable code blocks to extend their app's functionality, customize their UI, or write conditional logic. This provides a high degree of flexibility and control over the app's behavior.
+- Git-based Version Control: Appsmith supports git-based version control, allowing users to sync to a git repository and use the same dev workflows. Users can commit changes, review pull requests, and deploy with their CI/CD.
+- Secure and Private: Appsmith ensures security and privacy by allowing self-hosting with no telemetry and no private data over the wire. All connections are TLS-encrypted, and credentials are encrypted with AES-256.
 
 ## Links
 

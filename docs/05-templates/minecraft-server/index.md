@@ -13,19 +13,19 @@ description: How to install Minecraft Server on Easypanel? 1-Click installation 
 
 ## Description
 
-The itzg/minecraft-server Docker image provides a Minecraft Server that will automatically download the latest stable version at startup. It supports running/upgrading to any specific version or the latest snapshot. The image exposes the standard server port, 25565, on the host machine. For Minecraft clients running on consoles, mobile, or native Windows, a different image (itzg/minecraft-bedrock-server) should be used.
+The itzg/minecraft-server app is designed to provide a seamless Minecraft Server experience. It automatically downloads the latest stable version of the Minecraft server at startup, ensuring you&#39;re always up-to-date with the game&#39;s latest features and improvements. The app also allows you to run or upgrade to any specific version or the latest snapshot, giving you full control over your gaming experience. If you&#39;re using Minecraft clients on consoles, mobile, or native Windows, the app offers a dedicated Bedrock Server for optimal performance. The standard server port, 25565, will be exposed on your host machine for easy access and gameplay.
 
 ## Benefits
 
-- Automatic version management: The Minecraft Server automatically downloads the latest stable version at startup, ensuring you are always up to date.
-- Flexible version selection: You can run or upgrade to any specific version of Minecraft or use the latest snapshot.
-- Easy deployment: The Docker image makes it easy to deploy and manage a Minecraft Server.
+- Latest Minecraft Versions: The app automatically downloads the latest stable version of Minecraft Server at startup, ensuring you always have the most recent features and updates.
+- Flexible Version Support: You can run or upgrade to any specific version of Minecraft Server or the latest snapshot, giving you the flexibility to choose the version that best suits your needs.
+- Dedicated Server for Different Platforms: The app provides a dedicated server for Minecraft clients running on consoles, mobile, or native Windows, ensuring a smooth and seamless gaming experience across different platforms.
 
 ## Features
 
-- Dynamic version support: The server automatically downloads the latest stable version or any specific version you choose.
-- Server type support: The image supports different server types, including modpacks.
-- Port exposure: The standard server port, 25565, is exposed on the host machine.
+- Dynamic Version Support: The app supports dynamic versioning, automatically downloading the latest stable version of Minecraft Server at startup.
+- Server Types and Modpack Support: The app supports various server types and modpacks, enhancing your Minecraft gaming experience with additional features and functionalities.
+- Dedicated Server for Different Platforms: The app provides a dedicated server for Minecraft clients running on consoles, mobile, or native Windows, ensuring compatibility and a smooth gaming experience.
 
 ## Links
 

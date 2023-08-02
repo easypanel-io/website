@@ -13,21 +13,20 @@ description: How to install Nextcloud on Easypanel? 1-Click installation templat
 
 ## Description
 
-Nextcloud Hub is a self-hosted collaboration platform that integrates four key Nextcloud products: Files, Talk, Groupware, and Office. It offers powerful access control, infrastructure integration, and customizable features. With Nextcloud Hub, users can regain control over their data and collaborate remotely with ease. The platform is scalable and can be deployed on-premises or in the cloud, ensuring no data leaks to third parties.
+Nextcloud Hub 5 is a comprehensive platform that integrates the four key Nextcloud products: Files, Talk, Groupware, and Office. It is designed to optimize the flow of collaboration, providing a seamless experience for users. Nextcloud Files offers an on-premise Universal File Access and sync platform with powerful collaboration capabilities and interfaces for desktop, mobile, and web. The platform ensures no data leaks to third parties, providing you with full control over your data. It is customizable, scalable, and can be deployed on-premises or in the cloud. Nextcloud is committed to providing technology that fits perfectly with your organization, whether it&#39;s a government entity, enterprise, service provider, or educational institution. It is the most popular self-hosted collaboration solution, used by tens of millions of users at thousands of organizations across the globe.
 
 ## Benefits
 
-- Regain control over your data: Nextcloud Hub allows users to keep their data on servers they own, ensuring data privacy and security.
-- Remote collaboration made easy: Nextcloud Hub provides powerful collaboration capabilities, allowing users to share, collaborate, and communicate across organizational boundaries.
-- Customizable and scalable: Nextcloud Hub can be customized to fit the specific needs of an organization and can scale from small deployments to globally distributed installations.
-- No data leaks to third parties: Nextcloud Hub ensures that no data, including metadata, leaks to third parties, providing complete control over data privacy.
+- Regain Control Over Your Data: Nextcloud Hub 5 allows you to regain control over your data, ensuring no data leaks to third parties. It offers a secure platform for data storage and collaboration.
+- Remote Collaboration Made Easy: Nextcloud Hub 5 is designed to facilitate remote collaboration. It integrates key Nextcloud products into a single platform, optimizing the flow of collaboration.
+- Customizable and Scalable: Nextcloud Hub 5 is customizable and scalable. It can be deployed on-premises or on the cloud, making it a perfect fit for organizations of all sizes.
 
 ## Features
 
 - Nextcloud Files: Nextcloud Files offers an on-premise Universal File Access and sync platform with powerful collaboration capabilities and desktop, mobile, and web interfaces.
-- Nextcloud Talk: Nextcloud Talk is a groupware solution that enables real-time communication and collaboration through video chat, audio calls, and messaging.
-- Nextcloud Groupware: Nextcloud Groupware provides a suite of productivity tools, including calendar, contacts, mail, and more, to enhance collaboration within organizations.
-- Nextcloud Office: Nextcloud Office is a web-based office suite that allows users to create, edit, and collaborate on documents, spreadsheets, and presentations.
+- Nextcloud Talk: Nextcloud Talk is a feature of Nextcloud Hub 5 that facilitates communication and collaboration within the platform.
+- Nextcloud Groupware: Nextcloud Groupware is a suite of tools integrated into Nextcloud Hub 5, designed to enhance productivity and collaboration.
+- Nextcloud Office: Nextcloud Office is a part of Nextcloud Hub 5, providing users with a suite of office tools for document editing, spreadsheet management, and more.
 
 ## Links
 

@@ -13,23 +13,19 @@ description: How to install Memos on Easypanel? 1-Click installation template fo
 
 ## Description
 
-memos is a lightweight, self-hosted memo hub that provides privacy, security, and reliability. It allows users to keep their own data and supports plain text with Markdown. The app is customizable and open source, and all features are free forever. Contributions are welcome from the open-source community.
+Memos is a privacy-first, lightweight note-taking service designed to easily capture and share your great thoughts. With its focus on privacy, all data generated is saved in the SQLite database file, ensuring that you keep your own data by yourself. The app supports plain text with markdown, allowing you to save all content as plain text, not HTML, while also supporting a variety of useful markdown syntax. Despite being lightweight, Memos is powerful, utilizing a Go + React.js + SQLite architecture. The app is customizable, allowing you to modify the server name, icon, description, system style, and execution script. Memos is open source and free forever, embodying the belief that open source is the future. It offers a RESTful API for third-party services, enabling integration and new possibilities. With Memos, you can embrace a future where creativity knows no boundaries.
 
 ## Benefits
 
-- Privacy First: Keep your own data by yourself. All data generated at runtime is saved in the SQLite database file.
-- Customizable: You can customize the server name, icon, description, custom system style, and execution script.
-- Open Source: All code is open source on GitHub.
-- Free Forever: All features are free forever and will never be charged.
+- Privacy First: Memos is a privacy-first note-taking service. It allows you to keep your own data by yourself. All data generated at runtime is saved in the SQLite database file, ensuring your notes and thoughts are kept private and secure.
+- Lightweight but Powerful: Despite its lightweight package, Memos is a powerful tool. It uses a Go + React.js + SQLite architecture, providing a robust and efficient platform for capturing and sharing your thoughts.
+- Free Forever: Memos is completely free. All features are available without any charges, allowing you to capture and share your thoughts without any financial constraints.
 
 ## Features
 
-- Privacy First: memos ensures privacy by keeping all data generated at runtime saved in the SQLite database file.
-- Plain Text with Markdown: All content in memos is saved as plain text with support for useful Markdown syntax.
-- Lightweight but Powerful: memos is built using Go + React.js + SQLite architecture, making it lightweight yet powerful.
-- Customizable: Users can customize the server name, icon, description, custom system style, and execution script in memos.
-- Open Source: memos is completely open source on GitHub, allowing users to contribute and improve the app.
-- Free Forever: All features in memos are free forever and will never be charged.
+- Plain Text with Markdown: Memos saves all content as plain text, not HTML. It supports a wide range of useful markdown syntax, making note-taking simple and efficient.
+- Customizable: Memos is highly customizable. You can personalize the server name, icon, description, system style, and execution script to suit your preferences.
+- Open Source: Memos is an open-source application. It believes in the future of open source, and all its code is available on GitHub.
 
 ## Links
 

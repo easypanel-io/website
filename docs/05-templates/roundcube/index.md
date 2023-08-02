@@ -13,7 +13,7 @@ description: How to install Roundcube on Easypanel? 1-Click installation templat
 
 ## Description
 
-Roundcube webmail is a browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking.
+Roundcube webmail is a browser-based, multilingual IMAP client that offers an application-like user interface. It is designed to provide all the functionalities you would expect from an email client. This includes MIME support, an address book, folder manipulation, message searching, and spell checking. The app also supports drag-and-drop message management, multiple sender identities, and a full-featured address book with groups and LDAP connectors. It offers a threaded message listing, IDNA and SMTPUTF8 support, and a responsive skin for multi-device support. Roundcube webmail also features built-in caching for fast mailbox access, unlimited users and messages, import/export functions, and support for PGP encryption.
 
 ## Instructions
 
@@ -21,29 +21,24 @@ After Roundcube is installed, you can log in to the mail accounts on the service
 
 ## Benefits
 
-- Browser-based Email Client: Access your email from any web browser without the need for a separate email client software.
-- Multilingual Support: Roundcube webmail supports multiple languages, allowing users from different regions to use the app in their preferred language.
-- Full Email Functionality: Roundcube webmail provides all the features you expect from an email client, including MIME support, address book, folder management, message searching, and spell checking.
+- Efficient Email Management: Roundcube webmail is a browser-based multilingual IMAP client that offers an application-like user interface. It provides full functionality you expect from an email client, making email management efficient and easy.
+- Versatile Functionality: From MIME support, address book, folder manipulation, to message searching and spell checking, Roundcube webmail provides a wide range of features to cater to your email needs.
+- Fast Mailbox Access: With built-in caching, Roundcube webmail ensures fast mailbox access, allowing you to browse through your emails quickly and seamlessly.
+- Multi-Device Support: Roundcube webmail comes with a responsive skin, providing multi-device support. This means you can access your emails from any device, anytime, anywhere.
 
 ## Features
 
-- Drag-&-drop message management: Easily manage your email messages by dragging and dropping them into folders or other actions.
-- Full support for MIME and HTML messages: Roundcube webmail fully supports MIME and HTML messages, allowing you to view and compose richly formatted emails.
-- Multiple sender identities: Manage multiple email addresses and sender identities within Roundcube webmail.
-- Full featured address book with groups and LDAP connectors: Store and manage your contacts in the address book, including support for groups and LDAP connectors.
-- Find-as-you-type address book integration: Quickly find contacts in the address book by typing their name or email address.
-- Threaded message listing: View email conversations in a threaded format for easier organization and navigation.
-- IDNA and SMTPUTF8 support: Roundcube webmail supports IDNA and SMTPUTF8 encoding for internationalized domain names and email addresses.
-- Spell checking: Check the spelling of your email messages before sending them.
-- Responsive skin (multi-device support): The user interface of Roundcube webmail is responsive and supports multiple devices, allowing you to access your email from desktops, laptops, tablets, and smartphones.
-- Shared/global IMAP folders: Access shared or global IMAP folders within Roundcube webmail.
-- Support for access control lists (ACL): Manage access control lists for folders and email messages within Roundcube webmail.
-- Built-in caching for fast mailbox access: Roundcube webmail includes built-in caching for faster access to your mailbox.
-- Unlimited users and messages: There are no limitations on the number of users or messages that can be managed within Roundcube webmail.
-- Import/export functions: Import and export email messages and contacts to and from Roundcube webmail.
-- Plug-in API for flexible extensions: Extend the functionality of Roundcube webmail using the plug-in API.
-- XSS attack protection: Roundcube webmail includes protection against cross-site scripting (XSS) attacks.
-- Support for PGP encryption: Encrypt and decrypt email messages using PGP encryption within Roundcube webmail.
+- Drag-&-drop Message Management: Roundcube webmail allows you to manage your messages easily with its drag-and-drop feature.
+- Full Support for MIME and HTML Messages: Roundcube webmail provides full support for MIME and HTML messages, ensuring you can view and manage all types of email content.
+- Multiple Sender Identities: With Roundcube webmail, you can manage multiple sender identities, making it ideal for users with multiple email accounts.
+- Full Featured Address Book: Roundcube webmail includes a full-featured address book with groups and LDAP connectors, making it easy to manage your contacts.
+- Threaded Message Listing: Roundcube webmail offers threaded message listing, allowing you to view your email conversations in a threaded view.
+- Spell Checking: Roundcube webmail includes a spell checking feature, ensuring your emails are free of spelling errors.
+- Support for Access Control Lists (ACL): Roundcube webmail supports access control lists (ACL), allowing you to control who has access to your emails.
+- Import/Export Functions: Roundcube webmail includes import/export functions, allowing you to easily transfer your emails and contacts.
+- Plug-in API for Flexible Extensions: Roundcube webmail comes with a plug-in API, allowing for flexible extensions to enhance its functionality.
+- XSS Attack Protection: Roundcube webmail includes XSS attack protection, ensuring your emails are safe from cross-site scripting attacks.
+- Support for PGP Encryption: Roundcube webmail supports PGP encryption, ensuring your emails are securely encrypted.
 
 ## Links
 

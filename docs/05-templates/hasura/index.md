@@ -13,24 +13,22 @@ description: How to install Hasura on Easypanel? 1-Click installation template f
 
 ## Description
 
-Hasura is a platform that automates the development of data APIs, allowing teams to build, secure, operate, and scale APIs faster. It eliminates the need for manual API creation and provides tools for authorization, performance optimization, observability, and API security. With Hasura, developers can effortlessly generate APIs by connecting to existing databases, GraphQL and REST APIs. It supports integration with popular databases like PostgreSQL, MySQL, and MongoDB. Hasura is used by companies like Optum, Philips Healthcare, and Nutrien to accelerate development and modernize data access. The platform also offers a community where developers can connect, gain insights, and access expert guidance.
+Hasura is a powerful Data API Platform that automates the process of building, securing, optimizing, and deploying GraphQL and REST APIs. It eliminates the need for manual API creation, enabling developers to generate APIs effortlessly by connecting to existing databases. This results in rapid, scalable application development. Hasura is compatible with a variety of popular databases, including PostgreSQL, MySQL, and MongoDB, allowing you to build GraphQL APIs on top of your existing databases. It also provides comprehensive tools to secure APIs beyond authentication and authorization. With Hasura, you can accelerate the development of new applications or add new features to an existing application in days instead of weeks. It also helps in fast-tracking cloud migration, frontend and backend modernization, and application re-architecture projects by automating 80% of your API development work.
 
 ## Benefits
 
-- Automated API Development: Hasura automates 80% of the tediousness of building, securing, optimizing, and deploying GraphQL and REST APIs, allowing teams to ship 10x faster.
-- Instant API Generation: Hasura can generate a unified GraphQL or REST API from your data sources in minutes, eliminating the need for manual API creation.
-- Granular Authorization: Hasura allows you to define role-based permissions down to the row and column level, providing comprehensive tools for API security beyond authentication and authorization.
-- Performance Optimization: Hasura ensures faster API response times and automatically optimizes scalability for optimal availability and performance of your APIs.
-- Federation of Disparate Data: Hasura enables you to connect, manage, and iterate siloed, disparate data on a supergraph, providing a unified view of your data sources.
+- Rapid API Development: Hasura allows for faster API development, reducing cost, complexity, and time to market. It enables you to build new applications or add new features to an existing application in days instead of weeks.
+- Accelerated Modernization: Hasura fast tracks cloud migration, frontend and backend modernization, and application re-architecture projects by automating 80% of your API development work.
+- Standardized Data Access: Hasura replaces direct database access with a scalable, performant, and secure data API to create a unified and federated core data service.
 
 ## Features
 
-- Instant API: Generate a unified GraphQL or REST API from your data sources in minutes.
-- Authorization: Define granular, role-based permissions down to the row and column level.
-- Performance: Ensure faster API response times and automatically optimize scalability.
-- Observability: Get precision insights for optimal availability and performance of your APIs.
-- API Security: Comprehensive tools to secure APIs beyond authentication and authorization.
-- Federation: Connect, manage, and iterate siloed, disparate data on a supergraph.
+- Instant API: Hasura provides an instant API from your data to a unified GraphQL or REST API in minutes.
+- Authorization: Hasura allows you to define granular, role-based permissions down to the row and column level.
+- Performance: Hasura ensures faster API response times and scalability that’s automatically optimized.
+- Observability: Hasura offers precision insights for optimal availability and performance of your APIs.
+- API Security: Hasura provides comprehensive tools to secure APIs beyond authentication and authorization.
+- Federation: Hasura allows you to connect, manage, and iterate siloed, disparate data on a supergraph.
 
 ## Links
 
@@ -49,7 +47,6 @@ Database Service Name | - | yes | hasura-db
 Hasura Admin Secret Key | - | yes | mysecretkey
 Console Enable | - | yes | true
 Dev mode Enable | - | yes | true
-Hasura Domain name | - | no | 
 
 ## Screenshots
 

@@ -13,7 +13,7 @@ description: How to install Shiori on Easypanel? 1-Click installation template f
 
 ## Description
 
-Shiori is a simple bookmarks manager written in the Go language. It is intended as a simple clone of Pocket and can be used as a command line application or as a web application. It supports basic bookmarks management, import and export of bookmarks, a simple and clean command line interface, a simple and pretty web interface, and is portable thanks to its single binary format. It also supports multiple databases and can create offline archives of webpages. There is also a web extension available for managing bookmarks using Shiori.
+Shiori is a straightforward bookmarks manager, designed as a simple alternative to Pocket. It is written in the Go language and can be used as either a command line application or a web application. Shiori allows for basic bookmark management, including adding, editing, deleting, and searching bookmarks. It also supports importing and exporting bookmarks from and to Netscape Bookmark file and importing bookmarks from Pocket. The application features a clean command line interface and a user-friendly web interface. It is portable and supports sqlite3, PostgreSQL, and MySQL as its database. Shiori also creates an offline archive of the webpage where possible. The Shiori Web Extension is a simple extension for managing bookmarks using Shiori, intended to integrate Shiori with your favorite web browser, allowing you to save and remove bookmarks in Shiori without leaving your current page.
 
 ## Instructions
 
@@ -21,17 +21,18 @@ The default account is &quot;shiori&quot; with password &quot;gopher&quot;. It i
 
 ## Benefits
 
-- Simple and Easy to Use: Shiori provides a simple and clean interface for managing bookmarks, making it easy to add, edit, delete, and search for bookmarks.
-- Portable and Easy to Install: Shiori is distributed as a single binary, which means it can be easily installed and used on any system without the need for complex setup or dependencies.
-- Supports Multiple Databases: Shiori supports sqlite3, PostgreSQL, and MySQL as its database, giving you the flexibility to choose the database that works best for you.
-- Web Extension Support: Shiori has a web extension available for Firefox and Chrome, allowing you to save and remove bookmarks in Shiori without switching from your current page.
+- Efficient Bookmark Management: Shiori provides a simple and efficient way to manage your bookmarks. It allows you to add, edit, delete, and search bookmarks with ease, making it a convenient tool for organizing your online resources.
+- Offline Access: Shiori creates an offline archive of the webpages you bookmark. This means you can access your saved content even when you're not connected to the internet.
+- Portability: Shiori is distributed as a single binary, making it highly portable. You can use it on any device and carry your bookmarks with you wherever you go.
+- Browser Integration: With the Shiori Web Extension, you can integrate Shiori with your favorite web browser. This allows you to save and remove bookmarks in Shiori without leaving your current page.
 
 ## Features
 
-- Basic Bookmarks Management: Shiori allows you to add, edit, delete, and search for bookmarks, providing a simple and efficient way to manage your bookmarks.
-- Import and Export Bookmarks: Shiori supports importing and exporting bookmarks from and to Netscape Bookmark file, as well as importing bookmarks from Pocket.
-- Command Line and Web Interface: Shiori can be used as a command line application or as a web application, providing flexibility in how you interact with your bookmarks.
-- Offline Archive of Webpages: Shiori can parse the readable content of webpages and create an offline archive, allowing you to access the content even when you are offline.
+- Bookmark Management: Shiori allows you to add, edit, delete, and search bookmarks. It provides a simple and clean interface for managing your bookmarks.
+- Import and Export Functionality: Shiori supports importing and exporting bookmarks from and to Netscape Bookmark file. It also allows you to import bookmarks from Pocket.
+- Offline Archive: Shiori creates an offline archive of the webpages you bookmark. This allows you to access your saved content offline.
+- Web Extension: Shiori offers a web extension that integrates Shiori with your web browser. This allows you to manage your bookmarks without switching from your current page.
+- Database Support: Shiori supports sqlite3, PostgreSQL, and MySQL as its database. This provides flexibility in terms of data storage and management.
 
 ## Links
 

@@ -13,19 +13,19 @@ description: How to install LibreTranslate on Easypanel? 1-Click installation te
 
 ## Description
 
-LibreTranslate is a free and open-source machine translation API that is entirely self-hosted. It does not rely on proprietary providers like Google or Azure for translations. Instead, it uses the open-source Argos Translate library as its translation engine.
+LibreTranslate is a free and open-source machine translation app that is entirely self-hosted. Unlike other translation apps, it does not rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open-source Argos Translate library. LibreTranslate can translate text between different languages, auto-detect the language of the input text, and even handle HTML content. It provides a simple and intuitive interface for users to input the text they want to translate, select the source and target languages, and get the translated text. With LibreTranslate, you can enjoy a reliable, accurate, and privacy-friendly translation service right at your fingertips.
 
 ## Benefits
 
-- Free and Open Source: LibreTranslate is free to use and the source code is available for anyone to view, modify, and distribute.
-- Self-Hosted: You can run your own instance of LibreTranslate on your server, giving you full control over your translation service.
-- No Proprietary Providers: Unlike other translation APIs, LibreTranslate does not rely on proprietary providers like Google or Azure. It uses the open-source Argos Translate library as its translation engine.
+- Free and Open Source: LibreTranslate is a free and open source machine translation API, which means it is accessible to everyone and can be modified to suit individual needs.
+- Self-Hosted: Unlike other APIs, LibreTranslate doesn't rely on proprietary providers such as Google or Azure to perform translations. It is entirely self-hosted, providing full control over data privacy and security.
+- Powered by Argos Translate: LibreTranslate's translation engine is powered by the open source Argos Translate library, ensuring reliable and accurate translations.
 
 ## Features
 
-- Simple API: LibreTranslate provides a simple API for translating text. You can make requests to the API using various programming languages.
-- Auto Detect Language: LibreTranslate can automatically detect the language of the input text, making it easier to translate text without specifying the source language.
-- HTML Translation: LibreTranslate supports translating HTML content, preserving the structure and formatting of the original text.
+- Simple Translation Requests: LibreTranslate allows users to easily translate text from one language to another. Simply input the text, specify the source and target languages, and the API will return the translated text.
+- Auto Detect Language: LibreTranslate can automatically detect the language of the input text. This feature is especially useful when the source language is unknown.
+- HTML Translation: LibreTranslate supports HTML translation. This means it can translate text within HTML code while preserving the original formatting and structure.
 
 ## Links
 

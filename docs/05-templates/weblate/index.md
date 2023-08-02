@@ -13,7 +13,7 @@ description: How to install Weblate on Easypanel? 1-Click installation template 
 
 ## Description
 
-Weblate is a libre software web-based continuous localization system used by over 2500 libre projects and companies in more than 165 countries. It allows for the translation of software, documentation, and other content.
+Weblate is a powerful, web-based continuous localization system. It is designed to simplify the process of translating text from one language to another, making it an invaluable tool for projects and companies operating in multiple countries. With Weblate, users can easily translate using the platform, download and upload translations, and even integrate with version control systems for seamless workflow. The app supports a wide range of file formats, and it also provides a REST API and Python API for further flexibility. Weblate also offers features like automatic suggestions, translation memory, and various checks and fixups to ensure high-quality translations. Whether you&#39;re starting with internationalization or managing an established translators community, Weblate has the features to support your translation needs.
 
 ## Instructions
 
@@ -21,18 +21,15 @@ Please use the following credentials to login. changeme@easypanel.io|changeme
 
 ## Benefits
 
-- Continuous Localization: Weblate provides a web-based interface for continuous localization, allowing for easy and efficient translation of content.
-- Version Control Integration: Weblate integrates with version control systems like Git, Mercurial, and Subversion, making it easy to manage translations alongside code.
-- REST API and Client Libraries: Weblate provides a REST API and client libraries for various programming languages, enabling developers to integrate translation workflows into their applications.
+- Efficient Localization: Weblate is a web-based continuous localization system that allows you to easily translate and manage your software projects. With Weblate, you can streamline the localization process and ensure that your app is available in multiple languages.
+- Collaborative Translation: Weblate enables collaboration among translators, making it easy for multiple contributors to work on translations simultaneously. This helps to speed up the translation process and ensures high-quality translations.
+- Version Control Integration: Weblate seamlessly integrates with version control systems like Git, allowing you to manage translations directly from your code repository. This simplifies the workflow and ensures that translations are always in sync with the latest code changes.
 
 ## Features
 
-- Registration and User Profile: Users can register and create profiles in Weblate, allowing for personalized translation experiences.
-- Translating Using Weblate: Weblate provides a user-friendly interface for translating content, with features like translation memory, glossary, and automatic suggestions.
-- Downloading and Uploading Translations: Translations can be easily downloaded and uploaded in various formats, making it convenient to work with external translation tools.
-- Version Control Integration: Weblate integrates with popular version control systems, allowing for seamless translation management alongside code repositories.
-- Configuration and Customization: Weblate can be configured and customized to fit the specific needs of translation projects, including access control, language definitions, and add-ons.
-- Translation Workflows: Weblate supports various translation workflows, including single-language projects, multi-language projects, and collaborative translation.
+- Web-Based Interface: Weblate provides a user-friendly web-based interface that allows you to easily manage your translation projects. You can add new languages, import and export translations, and track the progress of translations.
+- Glossary and Translation Memory: Weblate includes features like glossary and translation memory, which help to improve translation consistency and efficiency. The glossary allows you to define and manage a list of terms and their translations, while the translation memory suggests previously translated segments for reuse.
+- Automatic Checks and Fixups: Weblate automatically checks translations for common errors and inconsistencies, such as missing placeholders or incorrect formatting. It also provides fixup suggestions to help translators correct these issues quickly.
 
 ## Links
 

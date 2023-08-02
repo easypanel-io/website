@@ -13,21 +13,20 @@ description: How to install Owncloud on Easypanel? 1-Click installation template
 
 ## Description
 
-ownCloud is a secure cloud platform that offers real-time content collaboration, file sharing, and web office capabilities. It is trusted by 200 million users worldwide and is designed to ensure data protection and privacy. With features like Spaces, Web Office, and secure design, ownCloud provides a seamless and secure collaboration experience for remote teams of all sizes. It offers the flexibility of on-premises deployment or a SaaS solution for smaller organizations. ownCloud is GDPR, LGPD, CCRF, HIPAA, and CCPA ready, making it compliant with data protection regulations. It helps increase productivity by enabling teams to store, share, and work on their data and documents from anywhere and any device. With open APIs and modularity, ownCloud allows for convenient collaboration with internal and external parties without storing data in the public cloud. Stay up to date with the latest news and insights from ownCloud by signing up for their newsletter.
+ownCloud Infinite Scale 3.0 is a secure cloud platform designed for real-time content collaboration. It is trusted by over 200 million users worldwide and offers a revolutionary project folder concept, Spaces, to boost seamless digital collaboration for remote teams of all sizes. The platform also provides a suite of powerful integrations through Web Office, including OnlyOffice, Microsoft 365, Collabora Online, and Microsoft Office Online, enabling users to collaborate seamlessly and securely from any location and device. ownCloud Infinite Scale 3.0 is designed with state-of-the-art security standards and best practices, ensuring superior data protection and privacy. It allows organizations to control their data at all times, anywhere, and can be deployed on-premises, in a data center of choice, or in a hybrid setup. The platform also supports multi-factor authentication, encryption, and elaborate file lifecycle management for enhanced security. ownCloud Infinite Scale 3.0 is designed to increase productivity by enabling modern teams to store, share, and work on their data and documents through a single point of access.
 
 ## Benefits
 
-- Secure Collaboration: ownCloud ensures data protection and privacy with state-of-the-art security standards and best practices. It offers features like multi-factor authentication, encryption, and file lifecycle management.
-- Flexible Deployment: ownCloud can be deployed on-premises, in a data center, or in a hybrid setup, giving organizations full control over their data. It also offers a SaaS solution, ownCloud.online, for smaller organizations.
-- Compliance with Data Protection Regulations: ownCloud is GDPR, LGPD, CCRF, HIPAA, and CCPA ready, ensuring compliance with data protection regulations and providing organizations with peace of mind.
-- Increased Productivity: ownCloud enables teams to collaborate from anywhere and any device, saving time on coordination and feedback processes. It offers features like real-time collaboration, document annotation, and seamless integration with popular office suites.
-- Convenient Collaboration: ownCloud allows for convenient collaboration with internal and external parties without storing data in the public cloud. It offers open APIs and modularity for easy integration with other systems.
+- Secure Cloud Platform: ownCloud Infinite Scale 3.0 is the latest and most secure version of the ownCloud real-time content collaboration platform. It incorporates state-of-the-art security standards and best practices to ensure superior data protection and privacy.
+- Efficient Collaboration: With ownCloud, modern teams can collaborate from anywhere and from any device. They can store, share and work on their data and documents through a single point of access, saving time on coordination and feedback processes.
+- Data Sovereignty: ownCloud allows you to control your data at all times, anywhere and everywhere. It can be deployed on-premises, in a data center of your choice or in a hybrid setup, ensuring 100% data ownership.
 
 ## Features
 
-- Spaces: Spaces is a project folder concept designed to boost seamless digital collaboration for remote teams. It ensures compliance, data control, and security while reducing admin workload.
-- Web Office: Web Office provides a suite of powerful integrations, including OnlyOffice, Microsoft 365, Collabora Online, and Microsoft Office Online. It enables secure collaboration irrespective of location and device.
-- Secure by Design: ownCloud Infinite Scale incorporates state-of-the-art security standards and best practices to ensure superior data protection and privacy. It is designed with a three-tier architecture and secure APIs.
+- Filesharing: Trusted by 200 million users worldwide, ownCloud provides an easy, flexible and secure way for staff to share files and folders. It allows safe involvement of contacts outside your organization with select documents.
+- Spaces: Spaces is a revolutionary project folder concept designed to boost seamless digital collaboration for remote teams of all sizes, while ensuring compliance, data control and security.
+- Web Office: Web Office provides a suite of powerful integrations including OnlyOffice, Microsoft 365, Collabora Online and Microsoft Office Online. This enables users to collaborate seamlessly and securely irrespective of location and device.
+- Infinite Scale: Infinite Scale is designed as a three-tier architecture separating storage, backend and frontend components communicating through secure, well-defined APIs. It ensures superior data protection and privacy.
 
 ## Links
 

@@ -13,7 +13,7 @@ description: How to install Ploi Roadmap on Easypanel? 1-Click installation temp
 
 ## Description
 
-Roadmap is an open-source software for roadmapping needs. It allows users to create and customize roadmaps, mention users in comments, upvote items, and generate automatic OG images. It also has a simplified role system and supports OAuth 2 single sign-on.
+Roadmap is an open-source software designed to streamline your roadmapping process. It offers a completely customizable platform where you can mention users in comments, upvote items to prioritize them, and generate automatic slugs. The software also features a Filament admin panel and a simplified role system that includes administrator, employee, and user roles. Roadmap supports OAuth 2 single sign-on with your own application and automatically generates OG images, including the branding color you&#39;ve set up. It also integrates with GitHub, allowing you to assign a repository to each project and manage issues directly from the roadmap admin. The software is built with PHP and requires a database to function.
 
 ## Instructions
 
@@ -21,20 +21,22 @@ After First Deployment, run &quot;php artisan roadmap:install&quot; to setup the
 
 ## Benefits
 
-- Customizable Roadmapping: Create and customize roadmaps according to your needs.
-- Collaboration: Mention users in comments and upvote items to prioritize tasks.
-- Automatic OG Image Generation: Generate branded OG images for your roadmaps.
-- Simplified Role System: Manage user roles with a simplified role system.
-- OAuth 2 Single Sign-On: Enable single sign-on with your own application using OAuth 2.
+- Customisable Roadmapping: Roadmap is an open-source software designed to cater to your roadmapping needs. It allows you to create a completely customisable roadmap, enabling you to plan and strategise effectively.
+- Prioritise Tasks: With the ability to upvote items, you can easily identify which tasks or projects have more priority. This feature helps in better decision-making and resource allocation.
+- Easy User Management: Roadmap comes with a simplified role system, including roles such as administrator, employee, and user. This makes it easy to manage users and their access levels within the application.
+- Single Sign-On: Roadmap supports OAuth 2 single sign-on with your own application, providing a seamless and secure login experience for users.
+- Automatic Image Generation: The software automatically generates Open Graph (OG) images, including the branding color you've set up. This feature helps in enhancing the visual appeal and recognition of your roadmap.
 
 ## Features
 
-- Customizable Roadmaps: Create and customize roadmaps according to your needs.
-- Mention Users in Comments: Collaborate with team members by mentioning them in comments.
-- Upvote Items: Prioritize tasks by upvoting items.
-- Automatic OG Image Generation: Generate branded OG images for your roadmaps.
-- Simplified Role System: Manage user roles with a simplified role system.
-- OAuth 2 Single Sign-On: Enable single sign-on with your own application using OAuth 2.
+- Customisable Roadmapping: Create a completely customisable roadmap to plan and strategise effectively.
+- User Mentions: Mention users in comments to facilitate communication and collaboration.
+- Upvote System: Upvote items to identify which tasks or projects have more priority.
+- Automatic Slug Generation: Automatically generate slugs for your items, making them easier to reference and find.
+- Admin Panel: Manage your roadmap and users with the easy-to-use Filament admin panel.
+- Role System: Manage users and their access levels with the simplified role system.
+- Single Sign-On: Provide a seamless and secure login experience with OAuth 2 single sign-on.
+- Automatic Image Generation: Enhance the visual appeal of your roadmap with automatically generated OG images.
 
 ## Links
 

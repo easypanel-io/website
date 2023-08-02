@@ -13,11 +13,23 @@ description: How to install Webcord on Easypanel? 1-Click installation template 
 
 ## Description
 
-WebCord can be summarized as a pack of security and privacy hardenings, Discord features reimplementations, Electron / Chromium / Discord bugs workarounds, stylesheets, internal pages and wrapped https://discord.com/ page, designed to conform with ToS as much as it is possible (or hide the changes that might violate it from Discord&#39;s eyes).
+WebCord is an application designed to enhance your Discord experience. It is a pack of security and privacy hardenings, Discord features reimplementations, Electron / Chromium / Discord bugs workarounds, stylesheets, internal pages and wrapped https://discord.com page. It is designed to conform with ToS as much as it is possible. The application can be accessed at: http://yourhost:3000/ or https://yourhost:3001/. This container is based on Docker Baseimage KasmVNC which means there are additional environment variables and run configurations to enable or disable specific functionality.
 
 ## Instructions
 
 use abc:abc to login. To access the login interface, add ?login=true to your URL.
+
+## Benefits
+
+- Enhanced Security and Privacy: WebCord provides security and privacy hardenings to protect your Discord communication and data.
+- Improved Discord Features: WebCord includes reimplementations of Discord features, allowing you to enhance your Discord experience.
+- Bug Workarounds and Stylesheets: WebCord addresses Electron / Chromium / Discord bugs and provides custom stylesheets for a better user interface.
+
+## Features
+
+- Conforms with Discord's Terms of Service: WebCord is designed to conform with Discord's Terms of Service, ensuring compliance while using the app.
+- Multi-Platform Support: WebCord supports multiple architectures, making it compatible with various devices and operating systems.
+- Lossless Image Streaming: WebCord can deliver lossless images at a high framerate to your web browser, providing a superior visual experience.
 
 ## Links
 

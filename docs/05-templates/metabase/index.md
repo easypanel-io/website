@@ -13,19 +13,21 @@ description: How to install Metabase on Easypanel? 1-Click installation template
 
 ## Description
 
-Metabase is a fast analytics app with a friendly user experience and integrated tooling that allows companies to explore data on their own. It offers a visual query builder, interactive dashboards, and the ability to connect to over 20 data sources. Metabase is accessible to all, with a free open-source tier and paid plans available. It is trusted by over 50,000 companies and offers enterprise-scaled compliance and security features. Metabase also supports embedded analytics, allowing customer-facing analytics to be integrated into products.
+Metabase is a powerful, user-friendly application designed to enable your company to explore data independently. It offers fast analytics with integrated tooling and a friendly user interface. With Metabase, you can go from zero to dashboard in just 2 minutes, allowing you to connect directly to over 20+ data sources, from your startup’s production database to massive data warehouses, and query immediately without extracts. The application is trusted by over 50,000 companies and is accessible to all, with a range of plans from free open-source to pay-as-you-go Pro and Enterprise. Metabase allows you to create and share interactive dashboards, craft metadata-rich models, and free your data from the confines of SQL with a Visual Query Builder. It is designed to make self-service analytics a reality, providing a simple yet powerful tool for data exploration and dashboarding.
 
 ## Benefits
 
-- Fast Analytics: Metabase provides fast analytics capabilities, allowing users to query data immediately without the need for extracts or pipelines.
-- Friendly UX: Metabase offers a user-friendly interface that is easy to learn and use, making it accessible to non-technical business users.
-- Integrated Tooling: Metabase includes integrated tooling such as a visual query builder, interactive dashboards, and semantic models, making it a comprehensive analytics solution.
+- Fast Analytics: This app provides fast analytics with a friendly user experience and integrated tooling. It allows your company to explore data on their own, going from zero to dashboard in just 2 minutes.
+- Trusted by Thousands: This app is trusted by over 50,000 companies. It can be up and running in no time, providing immediate access to data without the need for extracts.
+- Accessible to All: From the free open-source tier to the powerful pay-as-you-go Pro plan all the way to Enterprise, this app is accessible to all, catering to different needs and budgets.
+- Self-Service Analytics: This app makes self-service analytics finally happen. It frees your data from the confines of SQL, allowing everyone to query in a user interface that humans actually love.
 
 ## Features
 
-- Visual Query Builder: Metabase allows users to query data using a visual query builder, freeing them from the confines of SQL and making it easier for non-technical users to explore data.
-- Interactive Dashboards: Users can create and share interactive dashboards with Metabase, using a variety of visualization types to present data in a meaningful way.
-- Embedded Analytics: Metabase supports embedded analytics, allowing customer-facing analytics to be integrated into products and providing a seamless user experience.
+- Visual Query Builder: This app features a Visual Query Builder that lets users easily create and share interactive dashboards, from TB-scale analytical workloads to day-to-day operational workflows, with 15+ visualization types.
+- Models: This app allows users to craft metadata-rich, semantic models which let people query on their own, keeping things consistent and avoiding repetition. All of this can be done with a single tab open and no CLI needed.
+- Direct Connection to Data Sources: This app can connect directly to any of 20+ data sources, from your startup’s production DB to massive data warehouses.
+- Embedded Analytics: This app allows for customer facing analytics in days, not sprints. You can power your product’s reporting by embedding charts, dashboards or all of the app.
 
 ## Links
 

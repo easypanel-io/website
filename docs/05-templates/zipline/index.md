@@ -13,7 +13,7 @@ description: How to install Zipline on Easypanel? 1-Click installation template 
 
 ## Description
 
-Zipline is a next-generation ShareX/File upload server that is easy to use, packed with features, and has an easy setup. It provides a dashboard with charts, graphs, and tables to view stats, a gallery to view files and media, URL shortening, image compression, password protection for uploads, Discord embeds, OAuth2 registration, two-factor authentication, user invites, and more. Zipline can be set up quickly via Docker or built and run from source. It also supports integration with NGINX proxy. The app is available on GitHub and has 521 stars.
+Zipline is the next generation ShareX/File upload server, designed to make file sharing and management a breeze. With a user-friendly dashboard packed with features, Zipline allows you to upload any file type, view your files in a gallery, and even shorten URLs for easy sharing. The app also provides a way to organize your files with folders for easy access and management. Zipline also offers features like image compression, video thumbnail generation, and password protection for your uploads. With Zipline, you can quickly set up your own instance and configure it to your needs. It also offers an extensive API for a more fine-grained control over your instance. Zipline is not just a file upload server, it&#39;s a comprehensive tool for managing and sharing your files with ease and efficiency.
 
 ## Instructions
 
@@ -21,21 +21,19 @@ After installing Zipline for the first time, you may login to the dashboard with
 
 ## Benefits
 
-- Easy Setup: Zipline can be set up quickly via Docker or built and run from source.
-- Packed with Features: Zipline provides a dashboard with charts, graphs, and tables to view stats, a gallery to view files and media, URL shortening, image compression, password protection for uploads, Discord embeds, OAuth2 registration, two-factor authentication, user invites, and more.
-- Integration with NGINX Proxy: Zipline supports integration with NGINX proxy for easy deployment.
+- Easy to use: Zipline is designed to be user-friendly and intuitive, making it easy for anyone to upload and manage files.
+- Packed with features: Zipline offers a wide range of features, including file organization, URL shortening, image compression, and more.
+- Customizable dashboard: Zipline's dashboard is fully customizable, allowing users to personalize their experience and access the information they need.
+- Fast and efficient: Zipline is built with performance in mind, ensuring fast and efficient file uploads and management.
 
 ## Features
 
-- Dashboard: Zipline provides a dashboard with charts, graphs, and tables to view stats.
-- Gallery Viewer: Zipline allows users to view files and media in a gallery.
-- URL Shortening: Zipline supports URL shortening with options for vanities and maximum views.
-- Image Compression: Zipline provides image compression to save space.
-- Password Protection: Zipline allows users to protect uploads with a password.
-- Discord Embeds: Zipline supports Discord embeds for uploads with OG metadata.
-- OAuth2 Registration: Zipline allows users to register and link accounts with Discord and GitHub using OAuth2.
-- Two-Factor Authentication: Zipline supports two-factor authentication with Google Authenticator, Authy, etc.
-- User Invites: Zipline allows users to invite friends to their instance.
+- File organization: Easily organize your files with folders and view them with a click of a button.
+- URL shortening: Create shortened links to websites, set a maximum amount of uses, and more.
+- Image compression: Compress your images to save space without compromising quality.
+- Discord integration: Embed your uploads in Discord with OG tags and receive notifications when someone uploads to your instance.
+- OAuth2 registration: Allow users to link and/or register with selected OAuth2 providers for easy access and authentication.
+- Two-Factor authentication: Enable an extra layer of security with 2FA using Google Authenticator, Authy, and more.
 
 ## Links
 

@@ -13,7 +13,7 @@ description: How to install Typebot on Easypanel? 1-Click installation template 
 
 ## Description
 
-Typebot is an app that allows you to build advanced chatbots visually. You can embed these chatbots anywhere on your web or mobile apps and start collecting results in real-time. Typebot replaces traditional forms and leads to an increase in customer satisfaction and conversion rates. It offers an easy building experience with drag and drop blocks, as well as the ability to add custom code. You can integrate Typebot with any platform and it provides several native integrations blocks. Typebot also offers features like hidden fields, team collaboration, custom code customization, custom domain connection, and folder management. Many users have reported significant improvements in conversion rates and customer service workload reduction after using Typebot. The app is loved by teams and creators from all around the world.
+Typebot is an innovative app designed to revolutionize the way you collect information. It allows you to build advanced chatbots visually, using powerful blocks to create unique chat experiences. You can embed these chatbots anywhere on your web or mobile apps and start collecting results instantly. Typebot is designed to replace your old school forms with chatbots, leading to an increase in customer satisfaction, retention, and a threefold increase in your conversion rate compared to traditional forms. With Typebot, you can easily drag and drop blocks to create your app, and even add custom code for your specific needs. It also offers native integration blocks and instructions on how to embed the chatbot on various platforms. One of the main advantages of Typebot is its real-time data collection feature, ensuring that you won&#39;t lose any valuable data. It also offers many more powerful features such as hidden fields, team collaboration, linking to sub chatbots, custom code, custom domains, and folder management. Typebot is loved by teams and creators from all around the world for its intelligent features and drag-and-drop simplicity.
 
 ## Instructions
 
@@ -21,21 +21,16 @@ Open the builder URL to access typebot.
 
 ## Benefits
 
-- Build advanced chatbots visually: Typebot allows you to create unique chat experiences using powerful blocks. You can easily drag and drop blocks to build your app and even add custom code if needed.
-- Replace old school forms: Typebot is a better way to ask for information compared to traditional forms. It leads to an increase in customer satisfaction and retention, and multiplies your conversion rate by 3.
-- Collect results in real-time: With Typebot, you can collect user responses on each question in real-time. This ensures that you won't lose any valuable data.
+- Build advanced chatbots visually: Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic.
+- Replace your old school forms with chatbots: Typebot is a better way to ask for information. It leads to an increase in customer satisfaction and retention and multiply by 3 your conversion rate compared to classical forms.
 
 ## Features
 
-- Easy building experience: All you have to do is drag and drop blocks to create your app. You can also add custom code if you have specific needs.
-- Embed it in a click: Embedding your typebot in your applications is easy. Typebot provides step-by-step platform-specific instructions to ensure that your typebot feels native.
-- Integrate with any platform: Typebot offers native integrations blocks and instructions on how to embed typebot on particular platforms.
-- Hidden fields: Include data in your form URL to segment your users and use their data directly in your form.
-- Team collaboration: Invite your teammates to work on your typebots with you.
-- Link to sub typebots: Reuse your typebots in different parent bots.
-- Custom code: Customize everything with your own Javascript & CSS code.
-- Custom domain: Connect your typebot to the custom URL of your choice.
-- Folder management: Organize your typebots in specific folders to keep it clean and work with multiple clients.
+- Easy building experience: All you have to do is drag and drop blocks to create your app. Even if you have custom needs, you can always add custom code.
+- Embed it in a click: Embedding your typebot in your applications is a walk in the park. Typebot gives you several step-by-step platform-specific instructions. Your typebot will always feel 'native'.
+- Integrate with any platform: Typebot offers several native integrations blocks as well as instructions on how to embed typebot on particular platforms.
+- Collect results in real-time: One of the main advantages of a chat application is that you collect the user's responses on each question. You won't lose any valuable data.
+- And many more features: Typebot makes form building easy and comes with powerful features like hidden fields, team collaboration, link to sub typebots, custom code, custom domain, and folder management.
 
 ## Links
 
@@ -52,9 +47,9 @@ Viewer Service Name | - | yes | typebot-viewer
 Builder Service Name | - | yes | typebot-builder
 Builder Domain | - | yes | 
 Viewer Domain | - | yes | 
-Builder Service Image | - | yes | baptistearno/typebot-builder:2.11.6
-Viewer Service Image | - | yes | baptistearno/typebot-viewer:2.11.6
-Storage Service Image | - | yes | bitnami/minio:2022.12.12
+Builder Service Image | - | yes | baptistearno/typebot-builder:2
+Viewer Service Image | - | yes | baptistearno/typebot-viewer:2
+Storage Service Image | - | yes | bitnami/minio:2023
 Database Service Name | - | yes | typebot-db
 Storage Service Name | - | yes | typebot-minio
 Github Client ID | - | yes | 
@@ -70,7 +65,9 @@ Email to make administrator | - | yes |
 - 2023-02-27 – first release
 - 2023-03-13 – Update to v2.11.4
 - 2023-03-22 – Update to v2.11.6
+- 2023-07-16 – Update to V2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)
