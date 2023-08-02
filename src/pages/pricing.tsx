@@ -126,7 +126,7 @@ const Pricing = () => {
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
                 <Feature underline>No license required</Feature>
-                <Feature>Unlimited projects</Feature>
+                <Feature>Up to 3 projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
@@ -160,7 +160,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
-                <Feature soon>Advanced Monitoring</Feature>
+                <Feature>Advanced Monitoring</Feature>
                 <Feature>Database Backups</Feature>
               </ul>
             </div>
@@ -209,7 +209,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
-                <Feature soon>Advanced Monitoring</Feature>
+                <Feature>Advanced Monitoring</Feature>
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
@@ -256,7 +256,7 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
-                <Feature soon>Advanced Monitoring</Feature>
+                <Feature>Advanced Monitoring</Feature>
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
