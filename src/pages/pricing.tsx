@@ -101,7 +101,7 @@ const Pricing = () => {
                 Annual billing
               </span>
               <span className="tw-ml-2 tw-text-base tw-font-medium tw-text-emerald-500">
-                (Save 20%)
+                (Save up to 33%)
               </span>
             </span>
           </button>
@@ -139,7 +139,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 15 : 19}
+                  ${annual ? 8 : 12}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -163,7 +163,13 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b60df6f0-8857-4140-9960-6affa366eb1e"
+              }
+            >
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
@@ -187,7 +193,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 32 : 39}
+                  ${annual ? 14 : 18}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -213,7 +219,13 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26"
+              }
+            >
               <div className="tw-relative tw-mt-8">
                 <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
                   Buy Your Licenses
@@ -230,7 +242,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 65 : 79}
+                  ${annual ? 20 : 26}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -262,7 +274,13 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/90c58596-7077-4426-9944-771b11967204"
+              }
+            >
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
