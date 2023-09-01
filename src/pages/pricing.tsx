@@ -152,9 +152,9 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>2</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -176,7 +176,7 @@ const Pricing = () => {
                   className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md"
                   role="button"
                 >
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -206,9 +206,9 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>5</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -228,7 +228,7 @@ const Pricing = () => {
             >
               <div className="tw-relative tw-mt-8">
                 <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -258,9 +258,9 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>10</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -287,7 +287,7 @@ const Pricing = () => {
                   className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 group-hover:tw-bg-gray-800 tw-border tw-border-transparent tw-rounded-md"
                   role="button"
                 >
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -323,11 +323,11 @@ const faqItems = [
     question: "What happens if I cancel my subscription?",
     answer: "Don't worry, Easypanel will continue to work on the free plan.",
   },
-  {
-    question: "I need more than 10 licenses. What do I do?",
-    answer:
-      "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
-  },
+  // {
+  //   question: "I need more than 10 licenses. What do I do?",
+  //   answer:
+  //     "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
+  // },
 ];
 
 export function FAQs() {
