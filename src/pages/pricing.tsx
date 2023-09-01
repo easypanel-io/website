@@ -125,7 +125,6 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-900" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>No license required</Feature>
                 <Feature>Up to 3 projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -160,8 +159,8 @@ const Pricing = () => {
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
-                <Feature>Advanced Monitoring</Feature>
-                <Feature>Database Backups</Feature>
+                <Feature underline>Advanced Monitoring</Feature>
+                <Feature underline>Database Backups</Feature>
               </ul>
             </div>
 
@@ -217,8 +216,8 @@ const Pricing = () => {
                 <Feature>Basic Monitoring</Feature>
                 <Feature>Advanced Monitoring</Feature>
                 <Feature>Database backups</Feature>
-                <Feature>Multiple users</Feature>
-                <Feature>Access control</Feature>
+                <Feature underline>Multiple users</Feature>
+                <Feature underline>Access control</Feature>
               </ul>
             </div>
 
@@ -272,9 +271,9 @@ const Pricing = () => {
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
-                <Feature>Cluster support</Feature>
+                <Feature underline>Cluster support</Feature>
                 {/* <Feature soon>Whitelabeling</Feature> */}
-                <Feature>Priority support</Feature>
+                <Feature underline>Priority support</Feature>
               </ul>
             </div>
 
@@ -306,7 +305,7 @@ const faqItems = [
   {
     question: "What is a license?",
     answer:
-      "One license is right to use Easypanel on one server (node, vm, or instance). Right now, each license is connected to an IP address.",
+      "One license is right to use Easypanel on one server (node, vm, or instance).",
   },
   {
     question: "Do you have a refund policy?",
@@ -321,7 +320,7 @@ const faqItems = [
   {
     question: "What payment options do you have?",
     answer:
-      "Our payments are processed by Paddle. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+      "Our payments are processed by LemonSqueezy. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
   },
   {
     question: "What happens if I cancel my subscription?",
