@@ -47,7 +47,7 @@ You can leave the domain blank and Easypanel will **generate** a subdomain for y
 
 If you plan to deploy your Laravel application from a repository, you must set up the Git repository source. Easypanel supports Git and GitHub to facilitate your automation process.
 
-If you are using a private repository we suggest following the [Git SSH tutorial](/docs/code-sources/git-ssh)
+If you are using a private repository we suggest following the [Git SSH guide](/docs/code-sources/git-ssh)
 
 ![Set git source](./source-panel.png)
 

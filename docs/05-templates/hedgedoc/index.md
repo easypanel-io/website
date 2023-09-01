@@ -1,0 +1,60 @@
+---
+hide_title: true
+sidebar_label: HedgeDoc
+title: HedgeDoc | Self-Host on Easypanel
+description: How to install HedgeDoc on Easypanel? 1-Click installation template for HedgeDoc on Easypanel
+---
+
+<!-- generated -->
+
+# HedgeDoc
+
+1-Click installation template for HedgeDoc on Easypanel
+
+## Description
+
+HedgeDoc, previously known as CodiMD, is an open-source, web-based, self-hosted, collaborative markdown editor. It allows you to collaborate on notes, graphs, and presentations in real-time. Simply share your note-link with your co-workers and they can join in the collaboration. The editor runs directly in your browser, allowing you to stay in control of your data by keeping it on your server. HedgeDoc also offers a presentation mode for building and presenting slides in markdown, and supports a variety of graphs, diagrams, and embedded content. It features an easy-to-use permission system for managing note permissions, and keeps track of changes to your notes through revisions, even allowing you to revert to older versions. Despite its extensive features, HedgeDoc has low system requirements and can run smoothly even on a Raspberry Pi.
+
+## Benefits
+
+- Real-time Collaboration: HedgeDoc allows you to collaborate on notes, graphs, and presentations in real-time. Simply share your note-link with your co-workers and they’re ready to go.
+- Data Control: Being a self-hosted solution, HedgeDoc gives you complete control over your data. Your notes and documents stay on your server, ensuring privacy and security.
+- Web-based Solution: HedgeDoc is a web-based application, meaning you don’t need to install extra software. The editor runs smoothly in your browser, making it accessible from anywhere.
+
+## Features
+
+- Presentation Mode: HedgeDoc comes with a presentation mode that allows you to build and present slides in markdown. It's powered by reveal.js, providing a seamless presentation experience.
+- Graphs & Diagrams: HedgeDoc supports many types of graphs, diagrams, and embedded content. This makes it a versatile tool for visualizing data and ideas.
+- Easy Permission System: HedgeDoc features an easy-to-use permission system. You can manage the permissions of your notes with a simple dropdown selection.
+- Revisions: HedgeDoc keeps track of changes to your notes and allows you to revert to any older version. This feature ensures you never lose important information.
+- Low System Requirements: HedgeDoc doesn’t require much resources. It runs smoothly even on low-powered devices like a Raspberry Pi.
+
+## Links
+
+- [Website](https://hedgedoc.org/)
+- [Documentation](https://docs.hedgedoc.org/)
+- [Github](https://git.hedgedoc.org/)
+- [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/hedgedoc)
+
+## Options
+
+Name | Description | Required | Default Value
+-|-|-|-
+App Service Name | - | yes | hedgedoc
+App Service Image | - | yes | quay.io/hedgedoc/hedgedoc:1.9.8
+Database Service Name | - | yes | hedgedoc-db
+
+## Screenshots
+
+![HedgeDoc Screenshot](./assets/screenshot.png)
+
+## Change Log
+
+- 2022-10-28 – first release
+- 2023-2-24 – Update to v1.9.7
+- 2023-07-11 – Update to v1.9.8 and return to main image
+
+## Contributors
+
+- [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)
