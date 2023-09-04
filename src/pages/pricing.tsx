@@ -101,7 +101,7 @@ const Pricing = () => {
                 Annual billing
               </span>
               <span className="tw-ml-2 tw-text-base tw-font-medium tw-text-emerald-500">
-                (Save 20%)
+                (Save up to 33%)
               </span>
             </span>
           </button>
@@ -125,10 +125,10 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-900" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>No license required</Feature>
-                <Feature>Unlimited projects</Feature>
+                <Feature>Up to 3 projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
+                <Feature>Basic Monitoring</Feature>
               </ul>
             </div>
           </div>
@@ -139,7 +139,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 15 : 19}
+                  ${annual ? 8 : 12}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -152,25 +152,32 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>2</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
-                <Feature>Monitoring</Feature>
-                <Feature>Database Backups</Feature>
+                <Feature>Basic Monitoring</Feature>
+                <Feature underline>Advanced Monitoring</Feature>
+                <Feature underline>Database Backups</Feature>
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b60df6f0-8857-4140-9960-6affa366eb1e"
+              }
+            >
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
                   className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md"
                   role="button"
                 >
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -187,7 +194,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 32 : 39}
+                  ${annual ? 14 : 18}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -200,23 +207,30 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>5</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
-                <Feature>Monitoring</Feature>
+                <Feature>Basic Monitoring</Feature>
+                <Feature>Advanced Monitoring</Feature>
                 <Feature>Database backups</Feature>
-                <Feature>Multiple users</Feature>
-                <Feature>Access control</Feature>
+                <Feature underline>Multiple users</Feature>
+                <Feature underline>Access control</Feature>
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26"
+              }
+            >
               <div className="tw-relative tw-mt-8">
                 <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -230,7 +244,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 65 : 79}
+                  ${annual ? 20 : 26}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -246,30 +260,37 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                <Feature underline>
+                {/* <Feature underline>
                   <b>10</b> licenses
-                </Feature>
+                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
-                <Feature>Monitoring</Feature>
+                <Feature>Basic Monitoring</Feature>
+                <Feature>Advanced Monitoring</Feature>
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
-                <Feature>Cluster support</Feature>
+                <Feature underline>Cluster support</Feature>
                 {/* <Feature soon>Whitelabeling</Feature> */}
-                <Feature>Priority support</Feature>
+                <Feature underline>Priority support</Feature>
               </ul>
             </div>
 
-            <Link href="https://portal.easypanel.io">
+            <Link
+              href={
+                annual
+                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a"
+                  : "https://easypanel.lemonsqueezy.com/checkout/buy/90c58596-7077-4426-9944-771b11967204"
+              }
+            >
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
                   className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 group-hover:tw-bg-gray-800 tw-border tw-border-transparent tw-rounded-md"
                   role="button"
                 >
-                  Buy Your Licenses
+                  Buy Your License
                 </div>
               </div>
             </Link>
@@ -284,7 +305,7 @@ const faqItems = [
   {
     question: "What is a license?",
     answer:
-      "One license is right to use Easypanel on one server (node, vm, or instance). Right now, each license is connected to an IP address.",
+      "One license is right to use Easypanel on one server (node, vm, or instance).",
   },
   {
     question: "Do you have a refund policy?",
@@ -299,17 +320,17 @@ const faqItems = [
   {
     question: "What payment options do you have?",
     answer:
-      "Our payments are processed by Paddle. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+      "Our payments are processed by LemonSqueezy. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
   },
   {
     question: "What happens if I cancel my subscription?",
     answer: "Don't worry, Easypanel will continue to work on the free plan.",
   },
-  {
-    question: "I need more than 10 licenses. What do I do?",
-    answer:
-      "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
-  },
+  // {
+  //   question: "I need more than 10 licenses. What do I do?",
+  //   answer:
+  //     "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
+  // },
 ];
 
 export function FAQs() {
