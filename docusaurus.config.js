@@ -60,6 +60,15 @@ const config = {
         return postcssOptions;
       },
     }),
+    () => ({
+      name: "lemonsqueezy-script",
+      injectHtmlTags() {
+        return {
+          postBodyTags: [`<script>window.lemonSqueezyAffiliateConfig = { store: "easypanel" };</script>
+<script src="https://lmsqueezy.com/affiliate.js" defer></script>`],
+        };
+      },
+    }),
     // [
     //   "@docusaurus/plugin-content-docs",
     //   {
