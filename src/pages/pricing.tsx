@@ -271,7 +271,7 @@ const Pricing = () => {
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
-                <Feature underline>Cluster support</Feature>
+                <Feature underline>Cluster support (alpha)</Feature>
                 {/* <Feature soon>Whitelabeling</Feature> */}
                 <Feature underline>Priority support</Feature>
               </ul>
@@ -331,6 +331,10 @@ const faqItems = [
   //   answer:
   //     "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
   // },
+  {
+    question: "What kind of support do I get for the business plan?"
+    answer: "With our standard plans, support is facilitated through our Discord community. However, with our business plan, you can expect assistance directly from our team. We're commited to address your requests promptly and effectively. While our primary response time aligns with European working hours, we've gone the extra mile to assist our customers even on Saturday nights. Send us an email at support@easypanel.io."
+  }
 ];
 
 export function FAQs() {
