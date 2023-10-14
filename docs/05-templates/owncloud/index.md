@@ -40,7 +40,7 @@ ownCloud Infinite Scale 3.0 is a secure cloud platform designed for real-time co
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | owncloud
-App Service Image | - | yes | owncloud/server:10.12.1
+App Service Image | - | yes | owncloud/server:10.13.1
 Database Type | - | yes | postgres
 Database Service Name | - | yes | owncloud-db
 Redis Service Name | - | yes | owncloud-redis
