@@ -274,6 +274,7 @@ const Pricing = () => {
                 <Feature underline>Cluster support (alpha)</Feature>
                 {/* <Feature soon>Whitelabeling</Feature> */}
                 <Feature underline>Priority support</Feature>
+                <Feature underline>Custom branding (alpha)</Feature>
               </ul>
             </div>
 
@@ -333,8 +334,9 @@ const faqItems = [
   // },
   {
     question: "What kind of support do I get for the business plan?",
-    answer: "With our standard plans, support is facilitated through our Discord community. However, with our business plan, you can expect assistance directly from our team. We're commited to address your requests promptly and effectively. While our primary response time aligns with European working hours, we've gone the extra mile to assist our customers even on Saturday nights. Send us an email at support@easypanel.io."
-  }
+    answer:
+      "With our standard plans, support is facilitated through our Discord community. However, with our business plan, you can expect assistance directly from our team. We're commited to address your requests promptly and effectively. While our primary response time aligns with European working hours, we've gone the extra mile to assist our customers even on Saturday nights. Send us an email at support@easypanel.io.",
+  },
 ];
 
 export function FAQs() {
