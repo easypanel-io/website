@@ -273,8 +273,8 @@ const Pricing = () => {
                 <Feature>Access control</Feature>
                 <Feature underline>Cluster support (alpha)</Feature>
                 {/* <Feature soon>Whitelabeling</Feature> */}
-                <Feature underline>Priority support</Feature>
                 <Feature underline>Custom branding (alpha)</Feature>
+                <Feature underline>Priority support</Feature>
               </ul>
             </div>
 
