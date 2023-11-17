@@ -51,7 +51,7 @@ Here are the supported languages:
 - [Go](https://nixpacks.com/docs/providers/go)
 - [Haskell](https://nixpacks.com/docs/providers/haskell)
 - [Java](https://nixpacks.com/docs/providers/java)
-- [Closure](https://nixpacks.com/docs/providers/clojure)
+- [Clojure](https://nixpacks.com/docs/providers/clojure)
 - [Node](https://nixpacks.com/docs/providers/node)
 - [PHP](https://nixpacks.com/docs/providers/php)
 - [Python](https://nixpacks.com/docs/providers/python)
