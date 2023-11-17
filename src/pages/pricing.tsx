@@ -160,6 +160,7 @@ const Pricing = () => {
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
                 <Feature underline>Advanced Monitoring</Feature>
+                <Feature underline>Notifications</Feature>
                 <Feature underline>Database Backups</Feature>
               </ul>
             </div>
@@ -215,6 +216,7 @@ const Pricing = () => {
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
                 <Feature>Advanced Monitoring</Feature>
+                <Feature>Notifications</Feature>
                 <Feature>Database backups</Feature>
                 <Feature underline>Multiple users</Feature>
                 <Feature underline>Access control</Feature>
@@ -268,6 +270,7 @@ const Pricing = () => {
                 <Feature>Unlimited deployments</Feature>
                 <Feature>Basic Monitoring</Feature>
                 <Feature>Advanced Monitoring</Feature>
+                <Feature>Notifications</Feature>
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
