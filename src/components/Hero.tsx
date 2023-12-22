@@ -25,6 +25,10 @@ const partners: Partner[] = [
     href: "https://www.vultr.com/marketplace/apps/easypanel?ref=9104173",
     logo: "/partners/vultr.svg",
   },
+  {
+    href: "https://hostinger.com",
+    logo: "/partners/hostinger.svg",
+  },
 ];
 
 export default function Hero(): JSX.Element {
@@ -77,7 +81,7 @@ export default function Hero(): JSX.Element {
         </div>
       </div>
       {/* <div className="tw-mt-20 tw-flex tw-flex-col lg:tw-flex-row tw-justify-between tw-gap-6 tw-max-w-4xl tw-mx-auto"> */}
-      <div className="tw-mt-16 tw-flex tw-overflow-x-auto no-scrollbar tw-p-10 tw-justify-between tw-gap-10 tw-max-w-4xl tw-mx-auto">
+      <div className="tw-mt-16 tw-flex tw-overflow-x-auto no-scrollbar tw-p-10 tw-justify-between tw-gap-10 tw-max-w-6xl tw-mx-auto">
         {partners.map((partner, index) => (
           <Link
             key={index}
