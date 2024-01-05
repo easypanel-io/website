@@ -810,6 +810,12 @@
     "description": "Miniflux is a minimalist and opinionated feed reader designed to prioritize content and readability. It optimizes the page layout, fonts, and colors to ensure that they are screen-friendly. If you have feeds that display only a summary, Miniflux fetches the original article automatically. The app is designed with simplicity in mind, focusing on essential features and avoiding bloated software. It is fast and efficient, allowing you to navigate through the application using keyboard shortcuts and quickly scan your unread items with a lightweight user interface. Miniflux also respects your privacy, ensuring that no one resells your private data or tracks your usage. It automatically removes pixel trackers and does not feature any advertising or user tracking. Miniflux is a free, open-source project distributed under the permissive Apache 2.0 License."
   },
   {
+    "slug": "minio",
+    "logo": "logo.png",
+    "name": "Minio",
+    "description": "Minio is an open-source, self-hosted object storage solution designed to empower users with efficient data storage and management capabilities. Prioritizing control and privacy, Minio enables individuals and organizations to build their private cloud infrastructure. With its user-friendly interface and robust features, Minio allows seamless storage and retrieval of large amounts of data while offering secure access controls."
+  },
+  {
     "slug": "mongo-express",
     "logo": "logo.png",
     "name": "Mongo Express",
