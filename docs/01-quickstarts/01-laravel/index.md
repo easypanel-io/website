@@ -6,6 +6,8 @@ description: Hosting a Laravel Application with Easypanel guide
 
 # Laravel
 
+[Github Repository](https://github.com/easypanel-io/laravel-sample)
+
 Laravel is a popular web application framework built with PHP, which provides an excellent structure for developing robust and scalable web applications. Easypanel is a web hosting control panel that simplifies web hosting management, automating several tasks, including server creation, application deployment, and configuration management.
 
 In this guide, we aim to provide a detailed step-by-step approach to deploying a Laravel application on Easypanel. After following the steps below, you will have a Laravel application running and accessible via a publicly accessible URL.
