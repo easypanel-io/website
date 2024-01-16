@@ -6,15 +6,13 @@ description: Deploying a Django Application with Easypanel Guide
 
 # Django
 
-[Github Repository](https://github.com/easypanel-io/django-sample)
-
 Django is a popular web framework built with Python, known for its simplicity and efficiency in developing robust web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Django application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 
-- An operational Django application on your local machine.
+- An operational Django application on your local machine ([sample codebase](https://github.com/easypanel-io/django-sample)).
 - Easypanel installed and running on your server.
 
 ## Step 1 - Creating a New Project on Easypanel

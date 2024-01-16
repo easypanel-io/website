@@ -6,15 +6,13 @@ description: Deploying an Express.js Application with Easypanel guide
 
 # Express.js
 
-[Github Repository](https://github.com/easypanel-io/express-js-sample)
-
 Express.js is a popular web application framework built with Node.js, providing a minimalist and flexible approach for developing web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying an Express.js application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 
-- An operational Express.js application on your local machine.
+- An operational Express.js application on your local machine ([sample codebase](https://github.com/easypanel-io/express-js-sample)).
 - Easypanel installed and running on your server.
 
 ## Step 1 - Creating a New Project on Easypanel
