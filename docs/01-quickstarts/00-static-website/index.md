@@ -6,15 +6,13 @@ description: Deploying an Static Website with Easypanel guide
 
 # Hosting a Static Website with Easypanel
 
-[Github Repository](https://github.com/easypanel-io/static-site-sample)
-
 In this guide we will take you through the process of hosting a static website on Easypanel. You have two options available: using a Git repository or a Docker image. Let's dive into the steps involved:
 
 ## Prerequisites
 
 Before we begin, make sure you have the following:
 
-- An existing static website project.
+- An existing static website project ([sample codebase](https://github.com/easypanel-io/static-site-sample)).
 - Easypanel account credentials.
 
 ## Step 1 - Creating a New Project
