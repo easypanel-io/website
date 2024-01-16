@@ -6,6 +6,8 @@ description: Deploying a .NET Application with Easypanel Guide
 
 # .NET
 
+[Github Repository](https://github.com/easypanel-io/dotnet-sample)
+
 .NET is a powerful and versatile framework developed by Microsoft, offering a robust platform for building a wide range of applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a .NET application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites

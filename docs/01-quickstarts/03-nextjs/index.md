@@ -6,6 +6,8 @@ description: Deploying a Next.js Application with Easypanel
 
 # Next.js
 
+[Github Repository](https://github.com/easypanel-io/next-js-sample)
+
 Next.js is a powerful framework based on React.js, designed for building server-side rendered (SSR) and static websites. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Next.js application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites

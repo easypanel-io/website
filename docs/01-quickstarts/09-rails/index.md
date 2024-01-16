@@ -6,6 +6,8 @@ description: Deploying a Ruby on Rails Application with Easypanel Guide
 
 # Ruby on Rails
 
+[Github Repository](https://github.com/easypanel-io/rails-sample)
+
 Ruby on Rails is a popular web application framework that follows the Model-View-Controller (MVC) architectural pattern, providing developers with a productive and elegant way to build dynamic web applications. Easypanel is a user-friendly web hosting control panel that simplifies server management, including the deployment and configuration of web applications. This guide will take you through the process of deploying a Ruby on Rails application on Easypanel, making it accessible via a public URL.
 
 ## Prerequisites
