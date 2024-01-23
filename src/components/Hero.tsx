@@ -26,7 +26,7 @@ const partners: Partner[] = [
     logo: "/partners/vultr.svg",
   },
   {
-    href: "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=169839",
+    href: "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=169839&url_id=19",
     logo: "/partners/hostinger.svg",
   },
 ];
