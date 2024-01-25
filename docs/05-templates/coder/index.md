@@ -11,6 +11,10 @@ description: How to install Coder on Easypanel? 1-Click installation template fo
 
 1-Click installation template for Coder on Easypanel
 
+## Description
+
+Coder is an open source cloud development environment (CDE) that you download and host in your cloud. Deploy a single solution in seconds that provisions the infrastructure, IDE, language, and tools your developers desire. Upgrade to the Enterprise version and add security, governance, and observability capabilities for Platform teams.
+
 ## Links
 
 - [Website](https://coder.com)
