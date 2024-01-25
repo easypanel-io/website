@@ -42,10 +42,10 @@ Login using admin@windmill.dev:changeme
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | windmill
-App Service Image | - | yes | ghcr.io/windmill-labs/windmill:main
-EE License Key | - | no | 
-Database Service Name | - | yes | windmill-db
+Domain | - | yes | 
+Service Name Prefix | - | yes | windmill
+Worker Replicas | - | yes | 1
+Native Worker Replicas | - | yes | 1
 
 ## Screenshots
 

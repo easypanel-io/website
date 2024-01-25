@@ -168,10 +168,22 @@
     "description": "ClickHouse is an open-source database designed for real-time apps and analytics. It is renowned for its speed and resource efficiency, capable of querying billions of rows in mere milliseconds. ClickHouse supports a wide range of data sources, including databases, data warehouses, streams, logs, analytics, data lake formats, and local files. It is built on a column-oriented database structure, which is ideally suited to Online Analytical Processing (OLAP) scenarios, making it significantly faster in processing most queries. ClickHouse utilizes all available system resources to their full potential to process each analytical query as swiftly as possible. It can be deployed in any environment, whether on your machine or in the cloud, and offers the ability to run fast queries on local files without a server. ClickHouse is trusted by developers working with data at scale, including major companies like Disney+ and Uber."
   },
   {
+    "slug": "cloudcommander",
+    "logo": "logo.png",
+    "name": "Cloud Commander",
+    "description": "Cloud Commander is a file manager for the web. It includes a command-line console and a text editor. Cloud Commander helps you manage your server and work with files, directories and programs in a web browser from any computer, mobile or tablet."
+  },
+  {
     "slug": "cockpit",
     "logo": "logo.png",
     "name": "Cockpit",
     "description": "Cockpit is a headless content platform designed to streamline the creation, connection, and delivery of content for creators, marketers, and developers. It is built with an API-first approach, enabling limitless digital solutions. Cockpit offers a range of features including a content hub, multichannel localization, roles & permissions, and revisions. It also comes with a set of ready-to-use addons to support your projects. These include flexible structured content models, an assets manager, SEO and menu routes, content migration, custom action triggers, component-based layouts, full-text search for your content, form submissions collection, and localization. Cockpit is designed to fit your favorite tech stack, making it a versatile tool for all your content needs."
+  },
+  {
+    "slug": "coder",
+    "logo": "logo.png",
+    "name": "Coder",
+    "description": null
   },
   {
     "slug": "codex-docs",
@@ -310,6 +322,12 @@
     "logo": "logo.png",
     "name": "Easyshortener",
     "description": "Easyshortener is a multi-user link shortening application designed for simplicity and security. It allows multiple users to manage their links from a built-in administration panel. The app is built with a focus on user experience, ensuring it is easy to use. It also features built-in two-factor authentication, providing an extra layer of security for your peace of mind. Easyshortener is built for Docker, making it easy to deploy with your favorite container engine. Additionally, the app allows for registration and redirect tracking for all links, and can be set to force HTTPS connection for enhanced security."
+  },
+  {
+    "slug": "elasticsearch",
+    "logo": "logo.svg",
+    "name": "Elasticsearch",
+    "description": "Elasticsearch is a dynamic search and analytics engine designed for seamless handling of extensive data across various formats. With a user-friendly interface and a robust query language, it enables effortless advanced searches and data analysis. Boasting high performance and scalability, Elasticsearch ensures rapid search responses and efficient data retrieval, making it suitable for diverse applications. The platform prioritizes security with features like role-based access control and encryption, while its real-time indexing and distributed architecture support resilience and reliability. Whether you're a developer or IT professional, Elasticsearch provides a centralized solution for managing and extracting valuable insights from your data, offering a powerful search and analytics experience."
   },
   {
     "slug": "element",
@@ -760,6 +778,12 @@
     "logo": "logo.png",
     "name": "Mattermost",
     "description": "Mattermost is a secure collaboration platform designed to enhance the efficiency and productivity of technical and operational teams. It offers a range of features including team messaging, custom integrations, audio and screen sharing, and workflow automation. Mattermost is designed to improve time to response by 90%, decrease incident resolution time, and increase information availability by executing complex workflows faster and at a higher quality. It also helps in avoiding costly outages and downtime by decreasing the frequency and severity of system failures. The platform is built for enterprise scalability and can be deployed in air gapped networks and BYOD environments. It is also cloud neutral and offers self-host deployment options. Mattermost is open source and can be customized to fit your workflow with robust integrations or by building your own with its App Framework, Plugins, and open APIs."
+  },
+  {
+    "slug": "mautic",
+    "logo": "logo.svg",
+    "name": "Mautic",
+    "description": "Mautic is a powerful marketing automation platform designed to revolutionize the way businesses engage with their audience. Offering a comprehensive suite of features, Mautic enables marketers to automate and optimize their marketing strategies. The platform excels in open-source flexibility, allowing users to customize and extend its capabilities according to their unique needs. With a focus on lead tracking and nurturing, Mautic provides valuable insights into user behavior, enabling personalized and targeted campaigns for effective customer acquisition and retention. Its multi-channel marketing support ensures seamless engagement across various platforms, from email campaigns to social media interactions. Mautic's robust campaign management tools, email marketing module, analytics, and reporting features contribute to a data-driven approach, empowering marketers to refine their strategies and achieve optimal return on investment. Integration capabilities further enhance its functionality, ensuring a connected marketing ecosystem. Whether you're a marketing professional or a business owner, Mautic serves as a centralized solution to elevate and streamline your marketing efforts, fostering innovation and success."
   },
   {
     "slug": "mcaptcha",
