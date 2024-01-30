@@ -89,8 +89,13 @@ Every Laravel application has an `.env` file that contains all the environment v
 
 1. Navigate to the "Environment" tab within your application service.
 2. Set your environment variables by specifying the key-value pairs as desired.
-3. Save the changes to complete the process.
-4. Press "Deploy" to apply the changes in your running app.
+3. Add Nixpacks specific variables for Laravel
+   ```
+   NIXPACKS_PHP_ROOT_DIR=/app/public
+   NIXPACKS_PHP_FALLBACK_PATH=/index.php
+   ```
+4. Save the changes to complete the process.
+5. Press "Deploy" to apply the changes in your running app.
 
 ![Set git source](./db.png)
 
