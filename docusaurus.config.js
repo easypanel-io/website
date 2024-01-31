@@ -64,8 +64,10 @@ const config = {
       name: "lemonsqueezy-script",
       injectHtmlTags() {
         return {
-          postBodyTags: [`<script>window.lemonSqueezyAffiliateConfig = { store: "easypanel" };</script>
-<script src="https://lmsqueezy.com/affiliate.js" defer></script>`],
+          postBodyTags: [
+            `<script>window.lemonSqueezyAffiliateConfig = { store: "easypanel" };</script>
+<script src="https://lmsqueezy.com/affiliate.js" defer></script>`,
+          ],
         };
       },
     }),
@@ -92,6 +94,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: "dockerizer",
+        content:
+          '<a href="https://easypanel.io/dockerizer" style="font-weight: bold; text-decoration: none;">🚀 Introducing Dockerizer - The fastest way to dockerize your apps! 🚀</a>',
+        backgroundColor: "#059669",
+        textColor: "#fff",
+        isCloseable: true,
+      },
       colorMode: {
         defaultMode: "dark",
         disableSwitch: true,
@@ -109,6 +119,11 @@ const config = {
           { to: "/templates", label: "Templates", position: "left" },
           { to: "/pricing", label: "Pricing", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "https://easypanel.io/dockerizer",
+            label: "Dockerizer",
+            position: "right",
+          },
         ],
       },
       algolia: {
@@ -119,11 +134,6 @@ const config = {
         searchPagePath: false,
       },
       footer: {
-        logo: {
-          alt: "Easypanel Logo",
-          src: "img/logo_light.svg",
-          srcDark: "img/logo_dark.svg",
-        },
         // style: "dark",
         links: [
           {
@@ -206,20 +216,20 @@ const config = {
               },
               {
                 label: "Branding",
-                href: "https://easypanel.io/brand"
+                href: "https://easypanel.io/brand",
               },
             ],
           },
           {
             title: "Legal",
             items: [
-               {
+              {
                 label: "Terms Of Service",
                 href: "https://easypanel.io/terms",
               },
               {
                 label: "Privacy Policy",
-                href: "https://easypanel.io/privacy"
+                href: "https://easypanel.io/privacy",
               },
             ],
           },
