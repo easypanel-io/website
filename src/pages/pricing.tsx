@@ -113,7 +113,7 @@ const Pricing = () => {
               <h3 className="tw-text-lg tw-font-normal tw-text-white">Free</h3>
 
               <div className="tw-flex tw-items-end tw-mt-3">
-                <p className="tw-text-6xl tw-font-normal tw-text-white">$0</p>
+                <p className="tw-text-5xl tw-font-normal tw-text-white">$0</p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
                 </p>
@@ -138,8 +138,8 @@ const Pricing = () => {
               <h3 className="tw-text-lg tw-font-normal tw-text-white">Hobby</h3>
 
               <div className="tw-flex tw-items-end tw-mt-3">
-                <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 8 : 12}
+                <p className="tw-text-5xl tw-font-normal tw-text-white">
+                  ${annual ? 9.9 : 13.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -185,8 +185,8 @@ const Pricing = () => {
           </div>
 
           <div className="tw-relative tw-z-10 tw-flex tw-flex-col tw-p-6 tw-bg-gray-900 tw-rounded-md">
-            <div className="tw-absolute tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500"></div>
-            <div className="tw-absolute tw-inset-0 tw-bg-gray-900 tw-rounded-md"></div>
+            <div className="tw-absolute tw-rounded-md tw-inset-0 tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500"></div>
+            <div className="tw-absolute tw-inset-[3px] tw-bg-gray-900 tw-rounded-[4px]"></div>
 
             <div className="tw-relative tw-flex-1">
               <h3 className="tw-text-lg tw-font-normal tw-text-white">
@@ -194,8 +194,8 @@ const Pricing = () => {
               </h3>
 
               <div className="tw-flex tw-items-end tw-mt-3">
-                <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 14 : 18}
+                <p className="tw-text-5xl tw-font-normal tw-text-white">
+                  ${annual ? 13.9 : 19.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -245,8 +245,8 @@ const Pricing = () => {
               </h3>
 
               <div className="tw-flex tw-items-end tw-mt-3">
-                <p className="tw-text-6xl tw-font-normal tw-text-white">
-                  ${annual ? 20 : 26}
+                <p className="tw-text-5xl tw-font-normal tw-text-white">
+                  ${annual ? 23.9 : 31.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
