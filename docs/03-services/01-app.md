@@ -45,6 +45,10 @@ There are tree types of mounts you can configure
   - the `content` field is content of your file
   - the `mountPath` field is the path inside your container
 
+:::info
+You can mount one Docker container to use the same folder as another, enabling shared files between two containers. Ensure that both containers have the necessary permissions and ownerships to read, write, and execute the files as needed.
+:::
+
 ## Ports
 
 The ports are useful for exposing non-web apps.
