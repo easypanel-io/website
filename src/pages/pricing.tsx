@@ -69,6 +69,8 @@ const Pricing = () => {
           <p className="tw-mt-4 tw-text-xl tw-font-normal tw-text-gray-400">
             Your time is expensive &ndash; save many hours by using Easypanel
           </p>
+          <div id="deals"></div>
+          <script src="https://cdn.paritydeals.com/banner.js"></script>
         </div>
 
         <div className="tw-flex tw-items-center tw-justify-center tw-mt-8 tw-space-x-6 sm:tw-mt-12">
