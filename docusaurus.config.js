@@ -67,6 +67,7 @@ const config = {
           postBodyTags: [
             `<script>window.lemonSqueezyAffiliateConfig = { store: "easypanel" };</script>
 <script src="https://lmsqueezy.com/affiliate.js" defer></script>`,
+            `<script src="https://cdn.paritydeals.com/banner.js" defer></script>`,
           ],
         };
       },
