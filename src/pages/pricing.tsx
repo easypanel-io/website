@@ -402,23 +402,20 @@ export function ParityDeals() {
     request.send();
   }, []);
 
-  const getStyle = () => {
-    return {
-      backgroundColor: bannerData.bar.backgroundColor,
-      color: bannerData.bar.fontColor,
-      borderRadius: bannerData.bar.borderRadius,
-      fontSize: bannerData.bar.fontSize,
-      padding: "12px 20px",
-    };
-  };
-
   if (!bannerData.bar) {
     return null;
   }
 
   return (
     <div
-      style={getStyle()}
+      style={{
+        display: "inline-block",
+        backgroundColor: bannerData.bar.backgroundColor,
+        color: bannerData.bar.fontColor,
+        borderRadius: bannerData.bar.borderRadius,
+        fontSize: bannerData.bar.fontSize,
+        padding: "12px 20px",
+      }}
       dangerouslySetInnerHTML={{ __html: bannerData.messageText }}
     ></div>
   );
