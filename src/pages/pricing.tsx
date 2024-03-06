@@ -1,6 +1,6 @@
 import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
-import React, { ReactNode, useState } from "react";
+import React, { ReactNode, useEffect, useState } from "react";
 
 export default function Page(): JSX.Element {
   return (
@@ -69,7 +69,7 @@ const Pricing = () => {
           <p className="tw-mt-4 tw-text-xl tw-font-normal tw-text-gray-400">
             Your time is expensive &ndash; save many hours by using Easypanel
           </p>
-          <div id="deals"></div>
+          <ParityDeals />
         </div>
 
         <div className="tw-flex tw-items-center tw-justify-center tw-mt-8 tw-space-x-6 sm:tw-mt-12">
@@ -375,5 +375,51 @@ export function FAQs() {
         </dl>
       </div>
     </div>
+  );
+}
+
+export function ParityDeals() {
+  const [bannerData, setBannerData] = useState<any>({});
+
+  useEffect(() => {
+    var request = new XMLHttpRequest();
+    request.open(
+      "GET",
+      `https://api.paritydeals.com/api/v1/deals/discount/?url=${window.location.href}`,
+      true
+    );
+
+    request.onload = function () {
+      if (this.status >= 200 && this.status < 400) {
+        var data = JSON.parse(this.response);
+        if (!data.bar) {
+          return;
+        }
+        setBannerData(data);
+      }
+    };
+
+    request.send();
+  }, []);
+
+  const getStyle = () => {
+    return {
+      backgroundColor: bannerData.bar.backgroundColor,
+      color: bannerData.bar.fontColor,
+      borderRadius: bannerData.bar.borderRadius,
+      fontSize: bannerData.bar.fontSize,
+      padding: "12px 20px",
+    };
+  };
+
+  if (!bannerData.bar) {
+    return null;
+  }
+
+  return (
+    <div
+      style={getStyle()}
+      dangerouslySetInnerHTML={{ __html: bannerData.messageText }}
+    ></div>
   );
 }
