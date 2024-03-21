@@ -18,6 +18,14 @@ If your repository has a `Dockerfile`, the Docker image will be built using it. 
 
 This is where you will put the contents of your `.env` file. These variables will be available at build-time and run-time.
 
+:::info
+The following "magic" environment variables exists within your EasyPanel project.
+
+- `$(PROJECT_NAME)`: This will become the project name.
+- `$(SERVICE_NAME)`: This will become the service name.
+- `$(PRIMARY_DOMAIN)`: This is the services primary domain name, you can select the primary domain name by clicking the star under the service domains.
+:::
+
 ## Domains & Proxy
 
 If you are deploying a web app, you'll want to serve your app on a domain name. Once you add a domain name and deploy your app, it will configure the proxy service to serve your app on that domain.
