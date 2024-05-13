@@ -8,21 +8,28 @@ description: Learn how to configure a wildcard domain in Easypanel.
 
 In this guide, we'll walk you through the process of configuring a wildcard domain in Easypanel. Follow these steps to successfully set up your wildcard domain.
 
-For detailed instructions on configuring your Traefik variables for any available provider, refer to the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#dnschallenge). For this guide, we'll use Cloudflare as an example.
+## Step 1 - Create a Certificate Resolver
 
-## Step 1 - Configure Your Traefik Environment
-
-1. Open the Traefik environment editor from settings inside Easypanel.
+Open the Traefik environment editor from settings inside Easypanel.
 
 :::info
-Replace `YOUR_API_KEY` with your Cloudflare DNS API key and `YOUR_EMAIL_ADDRESS` with your actual email address.
+Replace `<PROVIDER_NAME>` with your desired provider's name.
 :::
 
-![Environment Editor](./env-editor.png)
+```env
+TRAEFIK_CERTIFICATESRESOLVERS_<PROVIDER_NAME>_ACME_EMAIL=
+TRAEFIK_CERTIFICATESRESOLVERS_<PROVIDER_NAME>_ACME_STORAGE=
+TRAEFIK_CERTIFICATESRESOLVERS_<PROVIDER_NAME>_ACME_DNSCHALLENGE_PROVIDER=
+TRAEFIK_CERTIFICATESRESOLVERS_<PROVIDER_NAME>_ACME_DNSCHALLENGE_RESOLVERS=1.1.1.1,8.8.8.8
+```
 
-## Step 2 - Create Your Wildcard Domain
+## Step 2 - Set Credentials for Your Provider
 
-Go to your service domains page inside your Easypanel instance and click "Add Domain".
+See available providers on the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#dnschallenge) and set your credentials in the Traefik environment.
+
+## Step 3 - Create Your Wildcard Domain
+
+Go to your service domains page inside your Easypanel instance and click "Add Domain". Make sure to put the same certificate resolver as set in env under `TRAEFIK_CERTIFICATESRESOLVERS_<PROVIDER_NAME>_ACME_DNSCHALLENGE_PROVIDER`.
 
 :::caution
 **If you activate the Wildcard domain option**, only **\*.example.com** will point to your service. To have both **example.com** and **\*.example.com** point to your service, you need to create **2 separate domains**.
