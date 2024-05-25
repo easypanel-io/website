@@ -310,7 +310,7 @@ const faqItems = [
   {
     question: "What is a license?",
     answer:
-      "One license is right to use Easypanel on one server (node, vm, or instance).",
+      "One license is a right to use Easypanel on one server (node, vm, or instance).",
   },
   {
     question: "Do you have a refund policy?",
@@ -320,7 +320,7 @@ const faqItems = [
   {
     question: "Do you offer a trial?",
     answer:
-      "Unfortuantely not. Our free plan is very generous and you can get a very good feel of the product just by using that. If you want, just buy a premium plan without worring since we have a 30-day money-back refund policy.",
+      "Unfortunately not. Our free plan is very generous and you can get a very good feel of the product just by using that. If you want, just buy a premium plan without worrying since we have a 30-day money-back refund policy.",
   },
   {
     question: "What payment options do you have?",
