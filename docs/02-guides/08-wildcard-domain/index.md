@@ -27,6 +27,8 @@ For the DNS challenge to work, you need to set the credentials for your DNS prov
 
 For example, if you are using Digital Ocean, you need to set the `DO_AUTH_TOKEN` environment variable.
 
+After this, make sure to restart the Traefik service.
+
 ## Step 3 - Create Your Wildcard Domain
 
 Now, go to your app "Domains" and click "Add Domain". You need to enable the "Wildcard domain" option and set the resolver name you created in Step 1.
