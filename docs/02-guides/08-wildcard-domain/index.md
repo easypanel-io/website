@@ -10,11 +10,7 @@ In this guide, we'll walk you through the process of configuring a wildcard doma
 
 ## Step 1 - Create a Certificate Resolver
 
-Open the Traefik environment editor from settings inside Easypanel.
-
-:::info
-Replace `<RESOLVER_NAME>` with your desired resolver's name.
-:::
+Go to "Settings", "Traefik", and then "Environment", and add the following environment variables:
 
 ```env
 TRAEFIK_CERTIFICATESRESOLVERS_<RESOLVER_NAME>_ACME_EMAIL=
@@ -23,22 +19,20 @@ TRAEFIK_CERTIFICATESRESOLVERS_<RESOLVER_NAME>_ACME_DNSCHALLENGE_PROVIDER=
 TRAEFIK_CERTIFICATESRESOLVERS_<RESOLVER_NAME>_ACME_DNSCHALLENGE_RESOLVERS=1.1.1.1,8.8.8.8
 ```
 
+Replace `<RESOLVER_NAME>` with your desired name. Then add your email address and the DNS provider you are using. The DNS provider should be one of the supported providers listed in the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#providers).
+
 ## Step 2 - Set Credentials for Your Provider
 
-See available providers on the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#dnschallenge) and set your credentials in the Traefik environment.
+For the DNS challenge to work, you need to set the credentials for your DNS provider. Each provider has its own set of credentials. You can find the required credentials in the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#providers).
 
-Digital Ocean example:
-
-```env
-DO_AUTH_TOKEN=<YOUR_DIGITAL_OCEAN_TOKEN>
-```
+For example, if you are using Digital Ocean, you need to set the `DO_AUTH_TOKEN` environment variable.
 
 ## Step 3 - Create Your Wildcard Domain
 
-Go to your service domains page inside your Easypanel instance and click "Add Domain". Make sure to set the newly created certificate resolver name.`TRAEFIK_CERTIFICATESRESOLVERS_<RESOLVER_NAME>_ACME_DNSCHALLENGE_PROVIDER`.
+Now, go to your app "Domains" and click "Add Domain". You need to enable the "Wildcard domain" option and set the resolver name you created in Step 1.
 
 :::caution
-**If you activate the Wildcard domain option**, only **\*.example.com** will point to your service. To have both **example.com** and **\*.example.com** point to your service, you need to create **2 separate domains**.
+**If you want to point your root domain and subdomains to your service**, you need to create **2 separate domains**. One for the root domain and another for the subdomains (wildcard domain).
 :::
 
 ![Add Domain](./add-domain.png)
