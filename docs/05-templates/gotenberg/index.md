@@ -39,7 +39,7 @@ Gotenberg is a Docker-powered stateless API designed to handle PDF files. It off
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotenberg
-App Service Image | - | yes | gotenberg/gotenberg:7.8.1
+App Service Image | - | yes | gotenberg/gotenberg:8.5.1
 
 ## Screenshots
 

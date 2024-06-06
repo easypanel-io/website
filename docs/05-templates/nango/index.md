@@ -47,7 +47,7 @@ Check the environment tab for your API key. Follow the instructions in the FILE 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nango
-App Service Image | - | yes | nango.docker.scarf.sh/nangohq/nango-server:0.10.3
+App Service Image | - | yes | nango.docker.scarf.sh/nangohq/nango-server:0.36.78
 Database Service Name | - | yes | nango-db
 Username | - | yes | 
 Password | - | yes | 

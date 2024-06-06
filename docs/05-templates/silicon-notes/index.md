@@ -39,7 +39,7 @@ Silicon Notes is a lightweight, low-friction personal knowledge base designed to
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | silicon
-App Service Image | - | yes | bityard/silicon:488df721031f74721483da787427115c7db19711
+App Service Image | - | yes | bityard/silicon:0.1.2
 
 ## Screenshots
 

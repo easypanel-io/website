@@ -40,7 +40,7 @@ Directus is a modern, open-source data platform that instantly transforms any SQ
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | directus
-App Service Image | - | yes | directus/directus:9.18.1
+App Service Image | - | yes | directus/directus:10.11.1
 Admin Email | admin@example.com | yes | 
 Admin Password | - | yes | 
 Database Type | - | yes | 

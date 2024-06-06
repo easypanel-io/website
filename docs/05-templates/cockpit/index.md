@@ -47,7 +47,7 @@ Navigate to /install to create the initial user account.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cockpit
-App Service Image | - | yes | cockpithq/cockpit:core-2.4.1
+App Service Image | - | yes | cockpithq/cockpit:core-2.8.4
 Database Service Name | - | yes | cockpit-db
 
 ## Screenshots

@@ -43,7 +43,7 @@ Papercups is a privacy-focused, open-source app designed to streamline communica
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | papercups
-App Service Image | - | yes | papercups/papercups:1.1.0
+App Service Image | - | yes | papercups/papercups:latest
 Database Service Name | - | yes | papercups-db
 
 ## Screenshots

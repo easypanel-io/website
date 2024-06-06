@@ -44,7 +44,7 @@ To create a user, type thelounge add &lt;name&gt; in the console.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | thelounge
-App Service Image | - | yes | ghcr.io/thelounge/thelounge:4
+App Service Image | - | yes | ghcr.io/thelounge/thelounge:4.4.3
 
 ## Screenshots
 

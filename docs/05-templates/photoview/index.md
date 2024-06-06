@@ -48,7 +48,7 @@ You will need to mount the location where your photos are to complete the instal
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | photoview
-App Service Image | - | yes | viktorstrate/photoview:2.3.13
+App Service Image | - | yes | viktorstrate/photoview:sha-6693920
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | photoview-db
 

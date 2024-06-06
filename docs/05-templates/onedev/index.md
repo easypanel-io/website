@@ -40,7 +40,7 @@ OneDev is a versatile app designed to streamline your project management and dev
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | onedev
-App Service Image | - | yes | 1dev/server:8.1.6
+App Service Image | - | yes | 1dev/server:10.7.7
 Database Service Name | - | yes | onedev-db
 
 ## Screenshots

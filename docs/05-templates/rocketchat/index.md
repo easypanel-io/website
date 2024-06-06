@@ -40,7 +40,7 @@ Rocket.Chat SIX is a secure and scalable collaboration platform designed to enha
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
-App Service Image | - | yes | rocketchat/rocket.chat:5.4.5
+App Service Image | - | yes | rocketchat/rocket.chat:6.7.3
 Database Service Name | - | yes | rocketchat-db
 
 ## Screenshots

@@ -38,7 +38,7 @@ WordPress is an open-source platform that empowers you to create a unique online
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wordpress
-App Service Image | - | yes | wordpress:6
+App Service Image | - | yes | wordpress:latest
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | wordpress-db
 

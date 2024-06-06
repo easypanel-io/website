@@ -57,7 +57,7 @@ Login with changeme@easypanel.io:password123 - change this from the administrato
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | keila
-App Service Image | - | yes | pentacent/keila:0.11.2
+App Service Image | - | yes | pentacent/keila:0.14.7
 Database Service Name | - | yes | keila-db
 System From Email | - | yes | 
 SMTP Email Host | - | yes | 

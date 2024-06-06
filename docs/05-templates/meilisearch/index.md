@@ -42,7 +42,7 @@ Meilisearch Cloud is a next-generation, open-source search engine designed to en
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | meilisearch
-App Service Image | - | yes | getmeili/meilisearch:v0.30
+App Service Image | - | yes | getmeili/meilisearch:v1.8.1
 Meilisearch Database Volume Name | - | yes | meilisearch
 Meilisearch Environment | - | yes | production
 Meilisearch Master Key | - | no | 

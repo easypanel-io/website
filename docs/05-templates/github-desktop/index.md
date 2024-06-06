@@ -43,7 +43,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | github-desktop
-App Service Image | - | yes | lscr.io/linuxserver/github-desktop
+App Service Image | - | yes | lscr.io/linuxserver/github-desktop:latest
 
 ## Screenshots
 

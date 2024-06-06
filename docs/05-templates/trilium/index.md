@@ -52,7 +52,7 @@ Trilium is a hierarchical note-taking application designed for creating and mana
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | trilium
-App Service Image | - | yes | zadam/trilium:0.59.2
+App Service Image | - | yes | zadam/trilium:0.63.7
 
 ## Screenshots
 

@@ -39,7 +39,7 @@ NetBox is a comprehensive solution designed to be the single source of truth for
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | netbox
-App Service Image | - | yes | lscr.io/linuxserver/netbox:3.4.6
+App Service Image | - | yes | lscr.io/linuxserver/netbox:4.0.3
 Database Service Name | - | yes | netbox-db
 Database Service Name | - | yes | netbox-redis
 E-Mail Address | - | yes | 

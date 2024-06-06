@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 Username | - | yes | 
 Password | - | yes | 
 App Service Name | - | yes | kopia
-App Service Image | - | yes | kopia/kopia:0.13
+App Service Image | - | yes | kopia/kopia:0.17.0
 
 ## Screenshots
 

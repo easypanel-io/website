@@ -50,7 +50,7 @@ SMTP Login | - | no |
 SMTP Password | - | no | 
 SMTP From Address | - | no | notifications@example.com
 App Service Name | - | yes | mastodon
-App Service Image | - | yes | ghcr.io/mastodon/mastodon:v4.1
+App Service Image | - | yes | ghcr.io/mastodon/mastodon:v4.2.9
 
 ## Screenshots
 

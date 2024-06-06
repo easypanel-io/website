@@ -45,7 +45,7 @@ Create an account to login. The first account created will have administrator pr
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | corteza
-App Service Image | - | yes | cortezaproject/corteza:2022.9.8
+App Service Image | - | yes | cortezaproject/corteza:2023.9.6
 Database Service Name | - | yes | corteza-db
 
 ## Screenshots

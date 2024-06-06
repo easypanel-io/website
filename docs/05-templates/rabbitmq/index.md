@@ -44,7 +44,7 @@ Default user/pass is guest/guest (if you use the -management version of the imag
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | rabbitmq
+App Service Name | - | yes | rabbitmq:3.12.14
 App Service Image | - | no | 
 Enable RabbitMQ Management UI Plugin (modifies image) | - | no | 
 Default User Name | - | no | 

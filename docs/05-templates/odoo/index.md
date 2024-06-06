@@ -15,10 +15,6 @@ description: How to install Odoo on Easypanel? 1-Click installation template for
 
 Odoo is a comprehensive, integrated software platform designed to streamline and automate your business operations. It offers a suite of open-source business applications that cover all your company needs, from sales and services integration to operations management, website building, financial management, and marketing. Odoo&#39;s unique value proposition lies in its ease of use and full integration. The apps are designed to work seamlessly together, allowing you to automate and track everything you do in a centralized, online platform accessible from anywhere with any device. With Odoo, you can replace multiple applications with a single, cost-effective, and modular solution, eliminating the need for painful integrations and providing a comprehensive overview of your business. The platform evolves much faster than other solutions, with regular annual releases leveraging the expertise of thousands of developers and business experts. Whether you need a CRM, eCommerce, accounting, inventory, project management, or any other business application, Odoo has got you covered.
 
-## Instructions
-
-You can login with username &quot;admin&quot; and password &quot;umami&quot;.
-
 ## Benefits
 
 - Integrated Business Management: Odoo is a comprehensive platform designed to streamline your business operations. It integrates all your business needs into a single, easy-to-use platform, eliminating the need for multiple, disjointed software solutions. From sales and services to operations and finances, Odoo has got you covered.
@@ -46,7 +42,7 @@ You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | odoo
-App Service Image | - | yes | odoo:16.0
+App Service Image | - | yes | odoo:17.0
 Database Service Name | - | yes | odoo-db
 
 ## Screenshots

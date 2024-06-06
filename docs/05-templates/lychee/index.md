@@ -50,7 +50,7 @@ Lychee takes a few minutes to get ready. Sit back, relax, and have a coffee!
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lychee
-App Service Image | - | yes | lycheeorg/lychee:v4.7.4
+App Service Image | - | yes | lycheeorg/lychee:v5.3.0
 Database Type | - | yes | sqlite
 
 ## Screenshots

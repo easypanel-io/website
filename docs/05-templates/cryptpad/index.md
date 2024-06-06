@@ -39,7 +39,7 @@ CryptPad is an open-source collaborative office suite that offers end-to-end enc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cryptpad
-App Service Image | - | yes | promasu/cryptpad:alpine
+App Service Image | - | yes | promasu/cryptpad:v5.2.1
 
 ## Screenshots
 

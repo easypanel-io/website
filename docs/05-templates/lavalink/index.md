@@ -44,7 +44,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Auth server password | - | yes | 
 App Service Name | - | yes | lavalink-server
-App Service Image | - | yes | fredboat/lavalink:v3.7
+App Service Image | - | yes | fredboat/lavalink:v4.0.5
 
 ## Screenshots
 

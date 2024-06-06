@@ -40,7 +40,7 @@ MeTube is a web-based application that provides a user-friendly interface for th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | metube
-App Service Image | - | yes | alexta69/metube:2023-04-30
+App Service Image | - | yes | alexta69/metube:2024-05-28
 Downloads Volume Name | - | yes | downloads
 
 ## Screenshots

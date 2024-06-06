@@ -41,7 +41,7 @@ Soketi Serverless is an open-source WebSockets server that offers a cost-effecti
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | soketi
-App Service Image | - | yes | quay.io/soketi/soketi:1.4-16-debian
+App Service Image | - | yes | quay.io/soketi/soketi:1.6-16-debian
 Redis Service Name | - | yes | redis
 Soketi Default App ID | - | no | myapp
 Soketi Default App Key | - | no | 

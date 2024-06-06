@@ -38,7 +38,7 @@ ntfy, pronounced as &#39;notify&#39;, is a simple, HTTP-based pub-sub notificati
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ntfy
-App Service Image | - | yes | binwiederhier/ntfy:v2.4.0
+App Service Image | - | yes | binwiederhier/ntfy:v2.11.0
 
 ## Screenshots
 

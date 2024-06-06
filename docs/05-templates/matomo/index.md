@@ -44,7 +44,7 @@ Matomo is a powerful web analytics platform that allows you to take full control
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | matomo
-App Service Image | - | yes | matomo:4.12.0
+App Service Image | - | yes | matomo:5.0.3
 Database Service Name | - | yes | matomo-db
 
 ## Screenshots

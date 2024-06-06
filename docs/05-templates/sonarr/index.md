@@ -41,7 +41,7 @@ Sonarr is a Personal Video Recorder (PVR) designed for Usenet and BitTorrent use
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sonarr
-App Service Image | - | yes | linuxserver/sonarr:version-3.0.10.1567
+App Service Image | - | yes | linuxserver/sonarr:4.0.5
 
 ## Screenshots
 

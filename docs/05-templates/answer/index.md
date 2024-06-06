@@ -15,10 +15,6 @@ description: How to install Answer on Easypanel? 1-Click installation template f
 
 Answer is an open-source knowledge-based software designed to facilitate a Q&amp;A environment for your products, customers, teams, and more. It allows users to ask questions and get answers, fostering a dynamic exchange of information. The app features a modern and responsive UI, and it&#39;s extensible with plugins. It also offers content organization capabilities, allowing you to categorize and tag your content for easy navigation. Additionally, Answer integrates with your existing tools and services to streamline your workflow. The app also incorporates gamification elements, rewarding users for their contributions, making the process of knowledge sharing more engaging. It&#39;s a powerful tool for product technical support, customer support, and user communication.
 
-## Instructions
-
-Go to /install and select sqlite database
-
 ## Benefits
 
 - Knowledge Sharing: Answer allows you to build a platform where users and team members can share their knowledge and solve problems together. It's a great tool for product technical support, customer support, and user communication.
@@ -47,7 +43,17 @@ Go to /install and select sqlite database
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | answer
-App Service Image | - | yes | answerdev/answer:1.0.9
+App Service Image | - | yes | answerdev/answer:1.2.0
+Site Name | - | no | Answer
+Site Url | - | no | answer.apache.org
+Language | - | no | en-US
+Admin Username | - | yes | 
+Admin Password | - | yes | 
+Admin Mail | - | yes | 
+Contact Mail | - | yes | 
+Database Type | - | yes | sqlite3
+Database Service Name | - | yes | answer-db
+Auto Install | - | no | true
 
 ## Screenshots
 
@@ -56,7 +62,9 @@ App Service Image | - | yes | answerdev/answer:1.0.9
 ## Change Log
 
 - 2022-12-21 – first release
+- 2024-03-03 – Updated application version to 1.2.0 and added automatic installation support
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)

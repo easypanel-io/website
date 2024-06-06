@@ -45,7 +45,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable Prisma Studio | - | no | false
 App Service Name | - | yes | calcom
-App Service Image | - | yes | calcom/cal.com:v2.7.6
+App Service Image | - | yes | calcom/cal.com:v4.1.4
 App Service Name | - | yes | calcom-db
 
 ## Screenshots

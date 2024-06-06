@@ -42,7 +42,7 @@ Tolgee is a revolutionary localization platform designed to simplify and speed u
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tolgee
-App Service Image | - | yes | tolgee/tolgee:v3.11.4
+App Service Image | - | yes | tolgee/tolgee:v3.62.0
 Database Service Name | - | yes | tolgee-db
 Username | - | yes | 
 Password | - | yes | 

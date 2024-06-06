@@ -40,7 +40,7 @@ NZBGet is an efficient Usenet downloader that is open source and hosted on GitHu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nzbget
-App Service Image | - | yes | lscr.io/linuxserver/nzbget:21.1.20220922
+App Service Image | - | yes | lscr.io/linuxserver/nzbget:24.1.20240524
 Username | - | yes | nzbget
 Password | - | yes | tegbzn6789
 Timezone | - | no | Europe/London

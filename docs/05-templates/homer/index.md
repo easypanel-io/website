@@ -44,7 +44,7 @@ The config files can be found under &quot;/etc/easypanel/projects/PROJECT_NAME/h
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homer
-App Service Image | - | yes | b4bz/homer:v23.02.2
+App Service Image | - | yes | b4bz/homer:v24.05.1
 
 ## Screenshots
 

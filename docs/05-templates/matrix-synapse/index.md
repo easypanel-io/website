@@ -45,7 +45,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Report Stats | - | no | true
 App Service Name | - | yes | synapse
-App Service Image | - | yes | matrixdotorg/synapse:v1.80.0
+App Service Image | - | yes | matrixdotorg/synapse:v1.108.0
 Database Type | - | yes | postgres
 Database Service Name | - | yes | synapse-db
 

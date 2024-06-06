@@ -42,7 +42,7 @@ Shaarli is a personal, minimalist, super-fast, and database-free bookmarking ser
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shaarli
-App Service Image | - | yes | ghcr.io/shaarli/shaarli:v0.12.2
+App Service Image | - | yes | ghcr.io/shaarli/shaarli:v0.13.0
 
 ## Screenshots
 

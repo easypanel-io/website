@@ -31,7 +31,7 @@ Find your API key in the environment tab
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | typesense
-App Service Image | - | yes | typesense/typesense:0.24.0.rcn58
+App Service Image | - | yes | typesense/typesense:27.0.rc15
 
 ## Screenshots
 

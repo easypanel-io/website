@@ -41,7 +41,7 @@ Emby is a personal media server that brings all of your home videos, music, and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emby
-App Service Image | - | yes | lscr.io/linuxserver/emby:4.7.11
+App Service Image | - | yes | lscr.io/linuxserver/emby:4.8.7
 
 ## Screenshots
 

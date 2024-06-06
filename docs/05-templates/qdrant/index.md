@@ -42,7 +42,7 @@ Qdrant is a powerful vector database and vector similarity search engine designe
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | 
-App Service Image | - | yes | qdrant/qdrant:v1.3.0
+App Service Image | - | yes | qdrant/qdrant:v1.9.4
 
 ## Screenshots
 

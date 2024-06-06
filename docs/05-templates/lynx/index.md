@@ -46,7 +46,7 @@ Registration is disabled by default, but the first registration will always be a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lynx
-App Service Image | - | yes | jackbailey/lynx
+App Service Image | - | yes | jackbailey/lynx:1.9.2
 Database Service Name | - | yes | lynx-db
 
 ## Screenshots

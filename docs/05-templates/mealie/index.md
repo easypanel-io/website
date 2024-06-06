@@ -44,7 +44,7 @@ Please use the following credentials to login. changeme@easypanel.io|MyPassword
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mealie
-App Service Image | - | yes | hkotel/mealie:v0.5.6
+App Service Image | - | yes | hkotel/mealie:v1.7.0
 
 ## Screenshots
 

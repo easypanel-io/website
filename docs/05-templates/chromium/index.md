@@ -39,7 +39,7 @@ Chromium is an open-source browser project that is designed to provide a safer, 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chromium
-App Service Image | - | yes | lscr.io/linuxserver/chromium:version-b5a6f5c3
+App Service Image | - | yes | lscr.io/linuxserver/chromium:version-be5e88f6
 
 ## Screenshots
 

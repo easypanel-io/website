@@ -45,7 +45,7 @@ Mattermost Boards is an open-source project management tool designed for technic
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | focalboard
-App Service Image | - | yes | mattermost/focalboard:7.10.0
+App Service Image | - | yes | mattermost/focalboard:7.11.4
 Database Type | - | yes | sqlite3
 Database Service Name | - | yes | focalboard-db
 Enable Public Shared Boards | - | no | false

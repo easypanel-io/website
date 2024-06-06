@@ -40,7 +40,7 @@ Mattermost is a secure collaboration platform designed to enhance the efficiency
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mattermost
-App Service Image | - | yes | mattermost/mattermost-team-edition:7.10
+App Service Image | - | yes | mattermost/mattermost-team-edition:9.8
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots

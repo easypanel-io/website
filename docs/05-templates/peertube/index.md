@@ -53,7 +53,7 @@ Signup Enabled | - | no | true
 Transcoding Enabled | - | no | true
 Contact Form Enabled | - | no | true
 App Service Name | - | yes | peertube
-App Service Image | - | yes | chocobozzz/peertube:v5.2.0-bullseye
+App Service Image | - | yes | chocobozzz/peertube:v6.0.4-bookworm
 Database Service Name | - | yes | peertube-db
 Redis Service Name | - | yes | peertube-redis
 

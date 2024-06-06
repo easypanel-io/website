@@ -41,7 +41,7 @@ Kanboard is a free and open-source project management software that utilizes the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kanboard
-App Service Image | - | yes | kanboard/kanboard:v1.2.28
+App Service Image | - | yes | kanboard/kanboard:v1.2.36
 
 ## Screenshots
 

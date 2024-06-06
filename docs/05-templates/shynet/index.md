@@ -44,7 +44,7 @@ Open a console session and run ./manage.py createsuperuser to create your admini
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shynet
-App Service Image | - | yes | milesmcc/shynet:v0.12.0
+App Service Image | - | yes | milesmcc/shynet:v0.13.1
 Database Service Name | - | yes | shynet-db
 
 ## Screenshots

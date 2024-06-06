@@ -48,7 +48,7 @@ After First Deployment, run &quot;php artisan roadmap:install&quot; to setup the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ploi-roadmap
-App Service Image | - | yes | ghcr.io/easypanel-community/docker-ploi-roadmap:1.43
+App Service Image | - | yes | ghcr.io/easypanel-community/docker-ploi-roadmap:1.44.0
 Database Service Name | - | yes | ploi-roadmap-db
 Admin Notifications | - | yes | true
 Language | - | yes | en

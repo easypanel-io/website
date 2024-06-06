@@ -46,7 +46,7 @@ If the login fails with a error 500, please restart the &quot;linkding&quot; app
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | linkding
-App Service Image | - | yes | sissbruecker/linkding:1.17.2
+App Service Image | - | yes | sissbruecker/linkding:1.30.0
 Superuser Name | - | yes | 
 Superuser Password | - | yes | 
 Disable background tasks | - | no | false

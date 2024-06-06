@@ -41,7 +41,7 @@ Syncthing is a powerful, real-time file synchronization program designed to keep
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | syncthing
-App Service Image | - | yes | syncthing/syncthing:1
+App Service Image | - | yes | syncthing/syncthing:1.27
 
 ## Screenshots
 

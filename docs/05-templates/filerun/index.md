@@ -41,7 +41,7 @@ FileRun is a private, fully controlled file management and sharing solution. It&
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filerun
-App Service Image | - | yes | filerun/filerun
+App Service Image | - | yes | filerun/filerun:8.1
 Database Service Name | - | yes | filerun-db
 
 ## Screenshots

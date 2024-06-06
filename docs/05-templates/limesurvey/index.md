@@ -41,7 +41,7 @@ Welcome to LimeSurvey, the world&#39;s #1 survey platform designed to provide yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | limesurvey
-App Service Image | - | yes | tiredofit/limesurvey:1.5.10
+App Service Image | - | yes | tiredofit/limesurvey:6-1.6.33
 Database Service Name | - | yes | limesurvey-db
 Username | - | yes | 
 Password | - | yes | 

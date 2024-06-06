@@ -41,7 +41,7 @@ SerpBear is an open-source search engine position tracking app designed to help 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | serpbear
-App Service Image | - | yes | towfiqi/serpbear
+App Service Image | - | yes | towfiqi/serpbear:2.0.2
 Username | - | yes | 
 Password | - | yes | 
 

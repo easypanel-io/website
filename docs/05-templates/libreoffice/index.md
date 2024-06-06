@@ -38,7 +38,7 @@ LibreOffice is a free and powerful office suite app that serves as a successor t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | libreoffice
-App Service Image | - | yes | lscr.io/linuxserver/libreoffice:latest
+App Service Image | - | yes | lscr.io/linuxserver/libreoffice:7.6.7
 
 ## Screenshots
 

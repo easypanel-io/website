@@ -45,7 +45,7 @@ Login using user ABC with your set password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre
-App Service Image | - | yes | linuxserver/calibre:6.23.0
+App Service Image | - | yes | linuxserver/calibre:7.11.0
 Password | - | yes | 
 
 ## Screenshots

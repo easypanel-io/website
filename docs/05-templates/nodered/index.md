@@ -40,7 +40,7 @@ Node-RED is a unique programming tool designed for creating event-driven applica
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nodered
-App Service Image | - | yes | nodered/node-red:3.0.2
+App Service Image | - | yes | nodered/node-red:3.1
 
 ## Screenshots
 

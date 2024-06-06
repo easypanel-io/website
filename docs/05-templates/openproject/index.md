@@ -45,7 +45,7 @@ The default login credentials are admin:admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openproject
-App Service Image | - | yes | openproject/community:12
+App Service Image | - | yes | openproject/community:13.4.1
 
 ## Screenshots
 

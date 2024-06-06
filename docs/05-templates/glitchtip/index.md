@@ -47,7 +47,7 @@ Name | Description | Required | Default Value
 Enable User Registration | - | no | false
 Enable Organization Creation | - | no | false
 App Service Name | - | yes | glitchtip
-App Service Image | - | yes | glitchtip/glitchtip:v3.1.0
+App Service Image | - | yes | glitchtip/glitchtip:v4.0.9
 Redis Service Name | - | yes | glitchtip-db
 Redis Service Name | - | yes | glitchtip-redis
 

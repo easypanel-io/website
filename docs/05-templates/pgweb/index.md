@@ -40,7 +40,7 @@ Pgweb is a simple, web-based, cross-platform PostgreSQL database explorer. It is
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pgweb
-App Service Image | - | yes | sosedoff/pgweb:0.14.0
+App Service Image | - | yes | sosedoff/pgweb:0.15.0
 
 ## Screenshots
 

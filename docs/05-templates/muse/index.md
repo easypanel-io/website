@@ -40,7 +40,7 @@ Muse is a self-hosted Discord music bot designed to enhance your music experienc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | discordbot
-App Service Image | - | yes | codetheweb/muse:2.2.2
+App Service Image | - | yes | codetheweb/muse:2.8.1
 Discord Token | - | yes | 
 Youtube API Key | - | yes | 
 Spotify Client ID | - | yes | 

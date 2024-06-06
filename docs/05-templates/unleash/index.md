@@ -46,7 +46,7 @@ Login with admin:unleash4all
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | unleash
-App Service Image | - | yes | unleashorg/unleash-server:4.22.5
+App Service Image | - | yes | unleashorg/unleash-server:5.12.4
 Database Service Name | - | yes | unleash-db
 
 ## Screenshots

@@ -42,7 +42,7 @@ Excalidraw is an open-source virtual whiteboard designed to bring your creativit
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | excalidraw
-App Service Image | - | yes | excalidraw/excalidraw:sha-4bfc5bb
+App Service Image | - | yes | excalidraw/excalidraw:latest
 
 ## Screenshots
 

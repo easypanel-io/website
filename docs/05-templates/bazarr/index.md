@@ -39,7 +39,7 @@ Bazarr is a companion application to Sonarr and Radarr, designed to manage and d
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bazarr
-App Service Image | - | yes | lscr.io/linuxserver/bazarr:1.2.0
+App Service Image | - | yes | lscr.io/linuxserver/bazarr:1.4.2
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | lscr.io/linuxserver/bazarr:1.2.0
 ## Change Log
 
 - 2023-3-17 – first release
+- 2024-03-11 – Version bumped to 1.4.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)

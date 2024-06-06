@@ -44,7 +44,7 @@ Openblocks is an open-source low code platform designed to help you build intern
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openblocks
-App Service Image | - | yes | openblocksdev/openblocks-ce:1.1.6
+App Service Image | - | yes | openblocksdev/openblocks-ce:1.1.8
 
 ## Screenshots
 

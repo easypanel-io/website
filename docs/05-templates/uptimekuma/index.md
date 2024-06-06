@@ -43,7 +43,7 @@ Uptime Kuma is a self-hosted monitoring tool designed to keep track of your webs
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | uptimekuma
-App Service Image | - | yes | louislam/uptime-kuma:1.21.3
+App Service Image | - | yes | louislam/uptime-kuma:1.23.13
 
 ## Screenshots
 

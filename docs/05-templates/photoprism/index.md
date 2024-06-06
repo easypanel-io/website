@@ -43,7 +43,7 @@ PhotoPrism is an AI-powered photos app designed for the decentralized web. It us
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | photoprism
-App Service Image | - | yes | photoprism/photoprism:221118-jammy
+App Service Image | - | yes | photoprism/photoprism:240528
 Username | - | yes | 
 Password | - | yes | 
 Database Type | - | yes | mariadb

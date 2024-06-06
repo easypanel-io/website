@@ -38,7 +38,7 @@ The itzg/minecraft-server app is designed to provide a seamless Minecraft Server
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | minecraft-server
-App Service Image | - | yes | itzg/minecraft-server:2023.6.1
+App Service Image | - | yes | itzg/minecraft-server:2024.5.0
 Server Name | - | no | MyServer
 Version | - | no | LATEST
 Server Types | - | no | VANILLA

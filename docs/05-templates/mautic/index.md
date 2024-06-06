@@ -40,7 +40,7 @@ Mautic is a powerful marketing automation platform designed to revolutionize the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mautic
-App Service Image | - | yes | mautic/mautic:v4
+App Service Image | - | yes | mautic/mautic:5-apache
 Database Service Name | - | yes | mautic-db
 
 ## Screenshots

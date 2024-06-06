@@ -43,7 +43,7 @@ Grav is an award-winning, open-source, flat-file content management system (CMS)
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grav
-App Service Image | - | yes | linuxserver/grav:1.7.40
+App Service Image | - | yes | linuxserver/grav:1.7.46
 Timezone | - | yes | Etc/UTC
 
 ## Screenshots

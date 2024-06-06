@@ -26,7 +26,7 @@ Wakapi is a powerful open-source tool designed to help you track and analyze you
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wakapi
-App Service Image | - | yes | n1try/wakapi:2.7.0
+App Service Image | - | yes | n1try/wakapi:2.11.2
 
 ## Screenshots
 

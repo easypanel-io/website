@@ -45,7 +45,7 @@ Budibase takes a few minutes to get ready. Sit back, relax, and have a cup of te
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | budibase
-App Service Image | - | yes | budibase/budibase:v2.5.6
+App Service Image | - | yes | budibase/budibase:2.27.3
 
 ## Screenshots
 
@@ -54,7 +54,9 @@ App Service Image | - | yes | budibase/budibase:v2.5.6
 ## Change Log
 
 - 2022-10-30 – first release
+- 2024-03-12 – Version bumped to 2.21.8
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Berk Sümbül](https://berksmbl.com)

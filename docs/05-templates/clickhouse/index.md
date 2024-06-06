@@ -39,7 +39,7 @@ ClickHouse is an open-source database designed for real-time apps and analytics.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | clickhouse
-App Service Image | - | yes | clickhouse/clickhouse-server:22.6-alpine
+App Service Image | - | yes | clickhouse/clickhouse-server:23.8.14
 
 ## Screenshots
 

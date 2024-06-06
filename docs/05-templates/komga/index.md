@@ -42,7 +42,7 @@ Komga is a free and open source comics/mangas server that provides an intuitive 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | komga
-App Service Image | - | yes | gotson/komga:0.165.0
+App Service Image | - | yes | gotson/komga:1.11.1
 
 ## Screenshots
 

@@ -47,7 +47,7 @@ After installing Zipline for the first time, you may login to the dashboard with
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | zipline
-App Service Image | - | yes | ghcr.io/diced/zipline:3.6.4
+App Service Image | - | yes | ghcr.io/diced/zipline:trunk
 Database Service Name | - | yes | zipline-db
 
 ## Screenshots

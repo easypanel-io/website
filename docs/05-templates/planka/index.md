@@ -45,7 +45,7 @@ Login with demo@demo.demo:demo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | planka
-App Service Image | - | yes | ghcr.io/plankanban/planka:1.11.0
+App Service Image | - | yes | ghcr.io/plankanban/planka:1.17.4
 Database Service Name | - | yes | planka-db
 
 ## Screenshots

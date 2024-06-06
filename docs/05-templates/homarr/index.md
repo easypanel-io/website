@@ -41,7 +41,7 @@ Homarr is a powerful dashboard designed to simplify the management of your serve
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homarr
-App Service Image | - | yes | ghcr.io/ajnart/homarr:0.11.2
+App Service Image | - | yes | ghcr.io/ajnart/homarr:0.15.3
 Timezone | - | no | America/New_York
 
 ## Screenshots

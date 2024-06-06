@@ -43,7 +43,7 @@ Run &quot;./pufferpanel user add&quot; in the console to create a new user.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pufferpanel
-App Service Image | - | yes | pufferpanel/pufferpanel:2.6.6
+App Service Image | - | yes | pufferpanel/pufferpanel:2.7.1
 
 ## Screenshots
 

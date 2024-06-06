@@ -47,7 +47,7 @@ Joplin is an open-source note-taking application that allows you to capture your
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | joplin
-App Service Image | - | yes | joplin/server:2.10.10-beta
+App Service Image | - | yes | joplin/server:2.14.2-beta
 Database Service Name | - | yes | joplin-db
 
 ## Screenshots

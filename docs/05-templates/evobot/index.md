@@ -40,7 +40,7 @@ EvoBot is a music bot designed for Discord, a popular communication platform. It
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | discord_music_bot
-App Service Image | - | yes | eritislami/evobot:2.7.0
+App Service Image | - | yes | eritislami/evobot:2.9.0
 Discord Token | - | yes | 
 Maximum Playlist Size | - | yes | 10
 Bot Locale | - | yes | en

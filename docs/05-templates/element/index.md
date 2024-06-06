@@ -41,7 +41,7 @@ Element is a secure communications platform designed to protect and strengthen y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | element
-App Service Image | - | yes | vectorim/element-web:v1.11.30
+App Service Image | - | yes | vectorim/element-web:v1.11.67
 
 ## Screenshots
 

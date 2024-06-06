@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | espocrm
-App Service Image | - | yes | espocrm/espocrm:7-apache
+App Service Image | - | yes | espocrm/espocrm:8.2.4-fpm-alpine
 Database Service Type | - | yes | mariadb
 Database Service Name | - | yes | espocrm-db
 

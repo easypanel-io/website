@@ -40,7 +40,7 @@ Plausible is a simple, lightweight, and open-source web analytics tool that serv
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | plausible
-App Service Image | - | yes | plausible/analytics:v1.5.1
+App Service Image | - | yes | plausible/analytics:v2.0.0
 Database Service Name | - | yes | plausible-db
 Database Service Name | - | yes | plausible-clickhouse
 

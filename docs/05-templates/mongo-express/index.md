@@ -45,7 +45,7 @@ Mongo URL | mongodb://admin:pass@localhost:27017/db?ssl=false | yes |
 Username | - | no | 
 Password | - | no | 
 App Service Name | - | yes | mongo-express
-App Service Image | - | yes | mongo-express:1.0.0-alpha
+App Service Image | - | yes | mongo-express:1.0.2-18
 
 ## Screenshots
 

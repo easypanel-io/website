@@ -43,7 +43,7 @@ Use the SQLite DB type in the installation wizard
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | linkstack
-App Service Image | - | yes | linkstackorg/linkstack:V4
+App Service Image | - | yes | linkstackorg/linkstack:latest
 Server Admin | - | yes | changeme@easypanel.io
 
 ## Screenshots

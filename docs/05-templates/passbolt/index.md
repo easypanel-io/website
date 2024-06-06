@@ -44,7 +44,7 @@ In order to create the first admin account, the following needs to be executed i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | passbolt
-App Service Image | - | yes | passbolt/passbolt:3.12.0-3-ce
+App Service Image | - | yes | passbolt/passbolt:4.8.0-1-ce
 Database Service Name | - | yes | passbolt-db
 
 ## Screenshots

@@ -44,7 +44,7 @@ Go to /admin for administration interface
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | isso
-App Service Image | - | yes | ghcr.io/isso-comments/isso:0.13.0
+App Service Image | - | yes | ghcr.io/isso-comments/isso:release
 Admin Password | - | yes | 
 
 ## Screenshots

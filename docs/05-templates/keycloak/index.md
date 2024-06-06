@@ -45,7 +45,7 @@ Keycloak is an open-source Identity and Access Management tool that adds authent
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | keycloak
-App Service Image | - | yes | bitnami/keycloak:21.1.1
+App Service Image | - | yes | bitnami/keycloak:24.0.4
 Database Service Name | - | yes | keycloak-db
 Username | - | yes | 
 Password | - | yes | 

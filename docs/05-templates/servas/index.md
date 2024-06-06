@@ -42,7 +42,7 @@ Visit /register to create an account
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | servas
-App Service Image | - | yes | beromir/servas:0.0.4
+App Service Image | - | yes | beromir/servas:0.2.0
 Database Service Name | - | yes | servas-db
 
 ## Screenshots

@@ -42,7 +42,7 @@ OfficeLife is an all-in-one tool designed to manage a company efficiently. It se
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | monica
-App Service Image | - | yes | monica:4.0.0
+App Service Image | - | yes | monica:4.1.2
 Redis Service Name | - | yes | monica-redis
 Database Service Name | - | yes | monica-db
 Database Type | - | yes | mariadb

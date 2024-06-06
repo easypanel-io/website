@@ -40,7 +40,7 @@ LanguageTool is your personal writing assistant, designed to enhance your writin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | languagetool
-App Service Image | - | yes | silviof/docker-languagetool:6.0
+App Service Image | - | yes | silviof/docker-languagetool:6.4
 
 ## Screenshots
 

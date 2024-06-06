@@ -38,7 +38,7 @@ MailCrab is an email test server designed for development purposes. It is an acc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mailcrab
-App Service Image | - | yes | marlonb/mailcrab:latest
+App Service Image | - | yes | marlonb/mailcrab:v1.2.0
 
 ## Screenshots
 

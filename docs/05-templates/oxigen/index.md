@@ -35,7 +35,7 @@ Oxigen is a dynamic social media image generator designed to streamline the proc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | oxigen
-App Service Image | - | yes | ghcr.io/yuriizinets/oxigen:2.0-rc2
+App Service Image | - | yes | ghcr.io/yuriizinets/oxigen:latest
 
 ## Screenshots
 

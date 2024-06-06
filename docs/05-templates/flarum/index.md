@@ -47,7 +47,7 @@ Please use the credentials flarum:flarum to login.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flarum
-App Service Image | - | yes | crazymax/flarum:1.6.2
+App Service Image | - | yes | crazymax/flarum:1.8.5
 Database Type | - | yes | mariadb
 Database Service Name (URL if external) | - | yes | flarum-db
 Database Port (blank to default) | - | no | 

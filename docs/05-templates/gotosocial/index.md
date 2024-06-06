@@ -42,7 +42,7 @@ GoToSocial is a lightweight, customizable, and safety-focused social network ser
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotosocial
-App Service Image | - | yes | superseriousbusiness/gotosocial:0.9.0
+App Service Image | - | yes | superseriousbusiness/gotosocial:0.15.0
 
 ## Screenshots
 

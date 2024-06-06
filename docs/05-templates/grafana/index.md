@@ -46,7 +46,7 @@ Login with admin:admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grafana
-App Service Image | - | yes | grafana/grafana-oss:9.5.1
+App Service Image | - | yes | grafana/grafana-oss:11.0.0
 
 ## Screenshots
 

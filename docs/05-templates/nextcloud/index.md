@@ -40,7 +40,7 @@ Nextcloud Hub 5 is a comprehensive platform that integrates the four key Nextclo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nextcloud
-App Service Image | - | yes | nextcloud:24.0.6
+App Service Image | - | yes | nextcloud:29.0.0
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | nextcloud-db
 

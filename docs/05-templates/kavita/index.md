@@ -40,7 +40,7 @@ Kavita is a high-speed, sleekly designed, self-hosted digital library that suppo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kavita
-App Service Image | - | yes | kizaing/kavita:0.7.1
+App Service Image | - | yes | kizaing/kavita:0.7.8.2
 Timezone | - | no | America/New_York
 
 ## Screenshots

@@ -41,7 +41,7 @@ pgvector is an open-source app designed to facilitate vector similarity search f
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | 
-Service Image | - | yes | ankane/pgvector:v0.4.4
+Service Image | - | yes | ankane/pgvector:v0.5.1
 
 ## Screenshots
 

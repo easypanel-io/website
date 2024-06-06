@@ -39,7 +39,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 VS Code Server Password | - | yes | 
 App Service Name | - | yes | vsc-server
-App Service Image | - | yes | lscr.io/linuxserver/code-server:4.9.1-ls148
+App Service Image | - | yes | lscr.io/linuxserver/code-server:4.89.1
 
 ## Screenshots
 

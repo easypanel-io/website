@@ -46,7 +46,7 @@ Admin Username | - | no |
 Admin Mail | - | no | 
 Admin Password | - | no | 
 App Service Name | - | yes | nodebb
-App Service Image | - | yes | nodebb/docker:2.8.9
+App Service Image | - | yes | nodebb/docker:1.19.12
 Database Service Type | - | yes | mongo
 Database Service Name | - | yes | nodebb-db
 
