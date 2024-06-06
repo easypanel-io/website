@@ -21,6 +21,10 @@ TRAEFIK_CERTIFICATESRESOLVERS_<RESOLVER_NAME>_ACME_DNSCHALLENGE_RESOLVERS=1.1.1.
 
 Replace `<RESOLVER_NAME>` with your desired name. Then add your email address and the DNS provider you are using. The DNS provider should be one of the supported providers listed in the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#providers).
 
+:::caution
+All the ACME resolvers must use the same email address.
+:::
+
 ## Step 2 - Set Credentials for Your Provider
 
 For the DNS challenge to work, you need to set the credentials for your DNS provider. Each provider has its own set of credentials. You can find the required credentials in the [Official Traefik Documentation](https://doc.traefik.io/traefik/https/acme/#providers).
@@ -34,7 +38,7 @@ After this, make sure to restart the Traefik service.
 Now, go to your app "Domains" and click "Add Domain". You need to enable the "Wildcard domain" option and set the resolver name you created in Step 1.
 
 :::caution
-**If you want to point your root domain and subdomains to your service**, you need to create **2 separate domains**. One for the root domain and another for the subdomains (wildcard domain).
+If you want to point your root domain and subdomains to your service, you need to create 2 separate domains. One for the root domain and another for the subdomains (wildcard domain).
 :::
 
 ![Add Domain](./add-domain.png)
