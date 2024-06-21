@@ -71,3 +71,4 @@ Email to make administrator | - | yes |
 
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
+- [Alan Frigo](https://github.com/alanfrigo)
