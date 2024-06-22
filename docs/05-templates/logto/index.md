@@ -30,9 +30,9 @@ Logto is an Auth0 alternative designed for modern apps and SaaS products. It off
 
 ## Links
 
-- [Website](https://listmonk.app/)
-- [Documentation](https://listmonk.app/docs/)
-- [Github](https://github.com/knadh/listmonk)
+- [Website](https://logto.io/)
+- [Documentation](https://docs.logto.io/)
+- [Github](https://github.com/logto-io/logto)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/logto)
 
 ## Options
