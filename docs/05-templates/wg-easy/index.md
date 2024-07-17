@@ -48,7 +48,7 @@ WireGuard Easy is an all-in-one application designed to simplify the installatio
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wg-easy
-App Service Image | - | yes | weejewel/wg-easy:7-nightly
+App Service Image | - | yes | ghcr.io/wg-easy/wg-easy
 Admin Password | - | yes | 
 
 ## Screenshots

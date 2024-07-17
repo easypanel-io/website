@@ -47,7 +47,7 @@ Admin Dashboard can be accessed via &quot;DOMAIN/_/&quot;&quot;
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pocketbase
-App Service Image | - | yes | augustodelg/pocketbase:0.22.6
+App Service Image | - | yes | spectado/pocketbase:latest
 
 ## Screenshots
 
