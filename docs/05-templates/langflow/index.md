@@ -37,6 +37,7 @@ Langflow is an innovative application designed to facilitate the experimentation
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | langflow
+App Service Image | - | yes | langflowai/langflow:latest
 Username | - | yes | 
 Password | - | yes | 
 
