@@ -30,6 +30,7 @@ App Service Name | - | yes | plane
 
 ## Screenshots
 
+![Plane Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 

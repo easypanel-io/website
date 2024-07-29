@@ -30,6 +30,7 @@ App Service Name | - | yes | supabase
 
 ## Screenshots
 
+![Supabase Screenshot](./assets/screenshot.png)
 
 ## Change Log
 

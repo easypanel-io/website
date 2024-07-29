@@ -30,6 +30,7 @@ App Service Name | - | yes | twenty
 
 ## Screenshots
 
+![Twenty Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 

@@ -30,6 +30,7 @@ App Service Name | - | yes | dify
 
 ## Screenshots
 
+![Dify Screenshot](./assets/screenshot.png)
 
 ## Change Log
 
