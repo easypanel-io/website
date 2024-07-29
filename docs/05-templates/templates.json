@@ -276,6 +276,12 @@
     "description": "Deluge is a comprehensive BitTorrent client designed to cater to your torrenting needs. It operates on a daemon/client model and is equipped with various user interfaces, including GTK-UI, Web-UI, and Console-UI. At its core, Deluge uses libtorrent to efficiently manage the BitTorrent protocol. The app allows you to start various user-interfaces and the Deluge daemon with simple commands. It also provides a web UI that can be accessed at http://localhost:8112 with the default password 'deluge'. For advanced users, Deluge offers features like bandwidth tweaking, VPN, and reverse proxy."
   },
   {
+    "slug": "dify",
+    "logo": "logo.png",
+    "name": "Dify",
+    "description": "Dify is an open-source platform designed to simplify the development and operation of AI applications using large language models (LLMs). It provides features like visual prompt orchestration, RAG pipeline, agent capabilities, model management, and LLMOps for efficient monitoring and analysis."
+  },
+  {
     "slug": "directus",
     "logo": "logo.png",
     "name": "Directus",
@@ -1116,6 +1122,12 @@
     "description": "Pidgin is a versatile chat application that allows you to log into multiple chat networks simultaneously. This means you can chat with friends on XMPP while also participating in an IRC channel. The application supports a wide range of chat networks, including but not limited to Bonjour, Discord, Facebook, Google Talk, Hangouts, ICQ, Instagram, IRC, Skype, Slack, Telegram, and XMPP. This Pidgin installation comes with default chat plugins and a series of third-party ones. The application also includes Firefox to help you fill out captchas or pre-auth before loading your credentials into the program. Pidgin can be accessed at http://yourhost:3000/ or https://yourhost:3001/. The app is designed to provide a seamless and integrated chat experience across multiple platforms."
   },
   {
+    "slug": "plane",
+    "logo": null,
+    "name": "Plane",
+    "description": "Plane is an open-source project management tool designed to help teams manage tasks, sprints, and product roadmaps efficiently. It offers features like issue tracking, cycles, modules, custom views, pages, and real-time analytics."
+  },
+  {
     "slug": "planka",
     "logo": "logo.png",
     "name": "Planka",
@@ -1356,6 +1368,12 @@
     "description": "SuiteCRM is the world's leading Open Source CRM, designed to help you sell, market, and service smarter. This feature-rich, enterprise-ready alternative to Salesforce offers all the benefits of CRM at a significantly lower cost, with the freedom and flexibility of Open Source. With SuiteCRM, you can gain a 360-degree view of your customers by creating a central repository for all your customer data, enabling you to gain key insights to enhance and nurture your business relationships. The platform is highly customizable and easy to use, with hundreds of extensions and integrations. SuiteCRM 8, our most advanced upgrade to date, promises to give you better control of your data and business solutions. The platform also allows for seamless integration with core business systems using our open REST API, enhancing productivity across your organization. With SuiteCRM, you can automate key actions, improve efficiency, understand your customers' needs, convert more leads, and engage your customers more effectively with personalized experiences and consistent messaging. It also empowers your customer service team to service smarter, faster, and more professionally."
   },
   {
+    "slug": "supabase",
+    "logo": "logo.png",
+    "name": "Supabase",
+    "description": "Supabase is an open source Firebase alternative. Supabase is built on top of Postgres, and it's easy to set up and use. Supabase is also completely free to use, and it's completely open source."
+  },
+  {
     "slug": "supertokens-core",
     "logo": "logo.svg",
     "name": "Supertokens Core",
@@ -1420,6 +1438,12 @@
     "logo": "logo.png",
     "name": "Trilium Notes",
     "description": "Trilium is a hierarchical note-taking application designed for creating and managing large personal knowledge bases. With Trilium, you can arrange your notes into an arbitrarily deep tree structure, with the ability to place a single note in multiple locations. The app offers rich WYSIWYG note editing, including tables, images, and math, with markdown autoformat. It also supports editing notes with source code, complete with syntax highlighting. Trilium provides seamless note versioning and attributes for note organization, querying, and advanced scripting. The app also includes a synchronization feature with a self-hosted sync server. For enhanced security, Trilium offers strong note encryption with per-note granularity. Other features include sketching diagrams with built-in Excalidraw, visualizing notes and their relations with relation maps and link maps, and a REST API for automation. Trilium is optimized for both usability and performance, capable of handling upwards of 100,000 notes."
+  },
+  {
+    "slug": "twenty",
+    "logo": "logo.png",
+    "name": "Twenty",
+    "description": "Twenty is an open-source CRM platform designed to offer full customization and control over your customer relationship management. It provides the flexibility to self-host, avoiding vendor lock-in and offering cost-effective solutions."
   },
   {
     "slug": "typebot",
