@@ -66,6 +66,12 @@
     "description": "Appsmith is a powerful tool designed to help engineers build custom software on top of their data. It simplifies internal tool development for businesses, streamlining operations, automating processes, and integrating multiple apps and data sources. Appsmith allows you to quickly build, deploy, and share applications that run critical business operations. It features intent-based auto-layouts for building responsive apps faster and offers a drag-and-drop interface for creating beautiful UIs without writing a single line of HTML/CSS. You can connect to any database, SaaS tool, or GraphQL/REST API, and query your data directly using SQL or the built-in query builder. Appsmith also provides the ability to write in-line JavaScript or reusable code blocks to extend your app's functionality, customize your UI, or write conditional logic. It's a secure, open-source platform that can be self-hosted for total control, privacy, and security."
   },
   {
+    "slug": "appwrite",
+    "logo": "logo.svg",
+    "name": "Appwrite",
+    "description": "Appwrite is an open-source backend as a service server that abstracts and simplifies complex and repetitive development tasks behind a very simple to use REST API."
+  },
+  {
     "slug": "audiobookshelf",
     "logo": "logo.png",
     "name": "Audiobookshelf",
@@ -277,7 +283,7 @@
   },
   {
     "slug": "dify",
-    "logo": "logo.png",
+    "logo": null,
     "name": "Dify",
     "description": "Dify is an open-source platform designed to simplify the development and operation of AI applications using large language models (LLMs). It provides features like visual prompt orchestration, RAG pipeline, agent capabilities, model management, and LLMOps for efficient monitoring and analysis."
   },

@@ -15,6 +15,10 @@ description: How to install Supabase on Easypanel? 1-Click installation template
 
 Supabase is an open source Firebase alternative. Supabase is built on top of Postgres, and it&#39;s easy to set up and use. Supabase is also completely free to use, and it&#39;s completely open source.
 
+## Instructions
+
+Username is `supabase` and password is `this_password_is_insecure_and_should_be_updated`. You can change these by editing the environment variables.
+
 ## Links
 
 - [Website](https://supabase.com/)
@@ -26,7 +30,7 @@ Supabase is an open source Firebase alternative. Supabase is built on top of Pos
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | supabase
+Service Name | - | yes | supabase
 
 ## Screenshots
 

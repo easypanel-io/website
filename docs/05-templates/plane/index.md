@@ -26,7 +26,7 @@ Plane is an open-source project management tool designed to help teams manage ta
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | plane
+Service Name | - | yes | plane
 
 ## Screenshots
 

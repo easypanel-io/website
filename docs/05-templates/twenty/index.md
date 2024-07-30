@@ -26,7 +26,7 @@ Twenty is an open-source CRM platform designed to offer full customization and c
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | twenty
+Service Name | - | yes | twenty
 
 ## Screenshots
 

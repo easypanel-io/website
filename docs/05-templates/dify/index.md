@@ -26,7 +26,7 @@ Dify is an open-source platform designed to simplify the development and operati
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | dify
+Service Name | - | yes | dify
 
 ## Screenshots
 
