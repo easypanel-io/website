@@ -94,14 +94,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      announcementBar: {
-        id: "dockerizer",
-        content:
-          '<a href="https://easypanel.io/dockerizer" style="font-weight: bold; text-decoration: none;">🚀 Introducing Dockerizer - The fastest way to dockerize your apps! 🚀</a>',
-        backgroundColor: "#059669",
-        textColor: "#fff",
-        isCloseable: true,
-      },
+      // announcementBar: {
+      //   id: "dockerizer",
+      //   content:
+      //     '<a href="https://easypanel.io/dockerizer" style="font-weight: bold; text-decoration: none;">🚀 Introducing Dockerizer - The fastest way to dockerize your apps! 🚀</a>',
+      //   backgroundColor: "#059669",
+      //   textColor: "#fff",
+      //   isCloseable: true,
+      // },
       colorMode: {
         defaultMode: "dark",
         disableSwitch: true,
@@ -119,6 +119,11 @@ const config = {
           { to: "/templates", label: "Templates", position: "left" },
           { to: "/pricing", label: "Pricing", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "https://demo.easypanel.io",
+            label: "Demo",
+            position: "left",
+          },
           {
             to: "https://easypanel.io/dockerizer",
             label: "Dockerizer",
