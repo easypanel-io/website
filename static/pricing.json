@@ -1,0 +1,74 @@
+{
+  "plans": [
+    {
+      "name": "Hobby",
+      "description": "Move to the next level with your one-person operation",
+      "monthly": {
+        "pricePerMonth": 13.9,
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/b60df6f0-8857-4140-9960-6affa366eb1e?enabled=121681"
+      },
+      "yearly": {
+        "pricePerMonth": 9.9,
+        "productId": "https://easypanel.lemonsqueezy.com/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36?enabled=121683"
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups"
+      ]
+    },
+    {
+      "name": "Growth",
+      "description": "Bring your whole team on board and work together",
+      "monthly": {
+        "pricePerMonth": 19.9,
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26?enabled=121685"
+      },
+      "yearly": {
+        "pricePerMonth": 13.9,
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740?enabled=121686"
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Multiple users",
+        "Access control"
+      ]
+    },
+    {
+      "name": "Business",
+      "description": "Get dedicated support for your amazing company",
+      "monthly": {
+        "pricePerMonth": 31.9,
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/90c58596-7077-4426-9944-771b11967204?enabled=121691"
+      },
+      "yearly": {
+        "pricePerMonth": 23.9,
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a?enabled=121692"
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database backups",
+        "Multiple users",
+        "Access control",
+        "Cluster support (alpha)",
+        "Custom branding (alpha)",
+        "Priority support"
+      ]
+    }
+  ]
+}
