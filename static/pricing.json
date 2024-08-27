@@ -9,7 +9,7 @@
       },
       "yearly": {
         "pricePerMonth": 9.9,
-        "productId": "https://easypanel.lemonsqueezy.com/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36?enabled=121683"
+        "checkoutUrl": "https://easypanel.lemonsqueezy.com/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36?enabled=121683"
       },
       "features": [
         "Unlimited projects",
