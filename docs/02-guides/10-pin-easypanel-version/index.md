@@ -1,10 +1,10 @@
 ---
-sidebar_label: PIN Easypanel version
-title: PIN Easypanel version
-description: PIN Easypanel version
+sidebar_label: Pin Easypanel version
+title: Pin Easypanel version
+description: Pin Easypanel version
 ---
 
-# PIN Easypanel version
+# Pin Easypanel version
 
 In this guide, we will walk you through the process of pinning a specific version of Easypanel to prevent it from being automatically updated when the service restarts. This is achieved by setting the environment variable `RELEASE_TAG` to a specific version. Follow the steps below to update these settings and gain more control over your Easypanel updates.
 
