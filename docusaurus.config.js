@@ -212,16 +212,20 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "Portal",
-                href: "https://portal.easypanel.io",
-              },
-              {
                 label: "GitHub",
                 href: "https://github.com/easypanel-io",
               },
               {
                 label: "Branding",
                 href: "https://easypanel.io/brand",
+              },
+              {
+                label: "Dockerizer",
+                href: "https://easypanel.io/dockerizer",
+              },
+              {
+                label: "Hub",
+                href: "https://hub.easypanel.io",
               },
             ],
           },
