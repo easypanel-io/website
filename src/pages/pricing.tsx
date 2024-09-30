@@ -275,8 +275,6 @@ const Pricing = () => {
                 <Feature>Database backups</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
-                <Feature underline>Cluster support (alpha)</Feature>
-                {/* <Feature soon>Whitelabeling</Feature> */}
                 <Feature underline>White-labeling</Feature>
                 <Feature underline>Priority support</Feature>
               </ul>
