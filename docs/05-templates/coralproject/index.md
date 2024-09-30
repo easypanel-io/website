@@ -39,7 +39,7 @@ Coral is a revolutionary app designed to enhance the commenting experience on yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coral
-App Service Image | - | yes | coralproject/talk:9.0.6
+App Service Image | - | yes | coralproject/talk:9.3.1
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
 Metrics Port Enable | - | yes | false
@@ -52,8 +52,10 @@ Metrics Port Enable | - | yes | false
 
 - 2023-2-19 – first release
 - 2023-06-18 – Fixed bug that prevented the application from working version has been replaced with the current version
+- 2024-09-30 – Version changed to 9.3.1
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

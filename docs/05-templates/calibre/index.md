@@ -17,7 +17,7 @@ Calibre is a comprehensive e-book management tool designed to organize, convert,
 
 ## Instructions
 
-Login using user ABC with your set password
+Login using user abc with your set password
 
 ## Benefits
 
@@ -45,7 +45,7 @@ Login using user ABC with your set password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre
-App Service Image | - | yes | linuxserver/calibre:7.11.0
+App Service Image | - | yes | linuxserver/calibre:7.19.0
 Password | - | yes | 
 
 ## Screenshots
@@ -56,6 +56,7 @@ Password | - | yes |
 
 - 2023-3-1 – first release
 - 2023-7-24 – update
+- 2024-09-30 – Version updated to 7.19.0
 
 ## Contributors
 

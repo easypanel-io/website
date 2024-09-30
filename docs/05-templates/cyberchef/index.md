@@ -44,7 +44,7 @@ CyberChef, also known as the Cyber Swiss Army Knife, is a versatile web app desi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cyberchef
-App Service Image | - | yes | mpepping/cyberchef:v10.18.6
+App Service Image | - | yes | mpepping/cyberchef:v10.9.0
 
 ## Screenshots
 
@@ -53,7 +53,9 @@ App Service Image | - | yes | mpepping/cyberchef:v10.18.6
 ## Change Log
 
 - 2023-2-9 – first release
+- 2024-09-30 – Version changed to v10.9.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

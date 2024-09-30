@@ -43,7 +43,7 @@ Commento is a comments widget designed to enhance the interaction on your websit
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | commento
-App Service Image | - | yes | registry.gitlab.com/commento/commento
+App Service Image | - | yes | registry.gitlab.com/commento/commento:v1.8.0
 Database Service Name | - | yes | commento-db
 
 ## Screenshots
@@ -54,8 +54,10 @@ Database Service Name | - | yes | commento-db
 ## Change Log
 
 - 2022-12-13 – first release
+- 2024-09-30 – Version changed to v1.8.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
 - [Derock](https://github.com/ItzDerock)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

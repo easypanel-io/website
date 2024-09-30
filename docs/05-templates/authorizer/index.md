@@ -43,7 +43,7 @@ Authorizer is a powerful tool designed to simplify the process of user authentic
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | authorizer
-App Service Image | - | yes | lakhansamani/authorizer:1.4.3
+App Service Image | - | yes | lakhansamani/authorizer:1.4.4
 Database Service Name | - | yes | authorizer-db
 Redis Service Name | - | yes | authorizer-redis
 
@@ -56,8 +56,10 @@ Redis Service Name | - | yes | authorizer-redis
 - 2023-01-25 – first release
 - 2023-03-14 – Update to v1.1.41
 - 2024-03-10 – Version bumped to 1.3.8
+- 2024-09-28 – Update to 1.4.4
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

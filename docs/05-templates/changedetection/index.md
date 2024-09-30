@@ -41,7 +41,7 @@ Changedetection.io is an intelligent tool designed to monitor changes on website
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | changedetection
-App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.45.23
+App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.46.04
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.45.23
 ## Change Log
 
 - 2022-08-15 – first release
+- 2024-09-30 – Version changed to 0.46.04
 
 ## Contributors
 
@@ -57,3 +58,4 @@ App Service Image | - | yes | ghcr.io/dgtlmoon/changedetection.io:0.45.23
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

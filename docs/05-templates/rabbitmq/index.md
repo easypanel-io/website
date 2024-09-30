@@ -44,8 +44,8 @@ Default user/pass is guest/guest (if you use the -management version of the imag
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | rabbitmq:3.12.14
-App Service Image | - | no | 
+App Service Name | - | yes | 
+App Service Image | - | no | rabbitmq:3.13.7
 Enable RabbitMQ Management UI Plugin (modifies image) | - | no | 
 Default User Name | - | no | 
 Default User Password | - | no | 
@@ -58,7 +58,9 @@ RAM Memory Limit (recommended) | - | yes | 512MB
 ## Change Log
 
 - 2022-11-08 – first release
+- 2024-09-24 – second release
 
 ## Contributors
 
 - [Rubén Robles](https://github.com/D8vjork)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
