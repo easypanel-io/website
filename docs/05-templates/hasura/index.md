@@ -42,7 +42,7 @@ Hasura is a powerful Data API Platform that automates the process of building, s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hasura
-App Service Image | - | yes | hasura/graphql-engine:v2.36.4
+App Service Image | - | yes | hasura/graphql-engine:v2.8.4
 Database Service Name | - | yes | hasura-db
 Hasura Admin Secret Key | - | yes | mysecretkey
 Console Enable | - | yes | true

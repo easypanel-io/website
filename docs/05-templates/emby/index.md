@@ -41,7 +41,7 @@ Emby is a personal media server that brings all of your home videos, music, and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emby
-App Service Image | - | yes | lscr.io/linuxserver/emby:4.8.7
+App Service Image | - | yes | lscr.io/linuxserver/emby:4.8.10
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | lscr.io/linuxserver/emby:4.8.7
 
 - 2022-11-21 – first release
 - 2023-2-24 – Upgrade to v4.7.11
+- 2024-10-04 – Update to 4.8.10
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

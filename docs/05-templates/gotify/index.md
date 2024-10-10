@@ -40,7 +40,7 @@ Gotify is a simple, self-hosted server for sending and receiving messages. It is
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotify
-App Service Image | - | yes | gotify/server:2.4.0
+App Service Image | - | yes | gotify/server:2.5.0
 Password | - | yes | 
 Timezone | - | no | Europe/London
 

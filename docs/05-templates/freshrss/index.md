@@ -40,7 +40,7 @@ FreshRSS is a free, self-hostable aggregator for RSS feeds. It allows you to gat
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | freshrss
-App Service Image | - | yes | lscr.io/linuxserver/freshrss:latest
+App Service Image | - | yes | lscr.io/linuxserver/freshrss:1.24.3
 
 ## Screenshots
 

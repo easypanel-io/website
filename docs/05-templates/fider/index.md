@@ -48,7 +48,7 @@ Fider REQUIRES email in order for installation to work!
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fider
-App Service Image | - | yes | getfider/fider:main
+App Service Image | - | yes | getfider/fider:SHA_8d3bb292ffbceebbbde92ac620f5986dae636412
 Database Service Name | - | yes | fider-db
 No Reply Email | - | yes | 
 Email Host | - | yes | 

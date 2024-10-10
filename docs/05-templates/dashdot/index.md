@@ -39,7 +39,7 @@ Dash. (or dashdot) is a visually stunning, modern server dashboard designed with
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dashdot
-App Service Image | - | yes | mauricenino/dashdot:5.8.3
+App Service Image | - | yes | mauricenino/dashdot:5.8.6
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | mauricenino/dashdot:5.8.3
 ## Change Log
 
 - 2023-3-29 – first release
+- 2024-10-02 – Version changed to 5.8.6
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

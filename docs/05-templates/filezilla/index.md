@@ -42,7 +42,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filezilla
-App Service Image | - | yes | lscr.io/linuxserver/filezilla:latest
+App Service Image | - | yes | lscr.io/linuxserver/filezilla:3.67.0
 
 ## Screenshots
 

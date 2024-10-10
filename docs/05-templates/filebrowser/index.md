@@ -42,7 +42,7 @@ Default credentials: User:&quot;admin&quot; Password:&quot;admin&quot;
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filebrowser
-App Service Image | - | yes | filebrowser/filebrowser:v2-s6
+App Service Image | - | yes | filebrowser/filebrowser:v2.31.2
 
 ## Screenshots
 

@@ -47,6 +47,7 @@ DocuSeal is an open source platform that provides secure and efficient digital d
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | docuseal
+App Service Image | - | yes | docuseal/docuseal:1.7.4
 Database Service Name | - | yes | docuseal-db
 
 ## Screenshots
@@ -56,7 +57,9 @@ Database Service Name | - | yes | docuseal-db
 ## Change Log
 
 - 2024-2-15 – first release
+- 2024-09-30 – Version Changed to 1.7.4
 
 ## Contributors
 
 - [VinumWeb](https://github.com/vinumweb)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

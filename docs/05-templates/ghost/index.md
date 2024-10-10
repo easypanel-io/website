@@ -42,7 +42,7 @@ Ghost is a robust application designed for new-media creators looking to turn th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.82.12-alpine
+App Service Image | - | yes | ghost:5.96.0-alpine
 Database Service Name | - | yes | ghost-db
 
 ## Screenshots

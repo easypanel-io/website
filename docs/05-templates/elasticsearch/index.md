@@ -41,7 +41,7 @@ Elasticsearch is a dynamic search and analytics engine designed for seamless han
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | elasticsearch
-App Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:8.12.0
+App Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:8.15.2
 Password | - | yes | 
 
 ## Screenshots
@@ -50,7 +50,9 @@ Password | - | yes |
 ## Change Log
 
 - 2024-01-24 – first release
+- 2024-10-04 – Update to 8.15.2
 
 ## Contributors
 
 - [Serban Alexandru](https://github.com/serban-alexandru)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
