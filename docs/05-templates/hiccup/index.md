@@ -44,7 +44,7 @@ Hiccup is a static start page application designed to help you access your most 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hiccup
-App Service Image | - | yes | bleckbeard/hiccup:v0.4.3
+App Service Image | - | yes | bleckbeard/hiccup:v0.5.0
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | bleckbeard/hiccup:v0.4.3
 ## Change Log
 
 - 2023-3-21 – first release
+- 2024-10-11 – Version Changed to v0.5.0
 
 ## Contributors
 

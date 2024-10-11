@@ -46,7 +46,7 @@ Visit the website to complete installation.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | invoiceshelf
-App Service Image | - | yes | invoiceshelf/invoiceshelf:1.2.2
+App Service Image | - | yes | invoiceshelf/invoiceshelf:2.0.0
 Database Service Name | - | yes | db
 Database Service Image | - | yes | mariadb:11
 
@@ -56,7 +56,9 @@ Database Service Image | - | yes | mariadb:11
 ## Change Log
 
 - 2024-03-23 – Template added
+- 2024-10-11 – Version Changed to 2.0.0
 
 ## Contributors
 
 - [Mark Topper Diderichsen](https://github.com/marktopper)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

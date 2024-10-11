@@ -660,6 +660,12 @@
     "description": "Overseerr is a powerful application designed to streamline the process of managing your media library. It offers full Plex integration, allowing you to log in and manage user access with Plex, and syncs with your Plex library to show what titles you already have. The app also integrates with Sonarr and Radarr, with plans for more services in the future. Overseerr features an easy-to-use request system, letting users request individual seasons or movies through a clean, user-friendly interface. The app also boasts a simple request management UI, making it easy to approve recent requests without having to navigate through the app. It also offers a granular permission system and localization into other languages. The mobile-friendly design ensures you can approve requests on the go. Jellyseerr, a fork of Overseerr, extends these features to Jellyfin and Emby media servers, offering full integration with these platforms. It also supports movies, shows, mixed libraries, and allows for easy integration with your existing services. Jellyseerr also offers a customizable request system, a simple request management UI, a granular permission system, and support for various notification agents."
   },
   {
+    "slug": "jenkins",
+    "logo": null,
+    "name": "Jenkins",
+    "description": "Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat."
+  },
+  {
     "slug": "jirafeau",
     "logo": "logo.svg",
     "name": "Jirafeau",
@@ -1546,6 +1552,12 @@
     "logo": null,
     "name": "Whiteboard",
     "description": "Whiteboard is a lightweight, NodeJS-based collaborative sketchboard that can be easily customized to your needs. It allows multiple users to draw and write together in real-time, with each user's cursor visible to others. The app provides a range of features including the ability to undo and redo actions, drag and drop or copy and paste images or PDFs, resize, move, rotate and draw images, write text and sticky notes, and save the whiteboard to an image or JSON. You can also draw angle lines and squares by pressing 'Shift' while drawing. The app is compatible with PC, tablet, and mobile devices, and can be used in various projects such as WebRTC conference tools and online collaboration learning activities."
+  },
+  {
+    "slug": "whoogle",
+    "logo": "logo.png",
+    "name": "Whoogle",
+    "description": "Whoogle is an open-source, privacy-focused search engine that serves as a proxy for Google Search. It allows users to access Google’s powerful search capabilities without being tracked, monitored, or bombarded with ads. Whoogle removes trackers, logs, and ads, ensuring that search queries and browsing activities remain private and anonymous. Users benefit from Google's accurate and comprehensive search results, while maintaining full control over their personal data. Its lightweight design makes it easy to deploy and use, often preferred by those seeking to balance search efficiency with enhanced privacy."
   },
   {
     "slug": "wikijs",

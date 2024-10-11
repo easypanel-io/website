@@ -39,7 +39,7 @@ Home Assistant is an open-source home automation app that prioritizes local cont
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homeassistant
-App Service Image | - | yes | lscr.io/linuxserver/homeassistant:latest
+App Service Image | - | yes | lscr.io/linuxserver/homeassistant:2024.10.1
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | lscr.io/linuxserver/homeassistant:latest
 ## Change Log
 
 - 2022-11-21 – first release
+- 2024-10-11 – Version Updated to 2024.10.1
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)
