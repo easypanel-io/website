@@ -40,7 +40,7 @@ Mattermost is a secure collaboration platform designed to enhance the efficiency
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mattermost
-App Service Image | - | yes | mattermost/mattermost-team-edition:9.8
+App Service Image | - | yes | mattermost/mattermost-team-edition:10.0
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots
@@ -53,6 +53,7 @@ Database Service Name | - | yes | mattermost-db
 - 2022-10-12 – ablity to define custom docker image version
 - 2022-11-29 – Update mattermost to 7.5.1
 - 2023-1-26 – Update mattermost to 7.7
+- 2024-10-19 – Update mattermost to 10.0
 
 ## Contributors
 
@@ -60,3 +61,4 @@ Database Service Name | - | yes | mattermost-db
 - [Andrei Canta](https://github.com/deiucanta)
 - [Peter Fodor](https://github.com/fodurrr)
 - [Supernova3339](https://github.com/supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

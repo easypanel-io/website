@@ -15,6 +15,10 @@ description: How to install Joplin on Easypanel? 1-Click installation template f
 
 Joplin is an open-source note-taking application that allows you to capture your thoughts and access them securely from any device. It supports multimedia notes, including images, videos, PDFs, and audio files, and even allows the creation of math expressions and diagrams. With Joplin Cloud, you can share your notes and collaborate with others. The app also features a web clipper extension for saving web pages or screenshots as notes. Joplin can be customized with plugins, themes, and multiple text editors, and it synchronizes with various services, including Joplin Cloud, Dropbox, and OneDrive. All notes are saved in an open format and secured with end-to-end encryption.
 
+## Instructions
+
+Default login email: admin@localhost, password: admin
+
 ## Benefits
 
 - Multimedia Notes: Joplin supports images, videos, PDFs, and audio files. You can create math expressions and diagrams directly from the app, and take photos with the mobile app to save them to a note.
@@ -47,7 +51,7 @@ Joplin is an open-source note-taking application that allows you to capture your
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | joplin
-App Service Image | - | yes | joplin/server:2.14.2-beta
+App Service Image | - | yes | joplin/server:3.0.1-beta
 Database Service Name | - | yes | joplin-db
 
 ## Screenshots
@@ -57,6 +61,7 @@ Database Service Name | - | yes | joplin-db
 ## Change Log
 
 - 2023-03-16 – First Release
+- 2024-10-11 – Second Release version updated to 3.0.1-beta
 
 ## Contributors
 

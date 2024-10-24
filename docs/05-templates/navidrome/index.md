@@ -41,7 +41,7 @@ Welcome to Navidrome, your personal streaming service! This open-source software
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | navidrome
-App Service Image | - | yes | deluan/navidrome:0.49.3
+App Service Image | - | yes | deluan/navidrome:0.53.3
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | deluan/navidrome:0.49.3
 ## Change Log
 
 - 2023-3-33 – first release
+- 2024-10-19 – Update to 0.53.3
 
 ## Contributors
 

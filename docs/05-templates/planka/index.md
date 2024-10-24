@@ -45,8 +45,12 @@ Login with demo@demo.demo:demo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | planka
-App Service Image | - | yes | ghcr.io/plankanban/planka:1.17.4
+App Service Image | - | yes | lscr.io/linuxserver/planka:1.23.2
 Database Service Name | - | yes | planka-db
+Admin Username | - | yes | admin
+Admin Password | - | yes | 
+Admin Email | - | yes | admin@example.com
+Admin Name | - | yes | Admin
 
 ## Screenshots
 
@@ -56,7 +60,9 @@ Database Service Name | - | yes | planka-db
 ## Change Log
 
 - 2023-3-21 – first release
+- 2024-10-17 – Fixed Planka Template
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

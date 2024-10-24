@@ -52,7 +52,9 @@ App Service Image | - | yes | lscr.io/linuxserver/mstream:5.12.2
 ## Change Log
 
 - 2023-3-20 – first release
+- 2024-10-19 – Update to 5.12.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

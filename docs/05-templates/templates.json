@@ -661,7 +661,7 @@
   },
   {
     "slug": "jenkins",
-    "logo": null,
+    "logo": "logo.png",
     "name": "Jenkins",
     "description": "Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat."
   },
@@ -850,6 +850,12 @@
     "logo": "logo.svg",
     "name": "Mautic",
     "description": "Mautic is a powerful marketing automation platform designed to revolutionize the way businesses engage with their audience. Offering a comprehensive suite of features, Mautic enables marketers to automate and optimize their marketing strategies. The platform excels in open-source flexibility, allowing users to customize and extend its capabilities according to their unique needs. With a focus on lead tracking and nurturing, Mautic provides valuable insights into user behavior, enabling personalized and targeted campaigns for effective customer acquisition and retention. Its multi-channel marketing support ensures seamless engagement across various platforms, from email campaigns to social media interactions. Mautic's robust campaign management tools, email marketing module, analytics, and reporting features contribute to a data-driven approach, empowering marketers to refine their strategies and achieve optimal return on investment. Integration capabilities further enhance its functionality, ensuring a connected marketing ecosystem. Whether you're a marketing professional or a business owner, Mautic serves as a centralized solution to elevate and streamline your marketing efforts, fostering innovation and success."
+  },
+  {
+    "slug": "mautic5",
+    "logo": "logo.png",
+    "name": "Mautic 5",
+    "description": "Mautic 5 is an open-source, comprehensive marketing automation platform that empowers businesses to manage and optimize customer engagement strategies. It enables marketers to streamline their workflows by automating marketing tasks such as email campaigns, SMS messaging, social media outreach, and lead generation. Mautic 5 offers detailed analytics, campaign tracking, and personalized communication, ensuring an efficient marketing strategy for businesses of all sizes. With its intuitive interface and powerful features, Mautic 5 helps businesses maximize customer engagement while reducing manual effort."
   },
   {
     "slug": "mcaptcha",
@@ -1186,6 +1192,12 @@
     "logo": "logo.png",
     "name": "PowerDNS-Admin",
     "description": "PowerDNS-Admin is a comprehensive web interface for PowerDNS with a plethora of advanced features. It offers forward and reverse zone management, zone templating, and user management with role-based access control. The app also provides zone-specific access control and activity logging. It supports various authentication methods including Local User, SAML, LDAP, and OAuth with Google, GitHub, Azure, and OpenID. It also supports two-factor authentication (TOTP). PowerDNS-Admin is equipped with PDNS Service Configuration & Statistics Monitoring and supports the DynDNS 2 protocol. It makes IPv6 PTR record editing easy and provides an API for zone and record management. The app also fully supports IDN/Punycode. PowerDNS-Admin can be run in several ways, with Docker being the quickest."
+  },
+  {
+    "slug": "promethus",
+    "logo": "logo.png",
+    "name": "Prometheus",
+    "description": "Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. It collects metrics from configured targets at specified intervals, evaluates rule expressions, and triggers alerts when specified conditions are observed. Prometheus stores all data as time-series, making it ideal for monitoring application and system performance over time. Its powerful query language, PromQL, allows for real-time data analysis, and its flexible integrations support various exporters and service discovery mechanisms. Prometheus can also integrate with alerting tools like Alertmanager to send notifications via email, Slack, or other channels. With native support for Docker, Kubernetes, and other container platforms, Prometheus provides deep visibility into modern infrastructure and services."
   },
   {
     "slug": "prowlarr",
@@ -1594,6 +1606,12 @@
     "logo": "logo.png",
     "name": "YAO",
     "description": "YAO is a powerful open-source app engine designed to create web services and applications in a matter of minutes. It is versatile and suitable for a variety of use-cases including AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, and Finance. With YAO, you can create a database model, write an interface, and describe the interface using JSON, making it a truly codeless programming experience. It supports running on ARM devices and can be used in IoT, edge computing, and industrial internet. YAO also offers easy-to-use Business Intelligence components and functions, empowering businesses with more possibilities. It has many built-in processes and supports data processing in any form through data flow. The app also features a plug-in mechanism based on GRPC for function expansion using Nodejs, Python, and other languages. YAO also provides a built-in query engine and offers enterprise-level security with permission classification, separation of administrator and employee accounts, and API level permission control."
+  },
+  {
+    "slug": "yourls",
+    "logo": "logo.png",
+    "name": "YOURLS",
+    "description": "YOURLS (Your Own URL Shortener) is a powerful, self-hosted service designed for creating and managing short URLs. It provides a clean and simple interface, supports plugins for extended functionality, and offers detailed link tracking analytics. With YOURLS, you can maintain control over your short links and branding. The application is accessible via your host on ports 8080 and 8081. This container is based on Docker Baseimage KasmVNC, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
   },
   {
     "slug": "zipline",

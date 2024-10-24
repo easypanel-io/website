@@ -15,6 +15,10 @@ description: How to install Kanboard on Easypanel? 1-Click installation template
 
 Kanboard is a free and open-source project management software that utilizes the Kanban methodology. It provides a visual and clear overview of your tasks, allowing you to easily manage your projects by dragging and dropping tasks between columns. The app is designed with simplicity and minimalism in mind, limiting the number of features to maintain focus on your work. It also includes a search and filter function, enabling you to quickly find tasks using a simple query language. Tasks can be broken down into sub-tasks, with the ability to add comments, documents, and change various aspects such as color, category, assignee, and due date. Kanboard also offers automated actions to streamline your workflow, eliminating the need for repetitive manual tasks. It supports multiple authentication backends and is translated in over 30 languages.
 
+## Instructions
+
+Default login username: admin, password: admin
+
 ## Benefits
 
 - Visualize Your Work: Kanboard allows you to visualize your work in a clear and concise manner. It helps you to limit your work in progress and focus on your goal. The Kanban board provides a visual and clear overview of your tasks, making it easy to understand the current status of a project.
@@ -41,7 +45,7 @@ Kanboard is a free and open-source project management software that utilizes the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kanboard
-App Service Image | - | yes | kanboard/kanboard:v1.2.36
+App Service Image | - | yes | kanboard/kanboard:v1.2.40
 
 ## Screenshots
 

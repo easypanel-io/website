@@ -39,7 +39,7 @@ MailHog is an intuitive email testing tool designed for developers. It allows yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mailhog
-App Service Image | - | yes | mailhog/mailhog:latest
+App Service Image | - | yes | mailhog/mailhog:v1.0.1
 
 ## Screenshots
 
