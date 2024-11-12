@@ -41,8 +41,8 @@ This will open the file in the nano text editor. If you prefer to use a differen
 ```
 tls:
   certificates:
-    - certFile: /etc/easypanel/traefik/certs/**examplecert**.crt
-      keyFile: /etc/easypanel/traefik/certs/**examplecert**.key
+    - certFile: /data/certs/**examplecert**.crt
+      keyFile: /data/certs/**examplecert**.key
 ```
 
 ## Step 4 - Restarting Traefik
