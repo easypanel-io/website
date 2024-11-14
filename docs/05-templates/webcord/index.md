@@ -42,7 +42,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | webcord
-App Service Image | - | yes | lscr.io/linuxserver/webcord:latest
+App Service Image | - | yes | lscr.io/linuxserver/webcord:4.10.2
 
 ## Screenshots
 

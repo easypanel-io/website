@@ -40,7 +40,7 @@ Tandoor is an online recipe management app designed to help you manage and grow 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tandoor
-App Service Image | - | yes | vabene1111/recipes:1.5.17
+App Service Image | - | yes | vabene1111/recipes:1.5.20
 Database Service Name | - | yes | tandoor-db
 
 ## Screenshots

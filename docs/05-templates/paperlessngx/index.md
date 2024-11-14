@@ -45,7 +45,7 @@ Please use the following credentials to login. admin|password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | paperlessngx
-App Service Image | - | yes | paperlessngx/paperless-ngx:2.8.6
+App Service Image | - | yes | paperlessngx/paperless-ngx:2.11.6
 Redis Service Name | - | yes | paperlessngx-redis
 
 ## Screenshots

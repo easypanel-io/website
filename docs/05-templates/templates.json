@@ -234,6 +234,12 @@
     "description": "Corteza is a powerful, open-source low-code platform designed to streamline the process of app development, business process integration, and data harmonization. Built with a backend in Golang and a front end in Vue.js, Corteza allows you to easily build native web apps and expand your software ecosystem with complete control and flexibility. You can connect with any record data source, control everything you build, transform your data into a standardized JSON format, and build unlimited web applications and process workflows using block-based tools and Javascript automations. Corteza is cloud-native and deploys via Docker containers, providing a seamless and efficient app development experience. It is 100% free and open-source, ensuring that it will always be accessible to all."
   },
   {
+    "slug": "countly",
+    "logo": "logo.png",
+    "name": "Countly",
+    "description": "Countly is an innovative, open-source analytics and engagement platform designed to help you understand and optimize customer journeys in web, mobile, and desktop applications. Built with a flexible architecture, Countly supports multiple integrations and can be deployed on-premises or in the cloud. This platform enables developers and product managers to gain real-time insights into user behavior, track important metrics, and enhance product experiences through push notifications, A/B testing, and other engagement features. Countly is cloud-native, deploys via Docker containers, and provides data control, security, and a streamlined experience for building and monitoring user engagement. Countly is 100% free and open-source, ensuring it is accessible to everyone."
+  },
+  {
     "slug": "cronicle",
     "logo": "logo.png",
     "name": "Cronicle",
@@ -552,6 +558,12 @@
     "description": "Gray Duck Mail is a user-friendly email discussion list application that offers an alternative to traditional email discussion group software. It is designed to be simple to set up and manage, making the process of running an email discussion list effortless. Gray Duck Mail is perfect for managing mailing lists between small to medium size groups, such as neighborhoods, schools, workplaces, and families. With Gray Duck Mail, you can send one email and automatically keep everyone in the loop. The application monitors a remote mail server for messages and processes them by relaying the message to all list members. It also automatically handles user subscriptions, unsubscription requests, and email bounces. Gray Duck Mail works with any external email host that allows for POP3/SMTP connections and message forwarding or aliasing. It relies totally on an external mail provider, allowing you to use an existing web host or email account."
   },
   {
+    "slug": "grist",
+    "logo": "logo.png",
+    "name": "Grist",
+    "description": "Grist is an open-source, customizable data management platform that combines the power of a spreadsheet with the structure of a database. Designed for teams and individuals who need to organize, analyze, and share information, Grist offers a flexible and collaborative environment for data management. It supports relational data linking, allowing users to create complex, connected data tables, and provides tools for custom views, formulas, and dashboards. Grist’s user-friendly interface empowers users to build powerful applications without requiring extensive coding knowledge."
+  },
+  {
     "slug": "hammond",
     "logo": "logo.png",
     "name": "Hammond",
@@ -630,6 +642,12 @@
     "description": "imgproxy is a powerful app designed to optimize images for web use, making websites and apps run faster while saving storage and SaaS costs. It works by resizing and processing images on the fly, eliminating the need for disk space and reducing the cost of conforming all saved images to specific formats. imgproxy offers a wide range of features for editing images, including resizing, cropping, contrast adjustment, pixelization, saturation, rotating, and more. It also provides security features to protect against common attack vectors in image processing. With imgproxy, you can upload images directly to the cloud or your cluster and request images by specifying parameters in the request URL. The app uses the world’s fastest image processing library, libvips, ensuring quick processing and a small memory footprint. imgproxy Pro plans offer advanced features and vary by capacity and types of support."
   },
   {
+    "slug": "influxdb",
+    "logo": "logo.png",
+    "name": "InfluxDB",
+    "description": "InfluxDB is a time-series database designed to handle high write and query loads commonly required for real-time analytics. It’s optimized for storing timestamped data, making it ideal for monitoring metrics, tracking events, and handling sensor data. With its efficient storage engine, InfluxDB offers built-in support for data compression and compaction, allowing for efficient data retention and storage. This database supports SQL-like queries through InfluxQL, integrates seamlessly with popular data visualization tools like Grafana, and can handle data from IoT devices, DevOps monitoring, finance, and more."
+  },
+  {
     "slug": "invoiceshelf",
     "logo": "logo.png",
     "name": "InvoiceShelf",
@@ -700,6 +718,12 @@
     "logo": "logo.png",
     "name": "Keycloak",
     "description": "Keycloak is an open-source Identity and Access Management tool that adds authentication to applications and secures services with minimal effort. It eliminates the need for storing or authenticating users, providing user federation, robust authentication, user management, and fine-grained authorization. Keycloak offers a Single-Sign On feature, allowing users to authenticate with Keycloak rather than individual applications, ensuring a seamless login experience across multiple applications. It also supports social login and can authenticate users with existing OpenID Connect or SAML 2.0 Identity Providers. Keycloak has built-in support to connect to existing LDAP or Active Directory servers and provides a centralized admin console for managing all aspects of the server. It also offers an account management console for users to manage their own accounts. Based on standard protocols, Keycloak supports OpenID Connect, OAuth 2.0, and SAML, and provides fine-grained authorization services for advanced permission management."
+  },
+  {
+    "slug": "kimai",
+    "logo": "logo.png",
+    "name": "Kimai",
+    "description": "Kimai is an open-source time-tracking solution designed for freelancers, small businesses, and enterprises to manage time-tracking needs efficiently. It enables users to track work hours, manage projects, and create accurate reports and invoices based on time entries. With a focus on simplicity and flexibility, Kimai is ideal for organizations looking to improve productivity, manage employee timesheets, and handle client billing without the complexity of traditional ERP systems. Kimai offers a modular architecture, allowing for easy customization to meet unique requirements, and it supports multi-user environments with permissions to manage data access."
   },
   {
     "slug": "komga",
@@ -1104,6 +1128,12 @@
     "description": "PeerTube is a revolutionary video sharing tool developed by Framasoft, a French non-profit organization. It offers an alternative to mainstream video platforms, allowing you to establish your own video platform with complete independence. Unlike other platforms, PeerTube doesn't rely on opaque algorithms or obscure moderation policies. The platforms you visit are built, managed, and moderated by their owners. PeerTube also enables platforms to connect with each other, forming a large network of autonomous yet interconnected platforms. Importantly, PeerTube doesn't depend on advertising and doesn't track your activities. It hosts a wide variety of content, with over 600,000 videos across 1,000 platforms in the PeerTube network. PeerTube is free, open-source, and created for non-commercial purposes, ensuring that you are treated as a person, not a product. It is a tool that truly belongs to you and respects your fundamental freedoms as a user."
   },
   {
+    "slug": "penpot",
+    "logo": "logo.png",
+    "name": "Penpot",
+    "description": "Penpot is an open-source, design and prototyping platform that empowers teams to collaborate and bring creative ideas to life. Unlike other design tools, Penpot is entirely web-based and runs on open standards, allowing teams to access it from anywhere and on any platform. Trusted by designers and developers worldwide, Penpot is known for its flexibility and integration within diverse workflows. It offers real-time collaboration, making it easy for team members to co-create, review, and provide feedback instantly. The app supports complex design requirements, from vector editing to responsive design, and prioritizes user control over projects with extensive customization options. Penpot is built by a team dedicated to privacy and security, with a strong commitment to open-source principles. It ensures that designers and developers alike have the freedom to innovate without restrictions, providing a transparent, community-driven alternative to proprietary tools."
+  },
+  {
     "slug": "pgvector",
     "logo": null,
     "name": "pgvector",
@@ -1260,6 +1290,12 @@
     "description": "Readarr is an ebook and audiobook collection manager designed for Usenet and BitTorrent users. It monitors multiple RSS feeds for new ebooks and audiobooks and interfaces with clients and indexers to grab, sort, and rename them. Readarr also has the ability to automatically upgrade the quality of existing files in your library when a better quality format becomes available. The app features a calendar to see all your upcoming releases in one place, manual search to find all the releases and choose the ones you want, and automatic handling of failed downloads. Readarr ensures you get the right release every time with its custom formats feature, which allows fine control over release prioritization and selection. It also supports major platforms like Windows, Linux, macOS, and others."
   },
   {
+    "slug": "redmine",
+    "logo": "logo.png",
+    "name": "Redmine",
+    "description": "Redmine is an open-source project management and issue-tracking tool. It provides a flexible framework for managing multiple projects and teams, offering features such as Gantt charts, calendar views, and time tracking to keep your projects organized. Redmine supports multiple databases and can be extended through plugins for additional functionality, making it a highly customizable solution for managing tasks, bugs, and collaboration among teams. The tool also includes role-based access control, allowing administrators to assign different permissions to users based on their responsibilities. Redmine integrates with version control systems like Git, Subversion, and Mercurial, enabling developers to track code changes directly from the platform. It supports major platforms including Windows, Linux, and macOS, and can be accessed via a web browser."
+  },
+  {
     "slug": "remmina",
     "logo": "logo.png",
     "name": "Remmina",
@@ -1350,6 +1386,12 @@
     "description": "Soketi Serverless is an open-source WebSockets server that offers a cost-effective, fast, and resilient solution for real-time deployment to Cloudflare. It is designed to be cheaper than any competitor, as you only pay for your infrastructure. It guarantees core message delivery in less than 100ms, thanks to its construction on top of C and porting to Node.js. Soketi is compatible with Pusher Protocol v7, meaning you can connect to the server without needing to replace your existing code. It is ready for production and can scale to hundreds of servers with Redis or NATS without losing performance. Soketi also offers built-in app management, allowing you to define your own app credentials and read from any database. Additionally, it features HTTP Webhooks that trigger HTTP requests whenever a channel gets occupied. Soketi can be deployed to Cloudflare Workers, bringing it closer to your users worldwide. It is also compatible with most popular databases, like MySQL or DynamoDB."
   },
   {
+    "slug": "sonarqube",
+    "logo": "logo.png",
+    "name": "SonarQube Community",
+    "description": "SonarQube Community is an open-source platform for continuous inspection of code quality, designed to detect bugs, vulnerabilities, and code smells across multiple programming languages. It integrates with various CI/CD pipelines, providing valuable insights into code health and maintainability. SonarQube helps teams ensure that their code meets quality standards and aligns with security requirements, promoting efficient software development practices. The Community version is feature-rich and free to use, making it an ideal choice for developers and organizations focused on improving code quality without incurring costs."
+  },
+  {
     "slug": "sonarr",
     "logo": "logo.png",
     "name": "Sonarr",
@@ -1366,6 +1408,12 @@
     "logo": "logo.png",
     "name": "Statping-ng",
     "description": "Statping is a web and app status monitoring tool designed for any type of project. It automatically fetches your application and generates a beautiful, feature-rich status page. This status page generator supports MySQL, Postgres, or SQLite on multiple operating systems, ensuring future-proof and resilient monitoring. If your server crashes, your Statping service will remain online to notify your users of downtime. Lightweight and fast, Statping is available for Linux, Mac, and Windows, and even on a Raspberry Pi. The mobile app, available on the App Store and Google Play, allows you to view services, receive notifications when a service is offline, and manage groups, users, services, and messages. Statping can run on any server, from Docker to AWS EC2, and offers custom SASS styling for complete customization of your status page. It includes email notification via SMTP and Slack integration, and allows you to create your own plugins to interact with every element of your status page. With its easy-to-use dashboard, you can monitor your websites and applications with a basic HTTP GET request or a POST request with your own JSON."
+  },
+  {
+    "slug": "stirlingpdf",
+    "logo": "logo.png",
+    "name": "StirlingPDF",
+    "description": "StirlingPDF is an open-source PDF management tool designed to streamline PDF handling tasks for both individual users and businesses. It enables users to create, merge, split, compress, and convert PDF documents with ease. Built to support a wide range of platforms, including Linux, Windows, and macOS, StirlingPDF ensures flexibility and resilience for everyday PDF management. Its user-friendly interface and powerful backend make it suitable for both simple and complex PDF workflows. StirlingPDF can run on personal computers or be deployed on servers, offering seamless API access for integration into larger systems. Lightweight and efficient, StirlingPDF is ideal for individual users, small businesses, and large enterprises alike, ensuring reliable PDF manipulation without the need for costly subscriptions. It supports MySQL, PostgreSQL, or SQLite databases, providing robust data handling across various infrastructures."
   },
   {
     "slug": "strapi",
@@ -1524,6 +1572,12 @@
     "description": "Wakapi is a powerful open-source tool designed to help you track and analyze your coding time. It allows you to monitor the time you've spent coding on various projects, in different programming languages, and more. It's perfect for those who love statistics and want to gain insights into their coding habits. Wakapi provides fancy statistics and plots, public leaderboards, cool badges for readmes, and weekly email reports. It's built by developers for developers, ensuring it meets your needs perfectly. With Wakapi, you can easily keep track of your coding time and improve your productivity."
   },
   {
+    "slug": "wbo",
+    "logo": "logo.png",
+    "name": "WBO",
+    "description": "WBO (Whiteboard Online) is an open-source, self-hosted, collaborative whiteboard tool that allows users to draw, brainstorm, and share ideas in real-time. It provides a flexible and accessible platform for teams, classrooms, or personal use, enabling simultaneous collaboration on a shared digital canvas. WBO offers tools for free-hand drawing, adding shapes, text, and images, making it ideal for team brainstorming sessions, remote meetings, and educational activities. With a clean and intuitive interface, WBO enhances remote collaboration and facilitates interactive learning."
+  },
+  {
     "slug": "weaviate",
     "logo": "logo.svg",
     "name": "Weaviate",
@@ -1561,7 +1615,7 @@
   },
   {
     "slug": "whiteboard",
-    "logo": null,
+    "logo": "logo.png",
     "name": "Whiteboard",
     "description": "Whiteboard is a lightweight, NodeJS-based collaborative sketchboard that can be easily customized to your needs. It allows multiple users to draw and write together in real-time, with each user's cursor visible to others. The app provides a range of features including the ability to undo and redo actions, drag and drop or copy and paste images or PDFs, resize, move, rotate and draw images, write text and sticky notes, and save the whiteboard to an image or JSON. You can also draw angle lines and squares by pressing 'Shift' while drawing. The app is compatible with PC, tablet, and mobile devices, and can be used in various projects such as WebRTC conference tools and online collaboration learning activities."
   },

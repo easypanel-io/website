@@ -47,7 +47,7 @@ Viewer Service Name | - | yes | typebot-viewer
 Builder Service Name | - | yes | typebot-builder
 Builder Domain | - | yes | 
 Viewer Domain | - | yes | 
-Builder Service Image | - | yes | baptistearno/typebot-builder:2.25.2
+Builder Service Image | - | yes | baptistearno/typebot-builder:3.1.0
 Viewer Service Image | - | yes | baptistearno/typebot-viewer:2
 Storage Service Image | - | yes | bitnami/minio:2023
 Database Service Name | - | yes | typebot-db

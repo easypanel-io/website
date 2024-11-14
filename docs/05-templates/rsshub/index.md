@@ -39,7 +39,7 @@ RSSHub is an open-source, user-friendly, and extensible RSS feed generator. It i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rsshub
-App Service Image | - | yes | diygod/rsshub:latest
+App Service Image | - | yes | diygod/rsshub:2024-11-01
 
 ## Screenshots
 

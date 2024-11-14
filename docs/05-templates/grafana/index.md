@@ -60,5 +60,4 @@ App Service Image | - | yes | grafana/grafana-oss:11.2.2
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
-- [Ahson Shaikh](undefined)
-- [undefined](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)

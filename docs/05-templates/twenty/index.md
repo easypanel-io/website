@@ -15,6 +15,10 @@ description: How to install Twenty on Easypanel? 1-Click installation template f
 
 Twenty is an open-source CRM platform designed to offer full customization and control over your customer relationship management. It provides the flexibility to self-host, avoiding vendor lock-in and offering cost-effective solutions.
 
+## Instructions
+
+Follow the guide for setting up modules. https://twenty.com/developers/section/self-hosting/self-hosting-var. Before hitting deploy, configure the .env as instructed in the Environment Variables section.
+
 ## Links
 
 - [Website](https://twenty.com)
@@ -39,3 +43,4 @@ Service Name | - | yes | twenty
 ## Contributors
 
 - [Serban Alexandru](https://github.com/serban-alexandru)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

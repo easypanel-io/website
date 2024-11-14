@@ -43,7 +43,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable Redis | - | no | 
 App Service Name | - | yes | searxng
-App Service Image | - | yes | searxng/searxng:latest
+App Service Image | - | yes | searxng/searxng:2024.10.29-fa4dfd4ef
 
 ## Screenshots
 

@@ -42,7 +42,7 @@ datarhei Restreamer is a powerful video streaming platform designed to provide r
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | restreamer
-App Service Image | - | yes | datarhei/restreamer:2.10.0
+App Service Image | - | yes | datarhei/restreamer:2.12.0
 
 ## Screenshots
 

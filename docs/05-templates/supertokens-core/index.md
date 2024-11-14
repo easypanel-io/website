@@ -46,7 +46,7 @@ Check environment tab for your API key
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | supertokens-core
-App Service Image | - | yes | supertokens/supertokens-postgresql:9.0.2
+App Service Image | - | yes | supertokens/supertokens-postgresql:9.3.0
 Database Service Name | - | yes | supertokens-core-db
 
 ## Screenshots

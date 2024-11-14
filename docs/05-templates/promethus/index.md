@@ -43,7 +43,7 @@ Prometheus is an open-source monitoring and alerting toolkit designed for reliab
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | prometheus
-App Service Image | - | yes | prom/prometheus:v2.53.2
+App Service Image | - | yes | prom/prometheus:v2.55.0
 
 ## Screenshots
 

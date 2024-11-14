@@ -42,7 +42,7 @@ Please use the following credentials to login. changeme@easypanel.io|changeme
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | weblate
-App Service Image | - | yes | weblate/weblate:5.5.5.1
+App Service Image | - | yes | weblate/weblate:5.8.3.0
 Database Service Name | - | yes | weblate-db
 Redis Service Name | - | yes | weblate-redis
 No Reply Email | - | yes | 

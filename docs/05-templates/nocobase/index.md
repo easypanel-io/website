@@ -46,7 +46,7 @@ The initial account and password are admin@nocobase.com and admin123.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nocobase
-App Service Image | - | yes | nocobase/nocobase:1.0.0-alpha.17
+App Service Image | - | yes | nocobase/nocobase:1.3.40-beta
 Database Service Name | - | yes | nocobase-db
 
 ## Screenshots

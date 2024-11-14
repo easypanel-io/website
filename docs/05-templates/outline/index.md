@@ -49,7 +49,7 @@ Notice, Auththenication Method is Required to use Outline. To use Other Login Me
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | outline
-App Service Image | - | yes | outlinewiki/outline:0.76.1
+App Service Image | - | yes | outlinewiki/outline:0.80.2
 Domain Url | outline.domain.com | yes | 
 Database Service Name | - | yes | outline-db
 Redis Service Name | - | yes | outline-redis

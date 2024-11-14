@@ -40,7 +40,7 @@ WeKan is an open-source, customizable, and privacy-focused Kanban app designed f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wekan
-App Service Image | - | yes | ghcr.io/wekan/wekan:latest
+App Service Image | - | yes | ghcr.io/wekan/wekan:v7.61
 App Service Name | - | yes | wekan-db
 Mail From | - | yes | Wekan Notifications
 Mail From Sender | - | yes | noreply.wekan@mydomain.com

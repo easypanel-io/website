@@ -40,7 +40,7 @@ Prowlarr is a powerful indexer manager and proxy designed to integrate with vari
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | prowlarr
-App Service Image | - | yes | linuxserver/prowlarr:1.17.2
+App Service Image | - | yes | linuxserver/prowlarr:1.25.4
 
 ## Screenshots
 

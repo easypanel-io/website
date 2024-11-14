@@ -45,7 +45,7 @@ Login with any username or password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | radicale
-App Service Image | - | yes | tomsquest/docker-radicale:3.2.0.0
+App Service Image | - | yes | tomsquest/docker-radicale:3.3.0.1
 
 ## Screenshots
 

@@ -43,7 +43,7 @@ ToolJet is an open-source low-code framework designed to help you build and depl
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tooljet
-App Service Image | - | yes | tooljet/tooljet-ce:latest
+App Service Image | - | yes | tooljet/tooljet-ce:v2.9.6
 App Service Name | - | yes | tooljet-db
 
 ## Screenshots

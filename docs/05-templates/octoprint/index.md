@@ -44,7 +44,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable MJPG Streamer | - | no | false
 App Service Name | - | yes | octoprint
-App Service Image | - | yes | octoprint/octoprint:1.10.1
+App Service Image | - | yes | octoprint/octoprint:1.10.2
 
 ## Screenshots
 

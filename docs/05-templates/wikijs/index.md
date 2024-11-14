@@ -43,7 +43,7 @@ Wiki.js is a powerful and extensible open source Wiki software designed to make 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wikijs
-App Service Image | - | yes | ghcr.io/requarks/wiki:2.5.303
+App Service Image | - | yes | ghcr.io/requarks/wiki:2.5.305
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db
 

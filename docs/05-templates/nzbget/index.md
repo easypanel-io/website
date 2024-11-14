@@ -15,6 +15,10 @@ description: How to install Nzbget on Easypanel? 1-Click installation template f
 
 NZBGet is an efficient Usenet downloader that is open source and hosted on GitHub. This powerful tool is designed to download files from Usenet based on information provided in nzb-files. Known for its performance and efficiency, NZBGet is written in C++ and can run on almost any device, including classic PCs, NAS, media players, SAT-receivers, WLAN-routers, and more. It provides precompiled binaries for Windows, macOS, Linux, FreeBSD, and Android. The app also offers features like RSS and duplicate check for automating your downloads, VideoSort for sorting downloaded video files, and various scripts for enhancing functionality. With NZBGet, you can maximize your device&#39;s performance and improve your downloading experience.
 
+## Instructions
+
+Default username=nzbget, password=tegbzn6789
+
 ## Benefits
 
 - Efficient Usenet Downloader: NZBGet is a highly efficient Usenet downloader, known for its performance and efficiency. It downloads files from Usenet based on information given in nzb-files, making it a reliable tool for accessing Usenet content.
@@ -40,7 +44,7 @@ NZBGet is an efficient Usenet downloader that is open source and hosted on GitHu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nzbget
-App Service Image | - | yes | lscr.io/linuxserver/nzbget:24.1.20240524
+App Service Image | - | yes | lscr.io/linuxserver/nzbget:version-v24.3
 Username | - | yes | nzbget
 Password | - | yes | tegbzn6789
 Timezone | - | no | Europe/London

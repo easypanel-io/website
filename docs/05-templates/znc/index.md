@@ -15,6 +15,10 @@ description: How to install ZNC on Easypanel? 1-Click installation template for 
 
 ZNC is an IRC bouncer that is designed to stay connected to IRC servers and channels, allowing you to access them at any time.
 
+## Instructions
+
+default login is admin/admin
+
 ## Benefits
 
 - Always Connected: ZNC keeps you permanently connected to your favorite IRC channels and servers, ensuring you never miss important messages.
@@ -40,7 +44,7 @@ ZNC is an IRC bouncer that is designed to stay connected to IRC servers and chan
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | znc
-App Service Image | - | yes | lscr.io/linuxserver/znc:1.9.0
+App Service Image | - | yes | lscr.io/linuxserver/znc:1.9.1
 PUID | - | yes | 1000
 PGID | - | yes | 1000
 Timezone | - | yes | Europe/London

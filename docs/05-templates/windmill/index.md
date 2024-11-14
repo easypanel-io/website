@@ -43,7 +43,8 @@ Login using admin@windmill.dev:changeme
 Name | Description | Required | Default Value
 -|-|-|-
 Domain | - | yes | 
-Service Name Prefix | - | yes | windmill
+App Service Image | - | yes | ghcr.io/windmill-labs/windmill:main
+App Service Name | - | yes | windmill
 Worker Replicas | - | yes | 1
 Native Worker Replicas | - | yes | 1
 

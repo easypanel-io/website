@@ -42,7 +42,7 @@ Odoo is a comprehensive, integrated software platform designed to streamline and
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | odoo
-App Service Image | - | yes | odoo:17.0
+App Service Image | - | yes | odoo:18.0
 Database Service Name | - | yes | odoo-db
 
 ## Screenshots

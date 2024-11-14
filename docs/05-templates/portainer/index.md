@@ -41,7 +41,7 @@ Portainer is a powerful container management platform trusted by over a million 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | portainer
-App Service Image | - | yes | portainer/portainer-ce:latest
+App Service Image | - | yes | portainer/portainer-ce:2.21.4
 
 ## Screenshots
 
