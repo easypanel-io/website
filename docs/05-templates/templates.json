@@ -84,6 +84,18 @@
     "description": "Authorizer is a powerful tool designed to simplify the process of user authentication and authorization in your applications. It allows you to build secure apps 10x faster with its low code tool and low-cost deployment. With Authorizer, you have full control over your user data, which can be stored in your preferred database. The app supports multiple authentication recipes and allows you to authorize users based on your business roles. It is compatible with OAuth2 and OpenID APIs. Authorizer also offers secure session management with the best services baked in, including HTTP only cookies and Authorization Code flow for mobile-based authentication. It supports a wide range of databases, including major SQL, NoSQL, and GraphDBs. You can customize emails, configure webhooks for various events, and add an extra layer of security with email-based OTP for basic authentication. With Authorizer, you can deploy your authentication and authorization service anywhere with multiple deployment options. It is a comprehensive solution for all your authentication and authorization needs."
   },
   {
+    "slug": "automatisch",
+    "logo": "logo.png",
+    "name": "Automatisch",
+    "description": "Automatisch is a powerful, self-hosted workflow automation tool designed for connecting your apps and automating repetitive tasks. With Automatisch, you can create workflows to sync data, send notifications, and perform various actions seamlessly across different services. This container is based on Docker Baseimage KasmVNC, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
+  },
+  {
+    "slug": "babybuddy",
+    "logo": "logo.png",
+    "name": "BabyBuddy",
+    "description": "BabyBuddy is a comprehensive, user-friendly platform designed to help parents and caregivers manage essential details about their child’s growth and development. It provides tools for tracking feedings, sleep schedules, diaper changes, and milestones, making parenting a more organized and informed journey. With BabyBuddy, you can access detailed insights into your child's habits, progress, and overall well-being. The app offers customization options to fit individual family needs and supports data export for secure backup or sharing with healthcare professionals. BabyBuddy is lightweight, easy to deploy, and designed with a focus on privacy, ensuring your family’s data is safe and accessible only to you."
+  },
+  {
     "slug": "barrage",
     "logo": "logo.png",
     "name": "Barrage",
@@ -166,6 +178,12 @@
     "logo": "logo.svg",
     "name": "Chatwoot",
     "description": "Chatwoot is a new age multi-channel customer experience platform designed for businesses of all sizes. It serves as an open-source customer engagement suite, providing an alternative to platforms like Intercom, Zendesk, and Salesforce Service Cloud. With Chatwoot, you can manage your agents' workload, track their performance through auto-updating reports, and work smarter with automations. The app allows you to perform key actions on multiple conversations at once and provides super quick responses to customer conversations, making your agents super productive. It also offers features to manage your email, Facebook, Instagram, Line, SMS, Telegram, and Twitter customer interactions directly from the platform. Additionally, Chatwoot provides detailed insights into your conversations and allows you to measure and track your CSAT score on autopilot."
+  },
+  {
+    "slug": "chevereto",
+    "logo": "logo.png",
+    "name": "Chevereto",
+    "description": "Chevereto is a powerful, self-hosted image hosting platform designed for individuals, communities, and businesses. It allows users to upload, organize, and share images effortlessly. With a clean interface and a wide range of customization options, Chevereto supports private albums, multi-language capabilities, and robust file management, making it the ultimate solution for image hosting."
   },
   {
     "slug": "chromium",
@@ -372,6 +390,12 @@
     "description": "Element is a secure communications platform designed to protect and strengthen your business critical communications. It offers real-time trusted communication across organizations, giving you the freedom to communicate on your own terms. With Element, you can control your data through its open source and flexible hosting, enabling data sovereignty. The app allows you to structure discussion spaces, customize chat rooms, and share live data through widgets and integrations to boost your productivity. It also provides instant messaging, voice/video calls, location sharing, voting polls and more. Element ensures your data is secure by default, allowing you to focus on getting your work done. You have complete independence to own and control your entire communication platform, configure networks to suit organizational requirements, and strengthen cybersecurity and business continuity plans. Element is led by the creators of Matrix, the decentralized open standard for secure and sovereign real time communication."
   },
   {
+    "slug": "elkarbackup",
+    "logo": null,
+    "name": "ElkarBackup",
+    "description": "ElkarBackup is a robust open-source backup management system designed to streamline data protection and recovery for diverse environments. With an intuitive web-based interface and extensive automation capabilities, it simplifies backup scheduling and execution. ElkarBackup supports various storage backends and ensures reliable backup operations with robust monitoring and reporting features. Whether you're managing personal data or enterprise-scale systems, ElkarBackup offers an efficient and user-friendly solution for safeguarding your critical information."
+  },
+  {
     "slug": "emby",
     "logo": "logo.png",
     "name": "Emby",
@@ -564,6 +588,12 @@
     "description": "Grist is an open-source, customizable data management platform that combines the power of a spreadsheet with the structure of a database. Designed for teams and individuals who need to organize, analyze, and share information, Grist offers a flexible and collaborative environment for data management. It supports relational data linking, allowing users to create complex, connected data tables, and provides tools for custom views, formulas, and dashboards. Grist’s user-friendly interface empowers users to build powerful applications without requiring extensive coding knowledge."
   },
   {
+    "slug": "hackmdio",
+    "logo": "logo.png",
+    "name": "HackMD",
+    "description": "HackMD is a simple and powerful note-taking app that allows you to create notes, write and organize your thoughts, and collaborate with others in real time. It's a great tool for anyone who wants to stay organized and productive while working remotely or on the go."
+  },
+  {
     "slug": "hammond",
     "logo": "logo.png",
     "name": "Hammond",
@@ -646,6 +676,12 @@
     "logo": "logo.png",
     "name": "InfluxDB",
     "description": "InfluxDB is a time-series database designed to handle high write and query loads commonly required for real-time analytics. It’s optimized for storing timestamped data, making it ideal for monitoring metrics, tracking events, and handling sensor data. With its efficient storage engine, InfluxDB offers built-in support for data compression and compaction, allowing for efficient data retention and storage. This database supports SQL-like queries through InfluxQL, integrates seamlessly with popular data visualization tools like Grafana, and can handle data from IoT devices, DevOps monitoring, finance, and more."
+  },
+  {
+    "slug": "invoiceninja",
+    "logo": "logo.png",
+    "name": "InvoiceNinja",
+    "description": "Invoice Ninja is a powerful, open-source platform for managing invoices, quotes, and payments, specifically designed for freelancers and small businesses. It allows you to automate billing, track payments, and manage expenses effortlessly. With a user-friendly interface and robust feature set, Invoice Ninja supports multi-currency, recurring billing, and various payment gateways, providing a comprehensive invoicing solution."
   },
   {
     "slug": "invoiceshelf",
@@ -882,6 +918,12 @@
     "description": "Mautic 5 is an open-source, comprehensive marketing automation platform that empowers businesses to manage and optimize customer engagement strategies. It enables marketers to streamline their workflows by automating marketing tasks such as email campaigns, SMS messaging, social media outreach, and lead generation. Mautic 5 offers detailed analytics, campaign tracking, and personalized communication, ensuring an efficient marketing strategy for businesses of all sizes. With its intuitive interface and powerful features, Mautic 5 helps businesses maximize customer engagement while reducing manual effort."
   },
   {
+    "slug": "maybe-finance",
+    "logo": "logo.png",
+    "name": "Maybe Finance",
+    "description": "Maybe Finance is a modern, self-hosted finance management tool designed for tracking personal or business finances efficiently. It provides a clean and user-friendly interface, supports integrations for extended functionality, and offers detailed analytics for insights into your financial data. With Maybe Finance, you can take control of your finances, track expenses, and make informed decisions."
+  },
+  {
     "slug": "mcaptcha",
     "logo": "logo.png",
     "name": "mCaptcha",
@@ -892,6 +934,12 @@
     "logo": "logo.png",
     "name": "Mealie",
     "description": "Mealie is a self-hosted recipe manager and meal planner designed to provide a pleasant user experience for the whole family. It features a RestAPI backend and a reactive frontend application built in Vue. With Mealie, you can quickly and easily import recipes from various websites using the built-in recipe scraper. The app ensures the safety of your data with automatic backups in any format supported by Jinja2 templates. It offers a rich and intuitive user interface that allows you to create, edit, and delete recipes with ease. The recipe editor supports markdown syntax for added convenience. Mealie also enables you to create meal plans for the week, month, or year. You can add new users, sort them into groups to share recipes and meal plans, and schedule webhooks to send notifications to 3rd party services with today's meal plan data. The open API gives you full control of the backend server with interactive documentation."
+  },
+  {
+    "slug": "mediawiki",
+    "logo": "logo.png",
+    "name": "MediaWiki",
+    "description": "MediaWiki is a powerful, open-source wiki platform that powers some of the largest collaborative projects, including Wikipedia. It offers a flexible and extensible framework for creating and managing content, supporting features like user management, version control, and powerful extensions. MediaWiki provides multilingual support, ensuring global accessibility, and includes built-in tools for content organization, search, and collaboration. It is an ideal solution for knowledge bases, documentation sites, and community-driven content platforms. With a vibrant ecosystem of plugins and themes, MediaWiki can be customized to suit diverse use cases."
   },
   {
     "slug": "meilisearch",
@@ -916,6 +964,12 @@
     "logo": "logo.svg",
     "name": "MeTube",
     "description": "MeTube is a web-based application that provides a user-friendly interface for the popular command-line tool, youtube-dl. It allows you to easily download videos from YouTube and dozens of other sites, right from your browser. The app supports playlist downloads, making it easy to grab an entire series of videos at once. It also offers a range of configuration options, allowing you to customize the download process to suit your needs. For instance, you can choose to save your downloads to a specific directory, separate audio-only downloads from video downloads, and even specify the filename template for your downloaded videos. MeTube also supports dark mode for a more comfortable viewing experience. The app runs in a Docker container, making it easy to deploy on any system that supports Docker."
+  },
+  {
+    "slug": "minecraft-server-bedrock",
+    "logo": "logo.svg",
+    "name": "Minecraft Bedrock Server",
+    "description": "The itzg/minecraft-bedrock-server app is designed to provide a seamless Minecraft Server experience for the Bedrock Edition. It automatically downloads the latest stable version of the Minecraft server at startup, ensuring you're always up-to-date with the game's latest features and improvements. The app also allows you to run or upgrade to any specific version or the latest snapshot, giving you full control over your gaming experience. If you're using Minecraft clients on consoles, mobile, or native Windows, the app offers a dedicated Bedrock Server for optimal performance. The standard server port, 19132, will be exposed on your host machine for easy access and gameplay."
   },
   {
     "slug": "minecraft-server",
@@ -1050,6 +1104,18 @@
     "description": "Odoo is a comprehensive, integrated software platform designed to streamline and automate your business operations. It offers a suite of open-source business applications that cover all your company needs, from sales and services integration to operations management, website building, financial management, and marketing. Odoo's unique value proposition lies in its ease of use and full integration. The apps are designed to work seamlessly together, allowing you to automate and track everything you do in a centralized, online platform accessible from anywhere with any device. With Odoo, you can replace multiple applications with a single, cost-effective, and modular solution, eliminating the need for painful integrations and providing a comprehensive overview of your business. The platform evolves much faster than other solutions, with regular annual releases leveraging the expertise of thousands of developers and business experts. Whether you need a CRM, eCommerce, accounting, inventory, project management, or any other business application, Odoo has got you covered."
   },
   {
+    "slug": "ollama",
+    "logo": "logo.png",
+    "name": "Ollama",
+    "description": "Ollama is a powerful tool designed to simplify the deployment and interaction with advanced AI models. It provides a streamlined solution for managing and hosting large language models (LLMs) with an intuitive interface. Ollama allows users to run queries and interact with models like OpenAI GPT and others in a secure and efficient manner. The tool includes a web-based interface that makes managing and testing models straightforward. Ollama is designed to support diverse use cases, from research and development to deploying AI capabilities in production systems. It offers flexible deployment options, powerful API integrations, and role-based access control to ensure secure and scalable AI solutions."
+  },
+  {
+    "slug": "ombi",
+    "logo": "logo.png",
+    "name": "Ombi",
+    "description": "Ombi allows you to host your own Plex Request and user management system. If you are sharing your Plex server with other users, allow them to request new content using an easy to manage interface! Manage all your requests for Movies and TV with ease, leave notes for the user and get notification when a user requests something. Allow your users to post issues against their requests so you know there is a problem with the audio etc. Even automatically send them weekly newsletters of new content that has been added to your Plex server!"
+  },
+  {
     "slug": "onedev",
     "logo": "logo.svg",
     "name": "OneDev",
@@ -1102,6 +1168,12 @@
     "logo": "logo.svg",
     "name": "Oxigen",
     "description": "Oxigen is a dynamic social media image generator designed to streamline the process of creating and customizing og images. With a user-friendly interface and API, Oxigen allows you to effortlessly generate images tailored to your specific needs. Whether you're looking to create unique images for your social media posts or need a reliable tool for generating og images, Oxigen offers a flexible and efficient solution."
+  },
+  {
+    "slug": "pairdrop",
+    "logo": "logo.png",
+    "name": "PairDrop",
+    "description": "PairDrop is an open-source peer-to-peer file sharing application designed for seamless and secure data transfer between devices on the same network. With its minimalist design and cross-platform compatibility, PairDrop ensures a user-friendly and efficient file sharing experience. It eliminates the need for third-party cloud services, offering a direct and private solution for sharing files, links, and other data securely."
   },
   {
     "slug": "papercups",
@@ -1212,6 +1284,12 @@
     "description": "Portainer is a powerful container management platform trusted by over a million users worldwide. It simplifies the deployment, configuration, troubleshooting, and securing of containers on Kubernetes, Docker, and Swarm across any data center, cloud, network edge, or IIOT device. Portainer is designed to accelerate container adoption and reduce deployment times, making it easier for teams with little to no knowledge of Kubernetes to work autonomously. It also aids in managing and updating deployments, setting up, maintaining, and troubleshooting container infrastructure, and ensuring security and compliance. Portainer supports hybrid and multi-cloud, multi-cluster, multi-device container management, making it a versatile tool for managing complex container ecosystems."
   },
   {
+    "slug": "postfixadmin",
+    "logo": "logo.png",
+    "name": "PostfixAdmin",
+    "description": "PostfixAdmin is a robust, web-based administration interface for managing mail servers using Postfix. It allows you to easily manage virtual domains, mailboxes, and aliases through an intuitive and flexible interface. PostfixAdmin supports advanced features like quota management, domain statistics, and DKIM integration, making it an ideal tool for administrators of self-hosted email solutions."
+  },
+  {
     "slug": "postgres-backup",
     "logo": null,
     "name": "Postgres Backup",
@@ -1222,6 +1300,18 @@
     "logo": "logo.png",
     "name": "PowerDNS-Admin",
     "description": "PowerDNS-Admin is a comprehensive web interface for PowerDNS with a plethora of advanced features. It offers forward and reverse zone management, zone templating, and user management with role-based access control. The app also provides zone-specific access control and activity logging. It supports various authentication methods including Local User, SAML, LDAP, and OAuth with Google, GitHub, Azure, and OpenID. It also supports two-factor authentication (TOTP). PowerDNS-Admin is equipped with PDNS Service Configuration & Statistics Monitoring and supports the DynDNS 2 protocol. It makes IPv6 PTR record editing easy and provides an API for zone and record management. The app also fully supports IDN/Punycode. PowerDNS-Admin can be run in several ways, with Docker being the quickest."
+  },
+  {
+    "slug": "prestashop",
+    "logo": "logo.png",
+    "name": "Prestashop",
+    "description": "Prestashop is an open-source e-commerce platform that empowers businesses to build and manage their online stores. It provides a user-friendly interface, a robust product catalog system, order management, and customizable themes, making it an ideal choice for merchants of all sizes. Prestashop supports multiple payment gateways, multilingual and multi-currency features, and SEO optimization to ensure a global reach and enhanced online visibility. Additionally, it offers a vibrant marketplace for modules and themes, enabling seamless customization and integration with third-party services."
+  },
+  {
+    "slug": "privatebin",
+    "logo": "logo.png",
+    "name": "PrivateBin",
+    "description": "PrivateBin is a minimalist, open-source, self-hosted pastebin solution designed for secure and private data sharing. It features end-to-end encryption, ensuring that your shared content remains confidential. With its simple interface and focus on privacy, PrivateBin is an excellent tool for individuals and teams who value secure communication."
   },
   {
     "slug": "promethus",
@@ -1284,10 +1374,22 @@
     "description": "Rallly is a free, open-source tool designed to simplify your scheduling process. It allows you to create meeting polls in seconds, helping you find a time that works for everyone. With Rallly, you can ditch the back-and-forth emails and streamline your scheduling tasks for a more organized and less stressful workday. The app supports multiple languages and has been used to create over 100k+ polls by 45k+ registered users. Whether you're an executive assistant at a large organization or simply trying to coordinate a group event, Rallly is the perfect tool to keep your RSVPs simple and your scheduling process efficient."
   },
   {
+    "slug": "raneto",
+    "logo": "logo.png",
+    "name": "Raneto",
+    "description": "Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase."
+  },
+  {
     "slug": "readarr",
     "logo": "logo.png",
     "name": "Readarr",
     "description": "Readarr is an ebook and audiobook collection manager designed for Usenet and BitTorrent users. It monitors multiple RSS feeds for new ebooks and audiobooks and interfaces with clients and indexers to grab, sort, and rename them. Readarr also has the ability to automatically upgrade the quality of existing files in your library when a better quality format becomes available. The app features a calendar to see all your upcoming releases in one place, manual search to find all the releases and choose the ones you want, and automatic handling of failed downloads. Readarr ensures you get the right release every time with its custom formats feature, which allows fine control over release prioritization and selection. It also supports major platforms like Windows, Linux, macOS, and others."
+  },
+  {
+    "slug": "redlib",
+    "logo": "logo.png",
+    "name": "Redlib",
+    "description": "Redlib is a privacy-focused and lightweight alternative frontend for Reddit, designed to enhance user experience by removing ads, tracking, and unnecessary JavaScript. Built using Rust, Redlib delivers a fast and efficient browsing experience while ensuring user privacy by proxying all requests, including media, through its server. It provides an ad-free, clutter-free interface inspired by Reddit's modern design, making it an ideal choice for users seeking a secure and streamlined way to browse Reddit content."
   },
   {
     "slug": "redmine",
@@ -1500,10 +1602,28 @@
     "description": "ToolJet is an open-source low-code framework designed to help you build and deploy custom internal tools with ease. It comes with a built-in database, ToolJet DB, built on top of PostgreSQL, and also allows you to connect to external data sources such as PostgreSQL, MongoDB, MS SQL Server, Snowflake, BigQuery, and more. You can also connect to API/GraphQL endpoints, SaaS tools like Airtable, Stripe, Google Sheets, and cloud object storage services like AWS S3, Google Cloud Storage, and Minio. Once connected, ToolJet can run queries on these data sources to fetch and update data. The fetched data can be visualized and modified using UI widgets like tables, charts, forms, etc. You can also use Javascript or Python queries for writing business logic or interacting with the user interface of the application. With ToolJet, you can build apps in three simple steps: connect to data sources, build queries, and build the user interface using the visual App Builder. ToolJet binds together the data sources, queries, and components to convert business logic into custom applications."
   },
   {
+    "slug": "traccar",
+    "logo": "logo.png",
+    "name": "Traccar",
+    "description": "Traccar is an open-source GPS tracking system designed for real-time tracking of vehicles, assets, and individuals. It supports a wide range of GPS devices and mobile apps, providing a secure, reliable, and highly customizable platform for tracking and managing your data. Traccar is ideal for fleet management, personal tracking, and asset monitoring."
+  },
+  {
+    "slug": "traggo",
+    "logo": "logo.png",
+    "name": "Traggo",
+    "description": "Traggo is a powerful, self-hosted time tracking and project management tool designed to help teams and individuals organize their workflows and track time efficiently. It features an intuitive interface, flexible reporting, and customizable dashboards. With Traggo, you can maintain complete control over your data, ensuring privacy and productivity."
+  },
+  {
     "slug": "transmission",
     "logo": "logo.png",
     "name": "Transmission",
     "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client, encryption, a web interface, peer exchange, magnet links, DHT, µTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more."
+  },
+  {
+    "slug": "trigger",
+    "logo": null,
+    "name": "Trigger",
+    "description": "Trigger.dev is a free and open-source platform that simplifies building workflows and automations directly within your codebase. It provides a powerful way to connect your application to APIs, schedule tasks, and manage real-time and delayed workflows with ease. By integrating seamlessly into your development process, Trigger.dev allows developers to focus on delivering high-value features instead of managing complex infrastructure. Its scalability and ease of use make it a great fit for modern web applications and cloud-based systems."
   },
   {
     "slug": "trilium",
@@ -1596,6 +1716,12 @@
     "description": "Weblate is a powerful, web-based continuous localization system. It is designed to simplify the process of translating text from one language to another, making it an invaluable tool for projects and companies operating in multiple countries. With Weblate, users can easily translate using the platform, download and upload translations, and even integrate with version control systems for seamless workflow. The app supports a wide range of file formats, and it also provides a REST API and Python API for further flexibility. Weblate also offers features like automatic suggestions, translation memory, and various checks and fixups to ensure high-quality translations. Whether you're starting with internationalization or managing an established translators community, Weblate has the features to support your translation needs."
   },
   {
+    "slug": "webtop",
+    "logo": "logo.png",
+    "name": "WebTop",
+    "description": "WebTop is a browser-based Linux desktop environment, self-hosted using Docker. It provides a full-featured desktop experience accessible from any device with a modern web browser. WebTop supports multiple desktop environments and applications, making it a versatile tool for productivity, remote work, and development."
+  },
+  {
     "slug": "wekan",
     "logo": "logo.svg",
     "name": "Wekan",
@@ -1654,6 +1780,12 @@
     "logo": "logo.png",
     "name": "WPS Office",
     "description": "WPS Office is a comprehensive office suite that is lightweight yet feature-rich. It offers high compatibility and a range of professional office software tools. With WPS Office, you can edit files in Writer, Presentation, Spreadsheet, and PDF, enhancing your work efficiency. The application can be accessed at your host on ports 3000 and 3001. This container is based on Docker Baseimage KasmVNC, which provides additional environment variables and run configurations to enable or disable specific functionality. The application also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture is retrieved."
+  },
+  {
+    "slug": "xbackbone",
+    "logo": "logo.png",
+    "name": "xBackbone",
+    "description": "xBackbone is a versatile, self-hosted file and image sharing platform designed to manage and share content securely and efficiently. It features a clean and intuitive interface, supports multiple authentication options, and provides advanced file management capabilities. With xBackbone, you can maintain complete control over your shared content, ensuring privacy and flexibility."
   },
   {
     "slug": "yao",
