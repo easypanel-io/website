@@ -59,6 +59,8 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | keila
 App Service Image | - | yes | pentacent/keila:0.14.7
 Database Service Name | - | yes | keila-db
+Username | - | yes | changeme@easypanel.io
+Password | - | yes | password123
 System From Email | - | yes | 
 SMTP Email Host | - | yes | 
 SMTP Email Port | - | yes | 587

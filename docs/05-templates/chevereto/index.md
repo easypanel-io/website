@@ -13,7 +13,7 @@ description: How to install Chevereto on Easypanel? 1-Click installation templat
 
 ## Description
 
-Chevereto is a powerful, self-hosted image hosting platform designed for individuals, communities, and businesses. It allows users to upload, organize, and share images effortlessly. With a clean interface and a wide range of customization options, Chevereto supports private albums, multi-language capabilities, and robust file management, making it the ultimate solution for image hosting.
+Chevereto is a powerful, self-hosted image and video hosting platform designed for individuals, communities, and businesses. It allows users to upload, organize, and share media effortlessly. With a clean interface and a wide range of customization options, Chevereto supports private albums, multi-language capabilities, and robust file management, making it the ultimate solution for image and video hosting.
 
 ## Instructions
 
@@ -21,7 +21,7 @@ Open the nginx domain to access Chevereto
 
 ## Benefits
 
-- Easy Image Hosting: Chevereto provides an intuitive platform for uploading and managing images, with support for bulk uploads and organization features.
+- Easy Image and Video Hosting: Chevereto provides an intuitive platform for uploading and managing images and video, with support for bulk uploads and organization features.
 - Customizable and Extensible: Chevereto offers a wide range of customization options, including themes and API access, to tailor the platform to your needs.
 - Multi-Language and Multi-User Support: Operate in multiple languages and create user accounts with varying permission levels, perfect for collaborative environments.
 
@@ -35,8 +35,8 @@ Open the nginx domain to access Chevereto
 
 ## Links
 
-- [Github](https://github.com/Chevereto/Chevereto-Free)
-- [Documentation](https://v3-docs.chevereto.com/)
+- [Github](https://github.com/chevereto/chevereto)
+- [Documentation](https://v4-docs.chevereto.com/)
 - [Demo](https://demo.chevereto.com/)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/chevereto)
 
@@ -58,3 +58,4 @@ App Service Image | - | yes | chevereto/chevereto:4
 ## Contributors
 
 - [Ahson Shaikh](https://github.com/Ahson-Shaikh)
+- [Rodolfo Berrios](https://rodolfoberrios.com)

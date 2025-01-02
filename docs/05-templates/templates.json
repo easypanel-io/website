@@ -183,7 +183,7 @@
     "slug": "chevereto",
     "logo": "logo.png",
     "name": "Chevereto",
-    "description": "Chevereto is a powerful, self-hosted image hosting platform designed for individuals, communities, and businesses. It allows users to upload, organize, and share images effortlessly. With a clean interface and a wide range of customization options, Chevereto supports private albums, multi-language capabilities, and robust file management, making it the ultimate solution for image hosting."
+    "description": "Chevereto is a powerful, self-hosted image and video hosting platform designed for individuals, communities, and businesses. It allows users to upload, organize, and share media effortlessly. With a clean interface and a wide range of customization options, Chevereto supports private albums, multi-language capabilities, and robust file management, making it the ultimate solution for image and video hosting."
   },
   {
     "slug": "chromium",
@@ -196,6 +196,12 @@
     "logo": "logo.png",
     "name": "Clickhouse",
     "description": "ClickHouse is an open-source database designed for real-time apps and analytics. It is renowned for its speed and resource efficiency, capable of querying billions of rows in mere milliseconds. ClickHouse supports a wide range of data sources, including databases, data warehouses, streams, logs, analytics, data lake formats, and local files. It is built on a column-oriented database structure, which is ideally suited to Online Analytical Processing (OLAP) scenarios, making it significantly faster in processing most queries. ClickHouse utilizes all available system resources to their full potential to process each analytical query as swiftly as possible. It can be deployed in any environment, whether on your machine or in the cloud, and offers the ability to run fast queries on local files without a server. ClickHouse is trusted by developers working with data at scale, including major companies like Disney+ and Uber."
+  },
+  {
+    "slug": "cloud9",
+    "logo": "logo.png",
+    "name": "Cloud9",
+    "description": "Cloud9 is a cloud-based integrated development environment (IDE) designed for developers to code, build, and debug applications collaboratively in real time. It supports a wide range of programming languages and provides a full-featured development environment directly in the browser. Cloud9 allows developers to work on their projects from anywhere, using any device, with the power of a full Linux server behind it. It includes features like built-in terminal, code editor, and support for debugging and running applications seamlessly. Cloud9 is trusted by developers for its efficiency, collaboration tools, and ability to streamline the development workflow."
   },
   {
     "slug": "cloudcommander",
@@ -288,6 +294,12 @@
     "description": "CyberChef, also known as the Cyber Swiss Army Knife, is a versatile web app designed to perform a wide array of 'cyber' operations within a web browser. It offers simple encoding methods like XOR and Base64, alongside more complex encryption techniques such as AES, DES, and Blowfish. CyberChef also provides tools for creating binary and hexdumps, compressing and decompressing data, calculating hashes and checksums, parsing IPv6 and X.509, changing character encodings, and much more. The app is designed to be user-friendly, enabling both technical and non-technical analysts to manipulate data in complex ways without the need for intricate tools or algorithms. CyberChef is still under active development, with ongoing testing, bug fixing, new feature additions, and documentation improvements."
   },
   {
+    "slug": "daapd",
+    "logo": "logo.png",
+    "name": "Daapd",
+    "description": "Daapd is a robust, open-source DAAP (Digital Audio Access Protocol) server that allows users to share music libraries over a network. It is designed to work seamlessly with iTunes, Roku SoundBridges, and other DAAP clients, providing an efficient and reliable way to stream audio content across devices. Daapd also supports streaming internet radio, podcasts, and AirPlay devices. With its powerful backend, Daapd ensures smooth performance, a wide range of supported formats, and advanced features like library management and transcoding."
+  },
+  {
     "slug": "dashdot",
     "logo": "logo.png",
     "name": "Dashdot",
@@ -366,6 +378,12 @@
     "description": "Drone.io is a self-service Continuous Integration platform designed for busy development teams. It automates software build and testing, making it an essential tool for efficient and effective software development. Drone.io is configured with a simple, easy-to-read file that you commit to your git repository, and each pipeline step is executed inside an isolated Docker container that is automatically downloaded at runtime. The platform integrates seamlessly with multiple source code management systems, including GitHub, GitHubEnterprise, Bitbucket, and GitLab, and supports multiple operating systems and architectures. Drone.io works with any language, database or service that runs inside a Docker container, and allows you to create and share plugins for pre-configured steps in your pipeline. Advanced customization is made easy with Drone.io, with features for implementing custom access controls, approval workflows, secret management, yaml syntax extensions and more. The platform also ensures isolated builds to avoid conflicts on shared servers, and offers effortless scaling."
   },
   {
+    "slug": "drupal",
+    "logo": "logo.png",
+    "name": "Drupal",
+    "description": "Drupal is a powerful open-source content management system (CMS) designed to help you create and manage complex, dynamic websites with ease. Drupal is highly customizable, offering robust tools for managing content, users, permissions, and workflows. It supports custom themes, modules, and integrations, enabling you to create tailored experiences for any type of website, from blogs and portfolios to eCommerce platforms and enterprise-level solutions. Drupal prioritizes flexibility, scalability, and security, making it a preferred choice for developers, businesses, and organizations worldwide."
+  },
+  {
     "slug": "duplicati",
     "logo": "logo.png",
     "name": "Duplicati",
@@ -394,6 +412,12 @@
     "logo": null,
     "name": "ElkarBackup",
     "description": "ElkarBackup is a robust open-source backup management system designed to streamline data protection and recovery for diverse environments. With an intuitive web-based interface and extensive automation capabilities, it simplifies backup scheduling and execution. ElkarBackup supports various storage backends and ensures reliable backup operations with robust monitoring and reporting features. Whether you're managing personal data or enterprise-scale systems, ElkarBackup offers an efficient and user-friendly solution for safeguarding your critical information."
+  },
+  {
+    "slug": "emby-stat",
+    "logo": "logo.png",
+    "name": "Emby-Stat",
+    "description": "Emby-Stat is an advanced statistics and analytics tool for Emby and Jellyfin media servers. It allows you to gain deeper insights into your media library, viewing habits, and server usage. With detailed statistics and customizable reports, Emby-Stat helps you visualize and analyze your media server data effectively. It also provides a user-friendly interface to track playback history, top media consumption trends, and server activity over time. Emby-Stat integrates seamlessly with Emby, giving you the ability to enhance your media management with data-driven decisions."
   },
   {
     "slug": "emby",
@@ -462,6 +486,12 @@
     "description": "Fireshare is a simple, user-friendly app designed to make sharing your game clips, videos, or other media a breeze. With Fireshare, you no longer have to go through the hassle of uploading your short clips to YouTube and waiting for them to process. Instead, you can easily self-host your clips and share them with your friends through unique links generated by the app. All you need to do is put your videos in a folder and Fireshare will handle the rest. The app also allows you to view all your videos, edit their details, and decide whether you want them to show up on the public feed. Fireshare also supports foldered sorting, allowing you to organize your videos into categories of your choosing. The app is mobile-friendly and supports open graph data, allowing websites and messaging apps to display the title, description, and video thumbnails in your posts."
   },
   {
+    "slug": "flagsmith",
+    "logo": "logo.png",
+    "name": "Flagsmith",
+    "description": "Flagsmith is a powerful, self-hosted service for feature flag management, remote configuration, and experimentation. It provides a clean and simple interface, supports integrations with various tools, and offers advanced analytics for feature usage and experimentation results. With Flagsmith, you can maintain control over your feature management and deployment process."
+  },
+  {
     "slug": "flame",
     "logo": "logo.png",
     "name": "Flame",
@@ -490,6 +520,12 @@
     "logo": "logo.svg",
     "name": "Focalboard",
     "description": "Mattermost Boards is an open-source project management tool designed for technical teams. It centralizes, plans, and tracks all your work in one place, helping your organization maintain a single source of truth. This ensures your teams stay aligned to complete tasks, reach milestones, and achieve their goals. The app allows you to manage all your tasks on a Kanban, table, gallery, and calendar view, focusing on the highest priority items with board filters. It also offers real-time collaboration features, including card comments, @mention teammates, and board permissions to share your board with the entire team or specific individuals. Mattermost Boards comes with pre-built templates for quick setup or the option to create a fully custom board from scratch. It also includes features like unlimited boards, file sharing, customizable templates, project cards & tasks, archiving & back-up snapshots, and more. Mattermost Boards is an open-source alternative to tools like Asana, Trello, and Notion."
+  },
+  {
+    "slug": "forgejo",
+    "logo": "logo.svg",
+    "name": "Forgejo",
+    "description": "Forgejo is a community-driven, lightweight, and self-hosted Git service that offers a seamless platform for managing repositories, collaborating on code, and controlling your versioning needs. As a fork of Gitea, Forgejo builds on a solid foundation and enhances features with contributions from a vibrant community. It supports all major platforms, including Linux, macOS, Windows, and ARM-based systems. Forgejo is lightweight, extensible, and easy to set up, making it an excellent choice for individuals and teams looking for a self-hosted Git service. Its open-source nature ensures privacy, transparency, and the flexibility to self-host for maximum control."
   },
   {
     "slug": "formbricks",
@@ -534,10 +570,22 @@
     "description": "Github Desktop is an open-source, Electron-based application that simplifies the way you interact with GitHub. Written in TypeScript and using React, this app provides a user-friendly interface for managing your GitHub repositories. It allows you to access your GitHub account, manage your repositories, make changes, and track updates, all from the convenience of your desktop. The app is accessible via http://yourhost:3000/ or https://yourhost:3001/. It supports multiple architectures and can be easily deployed using Docker. Please note that this app requires specific environment variables and run configurations for optimal functionality."
   },
   {
+    "slug": "glances",
+    "logo": "logo.png",
+    "name": "Glances",
+    "description": "Glances is a cross-platform, real-time system monitoring tool designed to offer a unified view of your system's performance and health. It provides an intuitive interface that displays critical information, including CPU usage, memory, disk I/O, network activity, and more. Built to work seamlessly on Linux, macOS, Windows, and ARM-based systems, Glances is highly extensible with plugins and supports remote monitoring via a web-based UI or API. With its open-source foundation, Glances ensures transparency and flexibility, making it a perfect choice for individuals and teams looking for a lightweight yet powerful monitoring solution."
+  },
+  {
     "slug": "glitchtip",
     "logo": "logo.png",
     "name": "GlitchTip",
     "description": "GlitchTip is a simple, open-source error tracking application designed to collect, organize, and alert you about every error from your project in real time. It allows you to monitor your software's performance, track errors, and check your site's uptime all in one place. GlitchTip is compatible with Sentry client SDKs, offering a more straightforward operation. It provides a comprehensive error tracking system, reporting your website or application's exceptions, log messages, Content Security Policy violations, and more. With GlitchTip, you can also monitor your application's performance, identifying slow web requests, database calls, and other transactions. Additionally, it offers uptime monitoring, pinging your site and alerting you when it's not responding. GlitchTip is the perfect choice for those who value simplicity, affordability, and the freedom provided by open source."
+  },
+  {
+    "slug": "glpi",
+    "logo": "logo.png",
+    "name": "GLPI",
+    "description": "GLPI (Gestionnaire Libre de Parc Informatique) is a powerful IT asset management and help desk software designed to streamline IT operations. It offers features like inventory management, ticketing, and reporting, making it an ideal solution for IT teams. With its robust plugin support and user-friendly interface, GLPI provides extensive customization options to adapt to various organizational needs. This containerized version is based on Docker Baseimage KasmVNC, ensuring smooth multi-platform support and flexible deployment."
   },
   {
     "slug": "gogs",
@@ -588,6 +636,18 @@
     "description": "Grist is an open-source, customizable data management platform that combines the power of a spreadsheet with the structure of a database. Designed for teams and individuals who need to organize, analyze, and share information, Grist offers a flexible and collaborative environment for data management. It supports relational data linking, allowing users to create complex, connected data tables, and provides tools for custom views, formulas, and dashboards. Grist’s user-friendly interface empowers users to build powerful applications without requiring extensive coding knowledge."
   },
   {
+    "slug": "grocy",
+    "logo": "logo.svg",
+    "name": "Grocy",
+    "description": "Grocy is a self-hosted groceries and household management solution. It helps you streamline your daily chores, track inventory, manage shopping lists, plan meals, and keep tabs on household tasks. With Grocy, you can efficiently manage your pantry, reduce waste, and optimize your shopping experience. Grocy provides a user-friendly interface to organize your household activities and track consumables with expiration dates, giving you better control over your time and resources."
+  },
+  {
+    "slug": "habridge",
+    "logo": "logo.png",
+    "name": "Habridge",
+    "description": "Habridge is an open-source software solution that emulates Philips Hue bridges, enabling the integration of various smart devices with home automation systems. It provides a simple yet powerful interface for controlling and managing smart lights, switches, and other IoT devices. Habridge supports a wide range of integrations, including Amazon Alexa, Google Home, and custom APIs, allowing users to create a seamless smart home experience. With its focus on flexibility and ease of use, Habridge empowers users to control their home automation setup with precision and efficiency."
+  },
+  {
     "slug": "hackmdio",
     "logo": "logo.png",
     "name": "HackMD",
@@ -616,6 +676,18 @@
     "logo": "logo.svg",
     "name": "Hasura",
     "description": "Hasura is a powerful Data API Platform that automates the process of building, securing, optimizing, and deploying GraphQL and REST APIs. It eliminates the need for manual API creation, enabling developers to generate APIs effortlessly by connecting to existing databases. This results in rapid, scalable application development. Hasura is compatible with a variety of popular databases, including PostgreSQL, MySQL, and MongoDB, allowing you to build GraphQL APIs on top of your existing databases. It also provides comprehensive tools to secure APIs beyond authentication and authorization. With Hasura, you can accelerate the development of new applications or add new features to an existing application in days instead of weeks. It also helps in fast-tracking cloud migration, frontend and backend modernization, and application re-architecture projects by automating 80% of your API development work."
+  },
+  {
+    "slug": "headphones",
+    "logo": "logo.png",
+    "name": "Headphones",
+    "description": "Headphones is an open-source application designed to manage and organize your music library with precision and efficiency. It provides a powerful interface for searching, downloading, and managing albums and tracks, ensuring your music collection is always up-to-date. Headphones integrates seamlessly with popular media servers and download clients, offering an automated solution for music enthusiasts. With its focus on flexibility and ease of use, Headphones empowers users to curate their music library effortlessly."
+  },
+  {
+    "slug": "healthchecks",
+    "logo": "logo.svg",
+    "name": "Healthchecks.io",
+    "description": "Healthchecks.io is an open-source application designed for monitoring cron jobs, periodic tasks, and application endpoints. It provides a lightweight and efficient way to ensure critical processes are running as expected. Healthchecks.io integrates with a wide range of notification methods, allowing users to be alerted when tasks fail to execute within their expected intervals. With its user-friendly interface and robust feature set, Healthchecks.io empowers users to maintain reliable task execution and system monitoring."
   },
   {
     "slug": "hedgedoc",
@@ -702,6 +774,12 @@
     "description": "IT-Tools is a comprehensive suite of handy tools designed to assist developers in their day-to-day tasks. It includes a wide range of features such as Crypto Token generator, Hash text Bcrypt, UUIDs v4 generator, Encrypt/Decrypt text, BIP39 passphrase generator, and many more. The app also offers various converters like Date-time converter, Integer base converter, Roman numeral converter, and Base64 string encoder/decoder among others. It provides a platform for developers to generate QR codes, SVG placeholders, and even record videos from their camera. With additional features like Git cheatsheet, Random port generator, Crontab generator, and JSON prettify and format, IT-Tools is a one-stop solution for all developer needs."
   },
   {
+    "slug": "jackett",
+    "logo": "logo.png",
+    "name": "Jackett",
+    "description": "Jackett is a versatile, open-source indexer proxy for torrenting and Usenet, enabling users to integrate popular trackers with applications like Sonarr, Radarr, and more. Designed to be lightweight and efficient, Jackett streamlines the process of accessing trackers, offering a seamless experience for managing and automating downloads."
+  },
+  {
     "slug": "jellyfin",
     "logo": "logo.png",
     "name": "Jellyfin",
@@ -756,6 +834,12 @@
     "description": "Keycloak is an open-source Identity and Access Management tool that adds authentication to applications and secures services with minimal effort. It eliminates the need for storing or authenticating users, providing user federation, robust authentication, user management, and fine-grained authorization. Keycloak offers a Single-Sign On feature, allowing users to authenticate with Keycloak rather than individual applications, ensuring a seamless login experience across multiple applications. It also supports social login and can authenticate users with existing OpenID Connect or SAML 2.0 Identity Providers. Keycloak has built-in support to connect to existing LDAP or Active Directory servers and provides a centralized admin console for managing all aspects of the server. It also offers an account management console for users to manage their own accounts. Based on standard protocols, Keycloak supports OpenID Connect, OAuth 2.0, and SAML, and provides fine-grained authorization services for advanced permission management."
   },
   {
+    "slug": "kicad",
+    "logo": "logo.png",
+    "name": "KiCad",
+    "description": "KiCad is an open-source software suite for electronic design automation (EDA), enabling the design and simulation of electronic circuits and printed circuit boards (PCBs). It provides a comprehensive set of tools for schematic capture, PCB layout, and 3D visualization. KiCad supports extensive libraries of components and footprints, allowing designers to create custom designs with ease. Its robust features, such as design rule checking, netlist generation, and Gerber export, make it a preferred choice for professionals and hobbyists alike. With a focus on flexibility and open-source principles, KiCad empowers users to bring their electronic design projects to life."
+  },
+  {
     "slug": "kimai",
     "logo": "logo.png",
     "name": "Kimai",
@@ -796,6 +880,12 @@
     "logo": "logo.png",
     "name": "Lavalink",
     "description": "Lavalink is a standalone audio sending node designed to facilitate the process of sending audio without it ever reaching any of your shards. It is powered by Lavaplayer and Koe, and is currently being used in production by several popular bots. The app offers a range of features including Twitch/YouTube stream support, an event system, seeking, volume control, and a REST API for resolving Lavaplayer tracks and controlling players. It also provides statistics which are useful for load balancing. Lavalink is designed to have a minimal CPU/memory footprint, and it supports plugins. It is compatible with Java 17 LTS or newer, and it follows Semantic Versioning."
+  },
+  {
+    "slug": "lazylibrarian",
+    "logo": "logo.png",
+    "name": "LazyLibrarian",
+    "description": "LazyLibrarian is an open-source tool designed to manage and automate the downloading, organizing, and serving of eBooks, audiobooks, and magazines. It integrates seamlessly with Usenet and torrent services to fetch content based on user preferences. With LazyLibrarian, you can search, download, and manage your media library effortlessly. It supports multiple download providers, metadata retrieval, and integration with Calibre for organizing your eBook collection. LazyLibrarian is user-friendly, flexible, and provides a centralized solution for book lovers to manage their digital libraries."
   },
   {
     "slug": "lenpaste",
@@ -846,6 +936,18 @@
     "description": "Listmonk is a self-hosted, high-performance mailing list and newsletter manager. It is designed to manage millions of subscribers across various single and double opt-in lists, with custom JSON attributes for each subscriber. The app allows you to query and segment subscribers with SQL expressions and offers a fast bulk importer for easy integration with external CRMs and subscriber databases. Listmonk also provides a simple API for sending transactional messages to subscribers using pre-defined templates. These messages can be sent via email, SMS, Whatsapp, or any medium via Messenger interfaces. The app also includes simple analytics and visualization tools, a powerful templating system for creating dynamic email templates, and a media manager for uploading images for email campaigns. Listmonk is free, open-source, and designed for high performance, with a single binary application that runs everywhere with a minimal CPU and memory footprint."
   },
   {
+    "slug": "llana",
+    "logo": "logo.png",
+    "name": "llana",
+    "description": "Llana is a lightweight no-code API wrapper that exposes a REST API for any database within minutes. Stop wasting time building endpoints, just connect your database and start playing. Open source, free to use, and no vendor lock-in."
+  },
+  {
+    "slug": "lobechat",
+    "logo": "logo.png",
+    "name": "LobeChat",
+    "description": "LobeChat is an open-source, AI-powered chat application designed to integrate with OpenAI services. It provides a seamless user experience, combining conversational AI capabilities with a customizable and extensible architecture. LobeChat is ideal for both personal and professional use cases, offering robust features for modern AI chat applications."
+  },
+  {
     "slug": "logseq",
     "logo": "logo.png",
     "name": "Logseq",
@@ -858,6 +960,12 @@
     "description": "Logto is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies."
   },
   {
+    "slug": "lollypop",
+    "logo": "logo.png",
+    "name": "Lollypop",
+    "description": "Lollypop is a self-hosted, high-performance music library manager and player. It is designed to handle extensive music collections, offering a sleek and modern interface for browsing, organizing, and playing your favorite tracks. The app supports multiple audio formats, playlists, and smart sorting options. Lollypop integrates seamlessly with online services to fetch album artwork, lyrics, and artist information. It also provides a simple API for managing playlists and controlling playback remotely. Lollypop is open-source, free, and designed to run efficiently on minimal hardware, making it a lightweight yet powerful solution for all your music needs."
+  },
+  {
     "slug": "lychee",
     "logo": null,
     "name": "Lychee",
@@ -868,6 +976,12 @@
     "logo": "logo.png",
     "name": "Lynx",
     "description": "Lynx is a robust URL shortener application designed to simplify and streamline your web browsing experience. Built using the MEVN stack, Lynx offers a user-friendly interface and the ability to redirect the root path for a more personalized touch. The app also features a unique admin interface, providing you with full control over your shortened URLs. With Lynx, you can easily manage and customize your links, each of which includes a slug, destination, and id. The app also supports multiple users, integrates with ShareX, and offers two-factor authentication for enhanced security. Lynx is the sleek, powerful URL shortener you've been looking for."
+  },
+  {
+    "slug": "mageai",
+    "logo": "logo.png",
+    "name": "Mage-AI",
+    "description": "Mage-AI is a powerful open-source data pipeline tool designed to simplify and accelerate building, deploying, and managing machine learning workflows. It empowers data engineers and scientists with a unified platform to seamlessly create pipelines for data ingestion, transformation, and model deployment. With Mage-AI's user-friendly interface and robust features, it becomes an essential tool for teams aiming to deliver AI solutions efficiently and effectively."
   },
   {
     "slug": "mailcrab",
@@ -1020,6 +1134,12 @@
     "description": "The mysql-backup-s3 app is a powerful tool designed to backup your MySQL databases to your AWS S3 bucket. It supports periodic backups, allowing you to schedule backup times in cron format, ensuring your data is always safe and up-to-date. The app also supports multi-files, meaning you can have one file per database if you choose to. The app requires your AWS access key, AWS secret key, and AWS S3 bucket path. It also requires your MySQL host, user, and password. You can customize the path prefix in your bucket, the AWS S3 bucket region, and the AWS Endpoint URL. The app also allows you to add extra mysqldump options without overriding the default ones. With the mysql-backup-s3 app, you can ensure your MySQL databases are always backed up and secure in your AWS S3 bucket."
   },
   {
+    "slug": "mysql-workbench",
+    "logo": "logo.png",
+    "name": "MySQL-Workbench",
+    "description": "MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive database management capabilities for MySQL and MariaDB. With MySQL Workbench, you can design and create new databases, reverse-engineer existing databases, and perform complex migrations. It offers a visual query builder, a powerful SQL editor, and support for data modeling and schema creation. MySQL Workbench is a trusted, easy-to-use tool to streamline database operations and improve productivity."
+  },
+  {
     "slug": "n8n",
     "logo": "logo.png",
     "name": "n8n",
@@ -1086,6 +1206,12 @@
     "description": "NZBGet is an efficient Usenet downloader that is open source and hosted on GitHub. This powerful tool is designed to download files from Usenet based on information provided in nzb-files. Known for its performance and efficiency, NZBGet is written in C++ and can run on almost any device, including classic PCs, NAS, media players, SAT-receivers, WLAN-routers, and more. It provides precompiled binaries for Windows, macOS, Linux, FreeBSD, and Android. The app also offers features like RSS and duplicate check for automating your downloads, VideoSort for sorting downloaded video files, and various scripts for enhancing functionality. With NZBGet, you can maximize your device's performance and improve your downloading experience."
   },
   {
+    "slug": "nzbhydra2",
+    "logo": "logo.png",
+    "name": "Nzbhydra2",
+    "description": "NZBHydra2 is an advanced meta search application designed to unify and manage searches across multiple Usenet and torrent indexers. It acts as a single access point for all your NZB and torrent needs, aggregating search results from various indexers to save time and improve efficiency. NZBHydra2 offers powerful filtering, duplicate management, and easy integration with automation tools like Sonarr, Radarr, and Lidarr. It provides a web-based interface for seamless configuration and search management, making it a must-have for Usenet and torrent enthusiasts."
+  },
+  {
     "slug": "octobox",
     "logo": "logo.png",
     "name": "Octobox",
@@ -1146,6 +1272,12 @@
     "description": "Opera is a multi-platform web browser developed by Opera. This app is based on Chromium, but sets itself apart from other Chromium-based browsers through its unique user interface and additional features. The app can be accessed at http://yourhost:3000/ or https://yourhost:3001/. It provides a true lossless image at a high frame rate to your web browser by changing the Stream Quality preset to 'Lossless'. The app also allows you to specify one or multiple Chromium CLI flags, which will be passed to the application in full. This app is designed to avoid permission issues that can arise between the host OS and the container by allowing you to specify the user PUID and group PGID."
   },
   {
+    "slug": "osticket",
+    "logo": "logo.png",
+    "name": "OSTicket",
+    "description": "OSTicket is a widely-used, open-source ticketing system designed to streamline customer support management. It provides a user-friendly interface for handling, tracking, and organizing support tickets across multiple channels, including email, web forms, and API integrations. With OSTicket, you can efficiently manage inquiries, automate workflows, and improve customer satisfaction."
+  },
+  {
     "slug": "outline",
     "logo": "logo.png",
     "name": "Outline Wiki",
@@ -1204,6 +1336,12 @@
     "logo": "logo.png",
     "name": "Penpot",
     "description": "Penpot is an open-source, design and prototyping platform that empowers teams to collaborate and bring creative ideas to life. Unlike other design tools, Penpot is entirely web-based and runs on open standards, allowing teams to access it from anywhere and on any platform. Trusted by designers and developers worldwide, Penpot is known for its flexibility and integration within diverse workflows. It offers real-time collaboration, making it easy for team members to co-create, review, and provide feedback instantly. The app supports complex design requirements, from vector editing to responsive design, and prioritizes user control over projects with extensive customization options. Penpot is built by a team dedicated to privacy and security, with a strong commitment to open-source principles. It ensures that designers and developers alike have the freedom to innovate without restrictions, providing a transparent, community-driven alternative to proprietary tools."
+  },
+  {
+    "slug": "peppermint",
+    "logo": "logo.png",
+    "name": "Peppermint",
+    "description": "Peppermint is a cutting-edge, open-source issue management and helpdesk platform designed to rival Jira and Zendesk while remaining cost-effective and highly customizable. Built with the user in mind, Peppermint empowers teams to manage support tickets, customer requests, and projects with efficiency and ease."
   },
   {
     "slug": "pgvector",
@@ -1344,6 +1482,12 @@
     "description": "PufferPanel is a free, open-source game server management panel that simplifies the management of your game servers. It supports a wide variety of games including Minecraft, Forge, Spigot, Sponge, Source Dedicated Servers, BungeeCord, PocketMine, and many more. With PufferPanel, you can easily manage multiple game servers from one central location, providing a streamlined and efficient way to control your gaming environment. Whether you're an individual user or a large network, PufferPanel's user-friendly interface makes game server management a breeze."
   },
   {
+    "slug": "qbitorrent",
+    "logo": "logo.png",
+    "name": "qBittorrent",
+    "description": "qBittorrent is a powerful, open-source BitTorrent client designed to provide an efficient and feature-rich experience for downloading and sharing files. It offers a user-friendly interface, robust functionality, and cross-platform compatibility. qBittorrent supports advanced features like sequential downloading, IP filtering, RSS feed support, and a built-in search engine for finding torrents. It also includes a web-based interface for managing downloads remotely. Designed to balance performance, simplicity, and advanced capabilities, qBittorrent is ideal for users seeking a secure and reliable torrenting solution."
+  },
+  {
     "slug": "qdrant",
     "logo": "logo.svg",
     "name": "Qdrant",
@@ -1353,7 +1497,7 @@
     "slug": "rabbitmq",
     "logo": "logo.svg",
     "name": "RabbitMQ",
-    "description": "RabbitMQ is a highly popular open source message broker used by businesses of all sizes, from startups to large enterprises. It is lightweight, easy to deploy, and supports multiple messaging protocols and streaming. RabbitMQ can be deployed in distributed and federated configurations, making it ideal for high-scale, high-availability requirements. It runs on various operating systems and cloud environments, and offers a wide range of developer tools for most popular languages. RabbitMQ supports asynchronous messaging, message queuing, delivery acknowledgement, and flexible routing to queues. It also offers a diverse array of tools and plugins for continuous integration, operational metrics, and integration with other enterprise systems. RabbitMQ is enterprise and cloud ready, with pluggable authentication, authorisation, and support for TLS and LDAP. It also provides an HTTP-API, command line tool, and UI for managing and monitoring the system."
+    "description": "RabbitMQ is an open-source message broker software that facilitates reliable messaging between applications and services. It supports a variety of messaging protocols such as AMQP and MQTT, making it a versatile solution for modern distributed systems. With RabbitMQ, you can efficiently manage message queues, exchanges, and routing, enabling seamless communication across different components of your application. It also provides a user-friendly web-based management interface for monitoring, configuration, and troubleshooting."
   },
   {
     "slug": "radarr",
@@ -1482,6 +1626,18 @@
     "description": "SimpleTorrent is a self-hosted remote torrent client that allows you to manage your torrents remotely. Written in Go (golang), it enables you to start torrents remotely and download sets of files on the local disk of the server. These files are then retrievable or streamable via HTTP. The app offers individual file download control, the ability to run an external program on task completion, and a seeding ratio to stop tasks when reached. It also provides a download/upload speed limiter and detailed transfer stats in the web UI. SimpleTorrent supports real-time updates, is mobile-friendly, and offers a fast content server. It also supports IPv6 out of the box and has an updated torrent engine from anacrolix/torrent. Additional features include a torrent watcher, K8s/docker health-check endpoint, extra trackers from an external source, and a protocol handler to magnet."
   },
   {
+    "slug": "snapdrop",
+    "logo": "logo.png",
+    "name": "SnapDrop",
+    "description": "Snapdrop is a self-hosted, browser-based file-sharing platform that allows you to seamlessly transfer files between devices on the same local network. Inspired by Apple's AirDrop, Snapdrop works across any device and browser without requiring an account or installation. It provides fast, peer-to-peer file transfers using WebRTC, ensuring privacy and efficiency. Snapdrop's lightweight design ensures minimal resource usage while offering an intuitive user interface for easy file sharing."
+  },
+  {
+    "slug": "snipe-it",
+    "logo": "logo.png",
+    "name": "Snipe-IT",
+    "description": "Snipe-IT is a powerful, open-source IT asset management system designed to help organizations efficiently manage and track their IT assets. From laptops to licenses, Snipe-IT provides a centralized platform to store, monitor, and manage asset information securely. Unlike traditional asset management systems, Snipe-IT is modern, intuitive, and built for ease of use. It features detailed reporting, asset auditing, and check-in/check-out functionality, ensuring accountability and accuracy for IT teams. Snipe-IT also supports role-based user management and integrates seamlessly with LDAP and SMTP for user authentication and notifications. Whether you're managing 10 or 10,000 assets, Snipe-IT offers the tools you need to stay organized and improve IT workflow. With robust API support, it can integrate with third-party systems for automation and enhanced reporting. Ideal for businesses of all sizes, Snipe-IT makes IT asset management easy and effective."
+  },
+  {
     "slug": "soketi",
     "logo": "logo.png",
     "name": "Soketi",
@@ -1498,6 +1654,12 @@
     "logo": "logo.png",
     "name": "Sonarr",
     "description": "Sonarr is a Personal Video Recorder (PVR) designed for Usenet and BitTorrent users. It monitors multiple RSS feeds for new episodes of your favorite shows and automatically grabs, sorts, and renames them. Sonarr can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. It features a calendar to see all your upcoming episodes in one convenient location, and a manual search to find all the releases and choose the one you want. Sonarr also handles failed downloads, automatically blocking the release and trying another one until it finds one that works. It is fully integrated with SABnzbd, NZBGet, Kodi, and Plex, and supports major platforms including Windows, Linux, macOS, and Raspberry Pi."
+  },
+  {
+    "slug": "sonatype-nexus",
+    "logo": "logo.png",
+    "name": "Sonatype Nexus",
+    "description": "Sonatype Nexus is a powerful repository manager designed to streamline the management and storage of binary components. It enables development teams to efficiently organize, share, and deploy artifacts across various formats, such as Maven, npm, Docker, and more. With its robust feature set and enterprise-grade capabilities, Sonatype Nexus improves DevOps workflows by providing secure, scalable, and centralized storage for software assets."
   },
   {
     "slug": "sshwifty",

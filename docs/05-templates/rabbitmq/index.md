@@ -13,43 +13,38 @@ description: How to install RabbitMQ on Easypanel? 1-Click installation template
 
 ## Description
 
-RabbitMQ is a highly popular open source message broker used by businesses of all sizes, from startups to large enterprises. It is lightweight, easy to deploy, and supports multiple messaging protocols and streaming. RabbitMQ can be deployed in distributed and federated configurations, making it ideal for high-scale, high-availability requirements. It runs on various operating systems and cloud environments, and offers a wide range of developer tools for most popular languages. RabbitMQ supports asynchronous messaging, message queuing, delivery acknowledgement, and flexible routing to queues. It also offers a diverse array of tools and plugins for continuous integration, operational metrics, and integration with other enterprise systems. RabbitMQ is enterprise and cloud ready, with pluggable authentication, authorisation, and support for TLS and LDAP. It also provides an HTTP-API, command line tool, and UI for managing and monitoring the system.
-
-## Instructions
-
-Default user/pass is guest/guest (if you use the -management version of the image)
+RabbitMQ is an open-source message broker software that facilitates reliable messaging between applications and services. It supports a variety of messaging protocols such as AMQP and MQTT, making it a versatile solution for modern distributed systems. With RabbitMQ, you can efficiently manage message queues, exchanges, and routing, enabling seamless communication across different components of your application. It also provides a user-friendly web-based management interface for monitoring, configuration, and troubleshooting.
 
 ## Benefits
 
-- Efficient Messaging: RabbitMQ is a highly efficient open-source message broker that supports multiple messaging protocols and streaming. It is used worldwide by both small startups and large enterprises.
-- Scalability and High Availability: RabbitMQ can be deployed in distributed and federated configurations to meet high-scale, high-availability requirements. It is lightweight and easy to deploy on premises and in the cloud.
-- Cross-Language Messaging: RabbitMQ provides a wide range of developer tools for most popular languages, enabling cross-language messaging with your favorite programming languages.
+- Reliable Message Delivery: RabbitMQ ensures reliable and efficient message delivery with support for message acknowledgments, persistence, and clustering for high availability.
+- Versatile Protocol Support: RabbitMQ supports multiple messaging protocols, including AMQP, MQTT, and STOMP, enabling flexibility in communication between different systems.
+- Easy Management and Monitoring: With RabbitMQ's Management UI, you can monitor queues, exchanges, and message throughput, and easily configure the broker through a web interface.
 
 ## Features
 
-- Asynchronous Messaging: RabbitMQ supports multiple messaging protocols, message queuing, delivery acknowledgement, flexible routing to queues, and multiple exchange types.
-- Distributed Deployment: RabbitMQ can be deployed as clusters for high availability and throughput, and can federate across multiple availability zones and regions.
-- Enterprise & Cloud Ready: RabbitMQ supports pluggable authentication and authorisation, TLS and LDAP. It is lightweight and easy to deploy in public and private clouds.
-- Tools & Plugins: RabbitMQ offers a diverse array of tools and plugins supporting continuous integration, operational metrics, and integration to other enterprise systems. It has a flexible plug-in approach for extending its functionality.
-- Management & Monitoring: RabbitMQ provides an HTTP-API, command line tool, and UI for managing and monitoring its operations.
+- Lightweight and Fast: RabbitMQ is lightweight and optimized for fast message processing, making it ideal for both small-scale and enterprise-level applications.
+- High Availability: RabbitMQ supports clustering and mirrored queues to ensure message availability and prevent data loss in case of failure.
+- Management Web UI: The built-in web-based UI allows you to monitor queues, exchanges, and performance metrics in real time.
+- Plugins and Extensibility: Extend RabbitMQ's functionality with a rich set of plugins for authentication, monitoring, and protocol support.
 
 ## Links
 
 - [Website](https://www.rabbitmq.com/)
 - [Documentation](https://www.rabbitmq.com/documentation.html)
-- [Github](https://github.com/rabbitmq/rabbitmq-server/)
+- [GitHub](https://github.com/rabbitmq)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/rabbitmq)
 
 ## Options
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Name | - | yes | 
-App Service Image | - | no | rabbitmq:3.13.7
-Enable RabbitMQ Management UI Plugin (modifies image) | - | no | 
-Default User Name | - | no | 
-Default User Password | - | no | 
-RAM Memory Limit (recommended) | - | yes | 512MB
+App Service Name | - | yes | rabbitmq
+App Service Image | - | yes | rabbitmq:3-management
+Default Vhost | - | yes | /
+Default User | - | yes | guest
+Default Password | - | yes | guest
+Default AMQP Port on Host | - | yes | 5672
 
 ## Screenshots
 
@@ -57,10 +52,8 @@ RAM Memory Limit (recommended) | - | yes | 512MB
 
 ## Change Log
 
-- 2022-11-08 – first release
-- 2024-09-24 – second release
+- 2024-12-17 – First release
 
 ## Contributors
 
-- [Rubén Robles](https://github.com/D8vjork)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

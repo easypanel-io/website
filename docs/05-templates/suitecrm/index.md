@@ -41,9 +41,9 @@ SuiteCRM is the world&#39;s leading Open Source CRM, designed to help you sell, 
 
 Name | Description | Required | Default Value
 -|-|-|-
-Username | - | no | 
+Username | - | no | admin
 Password | - | no | 
-Email | - | no | 
+Email | - | no | admin@example.com
 App Service Name | - | yes | suitecrm
 App Service Image | - | yes | bitnami/suitecrm:8.7.0
 Database Service Name | - | yes | suitecrm-db
