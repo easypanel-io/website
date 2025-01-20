@@ -41,7 +41,7 @@ Appsmith is a powerful tool designed to help engineers build custom software on 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | appsmith
-App Service Image | - | yes | appsmith/appsmith-ce:v1.42
+App Service Image | - | yes | appsmith/appsmith-ce:1.55
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | appsmith/appsmith-ce:v1.42
 - 2022-07-12 – first release
 - 2024-03-10 – Version bumped to 1.16
 - 2024-09-30 – Version bumped to 1.42
+- 2025-01-06 – Version bumped to 1.55
 
 ## Contributors
 
@@ -59,4 +60,4 @@ App Service Image | - | yes | appsmith/appsmith-ce:v1.42
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://github.com/BerkSMBL)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

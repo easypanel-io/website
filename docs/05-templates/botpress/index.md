@@ -45,7 +45,7 @@ Botpress needs at least 10 GB of RAM to run!
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | botpress
-App Service Image | - | yes | botpress/server:12.31.8
+App Service Image | - | yes | botpress/server:12.31.9
 Database Service Name | - | yes | botpress-db
 
 ## Screenshots
@@ -57,6 +57,7 @@ Database Service Name | - | yes | botpress-db
 
 - 2023-5-18 – first release
 - 2024-03-11 – Version bumped to 12.31.5
+- 2025-01-06 – Version bumped to 12.31.9
 
 ## Contributors
 

@@ -42,7 +42,7 @@ Ghost is a robust application designed for new-media creators looking to turn th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.96.0-alpine
+App Service Image | - | yes | ghost:5.106.1-alpine
 Database Service Name | - | yes | ghost-db
 
 ## Screenshots
@@ -55,6 +55,7 @@ Database Service Name | - | yes | ghost-db
 - 2023-02-24 – Update to v5.35.1
 - 2023-06-30 – Update to v5.53.3
 - 2023-07-23 – Update to v5
+- 2025-01-14 – Version bumped to 5.106.1-alpine
 
 ## Contributors
 

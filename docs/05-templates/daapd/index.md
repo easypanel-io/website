@@ -39,7 +39,7 @@ Daapd is a robust, open-source DAAP (Digital Audio Access Protocol) server that 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | daapd
-App Service Image | - | yes | lscr.io/linuxserver/daapd:28.10.20241218
+App Service Image | - | yes | lscr.io/linuxserver/daapd:28.10.20250108
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | lscr.io/linuxserver/daapd:28.10.20241218
 ## Change Log
 
 - 2024-12-26 – First Release
+- 2025-01-09 – Version bumped to 28.10.20250108
 
 ## Contributors
 

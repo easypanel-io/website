@@ -45,7 +45,7 @@ DomainMOD is a comprehensive open-source application designed to help you manage
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | domainmod
-App Service Image | - | yes | domainmod/domainmod:4.21.0
+App Service Image | - | yes | domainmod/domainmod:4.23
 Database Service Name | - | yes | domainmod-db
 Timezone | - | yes | Europe/Copenhagen
 
@@ -56,6 +56,7 @@ Timezone | - | yes | Europe/Copenhagen
 ## Change Log
 
 - 2022-07-12 – first release
+- 2025-01-09 – Version bumped to 4.23
 
 ## Contributors
 

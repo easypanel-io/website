@@ -42,7 +42,7 @@ Gogs is a self-hosted Git service designed to be simple, stable, and extensible.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gogs
-App Service Image | - | yes | gogs/gogs:0.13.0
+App Service Image | - | yes | gogs/gogs:0.13
 SSH Port | - | yes | 2222
 
 ## Screenshots
@@ -53,6 +53,7 @@ SSH Port | - | yes | 2222
 ## Change Log
 
 - 2023-3-16 – first release
+- 2025-01-14 – Version bumped to 0.13
 
 ## Contributors
 

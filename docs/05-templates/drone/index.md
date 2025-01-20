@@ -42,7 +42,7 @@ Drone.io is a self-service Continuous Integration platform designed for busy dev
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drone
-App Service Image | - | yes | drone/drone:2.24.0
+App Service Image | - | yes | drone/drone:2.25.0
 Runner Service Name | - | yes | drone-runner
 Runner Service Image | - | yes | drone/drone-runner-docker:1.8.3
 GitHub OAuth Client ID | - | yes | 
@@ -59,6 +59,7 @@ Capacity for runner if enabled | - | no | 2
 ## Change Log
 
 - 2022-08-04 – first release
+- 2025-01-09 – Version bumped to 2.25.0
 
 ## Contributors
 

@@ -39,7 +39,7 @@ Etherpad is an open-source online editor that enables real-time collaborative ed
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | etherpad
-App Service Image | - | yes | etherpad/etherpad:2.2.5
+App Service Image | - | yes | etherpad/etherpad:2.2.7
 Database Service Name | - | yes | etherpad-db
 
 ## Screenshots
@@ -49,6 +49,7 @@ Database Service Name | - | yes | etherpad-db
 ## Change Log
 
 - 2023-3-16 – first release
+- 2025-01-11 – Version bumped to 2.2.7
 
 ## Contributors
 

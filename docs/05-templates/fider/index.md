@@ -48,7 +48,7 @@ Fider REQUIRES email in order for installation to work!
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fider
-App Service Image | - | yes | getfider/fider:SHA_8d3bb292ffbceebbbde92ac620f5986dae636412
+App Service Image | - | yes | getfider/fider:SHA_a1553876aed65a35e1171831b3dd467749eca87b
 Database Service Name | - | yes | fider-db
 No Reply Email | - | yes | 
 Email Host | - | yes | 
@@ -63,6 +63,7 @@ Email Password | - | yes |
 ## Change Log
 
 - 2022-11-19 – first release
+- 2025-01-14 – Version bumped to SHA_a1553876aed65a35e1171831b3dd467749eca87b
 
 ## Contributors
 

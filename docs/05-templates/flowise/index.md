@@ -40,7 +40,7 @@ Flowise is an open-source UI visual tool that allows you to build your own custo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flowise
-App Service Image | - | yes | flowiseai/flowise:2.1.1
+App Service Image | - | yes | flowiseai/flowise:2.2.3
 Username | - | yes | 
 Password | - | yes | 
 
@@ -51,6 +51,7 @@ Password | - | yes |
 ## Change Log
 
 - 2023-06-22 – first release
+- 2025-01-14 – Version bumped to 2.2.3
 
 ## Contributors
 

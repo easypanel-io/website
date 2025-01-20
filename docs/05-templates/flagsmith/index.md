@@ -39,7 +39,7 @@ Flagsmith is a powerful, self-hosted service for feature flag management, remote
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flagsmith
-App Service Image | - | yes | lagsmith.docker.scarf.sh/flagsmith/flagsmith:latest
+App Service Image | - | yes | flagsmith.docker.scarf.sh/flagsmith/flagsmith:latest
 
 ## Screenshots
 

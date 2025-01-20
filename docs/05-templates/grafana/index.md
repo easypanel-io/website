@@ -46,7 +46,7 @@ Login with admin:admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grafana
-App Service Image | - | yes | grafana/grafana-oss:11.2.2
+App Service Image | - | yes | grafana/grafana-oss:11.4.0
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | grafana/grafana-oss:11.2.2
 
 - 2023-3-15 – first release
 - 2024-10-09 – Version changed to 11.2.2
+- 2025-01-14 – Version bumped to 11.4.0
 
 ## Contributors
 

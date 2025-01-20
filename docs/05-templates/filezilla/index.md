@@ -42,7 +42,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filezilla
-App Service Image | - | yes | lscr.io/linuxserver/filezilla:3.67.0
+App Service Image | - | yes | lscr.io/linuxserver/filezilla:3.68.1
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/filezilla:3.67.0
 ## Change Log
 
 - 2022-11-21 – first release
+- 2025-01-11 – Version bumped to 3.68.1
 
 ## Contributors
 

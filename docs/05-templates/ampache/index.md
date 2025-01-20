@@ -44,7 +44,7 @@ MySQL Username is &quot;admin&quot;. The logs will show a line that says &quot;m
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ampache
-App Service Image | - | yes | ampache/ampache:6.6.1
+App Service Image | - | yes | ampache/ampache:7.1.1
 Media Host Path | - | yes | 
 
 ## Screenshots
@@ -54,6 +54,7 @@ Media Host Path | - | yes |
 ## Change Log
 
 - 2023-03-19 – Template created (v5.5.7)
+- 2025-01-06 – Version bumped to 7.1.1
 
 ## Contributors
 

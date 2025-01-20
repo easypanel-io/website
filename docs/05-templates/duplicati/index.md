@@ -40,7 +40,8 @@ Duplicati is a free, open-source backup software designed to store encrypted bac
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | duplicati
-App Service Image | - | yes | lscr.io/linuxserver/duplicati:2.0.8
+App Service Image | - | yes | lscr.io/linuxserver/duplicati:2.1.0
+App Service Password | - | yes | password
 
 ## Screenshots
 
@@ -49,6 +50,7 @@ App Service Image | - | yes | lscr.io/linuxserver/duplicati:2.0.8
 ## Change Log
 
 - 2022-08-05 – first release
+- 2025-01-09 – Version bumped to 2.1.0
 
 ## Contributors
 

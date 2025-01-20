@@ -50,7 +50,7 @@ After deploying the project, it may take a while before the app is available (5 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dashy
-App Service Image | - | yes | lissy93/dashy:3.1.0
+App Service Image | - | yes | lissy93/dashy:release-3.1.1
 
 ## Screenshots
 
@@ -58,7 +58,8 @@ App Service Image | - | yes | lissy93/dashy:3.1.0
 
 ## Change Log
 
-- 2022-08-18 – first release
+- 2022-08-18 – First Release
+- 2025-01-09 – Version bumped to release-3.1.1
 
 ## Contributors
 

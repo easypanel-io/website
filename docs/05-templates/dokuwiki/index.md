@@ -46,7 +46,7 @@ Go to http://IP-ADDRESS:PORT/install.php to configure your install then restart 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dokuwiki
-App Service Image | - | yes | lscr.io/linuxserver/dokuwiki:version-2024-02-06a
+App Service Image | - | yes | lscr.io/linuxserver/dokuwiki:version-2024-02-06b
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | lscr.io/linuxserver/dokuwiki:version-2024-02-06a
 ## Change Log
 
 - 2023-3-16 – first release
+- 2025-01-09 – Version bumped to version-2024-02-06b
 
 ## Contributors
 
