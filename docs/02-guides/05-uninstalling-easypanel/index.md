@@ -13,10 +13,10 @@ In this guide, we will take you through the process of uninstalling Easypanel fr
 To uninstall Easypanel, we first need to stop and remove the Docker services associated with it. Open your terminal and execute the following command:
 
 ```shell
-docker service rm easypanel traefik error-pages
+docker service rm easypanel traefik
 ```
 
-This command will stop and remove the Docker services named `easypanel`, `traefik`, and `error-pages` from your system.
+This command will stop and remove the Docker services named `easypanel`, and `traefik` from your system.
 
 ## Step 2 - Removing Easypanel Files
 
