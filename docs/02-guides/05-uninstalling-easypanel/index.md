@@ -28,6 +28,17 @@ rm -rf /etc/easypanel
 
 This command will recursively remove the `/etc/easypanel` directory, along with all its contents.
 
+## Step 3 - Removing Docker Swarm
+
+Finally, we need to remove the Docker Swarm configuration and cleanup the system. Execute the following commands:
+
+```shell
+docker swarm leave --force
+docker system prune -a -f --volumes
+```
+
+The first command will remove the Docker Swarm configuration from your system and the second command will clean up any unused Docker volumes, images, networks, and dangling containers.
+
 ## Conclusion
 
 By following the steps in this guide, you have successfully uninstalled Easypanel from your system. Remember to verify that the Docker services have been removed and the Easypanel configuration directory is no longer present. If you have any further questions or need assistance, please feel free to reach out for support.
