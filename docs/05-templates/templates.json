@@ -90,6 +90,12 @@
     "description": "Appwrite is an open-source backend as a service server that abstracts and simplifies complex and repetitive development tasks behind a very simple to use REST API."
   },
   {
+    "slug": "arangodb",
+    "logo": "logo.png",
+    "name": "ArangoDB",
+    "description": "ArangoDB is a multi-model NoSQL database system that supports graph, document, and key-value data models. It is designed for scalability, high availability, and flexibility, making it suitable for a wide range of applications, from simple document storage to complex graph processing. ArangoDB offers a native query language (AQL), full-text search capabilities, a built-in HTTP API, and a web-based UI for management. It also provides features like replication, sharding, and ACID transactions to ensure data integrity and performance. With its integrated search engine and support for multi-tenancy, ArangoDB is an ideal choice for both small projects and enterprise-level applications."
+  },
+  {
     "slug": "argilla",
     "logo": "logo.svg",
     "name": "Argilla",
@@ -118,6 +124,12 @@
     "logo": "logo.png",
     "name": "BabyBuddy",
     "description": "BabyBuddy is a comprehensive, user-friendly platform designed to help parents and caregivers manage essential details about their child’s growth and development. It provides tools for tracking feedings, sleep schedules, diaper changes, and milestones, making parenting a more organized and informed journey. With BabyBuddy, you can access detailed insights into your child's habits, progress, and overall well-being. The app offers customization options to fit individual family needs and supports data export for secure backup or sharing with healthcare professionals. BabyBuddy is lightweight, easy to deploy, and designed with a focus on privacy, ensuring your family’s data is safe and accessible only to you."
+  },
+  {
+    "slug": "baikal",
+    "logo": "logo.png",
+    "name": "Baikal",
+    "description": "Baikal is a lightweight, self-hosted CalDAV and CardDAV server that enables users to manage calendars and contacts efficiently. It provides a simple and effective solution for syncing and sharing events, tasks, and address books across multiple devices. Baikal is designed to be easy to install and maintain, making it an excellent choice for individuals and organizations looking for a private, secure, and open-source alternative to cloud-based calendar and contact management services."
   },
   {
     "slug": "barrage",
@@ -516,6 +528,12 @@
     "description": "ElkarBackup is a robust open-source backup management system designed to streamline data protection and recovery for diverse environments. With an intuitive web-based interface and extensive automation capabilities, it simplifies backup scheduling and execution. ElkarBackup supports various storage backends and ensures reliable backup operations with robust monitoring and reporting features. Whether you're managing personal data or enterprise-scale systems, ElkarBackup offers an efficient and user-friendly solution for safeguarding your critical information."
   },
   {
+    "slug": "emailengine",
+    "logo": "logo.png",
+    "name": "EmailEngine",
+    "description": "EmailEngine is a powerful email automation and integration tool designed to simplify email processing for applications. It provides a seamless interface for managing IMAP and SMTP connections, allowing applications to send, receive, and process emails efficiently. With built-in webhook support and extensive API capabilities, EmailEngine enables developers to automate email workflows and integrate email functionality effortlessly. Whether handling transactional emails or managing large-scale email operations, EmailEngine offers a reliable and feature-rich solution."
+  },
+  {
     "slug": "emby-stat",
     "logo": "logo.png",
     "name": "Emby-Stat",
@@ -694,6 +712,12 @@
     "logo": "logo.png",
     "name": "Ghost",
     "description": "Ghost is a robust application designed for new-media creators looking to turn their audience into a business. It provides a suite of modern tools to build a website, publish engaging content, send newsletters, and offer paid subscriptions to members. Ghost allows you to launch your website with a selection of beautiful free themes and design settings that can be tweaked to match your brand and style. It also offers an editor built for professionals, with advanced workflows and a user-friendly interface. With Ghost, you can expand your story beyond words, incorporating image galleries, gifs, video, audio, and more into your content. The app also includes built-in newsletters, allowing you to deliver posts by email to your audience. Ghost simplifies the process of building an indie publication with memberships and subscriptions, with native signup forms that convert anonymous views into logged-in members. It also provides detailed engagement analytics to understand what content is getting the most attention and who your biggest fans are. Ghost also supports offers and promotions to entice new subscribers and grow your business."
+  },
+  {
+    "slug": "ghostfolio",
+    "logo": "logo.png",
+    "name": "Ghostfolio",
+    "description": "Ghostfolio is a self-hosted wealth management application that allows users to track and analyze their investment portfolios. It provides insights into asset allocation, risk exposure, and financial growth, helping individuals make informed decisions about their finances. With Ghostfolio, users can connect their brokerage accounts, monitor their investments in real-time, and gain a comprehensive overview of their financial health. The application is accessible via a web interface and offers API support for integrations. Built for privacy and control, Ghostfolio is an excellent solution for self-hosted personal finance management."
   },
   {
     "slug": "gitea",
@@ -978,6 +1002,12 @@
     "description": "Joplin is an open-source note-taking application that allows you to capture your thoughts and access them securely from any device. It supports multimedia notes, including images, videos, PDFs, and audio files, and even allows the creation of math expressions and diagrams. With Joplin Cloud, you can share your notes and collaborate with others. The app also features a web clipper extension for saving web pages or screenshots as notes. Joplin can be customized with plugins, themes, and multiple text editors, and it synchronizes with various services, including Joplin Cloud, Dropbox, and OneDrive. All notes are saved in an open format and secured with end-to-end encryption."
   },
   {
+    "slug": "jsreport",
+    "logo": "logo.png",
+    "name": "JSReport",
+    "description": "JSReport is an open-source reporting platform designed for developers to generate, manage, and customize reports using JavaScript. It provides a powerful templating engine, flexible rendering, and a web-based studio for designing reports. JSReport supports multiple output formats, including PDF, Excel, HTML, and more, making it ideal for businesses and applications that require automated document generation. It can be self-hosted and integrated with various databases and applications for seamless reporting."
+  },
+  {
     "slug": "jupyter-notebook",
     "logo": "logo.svg",
     "name": "JupyterNotebook",
@@ -1216,6 +1246,12 @@
     "logo": "logo.svg",
     "name": "MailCrab",
     "description": "MailCrab is an email test server designed for development purposes. It is an accept-all SMTP server that provides a web interface for viewing and inspecting all incoming emails. You can view formatted mail, download attachments, view headers, or view the complete raw mail contents. The app runs on all amd64 and arm64 platforms using docker. The backend server and the frontend of the app are both written in Rust. The backend receives email over an unencrypted connection on a configurable port, and all email is stored in memory while the application is running. The frontend initially performs a call to receive all existing email metadata and then subscribes for new messages using the websocket connection. When opening a message, the endpoint is used to retrieve the complete message body and raw email. The backend also accepts a few commands over the websocket, to mark a message as opened, to delete a single message or delete all messages."
+  },
+  {
+    "slug": "maildev",
+    "logo": "logo.png",
+    "name": "Maildev",
+    "description": "Maildev is a simple, self-hosted SMTP server designed for testing and debugging emails in development environments. It captures all outgoing emails and provides a web-based UI to view, inspect, and test them. Maildev supports real-time email updates, allowing developers to see emails as they are sent. It also includes an API for programmatic access to emails and supports multiple inboxes for testing different email scenarios. Maildev is lightweight, easy to set up, and works seamlessly in local development and CI/CD pipelines."
   },
   {
     "slug": "mailhog",
@@ -1528,6 +1564,12 @@
     "logo": "logo.png",
     "name": "OpenSpeedTest",
     "description": "OpenSpeedTest is a powerful and accurate online bandwidth test application that works on any web browser without the need for Flash or Java. It is designed to replicate your real-world connection speed and is capable of testing any connection, from 1 Kbps to 1 Gbps+. The application uses the latest technology to automatically detect your stable download and upload speed from our servers. It also provides a guide on how to increase your internet speed and get more out of your connection. You can create your own network speed test without any client-side software or plugin. The application can also be embedded to your website or application, allowing your users to test their internet speed without leaving your page. It is also available as a standalone application for home or small office LAN and can be used for large-scale deployments as a self-hosted/on-premise network speed test."
+  },
+  {
+    "slug": "openwebui",
+    "logo": "logo.png",
+    "name": "OpenWebUI",
+    "description": "OpenWebUI is a self-hosted, open-source web-based UI for interacting with various Large Language Models (LLMs). It allows users to chat with AI models, manage API connections, and customize their experience through an intuitive interface. OpenWebUI supports multiple backends such as Ollama, OpenAI-compatible APIs, and local AI runners. It offers a sleek web-based UI, user authentication, and integration with popular LLMs. The application is containerized and easy to deploy with Docker, Kubernetes, or standalone installations. It provides real-time chat, conversation history, and advanced configuration options for AI interactions."
   },
   {
     "slug": "opera",
@@ -1848,6 +1890,12 @@
     "description": "Request Baskets is a lightweight application designed for developers to capture and inspect HTTP requests. It allows creating disposable endpoints to test webhooks, APIs, or any HTTP-based interaction. The application provides an intuitive web interface for monitoring and debugging incoming requests in real time."
   },
   {
+    "slug": "resiliosync",
+    "logo": "logo.png",
+    "name": "Resilio Sync",
+    "description": "Sync (Resilio Sync) is a self-hosted file synchronization and sharing application that allows users to securely sync files between devices without relying on cloud storage. It provides a powerful alternative to proprietary cloud-based file sharing services, ensuring complete control over data and privacy. With Sync, users can transfer large files quickly, collaborate on projects in real-time, and maintain data consistency across multiple devices. Built with efficiency and security in mind, Sync is ideal for both personal and business use."
+  },
+  {
     "slug": "restreamer",
     "logo": "logo.png",
     "name": "Restreamer",
@@ -1954,6 +2002,12 @@
     "logo": "logo.png",
     "name": "SnapDrop",
     "description": "Snapdrop is a self-hosted, browser-based file-sharing platform that allows you to seamlessly transfer files between devices on the same local network. Inspired by Apple's AirDrop, Snapdrop works across any device and browser without requiring an account or installation. It provides fast, peer-to-peer file transfers using WebRTC, ensuring privacy and efficiency. Snapdrop's lightweight design ensures minimal resource usage while offering an intuitive user interface for easy file sharing."
+  },
+  {
+    "slug": "snappymail",
+    "logo": "logo.png",
+    "name": "Snappymail",
+    "description": "SnappyMail is a lightweight, fast, and self-hosted webmail client designed for efficient email management. Built with a focus on speed and security, SnappyMail offers a clean user interface, seamless IMAP integration, and multi-account support. It is optimized for both desktop and mobile use, providing a smooth and responsive email experience. SnappyMail supports advanced email features such as PGP encryption, custom folders, and customizable themes. With its self-hosted nature, users maintain full control over their emails, ensuring privacy and security."
   },
   {
     "slug": "snipe-it",
@@ -2224,6 +2278,12 @@
     "logo": "logo.png",
     "name": "Wakapi",
     "description": "Wakapi is a powerful open-source tool designed to help you track and analyze your coding time. It allows you to monitor the time you've spent coding on various projects, in different programming languages, and more. It's perfect for those who love statistics and want to gain insights into their coding habits. Wakapi provides fancy statistics and plots, public leaderboards, cool badges for readmes, and weekly email reports. It's built by developers for developers, ensuring it meets your needs perfectly. With Wakapi, you can easily keep track of your coding time and improve your productivity."
+  },
+  {
+    "slug": "wallabag",
+    "logo": "logo.png",
+    "name": "Wallabag",
+    "description": "Wallabag is a self-hosted read-it-later application that allows you to save web articles and access them later in a clean, distraction-free format. Written in PHP, it enables you to store and organize articles, categorize them with tags, and sync across multiple devices. Wallabag is privacy-focused, supports importing from services like Pocket and Instapaper, and provides a RESTful API for integration with other tools. The app offers browser extensions, a mobile-friendly interface, and multiple export options, including PDF, ePub, and plain text."
   },
   {
     "slug": "wbo",
