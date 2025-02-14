@@ -198,6 +198,12 @@
     "description": "Bytebase is a versatile application designed to streamline database management tasks. It supports a wide range of databases including MySQL, PostgreSQL, Snowflake, Oracle, SQL Server, MongoDB, Redis, Redshift, ClickHouse, TiDB, OceanBase, Google Spanner, and MariaDB. With Bytebase, you can easily configure and manage your database instances, perform SQL reviews, manage data models, roles, and permissions, and handle change workflows in batch mode. The app also offers features for secure data handling, VCS integration, slow query management, and disaster recovery. It comes with an embedded PostgreSQL instance for storing its metadata, but for production setup, it is recommended to store the metadata in an external PostgreSQL database. Bytebase is designed to be deployed easily and quickly, offering a step-by-step quick start guide for users."
   },
   {
+    "slug": "bytestash",
+    "logo": "logo.png",
+    "name": "ByteStash",
+    "description": "ByteStash is a self-hosted snippet code storage system designed for developers and teams. It provides a secure, organized platform to store, manage, and share your code snippets. With support for multiple programming languages, syntax highlighting, tagging, and a robust search functionality, ByteStash streamlines code reuse and collaboration. The intuitive interface and powerful features ensure that your code is always at your fingertips, whether you're working solo or with a team."
+  },
+  {
     "slug": "cachet",
     "logo": "logo.png",
     "name": "Cachet",
@@ -304,6 +310,12 @@
     "logo": "logo.png",
     "name": "Commento++",
     "description": "Commento++ is a free, open-source application designed to provide a fast, lightweight comments box that you can embed in your static website. It offers a range of features including Markdown support, Disqus import, voting, automated spam detection, moderation tools, sticky comments, thread locking, and OAuth login. It also supports hot-reloading of comments and email notifications. Commento++ is designed to respect your privacy, with no adverts, and offers a more attractive comments box compared to other free and open-source alternatives. It is significantly lighter and faster than alternatives and can be deployed with a single click to a free Heroku account. For maximum control, you can also choose to self-host the application."
+  },
+  {
+    "slug": "confluence",
+    "logo": "logo.svg",
+    "name": "Confluence",
+    "description": "Confluence is a powerful team collaboration and knowledge-sharing tool. It allows you to create, organize, and collaborate on content in a centralized space. Designed for project management, documentation, and team communication, Confluence helps streamline workflows and enhances productivity. It offers seamless integration with other Atlassian products such as Jira and Bitbucket, making it an ideal solution for agile teams. The intuitive editor and advanced search capabilities ensure that team knowledge is easily accessible. With extensive customization, permission controls, and plugin support, Confluence is a scalable solution for teams of all sizes."
   },
   {
     "slug": "convertx",
@@ -604,6 +616,12 @@
     "logo": "logo.png",
     "name": "Filerun",
     "description": "FileRun is a private, fully controlled file management and sharing solution. It's like having your own personal Google Drive, but with complete control and privacy. FileRun allows you to instantly access your files on any server without the need for importing or scanning. It supports access via FTP, SMB, and WebDAV, reflecting any changes made to your files instantly. You can sync files using desktop apps and access your files on the go with compatible mobile apps. FileRun is also great for managing photos with fast thumbnail and preview generation, timeline browsing, and metadata support. It even allows you to group photos from various folders into virtual albums that you can share online. The new virtual drive feature lets you access files directly from your computer without using up all your disk space. FileRun also supports collaboration with guest users and file requests for easy file collection and submission. It also integrates with various plugins for file editing, viewing, and conversion. FileRun ensures your files are safe with automatic file versioning and a trash folder for deleted files. It also allows for full customization to match your branding. FileRun is secure, loaded with features, and offers a smooth and intuitive mobile experience."
+  },
+  {
+    "slug": "filestash",
+    "logo": "logo.png",
+    "name": "Filestash",
+    "description": "Filestash is a self-hosted file management and sharing platform designed for individuals and teams. It offers a secure, user-friendly interface to store, organize, and access all your files from one centralized location. With support for multiple file types, seamless integration with popular storage backends, tagging, and powerful search functionality, Filestash simplifies file management and boosts productivity. Whether working on personal projects or collaborating with your team, Filestash ensures your files are always accessible and easy to manage."
   },
   {
     "slug": "filezilla",
@@ -994,6 +1012,12 @@
     "logo": "logo.svg",
     "name": "Jirafeau",
     "description": "Jirafeau is an open-source software designed for simple and efficient file sharing. It operates on a 'one-click-filesharing' principle, where you select your file, upload it, and share a link. The app allows you to send large files without any size limit, thanks to the HTML5 file API. It also provides a real-time progress report, showing speed, percentage, and remaining upload time. Jirafeau offers optional password protection for both uploading and downloading, and you can set an expiration time for downloads. The app also has a self-destruct feature, which deletes the file after the first download. It uses base 64 encoding to shorten URLs and allows for maximal upload size configuration. Jirafeau also features optional data encryption and a small administration interface."
+  },
+  {
+    "slug": "joomla",
+    "logo": "logo.svg",
+    "name": "Joomla",
+    "description": "Joomla is a powerful, open-source content management system (CMS) that allows users to build dynamic websites and applications. It offers a user-friendly interface, extensive customization options through templates and extensions, and robust security features. Joomla is highly scalable and supports multilingual content, making it a versatile choice for businesses, organizations, and personal websites. The application is accessible via your host on standard web ports and is easy to deploy using containers."
   },
   {
     "slug": "joplin",
@@ -1548,6 +1572,12 @@
     "description": "Openblocks is an open-source low code platform designed to help you build internal apps quickly and efficiently. With Openblocks, you can create admin panels, dashboards, approval queues, and client support apps with ease and speed. The platform offers over 50 built-in UI components, allowing you to build beautiful, functional, and user-friendly apps. You can also customize new components and embed them seamlessly into your apps. Openblocks connects to most databases and any REST API platform within clicks, enabling full integration of heterogeneous data from anywhere. It's a developer-first platform, allowing you to extend built-in components using JavaScript and leverage external JavaScript libraries. Openblocks also ensures security and reliability with role-based access control and audit logs. It's loved by developers for its super-polished interface and mind-blowing functionality."
   },
   {
+    "slug": "openemr",
+    "logo": "logo.png",
+    "name": "OpenEMR",
+    "description": "OpenEMR is a powerful, open-source electronic medical records and practice management solution designed for efficient healthcare operations. It provides a comprehensive, user-friendly interface, supports modular functionality, and offers robust reporting and analytics for clinical and administrative tasks. With OpenEMR, healthcare providers can manage patient records, appointments, billing, and more. The application is accessible via your host on ports 80 and 443. This container is built on a lightweight Docker image, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
+  },
+  {
     "slug": "openhab",
     "logo": "logo.png",
     "name": "OpenHAB",
@@ -1920,10 +1950,22 @@
     "description": "Roundcube webmail is a browser-based, multilingual IMAP client that offers an application-like user interface. It is designed to provide all the functionalities you would expect from an email client. This includes MIME support, an address book, folder manipulation, message searching, and spell checking. The app also supports drag-and-drop message management, multiple sender identities, and a full-featured address book with groups and LDAP connectors. It offers a threaded message listing, IDNA and SMTPUTF8 support, and a responsive skin for multi-device support. Roundcube webmail also features built-in caching for fast mailbox access, unlimited users and messages, import/export functions, and support for PGP encryption."
   },
   {
+    "slug": "rss-bridge",
+    "logo": "logo.png",
+    "name": "RSS-Bridge",
+    "description": "RSS-Bridge is a self-hosted, open-source tool that generates RSS and Atom feeds for websites that do not provide them natively. It enables users to extract and aggregate content from various web pages, social media platforms, and other online sources into a single, unified RSS feed. This allows users to stay updated with the latest content from multiple sources without manually visiting each site. RSS-Bridge supports various website connectors, filtering options, and output formats to provide a customized feed experience."
+  },
+  {
     "slug": "rsshub",
     "logo": "logo.png",
     "name": "RSSHub",
     "description": "RSSHub is an open-source, user-friendly, and extensible RSS feed generator. It is designed to create RSS feeds from virtually any content. With the ability to aggregate millions of contents from various sources, RSSHub ensures the delivery of new routes, features, and bug fixes. The app is compatible with the browser extension RSSHub Radar and mobile auxiliary apps RSSBud (iOS) and RSSAid (Android). It has adapted to hundreds of websites and thousands of content types, making it a versatile tool for generating RSS feeds."
+  },
+  {
+    "slug": "rustdesk",
+    "logo": "logo.png",
+    "name": "Rustdesk",
+    "description": "Rustdesk is a self-hosted remote desktop application that allows you to access and control devices remotely. It provides an open-source alternative to proprietary remote desktop software, offering full control over your own remote access infrastructure. With Rustdesk, users can securely connect to their computers from anywhere, manage remote desktops efficiently, and ensure privacy by hosting their own Rustdesk relay and ID server. Rustdesk is built with high-performance and encryption in mind, making it suitable for both personal and enterprise use."
   },
   {
     "slug": "searxng",
