@@ -38,7 +38,7 @@ One important configuration you need to make is the proxy port. That is the port
 
 Since Easypanel is based on Docker, every time a service is restarted you will lose your data. The solution for that is to manually specify which files you want to persist. Docker calls these mounts and we use the same name.
 
-There are tree types of mounts you can configure
+There are three types of mounts you can configure
 
 - Volume
   - this will create a directory in `/etc/easypanel/projects/[project]/[service]/volumes/[volume]`
