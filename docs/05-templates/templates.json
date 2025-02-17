@@ -222,6 +222,12 @@
     "description": "Calibre is a comprehensive e-book management tool designed to organize, convert, and read your e-book collection. It supports most of the major e-book formats and is compatible with various e-book reader devices. Calibre can fetch metadata for your books from the internet, enhancing your library with relevant information. It also allows you to download newspapers and convert them into e-books for a more convenient reading experience. The app is cross-platform, running on Linux, Windows, and macOS. With Calibre, you can easily add books to your library, convert them to a format your reader understands, and send them to your device. It also offers advanced features like e-book editing, metadata editing, and e-book comparison. The app is user-friendly, but also offers a Command Line Interface for more power and versatility."
   },
   {
+    "slug": "carbone",
+    "logo": "logo.png",
+    "name": "Carbone",
+    "description": "Carbone is a high-performance, self-hosted document generation engine. It allows you to generate reports, invoices, and documents in various formats (e.g., PDF, DOCX, XLSX) using JSON data and template-based rendering. Carbone is designed for scalability and speed, making it ideal for automation, bulk document generation, and seamless integration into various systems and workflows. It supports custom templates and advanced features like charts, sub-reports, and conditional formatting to meet a wide range of business needs."
+  },
+  {
     "slug": "changedetection",
     "logo": "logo.png",
     "name": "Change Detection",
@@ -256,6 +262,12 @@
     "logo": "logo.png",
     "name": "Chromium",
     "description": "Chromium is an open-source browser project that is designed to provide a safer, faster, and more stable way for all users to experience the web. This app is a Docker containerized version of Chromium, allowing you to deploy and run the Chromium browser in a Docker environment. The app supports multiple architectures, including x86-64 and arm64, and can be accessed via HTTP or HTTPS. It offers additional environment variables and run configurations to enable or disable specific functionality. The app also allows you to specify one or multiple Chromium CLI flags, which will be passed to the application in full. This containerized version of Chromium is designed to function efficiently with modern websites, and includes options for GPU acceleration and Docker in Docker (DinD) setup."
+  },
+  {
+    "slug": "classicpress",
+    "logo": "logo.png",
+    "name": "ClassicPress",
+    "description": "ClassicPress is a community-led open source content management system for creators. It is a fork of WordPress 6.2 that preserves the TinyMCE classic editor as the default option. It is half the size of WordPress, contains less bloat improving performance, and has no block editor (Gutenberg/Full Site Editing)."
   },
   {
     "slug": "clickhouse",
@@ -1116,6 +1128,12 @@
     "description": "Kuzzle is a free and open-source backend platform designed to accelerate the development of web, mobile, and Internet of Things (IoT) applications. It provides real-time features, multi-protocol API support, and robust user management, enabling developers to focus on building high-level business functionalities. Kuzzle is fully customizable through plugins and offers client SDKs for seamless integration with various platforms. Its flexibility and scalability make it an ideal choice for IoT, geolocation, and enterprise applications."
   },
   {
+    "slug": "labelstudio",
+    "logo": "logo.png",
+    "name": "Label Studio",
+    "description": "Label Studio is an open source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats. It can be used to prepare raw data or improve existing training data to get more accurate ML models."
+  },
+  {
     "slug": "langflow",
     "logo": "logo.png",
     "name": "Langflow",
@@ -1818,6 +1836,12 @@
     "description": "PrivateBin is a minimalist, open-source, self-hosted pastebin solution designed for secure and private data sharing. It features end-to-end encryption, ensuring that your shared content remains confidential. With its simple interface and focus on privacy, PrivateBin is an excellent tool for individuals and teams who value secure communication."
   },
   {
+    "slug": "projectsend",
+    "logo": "logo.png",
+    "name": "ProjectSend",
+    "description": "ProjectSend is a self-hosted file sharing platform designed to securely share files with clients and collaborators. It provides a user-friendly interface, supports advanced user management, and allows for detailed activity tracking. With ProjectSend, you can maintain control over your files and ensure secure access for authorized users."
+  },
+  {
     "slug": "promethus",
     "logo": "logo.png",
     "name": "Prometheus",
@@ -1998,6 +2022,12 @@
     "description": "Shiori is a straightforward bookmarks manager, designed as a simple alternative to Pocket. It is written in the Go language and can be used as either a command line application or a web application. Shiori allows for basic bookmark management, including adding, editing, deleting, and searching bookmarks. It also supports importing and exporting bookmarks from and to Netscape Bookmark file and importing bookmarks from Pocket. The application features a clean command line interface and a user-friendly web interface. It is portable and supports sqlite3, PostgreSQL, and MySQL as its database. Shiori also creates an offline archive of the webpage where possible. The Shiori Web Extension is a simple extension for managing bookmarks using Shiori, intended to integrate Shiori with your favorite web browser, allowing you to save and remove bookmarks in Shiori without leaving your current page."
   },
   {
+    "slug": "shlink",
+    "logo": "logo.png",
+    "name": "Shlink",
+    "description": "Shlink is an open-source URL shortener that allows you to create a short URL for your website. It provides a simple and intuitive interface that allows you to create a short URL for your website."
+  },
+  {
     "slug": "shotcut",
     "logo": "logo.png",
     "name": "Shotcut",
@@ -2032,6 +2062,12 @@
     "logo": "logo.png",
     "name": "Sinusbot",
     "description": "Sinusbot is a powerful and versatile music bot designed for communication platforms like TeamSpeak and Discord. It allows users to stream high-quality audio, manage playlists, and automate music playback seamlessly. Sinusbot is lightweight, highly customizable, and provides an intuitive web interface for managing audio playback. With support for plugins and scripting, Sinusbot can be tailored to meet the needs of any community, enhancing the audio experience for gaming, collaboration, or leisure activities."
+  },
+  {
+    "slug": "slash",
+    "logo": "logo.svg",
+    "name": "Slash",
+    "description": "Slash is an open source, self-hosted platform designed to help you organize, manage, and share your most important links. Easily create customizable, human-readable shortcuts to streamline your link management. Use tags to categorize your links and share them easily with your team or publicly."
   },
   {
     "slug": "smokeping",
