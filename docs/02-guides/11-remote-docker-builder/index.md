@@ -38,7 +38,7 @@ docker buildx create \
   --name remote-container \
   --driver remote \
   --driver-opt default-load=true \
-  tcp://{YOUR_SERVER_IP}:1234
+  tcp://{REMOTE_SERVER_IP}:1234
 ```
 
 ## Summary
