@@ -37,7 +37,7 @@ Heimdall Application Dashboard is a versatile and visually pleasing dashboard fo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | heimdall
-App Service Image | - | yes | linuxserver/heimdall:2.6.1
+App Service Image | - | yes | linuxserver/heimdall:2.6.3
 Timezone | - | no | Europe/London
 
 ## Screenshots
@@ -48,6 +48,7 @@ Timezone | - | no | Europe/London
 
 - 2022-07-12 – first release
 - 2023-2-24 – Update to v2.5.5
+- 2025-02-25 – Version bumped to 2.6.3
 
 ## Contributors
 

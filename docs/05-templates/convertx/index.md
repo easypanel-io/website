@@ -41,7 +41,7 @@ Convertx is a free, open-source application designed to provide a fast, lightwei
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | convertx
-App Service Image | - | yes | ghcr.io/c4illin/convertx:v0.10.0
+App Service Image | - | yes | ghcr.io/c4illin/convertx:v0.11.0
 
 ## Screenshots
 

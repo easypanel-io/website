@@ -55,6 +55,7 @@ Dev mode Enable | - | yes | true
 ## Change Log
 
 - 2023-03-16 – first release
+- 2025-02-25 – Version bumped to v2.8.4
 
 ## Contributors
 

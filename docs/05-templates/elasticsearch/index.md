@@ -41,7 +41,7 @@ Elasticsearch is a dynamic search and analytics engine designed for seamless han
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | elasticsearch
-App Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+App Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:8.17.2
 Password | - | yes | 
 
 ## Screenshots

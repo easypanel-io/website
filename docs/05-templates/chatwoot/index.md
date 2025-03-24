@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Default Locale | - | yes | en
 App Service Name | - | yes | chatwoot
-App Service Image | - | yes | chatwoot/chatwoot:v3.16.0
+App Service Image | - | yes | chatwoot/chatwoot:v4.0.1
 Sidekiq Service Name | - | yes | chatwoot-sidekiq
 Database Service Name | - | yes | chatwoot-db
 Redis Service Name | - | yes | chatwoot-redis
@@ -55,6 +55,7 @@ Redis Service Name | - | yes | chatwoot-redis
 
 - 2023-1-22 – first release
 - 2025-01-09 – Version bumped to v3.16.0
+- 2025-02-21 – PgVector Extention enabled PG17 has been added and version bumped to v4.0.1
 
 ## Contributors
 

@@ -39,7 +39,7 @@ Coral is a revolutionary app designed to enhance the commenting experience on yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coral
-App Service Image | - | yes | coralproject/talk:9.6.1
+App Service Image | - | yes | coralproject/talk:9.7.0
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
 Metrics Port Enable | - | yes | false

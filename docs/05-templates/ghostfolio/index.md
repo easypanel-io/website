@@ -43,7 +43,7 @@ Click on get started, create account and save the generated token safely for log
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghostfolio
-App Service Image | - | yes | docker.io/ghostfolio/ghostfolio:2.137.1
+App Service Image | - | yes | docker.io/ghostfolio/ghostfolio:2.140.0
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | docker.io/ghostfolio/ghostfolio:2.137.1
 ## Change Log
 
 - 2025-02-06 – Template Release
+- 2025-02-25 – Version bumped to 2.140.0
 
 ## Contributors
 

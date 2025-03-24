@@ -41,7 +41,7 @@ Activepieces is a powerful open-source business automation tool designed to stre
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | activepieces
-App Service Image | - | yes | activepieces/activepieces:0.38.6
+App Service Image | - | yes | activepieces/activepieces:0.44.0
 Database Service Name | - | yes | activepieces-db
 Redis Service Name | - | yes | activepieces-redis
 
@@ -61,6 +61,7 @@ Redis Service Name | - | yes | activepieces-redis
 - 2024-8-1 – Version bumped to latest
 - 2024-9-30 – Changed latest tag to latest bumped version 0.9.1
 - 2025-01-06 – Changed latest tag to latest bumped version 0.38.6
+- 2025-02-21 – Version bumped to 0.44.0
 
 ## Contributors
 
@@ -68,4 +69,4 @@ Redis Service Name | - | yes | activepieces-redis
 - [Supernova3339](https://github.com/Supernova3339)
 - [Ponkhy](https://github.com/Ponkhy)
 - [Berk Sümbül](https://berksmbl.com)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

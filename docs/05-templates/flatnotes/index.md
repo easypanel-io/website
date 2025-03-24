@@ -40,7 +40,7 @@ Flatnotes is an open-source, self-hosted note-taking platform designed to help i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flatnotes
-App Service Image | - | yes | dullage/flatnotes:v5.4.0
+App Service Image | - | yes | dullage/flatnotes:v5.4.1
 Username | - | yes | flatnotesuser
 Password | - | yes | password
 
@@ -51,6 +51,7 @@ Password | - | yes | password
 ## Change Log
 
 - 2025-01-20 – First Release
+- 2025-02-25 – Version bumped to v5.4.1
 
 ## Contributors
 

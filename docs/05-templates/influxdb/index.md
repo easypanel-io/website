@@ -41,7 +41,7 @@ InfluxDB is a time-series database designed to handle high write and query loads
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | influxdb
-App Service Image | - | yes | influxdb:2
+App Service Image | - | yes | influxdb:2.7.11
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | influxdb:2
 ## Change Log
 
 - 2024-10-30 – Template Added
+- 2025-02-25 – Version bumped to 2.7.11
 
 ## Contributors
 

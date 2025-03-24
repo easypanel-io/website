@@ -40,7 +40,7 @@ Docmost is a secure and versatile self-hosted platform for document management a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | docmost
-App Service Image | - | yes | docmost/docmost:0.6.2
+App Service Image | - | yes | docmost/docmost:0.8.3
 
 ## Screenshots
 

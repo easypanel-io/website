@@ -1584,6 +1584,12 @@
     "description": "OneDev is a versatile app designed to streamline your project management and development processes. It offers a comprehensive suite of features including pull requests, issue tracking, and build management. With OneDev, you can easily manage your projects, track commits, and handle branches and tags. The app also provides a platform for managing pull requests, merging them, and discarding when necessary. It allows you to keep track of open and closed issues, as well as those that have been released. OneDev also offers a robust build management system, enabling you to monitor successful builds across various projects. The app is designed to support multiple projects, each with its own set of files, commits, branches, tags, pull requests, and builds. With OneDev, you can streamline your workflow, enhance collaboration, and improve productivity in your development projects."
   },
   {
+    "slug": "onlyoffice",
+    "logo": "logo.png",
+    "name": "OnlyOffice",
+    "description": "OnlyOffice is a self-hosted office suite that provides powerful document, spreadsheet, and presentation editing capabilities. It offers full compatibility with Microsoft Office formats and allows real-time document collaboration. Designed for businesses, teams, and individuals, OnlyOffice ensures secure, private, and efficient document management. It includes integration with various cloud storage services, supports plugins for extended functionality, and provides a modern web-based interface. OnlyOffice can be deployed on-premise or in the cloud and is ideal for organizations that need control over their document workflow. Additional features include a built-in document management system, mail integration, calendar, CRM tools, and a powerful API for automation."
+  },
+  {
     "slug": "openblocks",
     "logo": "logo.png",
     "name": "Openblocks",
@@ -1722,6 +1728,12 @@
     "description": "Peppermint is a cutting-edge, open-source issue management and helpdesk platform designed to rival Jira and Zendesk while remaining cost-effective and highly customizable. Built with the user in mind, Peppermint empowers teams to manage support tickets, customer requests, and projects with efficiency and ease."
   },
   {
+    "slug": "pgadmin",
+    "logo": "logo.png",
+    "name": "Pgadmin",
+    "description": "PGAdmin is a popular open-source administration and management tool for PostgreSQL databases. It provides a web-based interface to interact with PostgreSQL databases, allowing users to create, modify, and manage databases, tables, roles, and queries with ease. PGAdmin supports advanced query execution, database performance analysis, and extensive user management capabilities. With a modern and intuitive UI, it is designed for database administrators, developers, and analysts to efficiently work with PostgreSQL databases. Additional features include SQL query editor, ERD diagrams, scheduled backups, and monitoring tools."
+  },
+  {
     "slug": "pgvector",
     "logo": null,
     "name": "pgvector",
@@ -1804,6 +1816,12 @@
     "logo": "logo.svg",
     "name": "Portainer",
     "description": "Portainer is a powerful container management platform trusted by over a million users worldwide. It simplifies the deployment, configuration, troubleshooting, and securing of containers on Kubernetes, Docker, and Swarm across any data center, cloud, network edge, or IIOT device. Portainer is designed to accelerate container adoption and reduce deployment times, making it easier for teams with little to no knowledge of Kubernetes to work autonomously. It also aids in managing and updating deployments, setting up, maintaining, and troubleshooting container infrastructure, and ensuring security and compliance. Portainer supports hybrid and multi-cloud, multi-cluster, multi-device container management, making it a versatile tool for managing complex container ecosystems."
+  },
+  {
+    "slug": "poste",
+    "logo": "logo.png",
+    "name": "Poste",
+    "description": "Poste is a self-hosted mail server solution that provides a complete and secure email hosting platform. It offers built-in features such as spam filtering, DKIM signing, and webmail access to ensure a reliable email experience. This app is a Docker containerized version of Poste, making it easy to deploy and manage across various environments."
   },
   {
     "slug": "postfixadmin",
@@ -2208,6 +2226,12 @@
     "description": "Tautulli is a powerful web application designed to monitor, analyze, and notify you about your Plex Media Server's activities. It runs alongside your Plex Media Server, tracking a variety of statistics including what has been watched, who watched it, when and where it was watched, and how it was watched. The app presents all these statistics in a clean, user-friendly interface with tables and graphs. Tautulli also allows you to monitor current activity on your Plex Media Server, log watch history for all your users, view streaming trends with intuitive graphs, trigger notifications or scripts from events on your Plex server, and keep track of when content is added to your Plex library. You can also create and send newsletters for recently added media, view and delete all synced content from your server, see detailed information on all of your media, and even download the official app to view activity and stats on the go. Tautulli is compatible with any system that supports python."
   },
   {
+    "slug": "teable",
+    "logo": "logo.png",
+    "name": "Teable",
+    "description": "Teable is a powerful, self-hosted service designed for managing team collaboration and projects efficiently. It offers a clean and user-friendly interface, supports plugins for extended functionality, and provides detailed analytics on team activities. With Teable, you can maintain full control over your data and workflows."
+  },
+  {
     "slug": "teamspeak",
     "logo": "logo.png",
     "name": "Teamspeak",
@@ -2298,6 +2322,18 @@
     "description": "Trilium is a hierarchical note-taking application designed for creating and managing large personal knowledge bases. With Trilium, you can arrange your notes into an arbitrarily deep tree structure, with the ability to place a single note in multiple locations. The app offers rich WYSIWYG note editing, including tables, images, and math, with markdown autoformat. It also supports editing notes with source code, complete with syntax highlighting. Trilium provides seamless note versioning and attributes for note organization, querying, and advanced scripting. The app also includes a synchronization feature with a self-hosted sync server. For enhanced security, Trilium offers strong note encryption with per-note granularity. Other features include sketching diagrams with built-in Excalidraw, visualizing notes and their relations with relation maps and link maps, and a REST API for automation. Trilium is optimized for both usability and performance, capable of handling upwards of 100,000 notes."
   },
   {
+    "slug": "tubearchivist",
+    "logo": "logo.png",
+    "name": "TubeArchivist",
+    "description": "TubeArchivist is a self-hosted YouTube archiving tool that allows you to manage and organize your YouTube content locally. It downloads videos, indexes metadata, and provides a web-based interface for searching, organizing, and playing content. Designed for personal use, TubeArchivist integrates with Elasticsearch for advanced search capabilities and Redis for optimized caching and task management. It also supports custom playlists, video tagging, and offline playback, providing complete control over your video collection."
+  },
+  {
+    "slug": "tubesync",
+    "logo": "logo.png",
+    "name": "TubeSync",
+    "description": "TubeSync is a powerful self-hosted application designed to automatically sync and download YouTube videos from subscriptions or playlists. It provides an intuitive web interface to manage downloads, supports filtering by keywords, and integrates with various media management systems. TubeSync allows users to schedule automatic downloads, ensuring they never miss new content from their favorite channels. It is built for efficiency, offering high-speed downloads and optimized storage handling. The application runs as a lightweight container, making it easy to deploy and manage."
+  },
+  {
     "slug": "twenty",
     "logo": "logo.png",
     "name": "Twenty",
@@ -2332,6 +2368,12 @@
     "logo": "logo.svg",
     "name": "UptimeKuma",
     "description": "Uptime Kuma is a self-hosted monitoring tool designed to keep track of your website's uptime. It provides a comprehensive monitoring solution for HTTP(s), TCP, HTTP(s) Keyword, HTTP(s) Json Query, Ping, DNS Record, Push, Steam Game Server, and Docker Containers. The tool features a user-friendly, reactive, and fast UI/UX. It offers notifications via various platforms including Telegram, Discord, Gotify, Slack, Pushover, and Email (SMTP), among others. Uptime Kuma supports multi-language interfaces and multiple status pages, allowing users to map status pages to specific domains. It also provides ping charts, certificate info, proxy support, and 2FA support for enhanced security. This tool is perfect for those who want to ensure their website is always up and running."
+  },
+  {
+    "slug": "usermemos",
+    "logo": "logo.png",
+    "name": "Usermemos",
+    "description": "Usermemos is a lightweight, self-hosted note-taking application designed for simplicity, accessibility, and efficiency. It provides an intuitive interface for capturing and organizing memos with support for markdown formatting, tagging, and searching. This app is a Docker containerized version of Usermemos, making it easy to deploy and manage in various environments. The app supports multiple architectures, including x86-64 and arm64, and can be accessed via HTTP or HTTPS. It offers additional environment variables and configurations to enable customization. Usermemos is designed for both personal and collaborative usage, ensuring that users can manage their notes effectively."
   },
   {
     "slug": "vaultwarden",

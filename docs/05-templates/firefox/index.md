@@ -45,7 +45,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | firefox
-App Service Image | - | yes | lscr.io/linuxserver/firefox:0.24.04
+App Service Image | - | yes | lscr.io/linuxserver/firefox:135.0.1
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | lscr.io/linuxserver/firefox:0.24.04
 ## Change Log
 
 - 2022-11-14 – first release
+- 2025-02-25 – Version bumped to 135.0.1
 
 ## Contributors
 

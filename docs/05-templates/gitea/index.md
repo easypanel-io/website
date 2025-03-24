@@ -42,7 +42,7 @@ Gitea is a lightweight DevOps platform designed to streamline operations from pl
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gitea
-App Service Image | - | yes | gitea/gitea:1.23.1
+App Service Image | - | yes | gitea/gitea:1.23.4
 Database Type | - | yes | 
 Database Service Name | - | yes | gitea-db
 
@@ -55,6 +55,7 @@ Database Service Name | - | yes | gitea-db
 - 2022-07-12 – first release
 - 2023-2-24 – Update to v1.18.4
 - 2025-01-14 – Version bumped to 1.23.1
+- 2025-02-25 – Version bumped to 1.23.4
 
 ## Contributors
 

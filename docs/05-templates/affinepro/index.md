@@ -43,7 +43,7 @@ The migration service can be safely removed once the process is complete. You ma
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | affinepro
-App Service Image | - | yes | ghcr.io/toeverything/affine-graphql:stable-c5da8dd
+App Service Image | - | yes | ghcr.io/toeverything/affine-graphql:stable-780dd83
 Mailer Host | - | no | 
 Mailer Host Port | - | no | 
 Mailer Host User | - | no | 
@@ -58,6 +58,7 @@ Mailer Sender | - | no |
 ## Change Log
 
 - 2025-01-14 – Template Release
+- 2025-02-21 – Version bumped to stable-780dd83
 
 ## Contributors
 

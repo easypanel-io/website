@@ -47,7 +47,7 @@ Configure settings.yaml for customization.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homepage
-App Service Image | - | yes | ghcr.io/gethomepage/homepage:v0.10.7
+App Service Image | - | yes | ghcr.io/gethomepage/homepage:v0.10.9
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | ghcr.io/gethomepage/homepage:v0.10.7
 ## Change Log
 
 - 2024-12-22 – First Release
+- 2025-02-25 – Version bumped to v0.10.9
 
 ## Contributors
 

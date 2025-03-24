@@ -58,4 +58,4 @@ Database Service Name | - | yes | bytebase-db
 
 - [Amit Gadhia](https://github.com/amitoo7)
 - [Berk Sümbül](https://berksmbl.com)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

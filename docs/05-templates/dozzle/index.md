@@ -44,7 +44,7 @@ Password | - | no |
 Log Level | - | yes | info
 No Analytics | - | yes | false
 App Service Name | - | yes | dozzle
-App Service Image | - | yes | amir20/dozzle:v8.10.1
+App Service Image | - | yes | amir20/dozzle:v8.11
 
 ## Screenshots
 
