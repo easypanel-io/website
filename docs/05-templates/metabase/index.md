@@ -41,7 +41,7 @@ Metabase is a powerful, user-friendly application designed to enable your compan
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | metabase
-App Service Image | - | yes | metabase/metabase:v0.50.30.1
+App Service Image | - | yes | metabase/metabase:v0.53.4.2
 Metabase Site Name (Title) | - | no | 
 
 ## Screenshots
@@ -52,6 +52,7 @@ Metabase Site Name (Title) | - | no |
 
 - 2022-11-08 – first release
 - 2024-10-19 – Second Release
+- 2025-02-28 – Version bumped to v0.53.4.2
 
 ## Contributors
 

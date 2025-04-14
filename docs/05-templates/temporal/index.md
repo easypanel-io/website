@@ -39,10 +39,10 @@ Temporal is an open-source, self-hosted workflow orchestration engine designed t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | temporal
-App Service Image | - | yes | temporalio/auto-setup:1.26.2
+App Service Image | - | yes | temporalio/auto-setup:1.27.1.0
 Elasticsearch Service Image | - | yes | elasticsearch:7.16.2
-Temporal UI Service Image | - | yes | temporalio/ui:2.22.1
-Temporal Admin Service Image | - | yes | temporalio/admin-tools:1.26.2
+Temporal UI Service Image | - | yes | temporalio/ui:2.36.0
+Temporal Admin Service Image | - | yes | temporalio/admin-tools:1.27
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ Temporal Admin Service Image | - | yes | temporalio/admin-tools:1.26.2
 ## Change Log
 
 - 2025-01-03 – Template Release
+- 2025-03-03 – Version bumped to 2.36.0 for UI, 1.27.1.0 for server, 1.27 for admin tools.
 
 ## Contributors
 

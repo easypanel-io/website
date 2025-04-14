@@ -41,7 +41,7 @@ Readarr is an ebook and audiobook collection manager designed for Usenet and Bit
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | readarr
-App Service Image | - | yes | linuxserver/readarr:0.4.3-nightly
+App Service Image | - | yes | linuxserver/readarr:0.4.11-nightly
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | linuxserver/readarr:0.4.3-nightly
 ## Change Log
 
 - 2024-03-18 – Template added
+- 2025-02-28 – Version bumped to 0.4.11-nightly
 
 ## Contributors
 

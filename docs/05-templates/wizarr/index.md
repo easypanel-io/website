@@ -48,7 +48,7 @@ Wizarr is an automatic user invitation system designed to streamline the process
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wizarr
-App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:4.1.1
+App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:4.2.0
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:4.1.1
 
 - 2023-03-1 – first release
 - 2023-03-22 – Update to v2.1.3
+- 2025-03-03 – Version bumped to 4.2.0
 
 ## Contributors
 

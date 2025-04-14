@@ -96,6 +96,12 @@
     "description": "ArangoDB is a multi-model NoSQL database system that supports graph, document, and key-value data models. It is designed for scalability, high availability, and flexibility, making it suitable for a wide range of applications, from simple document storage to complex graph processing. ArangoDB offers a native query language (AQL), full-text search capabilities, a built-in HTTP API, and a web-based UI for management. It also provides features like replication, sharding, and ACID transactions to ensure data integrity and performance. With its integrated search engine and support for multi-tenancy, ArangoDB is an ideal choice for both small projects and enterprise-level applications."
   },
   {
+    "slug": "archivebox",
+    "logo": "logo.png",
+    "name": "ArchiveBox",
+    "description": "ArchiveBox is a self-hosted open-source internet archiving solution that allows you to save and browse webpages offline. It enables users to store full snapshots of web pages, including HTML, media, PDFs, and more, preserving them for future reference. ArchiveBox supports various input formats such as bookmarks, RSS feeds, and browser history, making it easy to automate and manage archiving tasks. The web interface provides a structured way to browse archived content, perform full-text searches, and organize saved snapshots efficiently. Additionally, it offers integrations with other tools, supports multiple storage backends, and provides API access for advanced automation."
+  },
+  {
     "slug": "argilla",
     "logo": "logo.svg",
     "name": "Argilla",
@@ -360,6 +366,12 @@
     "description": "Cronicle is a powerful, multi-server task scheduler and runner, with an easy-to-use web-based interface. It allows you to schedule and run scripts, commands, or software programs on a recurring basis, similar to cron jobs but with the added capability of visual management and log tracking. Cronicle supports complex workflows including dependencies between tasks, and it can distribute tasks across multiple servers for load balancing. It's ideal for automating backups, updates, data processing tasks, and more in a distributed environment."
   },
   {
+    "slug": "cryptgeon",
+    "logo": "logo.png",
+    "name": "Cryptgeon",
+    "description": "Cryptgeon is a secure, open source sharing note or file service inspired by PrivNote. It includes a server, a web page and a CLI client."
+  },
+  {
     "slug": "cryptpad",
     "logo": "logo.svg",
     "name": "Cryptpad",
@@ -388,6 +400,12 @@
     "logo": "logo.png",
     "name": "Daapd",
     "description": "Daapd is a robust, open-source DAAP (Digital Audio Access Protocol) server that allows users to share music libraries over a network. It is designed to work seamlessly with iTunes, Roku SoundBridges, and other DAAP clients, providing an efficient and reliable way to stream audio content across devices. Daapd also supports streaming internet radio, podcasts, and AirPlay devices. With its powerful backend, Daapd ensures smooth performance, a wide range of supported formats, and advanced features like library management and transcoding."
+  },
+  {
+    "slug": "daptin",
+    "logo": "logo.png",
+    "name": "Daptin",
+    "description": "Daptin is an open-source backend development framework that enables rapid development and deployment of production-ready JSONAPI microservices. Design your data model and have a production-ready JSON API online in minutes."
   },
   {
     "slug": "dashdot",
@@ -732,6 +750,12 @@
     "description": "FusionAuth is a powerful, self-hosted identity and access management platform designed for developers. It provides a robust set of features, including user authentication, authorization, and user management, all accessible through a modern API or web interface. FusionAuth supports advanced features like social login, SSO, passwordless login, and multi-factor authentication."
   },
   {
+    "slug": "gerrit",
+    "logo": "logo.png",
+    "name": "Gerrit",
+    "description": "Gerrit is a web-based code review tool that integrates with Git. It provides a framework for reviewing code changes before they are merged into the codebase, making it an essential tool for collaborative software development."
+  },
+  {
     "slug": "ghost-file-sharing",
     "logo": "logo.png",
     "name": "Ghost File Sharing",
@@ -760,6 +784,12 @@
     "logo": "logo.png",
     "name": "Github Desktop",
     "description": "Github Desktop is an open-source, Electron-based application that simplifies the way you interact with GitHub. Written in TypeScript and using React, this app provides a user-friendly interface for managing your GitHub repositories. It allows you to access your GitHub account, manage your repositories, make changes, and track updates, all from the convenience of your desktop. The app is accessible via http://yourhost:3000/ or https://yourhost:3001/. It supports multiple architectures and can be easily deployed using Docker. Please note that this app requires specific environment variables and run configurations for optimal functionality."
+  },
+  {
+    "slug": "glance",
+    "logo": "logo.png",
+    "name": "Glance",
+    "description": "Glance is a fast and lightweight self-hosted dashboard that allows you to monitor various real-time data sources through customizable widgets. With support for RSS feeds, market prices, YouTube uploads, Twitch streams, weather forecasts, server stats, Docker container status, and more, Glance provides a centralized hub for tracking essential information. The dashboard is fully themeable, optimized for mobile devices, and highly configurable through YAML-based settings."
   },
   {
     "slug": "glances",
@@ -930,6 +960,12 @@
     "description": "Homer is a straightforward, static homepage for your server, designed to keep all your services easily accessible. It operates based on a simple yaml configuration file. This app serves as a full static HTML/JS dashboard, providing a centralized platform where you can manage and access all your services. It features a search function, grouping, theme customization, and offline health checks. It also supports keyboard shortcuts for quick navigation. Homer is designed to be served by an HTTP server and is perfect for those who want to keep their services organized and within reach."
   },
   {
+    "slug": "hortusfox",
+    "logo": "logo.png",
+    "name": "HortusFox",
+    "description": "HortusFox is a free, open-source, self-hosted, collaborative plant management system designed for individuals and groups to easily manage their plants, tasks, calendar, inventory, and more, all within a user-friendly web application."
+  },
+  {
     "slug": "humhub",
     "logo": "logo.png",
     "name": "HumHub",
@@ -990,6 +1026,12 @@
     "description": "Isso is a lightweight commenting server designed to be a seamless alternative to Disqus. It is written in Python and JavaScript, and it allows users to leave comments on your website in a simple and straightforward manner. The app supports anonymous comments, preserving the identity of your users, and is easy to manage. Users can write comments in Markdown, and they also have the ability to edit or delete their own comments within a default time frame of 15 minutes. The app uses a SQLite backend, ensuring that your comments are not treated as Big Data. Additionally, it offers Disqus and WordPress import features, allowing you to migrate your existing comments without any hassle. The app is easily integrated into your website by embedding a single JavaScript file."
   },
   {
+    "slug": "itop",
+    "logo": "logo.png",
+    "name": "iTop",
+    "description": "iTop is a self-hosted, open-source IT service management (ITSM) solution designed for businesses and organizations to manage their IT assets, incidents, and workflows efficiently. It provides a modern web interface for tracking and organizing IT infrastructure, support tickets, change requests, and service catalogs. iTop includes role-based user management, real-time notifications, and detailed reporting tools to help IT teams maintain operational efficiency. It supports multiple authentication methods, including LDAP and SAML, making it suitable for enterprise environments. Additionally, iTop offers API access for integration with third-party tools and automation of IT processes. Its containerized deployment ensures scalability and easy management."
+  },
+  {
     "slug": "ittools",
     "logo": "logo.png",
     "name": "It Tools",
@@ -1000,6 +1042,12 @@
     "logo": "logo.png",
     "name": "Jackett",
     "description": "Jackett is a versatile, open-source indexer proxy for torrenting and Usenet, enabling users to integrate popular trackers with applications like Sonarr, Radarr, and more. Designed to be lightweight and efficient, Jackett streamlines the process of accessing trackers, offering a seamless experience for managing and automating downloads."
+  },
+  {
+    "slug": "jaeger",
+    "logo": "logo.png",
+    "name": "Jaeger",
+    "description": "Jaeger is an end-to-end distributed tracing system used for monitoring and troubleshooting microservices-based architectures. It helps developers track requests across complex systems, visualize latencies, and diagnose performance issues. Jaeger supports multiple storage backends and provides powerful querying and visualization capabilities. It is designed to be scalable and production-ready, making it a valuable tool for debugging and optimizing distributed applications."
   },
   {
     "slug": "jellyfin",
@@ -1102,6 +1150,12 @@
     "logo": "logo.png",
     "name": "Kimai",
     "description": "Kimai is an open-source time-tracking solution designed for freelancers, small businesses, and enterprises to manage time-tracking needs efficiently. It enables users to track work hours, manage projects, and create accurate reports and invoices based on time entries. With a focus on simplicity and flexibility, Kimai is ideal for organizations looking to improve productivity, manage employee timesheets, and handle client billing without the complexity of traditional ERP systems. Kimai offers a modular architecture, allowing for easy customization to meet unique requirements, and it supports multi-user environments with permissions to manage data access."
+  },
+  {
+    "slug": "kokoro",
+    "logo": "logo.png",
+    "name": "Kokoro",
+    "description": "Kokoro is a powerful, browser-based AI voice generator that lets you create natural-sounding voices without installing anything. Use it directly in your browser or self-host it for your own applications with OpenAI API compatibility!"
   },
   {
     "slug": "komga",
@@ -1314,6 +1368,12 @@
     "description": "Manager.io is a versatile accounting software designed for small businesses. It allows you to manage your finances, track expenses, issue invoices, and generate comprehensive financial reports. The software supports multi-currency transactions, inventory tracking, payroll management, and tax calculations. With Manager.io, you can handle all your business accounting needs through an intuitive and user-friendly interface. It's available for desktop, server, and cloud deployment, offering flexibility and scalability for businesses of all sizes."
   },
   {
+    "slug": "manticore-search",
+    "logo": null,
+    "name": "Manticore Search",
+    "description": "Manticore Search is an easy to use open source fast database for search. It helps thousands of companies from small to large, such as Craigslist, to search and filter petabytes of text data on a single or hundreds of nodes, do stream full-text filtering, add auto-complete, spell correction, more-like-this, faceting and other search-related technologies to their websites and applications."
+  },
+  {
     "slug": "mastodon",
     "logo": "logo.svg",
     "name": "Mastodon",
@@ -1374,6 +1434,12 @@
     "description": "MediaWiki is a powerful, open-source wiki platform that powers some of the largest collaborative projects, including Wikipedia. It offers a flexible and extensible framework for creating and managing content, supporting features like user management, version control, and powerful extensions. MediaWiki provides multilingual support, ensuring global accessibility, and includes built-in tools for content organization, search, and collaboration. It is an ideal solution for knowledge bases, documentation sites, and community-driven content platforms. With a vibrant ecosystem of plugins and themes, MediaWiki can be customized to suit diverse use cases."
   },
   {
+    "slug": "medusa",
+    "logo": "logo.png",
+    "name": "Medusa",
+    "description": "Medusa is an automatic Video Library Manager for TV Shows. It continuously monitors multiple sources for new episodes of your favorite TV shows and automatically downloads, processes, and organizes them. Medusa fetches metadata, renames files, and ensures your media library is structured and up-to-date. With a powerful and customizable automation system, it supports multiple download clients, subtitle providers, and metadata sources. Medusa integrates with popular media servers, ensuring seamless media management."
+  },
+  {
     "slug": "meilisearch",
     "logo": "logo.svg",
     "name": "Meilisearch",
@@ -1402,6 +1468,12 @@
     "logo": "logo.svg",
     "name": "MeTube",
     "description": "MeTube is a web-based application that provides a user-friendly interface for the popular command-line tool, youtube-dl. It allows you to easily download videos from YouTube and dozens of other sites, right from your browser. The app supports playlist downloads, making it easy to grab an entire series of videos at once. It also offers a range of configuration options, allowing you to customize the download process to suit your needs. For instance, you can choose to save your downloads to a specific directory, separate audio-only downloads from video downloads, and even specify the filename template for your downloaded videos. MeTube also supports dark mode for a more comfortable viewing experience. The app runs in a Docker container, making it easy to deploy on any system that supports Docker."
+  },
+  {
+    "slug": "milvus",
+    "logo": "logo.png",
+    "name": "Milvus",
+    "description": "Milvus is an open-source vector database designed for AI applications and similarity search. It provides high-performance vector search capabilities and is optimized for handling large-scale vector data. Milvus supports various index types and search methods, making it ideal for applications like recommendation systems, image search, and natural language processing."
   },
   {
     "slug": "minecraft-server-bedrock",
@@ -1486,6 +1558,18 @@
     "logo": "logo.png",
     "name": "Navidrome",
     "description": "Welcome to Navidrome, your personal streaming service! This open-source software allows you to access and enjoy your music collection from anywhere, through a modern web UI and a wide range of third-party compatible mobile apps for both iOS and Android devices. Navidrome is lightweight, fast, and self-contained, capable of running well even on resource-limited platforms. It can handle large music libraries, and even transcodes your music files on the fly to prevent excessive data usage. Built with new technologies like GoLang, ReactJS, and Material-UI, Navidrome ensures modern features and compatibility. It is also compatible with the de facto standard Music API, supporting all its clients and ecosystem. With new releases on a regular basis, Navidrome continually adds features and bug fixes to enhance your music streaming experience."
+  },
+  {
+    "slug": "neko-rooms",
+    "logo": "logo.png",
+    "name": "Neko Rooms",
+    "description": "Neko Rooms is a self-hosted, collaborative virtualized browser-sharing platform that enables users to share and interact with web applications in a fully isolated and secure environment. It allows multiple users to join a shared session, providing seamless co-browsing experiences with synchronized interactions. Neko Rooms is built for teams, support agents, and anyone needing real-time, interactive browsing collaboration. It is optimized for low-latency streaming and supports multiple configurations for enhanced flexibility and performance."
+  },
+  {
+    "slug": "neo4j",
+    "logo": "logo.png",
+    "name": "Neo4j",
+    "description": "Neo4j is a native graph database that brings data relationships to the foreground. It's designed to store, manage, and analyze connected data efficiently. Neo4j is particularly well-suited for applications that need to model complex relationships between entities, such as social networks, recommendation engines, fraud detection, and knowledge graphs."
   },
   {
     "slug": "netbox",
@@ -2010,6 +2094,12 @@
     "description": "Rustdesk is a self-hosted remote desktop application that allows you to access and control devices remotely. It provides an open-source alternative to proprietary remote desktop software, offering full control over your own remote access infrastructure. With Rustdesk, users can securely connect to their computers from anywhere, manage remote desktops efficiently, and ensure privacy by hosting their own Rustdesk relay and ID server. Rustdesk is built with high-performance and encryption in mind, making it suitable for both personal and enterprise use."
   },
   {
+    "slug": "saltcorn",
+    "logo": "logo.png",
+    "name": "Saltcorn",
+    "description": "Saltcorn is an extensible open-source no-code database application builder. It allows you to build web applications based on relational data with flexible views, data types, and layouts. With Saltcorn, you can create dynamic applications without writing code, making it a powerful tool for both developers and non-developers alike."
+  },
+  {
     "slug": "searxng",
     "logo": "logo.svg",
     "name": "SearXNG",
@@ -2364,6 +2454,12 @@
     "description": "Unleash is an open-source feature management software designed to cater to the needs of large enterprises. It provides a private, secure, and scalable platform that is ready to handle complex setups right out of the box. Unleash allows you to code freely, release confidently, and then scale your software. It offers a 'buy, then build' solution that is flexible, multilingual, and scales along with your business processes. This results in reduced costs, efficient hours, and less technical debt. Unleash also allows for progressive, targeted feature rollouts, enabling you to release features to selected users the moment you're ready. It supports change requests and approvals, and provides resilience during service outages. With Unleash, you can easily customize the software to your specific use cases, build multiple environments on separate instances, and keep your user data safe through privacy by design, data residency, and flexible hosting options."
   },
   {
+    "slug": "unsend",
+    "logo": "logo.png",
+    "name": "Unsend",
+    "description": "Unsend is a self-hosted, alternative email-sending platform that provides a reliable and cost-effective way to send emails using Amazon SES. With a powerful dashboard, Unsend allows users to manage contacts, send bulk emails (such as newsletters and product updates), and handle subscriptions seamlessly. Future updates aim to support additional communication channels, including SMS, push notifications, and WhatsApp."
+  },
+  {
     "slug": "uptimekuma",
     "logo": "logo.svg",
     "name": "UptimeKuma",
@@ -2386,6 +2482,12 @@
     "logo": "logo.png",
     "name": "Verdaccio",
     "description": "Verdaccio is a lightweight, private npm proxy registry built in Node.js, designed to simplify and enhance your development workflow. It provides a simple, zero-configuration-required local private NPM registry, eliminating the need for a full database to get started. Verdaccio comes equipped with its own compact database and the capability to proxy other registries, such as npmjs.org, while caching the downloaded modules for improved efficiency. It allows you to use all the benefits of the npm package system in your company without exposing all your code to the public. You can link multiple registries, fetch packages from multiple sources in a single project, and even publish locally modified versions of third-party packages. Verdaccio is compatible with popular npm clients like npm, yarn, and pnpm, and supports various plugins for extended storage capabilities."
+  },
+  {
+    "slug": "vitess",
+    "logo": "logo.png",
+    "name": "Vitess",
+    "description": "Vitess is a database clustering system for horizontal scaling of MySQL. It is designed to make it easier to scale and manage large deployments of MySQL databases. Vitess helps handle sharding, connection pooling, and query routing efficiently, making it a great choice for cloud-native applications and high-traffic websites. It is used by companies like YouTube and Slack to manage massive database workloads. Vitess provides built-in automation, strong consistency, and MySQL compatibility while being resilient to failures and easy to operate at scale."
   },
   {
     "slug": "vscode-server",
@@ -2508,6 +2610,18 @@
     "description": "xBackbone is a versatile, self-hosted file and image sharing platform designed to manage and share content securely and efficiently. It features a clean and intuitive interface, supports multiple authentication options, and provides advanced file management capabilities. With xBackbone, you can maintain complete control over your shared content, ensuring privacy and flexibility."
   },
   {
+    "slug": "xwiki",
+    "logo": "logo.png",
+    "name": "Xwiki",
+    "description": "XWiki is a powerful, open source enterprise wiki platform designed for collaboration and content management. It offers extensive features to create, manage, and share knowledge effectively."
+  },
+  {
+    "slug": "yacht",
+    "logo": "logo.png",
+    "name": "yacht",
+    "description": "Yacht is a self-hosted web-based container management tool designed to provide a user-friendly and intuitive interface for managing Docker containers. It simplifies container deployment, monitoring, and management, making it accessible for both beginners and advanced users. Yacht supports multiple container engines and integrates with Docker Compose, allowing users to easily create, update, and manage their containerized applications."
+  },
+  {
     "slug": "yao",
     "logo": "logo.png",
     "name": "YAO",
@@ -2518,6 +2632,12 @@
     "logo": "logo.png",
     "name": "YOURLS",
     "description": "YOURLS (Your Own URL Shortener) is a powerful, self-hosted service designed for creating and managing short URLs. It provides a clean and simple interface, supports plugins for extended functionality, and offers detailed link tracking analytics. With YOURLS, you can maintain control over your short links and branding. The application is accessible via your host on ports 8080 and 8081. This container is based on Docker Baseimage KasmVNC, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
+  },
+  {
+    "slug": "zep",
+    "logo": "logo.png",
+    "name": "Zep",
+    "description": "Zep is a powerful, self-hosted AI platform designed for seamless integration with large language models. It provides a clean and intuitive interface, supports plugins for extended functionality, and offers detailed analytics to monitor and optimize your AI workflows. With Zep, you maintain full control over your deployments and configurations. The application is accessible via your host on designated ports, ensuring secure and scalable operations. This container is based on Docker Baseimage KasmVNC, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
   },
   {
     "slug": "zipline",

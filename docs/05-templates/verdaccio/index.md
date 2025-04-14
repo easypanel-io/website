@@ -41,7 +41,7 @@ Verdaccio is a lightweight, private npm proxy registry built in Node.js, designe
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | verdaccio
-App Service Image | - | yes | verdaccio/verdaccio:6.0.1
+App Service Image | - | yes | verdaccio/verdaccio:6.0.5
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | verdaccio/verdaccio:6.0.1
 ## Change Log
 
 - 2022-10-31 – first release
+- 2025-03-03 – Version bumped to 6.0.5
 
 ## Contributors
 

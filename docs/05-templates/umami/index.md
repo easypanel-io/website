@@ -42,7 +42,7 @@ You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | umami
-App Service Image | - | yes | ghcr.io/umami-software/umami:postgresql-v2.13.2
+App Service Image | - | yes | ghcr.io/umami-software/umami:postgresql-v2.16.1
 Database Service Name | - | yes | umami-db
 
 ## Screenshots

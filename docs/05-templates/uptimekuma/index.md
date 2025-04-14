@@ -43,7 +43,7 @@ Uptime Kuma is a self-hosted monitoring tool designed to keep track of your webs
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | uptimekuma
-App Service Image | - | yes | louislam/uptime-kuma:1.9.2
+App Service Image | - | yes | louislam/uptime-kuma:2.0.0-beta.1
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | louislam/uptime-kuma:1.9.2
 ## Change Log
 
 - 2022-08-02 – first release
+- 2025-03-03 – Version bumped to 2.0.0-beta.1
 
 ## Contributors
 

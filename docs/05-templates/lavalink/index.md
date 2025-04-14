@@ -42,9 +42,9 @@ Lavalink is a standalone audio sending node designed to facilitate the process o
 
 Name | Description | Required | Default Value
 -|-|-|-
-Auth server password | - | yes | 
 App Service Name | - | yes | lavalink-server
-App Service Image | - | yes | fredboat/lavalink:v4.0.5
+App Service Image | - | yes | fredboat/lavalink:efed40d-alpine
+Auth server password | - | yes | 
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | fredboat/lavalink:v4.0.5
 ## Change Log
 
 - 2019-07-24 – first release
+- 2025-02-28 – Version bumped to efed40d-alpine
 
 ## Contributors
 

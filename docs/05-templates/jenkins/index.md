@@ -43,7 +43,7 @@ Jenkins is an open source automation server. It helps automate the parts of soft
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jenkins
-App Service Image | - | yes | jenkins/jenkins:2.474
+App Service Image | - | yes | jenkins/jenkins:2.499
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | jenkins/jenkins:2.474
 ## Change Log
 
 - 2024-10-06 – First Release of Version 2.474
+- 2025-02-28 – Version bumped to 2.499
 
 ## Contributors
 

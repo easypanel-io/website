@@ -45,7 +45,7 @@ Default login username: admin, password: admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kanboard
-App Service Image | - | yes | kanboard/kanboard:v1.2.40
+App Service Image | - | yes | kanboard/kanboard:v1.2.43
 
 ## Screenshots
 

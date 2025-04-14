@@ -47,7 +47,7 @@ Configure the database during the installation wizard. Use the provided domains 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | prestashop
-App Service Image | - | yes | prestashop/prestashop:8.2.0
+App Service Image | - | yes | prestashop/prestashop:8.2.1
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | prestashop/prestashop:8.2.0
 ## Change Log
 
 - 2024-11-20 – First Release
+- 2025-02-28 – Version bumped to 8.2.1
 
 ## Contributors
 

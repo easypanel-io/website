@@ -46,7 +46,7 @@ none
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyseerr
-App Service Image | - | yes | fallenbagel/jellyseerr:1.9.2
+App Service Image | - | yes | fallenbagel/jellyseerr:2.3.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | fallenbagel/jellyseerr:1.9.2
 ## Change Log
 
 - 2022-12-20 – first release
+- 2025-02-28 – Version bumped to 2.3.0
 
 ## Contributors
 

@@ -41,7 +41,7 @@ PairDrop is an open-source peer-to-peer file sharing application designed for se
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pairdrop
-App Service Image | - | yes | lscr.io/linuxserver/pairdrop:1.10.10
+App Service Image | - | yes | lscr.io/linuxserver/pairdrop:1.11.2
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | lscr.io/linuxserver/pairdrop:1.10.10
 ## Change Log
 
 - 2024-11-17 – Template Release
+- 2025-02-28 – Version bumped to 1.11.2
 
 ## Contributors
 

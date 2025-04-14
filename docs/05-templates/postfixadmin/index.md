@@ -43,7 +43,7 @@ To create an admin user, run the following commands in the PostfixAdmin containe
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | postfixadmin
-App Service Image | - | yes | postfixadmin:3.3.14-apache
+App Service Image | - | yes | postfixadmin:3.3.15-apache
 SMTP Server | - | yes | localhost
 SMTP Port | - | yes | 25
 
@@ -54,6 +54,7 @@ SMTP Port | - | yes | 25
 ## Change Log
 
 - 2024-12-02 – Template Release
+- 2025-02-28 – Version bumped to 3.3.15-apache
 
 ## Contributors
 

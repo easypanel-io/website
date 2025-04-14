@@ -43,7 +43,7 @@ mStream is a personal music streaming server that allows you to access your musi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mstream
-App Service Image | - | yes | lscr.io/linuxserver/mstream:5.12.2
+App Service Image | - | yes | lscr.io/linuxserver/mstream:5.13.1
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | lscr.io/linuxserver/mstream:5.12.2
 
 - 2023-3-20 – first release
 - 2024-10-19 – Update to 5.12.2
+- 2025-02-28 – Version bumped to 5.13.1
 
 ## Contributors
 

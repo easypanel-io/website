@@ -37,7 +37,7 @@ Whoogle is an open-source, privacy-focused search engine that serves as a proxy 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | whoogle
-App Service Image | - | yes | benbusby/whoogle-search:0.9.1
+App Service Image | - | yes | benbusby/whoogle-search:0.9.3
 
 ## Screenshots
 
@@ -46,6 +46,7 @@ App Service Image | - | yes | benbusby/whoogle-search:0.9.1
 ## Change Log
 
 - 2024-10-11 – Version 0.9.0 (First Release)
+- 2025-03-03 – Version bumped to 0.9.3
 
 ## Contributors
 

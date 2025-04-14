@@ -45,7 +45,7 @@ Login with any username or password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | radicale
-App Service Image | - | yes | tomsquest/docker-radicale:3.3.0.1
+App Service Image | - | yes | tomsquest/docker-radicale:3.4.1.0
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | tomsquest/docker-radicale:3.3.0.1
 ## Change Log
 
 - 2023-3-27 – first release
+- 2025-02-28 – Version bumped to 3.4.1.0
 
 ## Contributors
 

@@ -46,7 +46,7 @@ Login with admin:unleash4all
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | unleash
-App Service Image | - | yes | unleashorg/unleash-server:6.4.1
+App Service Image | - | yes | unleashorg/unleash-server:6.7
 Database Service Name | - | yes | unleash-db
 
 ## Screenshots
@@ -56,6 +56,7 @@ Database Service Name | - | yes | unleash-db
 ## Change Log
 
 - 2023-04-12 – first release
+- 2025-03-03 – Version bumped to 6.7
 
 ## Contributors
 

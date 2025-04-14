@@ -41,7 +41,7 @@ Name | Description | Required | Default Value
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | miniflux
-App Service Image | - | yes | miniflux/miniflux:2.2.1
+App Service Image | - | yes | miniflux/miniflux:2.2.6
 Database Service Name | - | yes | miniflux-db
 
 ## Screenshots
@@ -52,6 +52,7 @@ Database Service Name | - | yes | miniflux-db
 
 - 2022-07-12 – first release
 - 2024-10-19 – Version Updated to 2.2.1
+- 2025-02-28 – Version bumped to 2.2.6
 
 ## Contributors
 

@@ -50,7 +50,7 @@ Mail User | - | no |
 Mail Password | - | no | 
 Mail From | - | no | 
 App Service Name | - | yes | kutt
-App Service Image | - | yes | kutt/kutt:v2.7.4
+App Service Image | - | yes | kutt/kutt:v3.2.3
 Database Service Name | - | yes | kutt-db
 Redis Service Name | - | yes | kutt-redis
 
@@ -61,6 +61,7 @@ Redis Service Name | - | yes | kutt-redis
 ## Change Log
 
 - 2023-03-24 – First Release
+- 2025-02-28 – Version bumped to v3.2.3
 
 ## Contributors
 

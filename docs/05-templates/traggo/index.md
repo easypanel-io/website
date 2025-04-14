@@ -39,7 +39,7 @@ Traggo is a powerful, self-hosted time tracking and project management tool desi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | traggo
-App Service Image | - | yes | traggo/server:0.6.0
+App Service Image | - | yes | traggo/server:0.6.1
 Traggo Username | - | yes | admin
 Traggo Password | - | yes | 
 
@@ -50,6 +50,7 @@ Traggo Password | - | yes |
 ## Change Log
 
 - 2024-11-27 – Template Release
+- 2025-03-03 – Version bumped to 0.6.1
 
 ## Contributors
 

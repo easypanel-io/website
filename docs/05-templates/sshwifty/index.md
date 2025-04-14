@@ -38,7 +38,7 @@ Sshwifty is a web-based SSH and Telnet client that allows you to access these se
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sshwifty
-App Service Image | - | yes | niruix/sshwifty:0.3.10-beta-release
+App Service Image | - | yes | niruix/sshwifty:0.3.18-beta-release
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | niruix/sshwifty:0.3.10-beta-release
 ## Change Log
 
 - 2022-12-20 – first release
+- 2025-03-03 – Version bumped to 0.3.18-beta-release
 
 ## Contributors
 

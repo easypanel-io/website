@@ -39,7 +39,7 @@ Slash is an open source, self-hosted platform designed to help you organize, man
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | slash
-App Service Image | - | yes | yourselfhosted/slash:0.5.3
+App Service Image | - | yes | yourselfhosted/slash:1.0.0
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | yourselfhosted/slash:0.5.3
 ## Change Log
 
 - 2025-02-14 – First Release
+- 2025-03-03 – Version bumped to 1.0.0
 
 ## Contributors
 

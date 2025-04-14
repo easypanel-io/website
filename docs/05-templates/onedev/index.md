@@ -40,7 +40,7 @@ OneDev is a versatile app designed to streamline your project management and dev
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | onedev
-App Service Image | - | yes | 1dev/server:11.3.3
+App Service Image | - | yes | 1dev/server:11.7.2
 Database Service Name | - | yes | onedev-db
 
 ## Screenshots
@@ -50,6 +50,7 @@ Database Service Name | - | yes | onedev-db
 ## Change Log
 
 - 2023-02-9 – first release
+- 2025-02-28 – Version bumped to 11.7.2
 
 ## Contributors
 

@@ -46,7 +46,7 @@ Registration is disabled by default, but the first registration will always be a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lynx
-App Service Image | - | yes | jackbailey/lynx:1.9.2
+App Service Image | - | yes | jackbailey/lynx:1.10.1
 Database Service Name | - | yes | lynx-db
 
 ## Screenshots
@@ -57,6 +57,7 @@ Database Service Name | - | yes | lynx-db
 ## Change Log
 
 - 2023-3-15 – first release
+- 2025-02-28 – Version bumped to 1.10.1
 
 ## Contributors
 

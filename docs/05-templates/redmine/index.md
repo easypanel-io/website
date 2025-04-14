@@ -45,7 +45,7 @@ Default admin login; admin/admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | redmine
-App Service Image | - | yes | redmine:alpine3.20
+App Service Image | - | yes | redmine:6.0.3
 Database Service Name | - | yes | redmine-db
 
 ## Screenshots
@@ -55,6 +55,7 @@ Database Service Name | - | yes | redmine-db
 ## Change Log
 
 - 2024-10-28 – Template added
+- 2025-02-28 – Version bumped to 6.0.3
 
 ## Contributors
 

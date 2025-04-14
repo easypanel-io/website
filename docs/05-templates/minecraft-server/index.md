@@ -38,7 +38,7 @@ The itzg/minecraft-server app is designed to provide a seamless Minecraft Server
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | minecraft-server
-App Service Image | - | yes | itzg/minecraft-server:2024.10.2
+App Service Image | - | yes | itzg/minecraft-server:2025.2.1
 Server Name | - | no | MyServer
 Version | - | no | LATEST
 Server Types | - | no | VANILLA
@@ -78,6 +78,7 @@ RCON Password | - | no |
 
 - 2023-03-18 – First Release
 - 2024-10-19 – Update to 2024.10.2
+- 2025-02-28 – Version bumped to 2025.2.1
 
 ## Contributors
 

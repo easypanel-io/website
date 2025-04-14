@@ -46,7 +46,7 @@ Access the Snapdrop service via your browser on devices connected to the same ne
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | snapdrop
-App Service Image | - | yes | lscr.io/linuxserver/snapdrop:version-f88d46ed
+App Service Image | - | yes | lscr.io/linuxserver/snapdrop:version-b8b78cc2
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | lscr.io/linuxserver/snapdrop:version-f88d46ed
 ## Change Log
 
 - 2024-12-12 – First release
+- 2025-03-03 – Version bumped to version-b8b78cc2
 
 ## Contributors
 

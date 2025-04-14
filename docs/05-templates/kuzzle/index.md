@@ -45,7 +45,7 @@ You should connect with the Kuzzle instance using the provided domain which prox
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kuzzle
-App Service Image | - | yes | kuzzleio/kuzzle:2
+App Service Image | - | yes | kuzzleio/kuzzle:2.40.1
 Elastic Service Image | - | yes | kuzzleio/elasticsearch:7.4.0
 
 ## Screenshots
@@ -55,6 +55,7 @@ Elastic Service Image | - | yes | kuzzleio/elasticsearch:7.4.0
 ## Change Log
 
 - 2024-11-16 – First Release
+- 2025-02-28 – Version bumped to 2.40.1
 
 ## Contributors
 

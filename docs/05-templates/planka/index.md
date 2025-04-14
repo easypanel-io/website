@@ -45,7 +45,7 @@ Login with demo@demo.demo:demo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | planka
-App Service Image | - | yes | lscr.io/linuxserver/planka:1.23.2
+App Service Image | - | yes | lscr.io/linuxserver/planka:1.24.4
 Database Service Name | - | yes | planka-db
 Admin Username | - | yes | admin
 Admin Password | - | yes | 

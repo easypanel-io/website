@@ -43,7 +43,7 @@ Configure the Base URL and set up the database connection during installation.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | xbackbone
-App Service Image | - | yes | linuxserver/xbackbone:3.7.0
+App Service Image | - | yes | linuxserver/xbackbone:3.8.1
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | linuxserver/xbackbone:3.7.0
 ## Change Log
 
 - 2024-11-26 – Template Release
+- 2025-03-03 – Version bumped to 3.8.1
 
 ## Contributors
 

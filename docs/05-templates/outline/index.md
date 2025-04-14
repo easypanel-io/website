@@ -49,7 +49,7 @@ Notice, Auththenication Method is Required to use Outline. To use Other Login Me
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | outline
-App Service Image | - | yes | outlinewiki/outline:0.80.2
+App Service Image | - | yes | outlinewiki/outline:0.82.0
 Domain Url | outline.domain.com | yes | 
 Database Service Name | - | yes | outline-db
 Redis Service Name | - | yes | outline-redis
@@ -65,6 +65,7 @@ Minio Service Name | - | yes | outline-minio
 
 - 2023-01-15 – first release
 - 2023-03-04 – Version bumped to 0.75.2
+- 2025-02-28 – Version bumped to 0.82.0
 
 ## Contributors
 

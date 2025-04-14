@@ -41,7 +41,7 @@ Octobox is an innovative app designed to help you manage your GitHub notificatio
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | octobox
-App Service Image | - | yes | octoboxio/octobox:october-2024
+App Service Image | - | yes | octoboxio/octobox:february-2025
 Database Service Name | - | yes | octobox-db
 Database Service Name | - | yes | octobox-redis
 Github Client ID | - | yes | 
@@ -54,6 +54,7 @@ Github Client Secret | - | yes |
 ## Change Log
 
 - 2023-3-22 – first release
+- 2025-02-28 – Version bumped to february-2025
 
 ## Contributors
 

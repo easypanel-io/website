@@ -43,7 +43,7 @@ Configure the Environmental Variables as per the requirements.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lightdash
-App Service Image | - | yes | lightdash/lightdash:0.1447.1
+App Service Image | - | yes | lightdash/lightdash:0.1521.0
 Browserless Image | - | yes | browserless/chrome
 
 ## Screenshots
@@ -53,6 +53,7 @@ Browserless Image | - | yes | browserless/chrome
 ## Change Log
 
 - 2025-01-10 – Template Release
+- 2025-02-28 – Version bumped to 0.1521.0
 
 ## Contributors
 

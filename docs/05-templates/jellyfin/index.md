@@ -46,7 +46,7 @@ Jellyfin takes a few minutes to get ready. Sit back, relax, and get some popcorn
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyfin
-App Service Image | - | yes | jellyfin/jellyfin:2024100705
+App Service Image | - | yes | jellyfin/jellyfin:2025022405
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | jellyfin/jellyfin:2024100705
 ## Change Log
 
 - 2022-10-28 – first release
+- 2025-02-28 – Version bumped to 2025022405
 
 ## Contributors
 

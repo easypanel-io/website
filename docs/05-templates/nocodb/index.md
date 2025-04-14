@@ -41,7 +41,7 @@ NocoDB is an innovative open-source platform that transforms any database into a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nocodb
-App Service Image | - | yes | nocodb/nocodb:0.257.2
+App Service Image | - | yes | nocodb/nocodb:0.262.1
 Database Service Name | - | yes | nocodb-db
 Redis Service Name | - | yes | nocodb-redis
 
@@ -52,6 +52,7 @@ Redis Service Name | - | yes | nocodb-redis
 ## Change Log
 
 - 2023-02-8 – first release
+- 2025-02-28 – Version bumped to 0.262.1
 
 ## Contributors
 

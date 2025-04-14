@@ -53,7 +53,7 @@ Signup Enabled | - | no | true
 Transcoding Enabled | - | no | true
 Contact Form Enabled | - | no | true
 App Service Name | - | yes | peertube
-App Service Image | - | yes | chocobozzz/peertube:v6.0.4-bookworm
+App Service Image | - | yes | chocobozzz/peertube:v7.0.1-bookworm
 Database Service Name | - | yes | peertube-db
 Redis Service Name | - | yes | peertube-redis
 
@@ -64,6 +64,7 @@ Redis Service Name | - | yes | peertube-redis
 ## Change Log
 
 - 2023-03-24 – First Release
+- 2025-02-28 – Version bumped to v7.0.1-bookworm
 
 ## Contributors
 

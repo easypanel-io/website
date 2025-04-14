@@ -66,7 +66,7 @@ Use xiang@iqka.com:A123456p+ to login at /xiang/login/admin . Use amd64 instead 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | yao
-App Service Image | - | yes | yaoapp/yao:0.10.3-arm64
+App Service Image | - | yes | yaoapp/yao:0.10.4-rc.1
 Database Service Name | - | yes | yao-db
 
 ## Screenshots
@@ -76,6 +76,7 @@ Database Service Name | - | yes | yao-db
 ## Change Log
 
 - 2023-3-14 – first release
+- 2025-03-03 – Version bumped to 0.10.4-rc.1
 
 ## Contributors
 

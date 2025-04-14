@@ -41,7 +41,7 @@ Whisparr is an adult video collection manager designed for Usenet and BitTorrent
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | whisparr
-App Service Image | - | yes | hotio/whisparr:v3-720ae56
+App Service Image | - | yes | hotio/whisparr:v3-41ddd1f
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | hotio/whisparr:v3-720ae56
 ## Change Log
 
 - 2024-03-18 – Template added
+- 2025-03-03 – Version bumped to v3-41ddd1f
 
 ## Contributors
 

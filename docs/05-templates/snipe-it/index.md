@@ -41,7 +41,7 @@ Snipe-IT is a powerful, open-source IT asset management system designed to help 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | snipeit
-App Service Image | - | yes | snipe/snipe-it:v7.0.11
+App Service Image | - | yes | snipe/snipe-it:v8.0.2
 SMTP Host | - | yes | smtp.example.com
 SMTP Port | - | yes | 587
 SMTP Username | - | yes | example
@@ -58,6 +58,7 @@ SMTP Reply-To Name | - | yes | Snipe-IT
 ## Change Log
 
 - 2024-12-09 – First release
+- 2025-03-03 – Version bumped to v8.0.2
 
 ## Contributors
 

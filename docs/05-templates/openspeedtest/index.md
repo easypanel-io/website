@@ -41,7 +41,7 @@ OpenSpeedTest is a powerful and accurate online bandwidth test application that 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openspeedtest
-App Service Image | - | yes | openspeedtest/latest:v2.0.5
+App Service Image | - | yes | openspeedtest/latest:v2.0.6
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | openspeedtest/latest:v2.0.5
 ## Change Log
 
 - 2022-11-30 – first release
+- 2025-02-28 – Version bumped to v2.0.6
 
 ## Contributors
 

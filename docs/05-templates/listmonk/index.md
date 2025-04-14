@@ -43,7 +43,7 @@ Listmonk is a self-hosted, high-performance mailing list and newsletter manager.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | listmonk
-App Service Image | - | yes | listmonk/listmonk:v3.0.0
+App Service Image | - | yes | listmonk/listmonk:v4.1.0
 Database Service Name | - | yes | listmonk-db
 Admin Username | - | yes | 
 Admin Password | - | yes | 
@@ -55,6 +55,7 @@ Admin Password | - | yes |
 ## Change Log
 
 - 2023-2-3 – first release
+- 2025-02-28 – Version bumped to v4.1.0
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Mattermost is a secure collaboration platform designed to enhance the efficiency
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mattermost
-App Service Image | - | yes | mattermost/mattermost-team-edition:10.0
+App Service Image | - | yes | mattermost/mattermost-team-edition:release-9
 Database Service Name | - | yes | mattermost-db
 
 ## Screenshots
@@ -54,6 +54,7 @@ Database Service Name | - | yes | mattermost-db
 - 2022-11-29 – Update mattermost to 7.5.1
 - 2023-1-26 – Update mattermost to 7.7
 - 2024-10-19 – Update mattermost to 10.0
+- 2025-02-28 – Version bumped to release-9
 
 ## Contributors
 

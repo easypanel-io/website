@@ -43,7 +43,7 @@ StirlingPDF is an open-source PDF management tool designed to streamline PDF han
 Name | Description | Required | Default Value
 -|-|-|-
 PDF Service Name | - | yes | stirlingpdf
-PDF Service Image | - | yes | frooodle/s-pdf:0.32.0
+PDF Service Image | - | yes | frooodle/s-pdf:0.43.2
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ PDF Service Image | - | yes | frooodle/s-pdf:0.32.0
 ## Change Log
 
 - 2024-11-13 – Initial release of StirlingPDF
+- 2025-03-03 – Version bumped to 0.43.2
 
 ## Contributors
 

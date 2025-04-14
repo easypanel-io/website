@@ -31,7 +31,7 @@ Default login is &quot;admin&quot; / &quot;admin&quot;.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tianji
-App Service Image | - | yes | moonrailgun/tianji:0.2.0
+App Service Image | - | yes | moonrailgun/tianji:1.18.11
 
 ## Screenshots
 
@@ -40,6 +40,7 @@ App Service Image | - | yes | moonrailgun/tianji:0.2.0
 ## Change Log
 
 - 2024-03-26 – Template Added
+- 2025-03-03 – Version bumped to 1.18.11
 
 ## Contributors
 
