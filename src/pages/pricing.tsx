@@ -140,7 +140,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-5xl tw-font-normal tw-text-white">
-                  ${annual ? 9.9 : 13.9}
+                  ${annual ? 10.9 : 14.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -196,7 +196,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-5xl tw-font-normal tw-text-white">
-                  ${annual ? 13.9 : 19.9}
+                  ${annual ? 16.9 : 23.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
@@ -247,7 +247,7 @@ const Pricing = () => {
 
               <div className="tw-flex tw-items-end tw-mt-3">
                 <p className="tw-text-5xl tw-font-normal tw-text-white">
-                  ${annual ? 23.9 : 31.9}
+                  ${annual ? 29.9 : 37.9}
                 </p>
                 <p className="tw-ml-1 tw-text-base tw-font-normal tw-text-gray-500">
                   / month
