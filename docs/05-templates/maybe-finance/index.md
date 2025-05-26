@@ -38,7 +38,7 @@ Maybe Finance is a modern, self-hosted finance management tool designed for trac
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | maybe
-App Service Image | - | yes | ghcr.io/maybe-finance/maybe:0.1.0
+App Service Image | - | yes | ghcr.io/maybe-finance/maybe:0.5.0
 
 ## Screenshots
 
