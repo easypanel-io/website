@@ -1,28 +1,43 @@
 ---
 hide_title: true
-sidebar_label: Twenty
-title: Twenty | Self-Host on Easypanel
-description: How to install Twenty on Easypanel? 1-Click installation template for Twenty on Easypanel
+sidebar_label: Twenty CRM
+title: Twenty CRM | Self-Host on Easypanel
+description: How to install Twenty CRM on Easypanel? 1-Click installation template for Twenty CRM on Easypanel
 ---
 
 <!-- generated -->
 
-# Twenty
+# Twenty CRM
 
-1-Click installation template for Twenty on Easypanel
+1-Click installation template for Twenty CRM on Easypanel
 
 ## Description
 
-Twenty is an open-source CRM platform designed to offer full customization and control over your customer relationship management. It provides the flexibility to self-host, avoiding vendor lock-in and offering cost-effective solutions.
+Twenty is a modern, open-source CRM platform designed to help businesses manage their customer relationships efficiently.  It offers a user-friendly interface for tracking contacts, organizations, and opportunities while providing powerful customization options.
 
 ## Instructions
 
-Follow the guide for setting up modules. https://twenty.com/developers/section/self-hosting/self-hosting-var. Before hitting deploy, configure the .env as instructed in the Environment Variables section.
+Please define the domain used for the Twenty service in the worker environment variable SERVER_URL.
+
+## Benefits
+
+- Modern User Interface: Twenty CRM offers a clean, intuitive user interface that makes managing customer relationships simple and efficient.
+- Open Source: As an open-source platform, Twenty CRM provides full transparency, customizability, and no vendor lock-in.
+- Customizable: Easily adapt the CRM to your specific business needs with extensive customization options.
+- Scalable: Built with modern technologies, Twenty CRM scales with your business from startups to enterprises.
+
+## Features
+
+- Contact Management: Easily manage and organize your contacts with comprehensive profiles and interaction history.
+- Organization Tracking: Keep track of companies, their contacts, and business opportunities in one place.
+- Task Management: Create, assign, and track tasks to ensure nothing falls through the cracks.
+- Customizable Workflows: Adapt the CRM's workflows to match your specific business processes.
+- Data Import/Export: Easily import existing contact data or export data for use in other systems.
 
 ## Links
 
-- [Website](https://twenty.com)
-- [Documentation](https://twenty.com/developers)
+- [Website](https://twenty.com/)
+- [Documentation](https://docs.twenty.com/)
 - [Github](https://github.com/twentyhq/twenty)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/twenty)
 
@@ -30,17 +45,17 @@ Follow the guide for setting up modules. https://twenty.com/developers/section/s
 
 Name | Description | Required | Default Value
 -|-|-|-
-Service Name | - | yes | twenty
+App Service Name | - | yes | twenty
+App Service Image | - | yes | twentycrm/twenty:v0.54.4
 
 ## Screenshots
 
-![Twenty Screenshot](./assets/screenshot.jpg)
+![Twenty CRM Screenshot](./assets/screenshot.jpg)
 
 ## Change Log
 
-- 2024-7-26 – first release
+- 2025-05-22 – First release
 
 ## Contributors
 
-- [Serban Alexandru](https://github.com/serban-alexandru)
 - [Ahson Shaikh](https://github.com/Ahson-Shaikh)
