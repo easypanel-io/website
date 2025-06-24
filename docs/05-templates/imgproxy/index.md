@@ -43,7 +43,7 @@ To generate a image URL you can use the following link: https://progapandist.git
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | imgproxy
-App Service Image | - | yes | darthsim/imgproxy:v3.9
+App Service Image | - | yes | darthsim/imgproxy:v3.28.0
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | darthsim/imgproxy:v3.9
 ## Change Log
 
 - 2022-08-05 – first release
+- 2025-05-23 – update to v3.28.0
 
 ## Contributors
 
 - [Ivan Ryan](https://github.com/ivanonpc-22)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

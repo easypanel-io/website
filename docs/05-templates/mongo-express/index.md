@@ -45,7 +45,7 @@ Mongo URL | mongodb://admin:pass@localhost:27017/db?ssl=false | yes |
 Username | - | no | 
 Password | - | no | 
 App Service Name | - | yes | mongo-express
-App Service Image | - | yes | mongo-express:1.0.2-18
+App Service Image | - | yes | mongo-express:1.0.2-20-alpine3.19
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | mongo-express:1.0.2-18
 ## Change Log
 
 - 2023-07-10 – First Release
+- 2025-06-05 – Update to 1.0.2-20-alpine3.19
 
 ## Contributors
 

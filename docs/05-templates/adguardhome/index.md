@@ -17,7 +17,7 @@ AdGuard Ad Blocker is a comprehensive solution designed to enhance your online b
 
 ## Instructions
 
-During the setup phase, set the Admin Web Interface Port to 3000. To use the DHCP feature, you must also open ports 67/udp 68/tcp-udp.
+During the setup phase, if the instance, does not start, you have to disable the service using port 53 on your host server, so adguard can bind the port 53. Then setup the admin account on port 3000, then change it to port 80. To use the DHCP feature, you must also open ports 67/udp 68/tcp-udp.
 
 ## Benefits
 
@@ -56,7 +56,9 @@ App Service Image | - | yes | adguard/adguardhome:latest
 ## Change Log
 
 - 2023-07-11 – First Release
+- 2025-06-21 – Update the instructions for the setup phase
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

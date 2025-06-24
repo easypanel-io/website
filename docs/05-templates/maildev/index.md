@@ -40,7 +40,7 @@ Maildev is a simple, self-hosted SMTP server designed for testing and debugging 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | maildev
-App Service Image | - | yes | maildev/maildev
+App Service Image | - | yes | maildev/maildev:2.2.1
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | maildev/maildev
 ## Change Log
 
 - 2025-02-03 – First Release
+- 2025-06-05 – Update to 2.2.1
 
 ## Contributors
 

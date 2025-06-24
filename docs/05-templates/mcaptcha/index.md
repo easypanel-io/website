@@ -47,7 +47,7 @@ Login with aaronsw:password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mcaptcha
-App Service Image | - | yes | mcaptcha/mcaptcha:latest
+App Service Image | - | yes | mcaptcha/mcaptcha:v0.1.0
 Database Service Name | - | yes | mcaptcha-db
 Redis Service Name | - | yes | mcaptcha-redis
 
@@ -60,6 +60,7 @@ Redis Service Name | - | yes | mcaptcha-redis
 ## Change Log
 
 - 2023-5-18 – first release
+- 2025-06-05 – Update to v0.1.0
 
 ## Contributors
 

@@ -38,7 +38,7 @@ The itzg/minecraft-bedrock-server app is designed to provide a seamless Minecraf
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | minecraft-server
-App Service Image | - | yes | itzg/minecraft-bedrock-server:2024.11.0
+App Service Image | - | yes | itzg/minecraft-bedrock-server:2025.5.0
 Server Name | - | no | MyServer
 Version | - | no | LATEST
 Game Mode | - | no | survival
@@ -55,6 +55,7 @@ Server Port | - | no | 19132
 ## Change Log
 
 - 2024-11-27 – First Release
+- 2025-06-05 – Update to 2025.5.0
 
 ## Contributors
 

@@ -43,7 +43,7 @@ Moodle takes time to install. Default credentails; username=user, password=bitna
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | moodle
-App Service Image | - | yes | docker.io/bitnami/moodle:4.5.2
+App Service Image | - | yes | docker.io/bitnami/moodle:5.0.0
 
 ## Screenshots
 

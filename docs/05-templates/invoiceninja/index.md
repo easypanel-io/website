@@ -45,7 +45,7 @@ Open the nginx domain to access InvoiceNinja
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | invoiceninja
-App Service Image | - | yes | invoiceninja/invoiceninja:5.10
+App Service Image | - | yes | invoiceninja/invoiceninja:5.11
 Nginx Image | - | yes | nginx:1.27
 Admin Email | - | yes | admin@example.com
 Admin Password | - | yes | 
@@ -57,6 +57,7 @@ Admin Password | - | yes |
 ## Change Log
 
 - 2024-11-21 – First Release
+- 2025-05-23 – update to v5.11
 
 ## Contributors
 

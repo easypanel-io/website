@@ -42,7 +42,7 @@ IT-Tools is a comprehensive suite of handy tools designed to assist developers i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ittools
-App Service Image | - | yes | corentinth/it-tools:2024.5.13-a0bc346
+App Service Image | - | yes | corentinth/it-tools:2024.10.22-7ca5933
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | corentinth/it-tools:2024.5.13-a0bc346
 ## Change Log
 
 - 2023-3-29 – first release
+- 2025-05-23 – update to v2024.10.22-7ca5933
 
 ## Contributors
 

@@ -44,7 +44,7 @@ Go to /admin for administration interface
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | isso
-App Service Image | - | yes | ghcr.io/isso-comments/isso:release
+App Service Image | - | yes | ghcr.io/isso-comments/isso:0.13.1.dev0
 Admin Password | - | yes | 
 
 ## Screenshots
@@ -54,6 +54,7 @@ Admin Password | - | yes |
 ## Change Log
 
 - 2023-2-9 – first release
+- 2025-05-23 – update to v0.13.1.dev0
 
 ## Contributors
 

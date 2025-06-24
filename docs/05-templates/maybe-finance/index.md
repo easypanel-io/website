@@ -47,6 +47,7 @@ App Service Image | - | yes | ghcr.io/maybe-finance/maybe:0.5.0
 ## Change Log
 
 - 2024-11-25 – Template Release
+- 2025-06-05 – Update to 0.5.0
 
 ## Contributors
 

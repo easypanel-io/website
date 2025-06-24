@@ -45,7 +45,7 @@ After installing, open the console and run &quot;php artisan p:user:make&quot;.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | panel
-App Service Image | - | yes | ghcr.io/pterodactyl/panel:v1.11.9
+App Service Image | - | yes | ghcr.io/pterodactyl/panel:v1.11.10
 Redis Service Name | - | yes | panel-redis
 Database Service Name | - | yes | panel-db
 

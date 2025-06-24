@@ -44,7 +44,7 @@ Matomo is a powerful web analytics platform that allows you to take full control
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | matomo
-App Service Image | - | yes | matomo:5.2.2
+App Service Image | - | yes | matomo:5.3.2
 Database Service Name | - | yes | matomo-db
 
 ## Screenshots
@@ -55,6 +55,7 @@ Database Service Name | - | yes | matomo-db
 
 - 2022-09-28 – first release
 - 2025-02-28 – Version bumped to 5.2.2
+- 2025-06-05 – Update to 5.3.2
 
 ## Contributors
 

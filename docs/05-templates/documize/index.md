@@ -39,7 +39,7 @@ Documize Zerabase is a powerful business tool designed to manage product deliver
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | documize
-App Service Image | - | yes | ghcr.io/easypanel-community/docker-documize:5.6.0
+App Service Image | - | yes | ghcr.io/easypanel-community/docker-documize:5.13
 Database Service Name | - | yes | documize-db
 
 ## Screenshots
@@ -50,7 +50,9 @@ Database Service Name | - | yes | documize-db
 
 - 2023-1-24 – first release
 - 2023-2-24 – Update to 5.5.0
+- 2025-5-27 – Update to 5.13.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson-Shaikh](https://github.com/Ahson-Shaikh)

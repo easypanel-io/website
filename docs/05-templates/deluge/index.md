@@ -38,7 +38,7 @@ Deluge is a comprehensive BitTorrent client designed to cater to your torrenting
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | deluge
-App Service Image | - | yes | linuxserver/deluge:2.1.1
+App Service Image | - | yes | linuxserver/deluge:2.2.0
 
 ## Screenshots
 
@@ -47,7 +47,9 @@ App Service Image | - | yes | linuxserver/deluge:2.1.1
 ## Change Log
 
 - 2023-1-25 – first release
+- 2025-05-26 – Version bumped to 2.2.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

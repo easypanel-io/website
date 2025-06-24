@@ -39,7 +39,7 @@ Dittofeed is an advanced, self-hosted customer engagement platform designed to s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dittofeed
-App Service Image | - | yes | dittofeed/dittofeed-lite:v0.19.0
+App Service Image | - | yes | dittofeed/dittofeed-lite:v0.22.0
 Clickhouse Service Image | - | yes | clickhouse/clickhouse-server:23.8.8.20-alpine
 Minio Service Image | - | yes | minio/minio:latest
 Temporal Service Image | - | yes | temporalio/auto-setup:1.22.4
@@ -58,6 +58,7 @@ Minio Password | - | yes | password
 ## Change Log
 
 - 2025-01-03 – Template Release
+- 2025-05-26 – Version bumped to v0.22.0
 
 ## Contributors
 

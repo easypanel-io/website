@@ -43,8 +43,8 @@ Wait for the migration to complete.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | immich
-App Service Image | - | yes | ghcr.io/immich-app/immich-server:v1.124.2
-ML Service Image | - | yes | ghcr.io/immich-app/immich-machine-learning:v1.124.2
+App Service Image | - | yes | ghcr.io/immich-app/immich-server:v1.133.0
+ML Service Image | - | yes | ghcr.io/immich-app/immich-machine-learning:v1.133.0
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ ML Service Image | - | yes | ghcr.io/immich-app/immich-machine-learning:v1.124.2
 ## Change Log
 
 - 2025-01-17 – Initial Template Release
+- 2025-05-23 – update to v1.133.0
 
 ## Contributors
 
