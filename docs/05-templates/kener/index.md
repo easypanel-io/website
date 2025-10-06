@@ -40,7 +40,7 @@ Kener is an advanced, self-hosted status page system designed for individuals an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kener
-App Service Image | - | yes | ghcr.io/rajnandan1/kener:3.0.1
+App Service Image | - | yes | ghcr.io/rajnandan1/kener:3.2.18
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | ghcr.io/rajnandan1/kener:3.0.1
 ## Change Log
 
 - 2025-01-16 – First Release
+- 2025-07-22 – Version bumped to 3.2.18
 
 ## Contributors
 

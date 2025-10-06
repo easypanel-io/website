@@ -52,7 +52,7 @@ After Roundcube is installed, you can log in to the mail accounts on the service
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | roundcube
-App Service Image | - | yes | roundcube/roundcubemail:1.6.10-apache
+App Service Image | - | yes | roundcube/roundcubemail:1.6.11-apache
 Default Host | Hostname of the IMAP server to connect to. For encypted connections, prefix the host with tls:// (STARTTLS) or ssl:// (SSL/TLS). | yes | 
 Default Port | IMAP port number. | no | 143
 SMTP Server | Hostname of the SMTP server to send mails. For encypted connections, prefix the host with tls:// (STARTTLS) or ssl:// (SSL/TLS). | yes | 
@@ -79,7 +79,9 @@ Upload Max File Size | File upload size limit. | no | 5M
 
 - 2023-03-15 – First Release
 - 2025-02-28 – Version bumped to 1.6.10-apache
+- 2025-07-24 – Version bumped to 1.6.11-apache
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

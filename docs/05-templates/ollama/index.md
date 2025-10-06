@@ -43,8 +43,8 @@ Ollama is a powerful tool designed to simplify the deployment and interaction wi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ollama
-App Service Image | - | yes | ollama/ollama:0.5.12
-Ollama UI Service Image | - | yes | ghcr.io/open-webui/open-webui:v0.5.18
+App Service Image | - | yes | ollama/ollama:0.9.6
+Ollama UI Service Image | - | yes | ghcr.io/open-webui/open-webui:v0.6.18
 Ollama UI Name | - | yes | Ollama
 
 ## Screenshots
@@ -56,6 +56,7 @@ Ollama UI Name | - | yes | Ollama
 - 2024-11-16 – First Release
 - 2025-02-28 – Version bumped to 0.5.12
 - 2025-02-28 – Version bumped to v0.5.18
+- 2025-07-24 – Version bumped to 0.9.6
 
 ## Contributors
 

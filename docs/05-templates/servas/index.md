@@ -42,7 +42,7 @@ Visit /register to create an account
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | servas
-App Service Image | - | yes | beromir/servas:0.2.0
+App Service Image | - | yes | beromir/servas:1.0.0
 Database Service Name | - | yes | servas-db
 
 ## Screenshots
@@ -52,7 +52,9 @@ Database Service Name | - | yes | servas-db
 ## Change Log
 
 - 2023-1-30 – first release
+- 2025-07-24 – Version bumped to 1.0.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

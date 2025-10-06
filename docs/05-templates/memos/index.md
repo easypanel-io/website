@@ -39,7 +39,7 @@ Memos is a privacy-first, lightweight note-taking service designed to easily cap
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | memos
-App Service Image | - | yes | neosmemo/memos:0.24
+App Service Image | - | yes | neosmemo/memos:0.25
 Timezone | - | no | America/New_York
 
 ## Screenshots
@@ -50,6 +50,7 @@ Timezone | - | no | America/New_York
 
 - 2022-12-21 – First Release
 - 2025-02-28 – Version bumped to 0.24
+- 2025-07-22 – Update to 0.25
 
 ## Contributors
 

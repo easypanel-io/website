@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 Username | - | yes | 
 Password | - | yes | 
 App Service Name | - | yes | kopia
-App Service Image | - | yes | kopia/kopia:20250204.0.1210
+App Service Image | - | yes | kopia/kopia:20250722.0.5129
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | kopia/kopia:20250204.0.1210
 
 - 2023-07-10 – First Release
 - 2025-02-28 – Version bumped to 20250204.0.1210
+- 2025-07-22 – Version bumped to 20250722.0.5129
 
 ## Contributors
 

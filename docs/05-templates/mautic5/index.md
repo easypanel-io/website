@@ -37,7 +37,7 @@ Mautic 5 is an open-source, comprehensive marketing automation platform that emp
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mautic5
-App Service Image | - | yes | mautic/mautic:5.2.6-apache
+App Service Image | - | yes | mautic/mautic:6.0.3-20250721-apache
 Database Service Name | - | yes | mautic5-db
 
 ## Screenshots
@@ -48,6 +48,7 @@ Database Service Name | - | yes | mautic5-db
 
 - 2024-10-12 – Version 5.1.1 (First Release)
 - 2025-06-05 – Update to 5.2.6
+- 2025-07-22 – Update to 6.0.3-20250721-apache
 
 ## Contributors
 

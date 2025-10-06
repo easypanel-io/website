@@ -43,7 +43,7 @@ Blinko (space) is an open-source, self-hosted “idea hub” that rolls notes, m
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | blinko
-App Service Image | - | yes | blinkospace/blinko:1.0.0-rc.1
+App Service Image | - | yes | blinkospace/blinko:1.1.2
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | blinkospace/blinko:1.0.0-rc.1
 ## Change Log
 
 - 2025-05-26 – First release
+- 2025-07-15 – Version bumped to 1.1.2
 
 ## Contributors
 

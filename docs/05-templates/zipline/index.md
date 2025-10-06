@@ -47,7 +47,7 @@ After installing Zipline for the first time, you may login to the dashboard with
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | zipline
-App Service Image | - | yes | ghcr.io/diced/zipline:4.0.0
+App Service Image | - | yes | ghcr.io/diced/zipline:4.2.0
 Database Service Name | - | yes | zipline-db
 
 ## Screenshots
@@ -57,8 +57,10 @@ Database Service Name | - | yes | zipline-db
 ## Change Log
 
 - 2023-01-20 – First Release
-- 2023-03-22 – First Release
+- 2023-03-22 – Version bumped to 4.0.0
+- 2025-07-25 – Version bumped to 4.2.0
 
 ## Contributors
 
 - [DrMxrcy](https://github.com/DrMxrcy)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

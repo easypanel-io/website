@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 Admin Username | - | yes | 
 Admin Password | - | yes | 
 App Service Name | - | yes | espocrm
-App Service Image | - | yes | espocrm/espocrm:9-apache
+App Service Image | - | yes | espocrm/espocrm:9.1.7-apache
 Database Service Type | - | yes | mariadb
 Database Service Name | - | yes | espocrm-db
 
@@ -55,7 +55,9 @@ Database Service Name | - | yes | espocrm-db
 - 2023-07-03 – First Release
 - 2024-10-04 – Version Updated to 8.4.1-apache
 - 2025-01-11 – Version bumped to 8.4.2-apache
+- 2025-07-21 – Version bumped to 9.1.7-apache
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -43,7 +43,7 @@ Connect the shell and run &quot;php artisan app:init&quot; to initialize the app
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | paymenter
-App Service Image | - | yes | ghcr.io/paymenter/paymenter:v1.1.0
+App Service Image | - | yes | ghcr.io/paymenter/paymenter:v1.2.5
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | ghcr.io/paymenter/paymenter:v1.1.0
 ## Change Log
 
 - 2025-05-13 – First Release
+- 2025-07-24 – Update to 1.2.5
 
 ## Contributors
 

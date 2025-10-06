@@ -44,7 +44,7 @@ BookStack is a free and open-source platform designed to help you organize and s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bookstack
-App Service Image | - | yes | lscr.io/linuxserver/bookstack:24.12.1
+App Service Image | - | yes | lscr.io/linuxserver/bookstack:25.05.2
 Database Service Name | - | yes | bookstack-db
 
 ## Screenshots
@@ -56,6 +56,7 @@ Database Service Name | - | yes | bookstack-db
 - 2022-07-12 – first release
 - 2024-03-11 – Version bumped to 24.05.1
 - 2024-09-30 – Version bumped to 24.05.4
+- 2025-07-15 – Version bumped to 25.05.2
 
 ## Contributors
 
@@ -63,4 +64,4 @@ Database Service Name | - | yes | bookstack-db
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

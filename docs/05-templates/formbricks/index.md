@@ -36,8 +36,9 @@ Formbricks provides a free and open source surveying platform. Gather feedback a
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Image | - | yes | ghcr.io/formbricks/formbricks:v2.0.3
-Database Service Name | - | yes | formbricks-db
+App Service Name | - | yes | formbricks
+App Service Image | - | yes | ghcr.io/formbricks/formbricks:v3.16.0
+Database Service Image | - | yes | pgvector/pgvector:pg17
 Enterprise License Key | - | no | 
 Short URL Base | - | no | 
 Email Verification Disabled (1 for true) | - | no | 1
@@ -62,7 +63,9 @@ Onboarding Disabled (1 for true) | - | no | 0
 ## Change Log
 
 - 2024-03-28 – First Release
+- 2025-07-21 – Version bumped to v3.16.0
 
 ## Contributors
 
 - [Shubham Palriwala](https://github.com/ShubhamPalriwala)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

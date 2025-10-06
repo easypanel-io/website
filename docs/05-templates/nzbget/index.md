@@ -44,7 +44,7 @@ Default username=nzbget, password=tegbzn6789
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nzbget
-App Service Image | - | yes | lscr.io/linuxserver/nzbget:version-v24.6
+App Service Image | - | yes | lscr.io/linuxserver/nzbget:version-v25.2
 Username | - | yes | nzbget
 Password | - | yes | tegbzn6789
 Timezone | - | no | Europe/London

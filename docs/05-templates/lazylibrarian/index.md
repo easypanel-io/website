@@ -48,7 +48,7 @@ LazyLibrarian is an open-source tool designed to manage and automate the downloa
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lazylibrarian
-App Service Image | - | yes | lscr.io/linuxserver/lazylibrarian:latest
+App Service Image | - | yes | lscr.io/linuxserver/lazylibrarian:9aa1ebfe-ls173
 
 ## Screenshots
 

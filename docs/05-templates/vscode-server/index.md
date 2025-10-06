@@ -39,7 +39,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 VS Code Server Password | - | yes | 
 App Service Name | - | yes | vsc-server
-App Service Image | - | yes | lscr.io/linuxserver/code-server:4.97.2
+App Service Image | - | yes | lscr.io/linuxserver/code-server:4.102.2
 
 ## Screenshots
 
@@ -49,7 +49,9 @@ App Service Image | - | yes | lscr.io/linuxserver/code-server:4.97.2
 
 - 2022-10-28 – first release
 - 2025-03-03 – Version bumped to 4.97.2
+- 2025-07-25 – Version bumped to 4.102.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

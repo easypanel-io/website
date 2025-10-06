@@ -40,7 +40,7 @@ Web Portal is a lightweight and customizable dashboard application developed by 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | web-portal
-App Service Image | - | yes | ghcr.io/enchant97/web-portal:2
+App Service Image | - | yes | ghcr.io/enchant97/web-portal:2.4.0
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | ghcr.io/enchant97/web-portal:2
 ## Change Log
 
 - 2025-04-17 – First Release
+- 2025-07-25 – Version bumped to 2.4.0
 
 ## Contributors
 

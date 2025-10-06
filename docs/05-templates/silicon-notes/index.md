@@ -39,7 +39,7 @@ Silicon Notes is a lightweight, low-friction personal knowledge base designed to
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | silicon
-App Service Image | - | yes | bityard/silicon:0.1.2
+App Service Image | - | yes | bityard/silicon:0.1.5
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | bityard/silicon:0.1.2
 ## Change Log
 
 - 2023-1-28 – first release
+- 2025-07-24 – Version bumped to 0.1.5
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

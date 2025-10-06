@@ -32,7 +32,7 @@ HackMD is a simple and powerful note-taking app that allows you to create notes,
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hackmd
-App Service Image | - | yes | nabo.codimd.dev/hackmdio/hackmd:2.5.4
+App Service Image | - | yes | nabo.codimd.dev/hackmdio/hackmd:2.6.0
 Database Service Name | - | yes | hackmd-db
 
 ## Screenshots
@@ -42,7 +42,9 @@ Database Service Name | - | yes | hackmd-db
 ## Change Log
 
 - 2024-11-27 – first release
+- 2025-07-21 – Version bumped to 2.6.0
 
 ## Contributors
 
 - [Serban Alexandru](https://github.com/serban-alexandru)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

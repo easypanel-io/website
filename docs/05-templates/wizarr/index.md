@@ -15,6 +15,10 @@ description: How to install Wizarr on Easypanel? 1-Click installation template f
 
 Wizarr is an automatic user invitation system designed to streamline the process of inviting users to your media server. Whether you&#39;re using Plex, Jellyfin, or Emby, Wizarr allows you to create a unique link to share with users, automatically inviting them to your server. The app also guides users on how to download the necessary client and provides instructions on how to use your request software. Wizarr offers a secure invitation environment, plug and play SSO support, multi-tiered invitations, and customizable duration for membership. It also integrates with Discord, allowing you to invite users to your Discord server. The app is customizable, allowing you to add any custom HTML as needed.
 
+## Instructions
+
+The timezone format should be Continent/City
+
 ## Benefits
 
 - Automatic User Invitation: Easily invite users to your media server by sharing a unique link. They will be automatically invited and guided to download the client software.
@@ -48,7 +52,8 @@ Wizarr is an automatic user invitation system designed to streamline the process
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wizarr
-App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:4.2.0
+App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:2025.7.7
+Timezone | The timezone format should be Continent/City | no | 
 
 ## Screenshots
 
@@ -60,7 +65,9 @@ App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:4.2.0
 - 2023-03-1 – first release
 - 2023-03-22 – Update to v2.1.3
 - 2025-03-03 – Version bumped to 4.2.0
+- 2025-07-28 – Update to v.2025.7.7
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

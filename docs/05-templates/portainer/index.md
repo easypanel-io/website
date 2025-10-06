@@ -41,7 +41,7 @@ Portainer is a powerful container management platform trusted by over a million 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | portainer
-App Service Image | - | yes | portainer/portainer-ce:2.27.1
+App Service Image | - | yes | portainer/portainer-ce:2.32.0
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | portainer/portainer-ce:2.27.1
 
 - 2022-07-12 – first release
 - 2025-02-28 – Version bumped to 2.27.1
+- 2025-07-24 – Version bumped to 2.32.0
 
 ## Contributors
 
 - [Andrei Canta](https://github.com/deiucanta)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

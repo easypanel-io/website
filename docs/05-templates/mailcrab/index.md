@@ -38,7 +38,7 @@ MailCrab is an email test server designed for development purposes. It is an acc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mailcrab
-App Service Image | - | yes | marlonb/mailcrab:v1.4.0
+App Service Image | - | yes | marlonb/mailcrab:v1.6.1
 
 ## Screenshots
 
@@ -49,7 +49,9 @@ App Service Image | - | yes | marlonb/mailcrab:v1.4.0
 - 2022-11-5 – first release
 - 2024-10-18 – Updated version to 1.3.0
 - 2025-02-28 – Version bumped to v1.4.0
+- 2025-07-22 – Version bumped to v1.6.1
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

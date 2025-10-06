@@ -46,7 +46,7 @@ The Google Client ID and Secret are required for the OAuth flow to work. Select 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | inbox-zero
-App Service Image | - | yes | ghcr.io/elie222/inbox-zero:v1.7.8
+App Service Image | - | yes | ghcr.io/elie222/inbox-zero:v1.10.2
 Google Client ID | The Google Client ID is required for the OAuth flow to work. | yes | 
 Google Client Secret | The Google Client Secret is required for the OAuth flow to work. | yes | 
 LLM Provider | Select the LLM provider and fill only the respective API key. | yes | openai

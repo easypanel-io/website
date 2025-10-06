@@ -47,7 +47,7 @@ Admin Dashboard can be accessed via &quot;DOMAIN/_/&quot;&quot;
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pocketbase
-App Service Image | - | yes | spectado/pocketbase:latest
+App Service Image | - | yes | spectado/pocketbase:0.23.12
 
 ## Screenshots
 
@@ -56,7 +56,9 @@ App Service Image | - | yes | spectado/pocketbase:latest
 ## Change Log
 
 - 2022-12-03 – First Release
+- 2025-07-24 – Version bumped to 0.23.12
 
 ## Contributors
 
 - [Ponkhy](https://github.com/Ponkhy)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

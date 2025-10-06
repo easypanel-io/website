@@ -1,41 +1,45 @@
 ---
 hide_title: true
-sidebar_label: ToolJet
-title: ToolJet | Self-Host on Easypanel
-description: How to install ToolJet on Easypanel? 1-Click installation template for ToolJet on Easypanel
+sidebar_label: Tooljet
+title: Tooljet | Self-Host on Easypanel
+description: How to install Tooljet on Easypanel? 1-Click installation template for Tooljet on Easypanel
 ---
 
 <!-- generated -->
 
-# ToolJet
+# Tooljet
 
-1-Click installation template for ToolJet on Easypanel
+1-Click installation template for Tooljet on Easypanel
 
 ## Description
 
-ToolJet is an open-source low-code framework designed to help you build and deploy custom internal tools with ease. It comes with a built-in database, ToolJet DB, built on top of PostgreSQL, and also allows you to connect to external data sources such as PostgreSQL, MongoDB, MS SQL Server, Snowflake, BigQuery, and more. You can also connect to API/GraphQL endpoints, SaaS tools like Airtable, Stripe, Google Sheets, and cloud object storage services like AWS S3, Google Cloud Storage, and Minio. Once connected, ToolJet can run queries on these data sources to fetch and update data. The fetched data can be visualized and modified using UI widgets like tables, charts, forms, etc. You can also use Javascript or Python queries for writing business logic or interacting with the user interface of the application. With ToolJet, you can build apps in three simple steps: connect to data sources, build queries, and build the user interface using the visual App Builder. ToolJet binds together the data sources, queries, and components to convert business logic into custom applications.
+Tooljet is an open-source low-code platform for building internal tools and business applications. It provides a visual interface builder, database connectors, API integrations, and workflow automation capabilities. With Tooljet, teams can quickly build custom dashboards, admin panels, CRUD applications, and complex business tools without extensive coding. The platform supports multiple data sources, real-time collaboration, and enterprise-grade security features.
+
+## Instructions
+
+Please run migrations inside the tooljet container if required, it will take 2-3 minutes to complete. &quot;npm run db:migrate:prod&quot;
 
 ## Benefits
 
-- Build custom internal tools: ToolJet is a low-code framework that allows you to build and deploy custom internal tools for your organization. You can create apps to manage orders, update inventory, track revenue, and more.
-- Connect to various data sources: ToolJet allows you to connect to various data sources such as databases, API endpoints, SaaS tools, and cloud object storage services. You can fetch and update data from these sources to power your apps.
-- Visualize and modify data: With ToolJet, you can visualize and modify data using UI widgets like tables, charts, and forms. You can easily create a user-friendly interface to interact with your data.
-- Write custom business logic: ToolJet provides the flexibility to write custom business logic using JavaScript or Python queries. You can add complex functionality and interact with the user interface of your application.
-- Secure your apps: ToolJet allows you to secure your apps with group and permissions settings. You can control access to your apps and ensure data privacy.
+- Low-Code Development: Build complex business applications and internal tools using a visual interface builder without extensive coding knowledge or development resources.
+- Rapid Prototyping: Quickly prototype and iterate on business ideas with drag-and-drop components, pre-built integrations, and real-time collaboration features.
+- Data Source Integration: Connect to multiple data sources including databases, APIs, cloud services, and third-party tools through pre-built connectors and custom integrations.
+- Enterprise Security: Built-in security features including authentication, authorization, audit logs, and compliance tools for enterprise-grade applications.
 
 ## Features
 
-- Connect to datasources: Easily connect to various data sources like databases, API endpoints, SaaS tools, and cloud object storage services.
-- Build queries: Use query builders or write JavaScript/Python queries to fetch and update data from connected data sources.
-- Build user interface: Drag and drop components like tables, charts, and forms to quickly build the user interface of your apps.
-- Bind data to UI: Bind data from queries to UI components to visualize and modify data in your apps.
-- Preview, release, and share apps: Preview your app, release it to production, and share it with others. Control access to your apps using group and permissions settings.
+- Visual Interface Builder: Drag-and-drop interface builder with pre-built components for forms, tables, charts, and custom widgets for creating rich user interfaces.
+- Database Connectors: Support for multiple database types including PostgreSQL, MySQL, MongoDB, and cloud databases with real-time data synchronization.
+- API Integration: Built-in API client with support for REST, GraphQL, and webhook integrations for connecting to external services and data sources.
+- Workflow Automation: Visual workflow builder powered by Temporal for creating complex business processes and automated workflows.
+- Real-Time Collaboration: Multi-user collaboration features with real-time updates, comments, and version control for team-based development.
+- Custom Components: Extend functionality with custom components, plugins, and integrations using JavaScript and React for advanced use cases.
 
 ## Links
 
-- [Website](https://docs.tooljet.com)
-- [Docs](https://docs.tooljet.com)
-- [Github](https://github.com/ToolJet/ToolJet)
+- [GitHub](https://github.com/ToolJet/ToolJet)
+- [Documentation](https://docs.tooljet.com/)
+- [Docker Hub](https://hub.docker.com/r/tooljet/tooljet)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/tooljet)
 
 ## Options
@@ -43,17 +47,17 @@ ToolJet is an open-source low-code framework designed to help you build and depl
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tooljet
-App Service Image | - | yes | tooljet/tooljet-ce:v2.9.6
-App Service Name | - | yes | tooljet-db
+App Service Image | Tooljet Docker image | yes | tooljet/tooljet-ce:v3.15.1
+Temporal Image | Temporal server Docker image | no | temporalio/auto-setup:1.25.1
 
 ## Screenshots
 
-![ToolJet Screenshot](./assets/screenshot.png)
+![Tooljet Screenshot](./assets/screenshot.png)
 
 ## Change Log
 
-- 2023-07-09 – First Release
+- 2025-09-09 – Initial Template Release (v3.15.1)
 
 ## Contributors
 
-- [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

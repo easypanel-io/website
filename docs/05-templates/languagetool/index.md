@@ -40,7 +40,7 @@ LanguageTool is your personal writing assistant, designed to enhance your writin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | languagetool
-App Service Image | - | yes | silviof/docker-languagetool:6.4
+App Service Image | - | yes | silviof/docker-languagetool:6.6
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | silviof/docker-languagetool:6.4
 ## Change Log
 
 - 2023-2-24 – first release
+- 2025-07-22 – Version bumped to 6.6
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

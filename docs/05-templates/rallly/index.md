@@ -40,7 +40,7 @@ Rallly is a free, open-source tool designed to simplify your scheduling process.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rallly
-App Service Image | - | yes | lukevella/rallly:3.11
+App Service Image | - | yes | lukevella/rallly:4.2.0
 Database Service Name | - | yes | rallly-db
 Support Email | - | yes | 
 Email Host | - | yes | 
@@ -55,7 +55,9 @@ Email Password | - | yes |
 ## Change Log
 
 - 2023-1-29 – first release
+- 2025-07-24 – Version bumped to 4.2.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

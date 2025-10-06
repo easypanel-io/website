@@ -43,7 +43,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wps-office
-App Service Image | - | yes | lscr.io/linuxserver/wps-office:latest
+App Service Image | - | yes | lscr.io/linuxserver/wps-office:11.1.0
 
 ## Screenshots
 
@@ -52,7 +52,9 @@ App Service Image | - | yes | lscr.io/linuxserver/wps-office:latest
 ## Change Log
 
 - 2023-5-7 – first release
+- 2025-07-25 – Version bumped to 11.1.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

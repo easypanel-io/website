@@ -40,7 +40,7 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | speedtest-tracker
-App Service Image | Speedtest Tracker Docker image | yes | lscr.io/linuxserver/speedtest-tracker:1.6.1
+App Service Image | Speedtest Tracker Docker image | yes | lscr.io/linuxserver/speedtest-tracker:1.6.5
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | Speedtest Tracker Docker image | yes | lscr.io/linuxserver/s
 ## Change Log
 
 - 2025-06-17 – Initial Template Release
+- 2025-07-25 – Version bumped to 1.6.5
 
 ## Contributors
 

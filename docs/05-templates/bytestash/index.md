@@ -40,7 +40,7 @@ ByteStash is a self-hosted snippet code storage system designed for developers a
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | bytestash
-Service Image | - | yes | ghcr.io/jordan-dalby/bytestash:1.5.6
+Service Image | - | yes | ghcr.io/jordan-dalby/bytestash:1.5.8
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ Service Image | - | yes | ghcr.io/jordan-dalby/bytestash:1.5.6
 ## Change Log
 
 - 2025-02-10 – First Release
+- 2025-07-15 – Version bumped to 1.5.8
 
 ## Contributors
 

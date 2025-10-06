@@ -45,7 +45,7 @@ Login with demo@demo.demo:demo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | planka
-App Service Image | - | yes | lscr.io/linuxserver/planka:1.24.4
+App Service Image | - | yes | lscr.io/linuxserver/planka:1.26.2
 Database Service Name | - | yes | planka-db
 Admin Username | - | yes | admin
 Admin Password | - | yes | 
@@ -61,6 +61,7 @@ Admin Name | - | yes | Admin
 
 - 2023-3-21 – first release
 - 2024-10-17 – Fixed Planka Template
+- 2025-07-24 – Version bumped to 1.26.2
 
 ## Contributors
 

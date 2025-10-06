@@ -44,7 +44,7 @@ Drupal is a powerful open-source content management system (CMS) designed to hel
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drupal
-App Service Image | - | yes | drupal:10.4-apache
+App Service Image | - | yes | drupal:11.2.2-apache
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | drupal:10.4-apache
 
 - 2024-10-12 – First release
 - 2025-01-09 – Version bumped to 10.4-apache
+- 2025-07-15 – Version bumped to 11.2.2-apache
 
 ## Contributors
 

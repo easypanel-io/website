@@ -43,7 +43,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | github-desktop
-App Service Image | - | yes | lscr.io/linuxserver/github-desktop:latest
+App Service Image | - | yes | lscr.io/linuxserver/github-desktop:3.4.13
 
 ## Screenshots
 
@@ -52,7 +52,9 @@ App Service Image | - | yes | lscr.io/linuxserver/github-desktop:latest
 ## Change Log
 
 - 2023-04-12 – first release
+- 2025-07-21 – Version bumped to 3.4.13
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

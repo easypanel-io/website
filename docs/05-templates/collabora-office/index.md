@@ -48,7 +48,7 @@ Name | Description | Required | Default Value
 Username | - | yes | 
 Password | - | yes | 
 App Service Name | - | yes | collabora
-App Service Image | - | yes | collabora/code:latest
+App Service Image | - | yes | collabora/code:25.04.3.2.1
 
 ## Screenshots
 
@@ -57,7 +57,9 @@ App Service Image | - | yes | collabora/code:latest
 ## Change Log
 
 - 2023-07-14 – First Release
+- 2025-07-15 – Version bumped to 25.04.3.2.1
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

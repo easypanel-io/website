@@ -41,7 +41,7 @@ Name | Description | Required | Default Value
 Email | - | yes | admin@example.com
 Password | - | yes | password
 App Service Name | - | yes | labelstudio
-App Service Image | - | yes | heartexlabs/label-studio:20250213.185826-ls-release-1-16-0-ef891872a
+App Service Image | - | yes | heartexlabs/label-studio:20250722.133548-develop-cc90fa143
 
 ## Screenshots
 

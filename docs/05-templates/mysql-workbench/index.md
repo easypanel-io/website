@@ -47,7 +47,7 @@ MySQL Workbench is a unified visual tool for database architects, developers, an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mysql-workbench
-App Service Image | - | yes | lscr.io/linuxserver/mysql-workbench:8.0.42
+App Service Image | - | yes | lscr.io/linuxserver/mysql-workbench:8.0.43
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | lscr.io/linuxserver/mysql-workbench:8.0.42
 
 - 2024-12-30 – First Release
 - 2025-06-05 – Update to 8.0.42
+- 2025-07-22 – Update to 8.0.43
 
 ## Contributors
 

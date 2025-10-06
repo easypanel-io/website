@@ -40,7 +40,7 @@ KeeWeb is a modern, fast, and self-hosted password manager designed for individu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | keeweb
-App Service Image | - | yes | ghcr.io/keeweb/keeweb:latest
+App Service Image | - | yes | ghcr.io/keeweb/keeweb:1.19.0-amd64
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | ghcr.io/keeweb/keeweb:latest
 ## Change Log
 
 - 2024-01-07 – First Release
+- 2025-07-22 – Version bumped to 1.19.0-amd64
 
 ## Contributors
 

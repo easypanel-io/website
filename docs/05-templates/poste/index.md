@@ -42,7 +42,7 @@ Poste is a self-hosted mail server solution that provides a complete and secure 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | poste
-App Service Image | - | yes | analogic/poste.io:2.4.11
+App Service Image | - | yes | analogic/poste.io:2.5.5
 Custom HTTP Port | - | yes | 8080
 Custom HTTPS Port | - | yes | 8443
 Virtual Host | - | yes | mail.example.com
@@ -62,7 +62,8 @@ Email Filter Port | - | yes | 4190
 ## Change Log
 
 - 2025-02-18 – first release
+- 2025-07-24 – Version bumped to 2.5.5
 
 ## Contributors
 
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

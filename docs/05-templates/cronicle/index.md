@@ -43,7 +43,7 @@ The default username is &#39;admin&#39; and the default password is &#39;admin&#
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cronicle
-App Service Image | - | yes | soulteary/cronicle:0
+App Service Image | - | yes | soulteary/cronicle:0.9
 
 ## Screenshots
 

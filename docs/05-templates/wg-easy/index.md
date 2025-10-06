@@ -38,9 +38,7 @@ WireGuard Easy is an all-in-one application designed to simplify the installatio
 
 ## Links
 
-- [Website](https://github.com/WeeJeWel/wg-easy)
-- [Documentation](https://github.com/WeeJeWel/wg-easy/wiki)
-- [Github](https://github.com/WeeJeWel/wg-easy)
+- [Github](https://github.com/wg-easy/wg-easy)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/wg-easy)
 
 ## Options
@@ -48,8 +46,8 @@ WireGuard Easy is an all-in-one application designed to simplify the installatio
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wg-easy
-App Service Image | - | yes | ghcr.io/wg-easy/wg-easy
-Admin Password | - | yes | 
+App Service Image | - | yes | ghcr.io/wg-easy/wg-easy:15
+App Service Port | - | yes | 51820
 
 ## Screenshots
 
@@ -58,7 +56,9 @@ Admin Password | - | yes |
 ## Change Log
 
 - 2022-12-20 – first release
+- 2025-06-25 – Fixed the Access Issue
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

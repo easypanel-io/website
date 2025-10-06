@@ -26,7 +26,7 @@ Wakapi is a powerful open-source tool designed to help you track and analyze you
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wakapi
-App Service Image | - | yes | n1try/wakapi:2.13.1
+App Service Image | - | yes | n1try/wakapi:2.14.1
 
 ## Screenshots
 
@@ -37,7 +37,9 @@ App Service Image | - | yes | n1try/wakapi:2.13.1
 - 2023-01-24 – first release
 - 2023-03-22 – Update to v2.6.2
 - 2025-03-03 – Version bumped to 2.13.1
+- 2025-07-25 – Version bumped to 2.14.1
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

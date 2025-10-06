@@ -49,7 +49,7 @@ Default login is; glpi/glpi, and other credentials can be found on the Github re
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | glpi
-App Service Image | - | yes | diouxx/glpi
+App Service Image | - | yes | diouxx/glpi:9.1.4
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | diouxx/glpi
 ## Change Log
 
 - 2024-12-31 – Template Release
+- 2025-07-21 – Version bumped to 9.1.4
 
 ## Contributors
 

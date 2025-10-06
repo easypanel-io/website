@@ -47,7 +47,7 @@ Name | Description | Required | Default Value
 Enable User Registration | - | no | false
 Enable Organization Creation | - | no | false
 App Service Name | - | yes | glitchtip
-App Service Image | - | yes | glitchtip/glitchtip:v4.2
+App Service Image | - | yes | glitchtip/glitchtip:v5.0
 Redis Service Name | - | yes | glitchtip-db
 Redis Service Name | - | yes | glitchtip-redis
 
@@ -60,7 +60,9 @@ Redis Service Name | - | yes | glitchtip-redis
 - 2023-04-06 – First Release
 - 2024-10-09 – Version changed to v4.1.4
 - 2025-01-14 – Version bumped to v4.2
+- 2025-07-21 – Version bumped to v5.0
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

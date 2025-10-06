@@ -43,8 +43,8 @@ Wait for the migration to complete, then start using Teable for managing your pr
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | teable
-App Service Image | - | yes | ghcr.io/teableio/teable:sha-c1ea587c7a09b262a24002c8809488f5b9b92393
-Migration Service Image | - | yes | ghcr.io/teableio/teable-db-migrate:sha-c1ea587c7a09b262a24002c8809488f5b9b92393
+App Service Image | - | yes | ghcr.io/teableio/teable:753fb6ad997f70693688bce057f0c8cf5da8e6ee
+Migration Service Image | - | yes | ghcr.io/teableio/teable-db-migrate:753fb6ad997f70693688bce057f0c8cf5da8e6ee
 Enable Arm | - | no | false
 
 ## Screenshots
@@ -54,6 +54,7 @@ Enable Arm | - | no | false
 ## Change Log
 
 - 2025-02-12 – Initial Template Release
+- 2025-07-25 – Version bumped to 753fb6ad997f70693688bce057f0c8cf5da8e6ee
 
 ## Contributors
 

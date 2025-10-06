@@ -48,7 +48,7 @@ You will need to mount the location where your photos are to complete the instal
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | photoview
-App Service Image | - | yes | viktorstrate/photoview:sha-6693920
+App Service Image | - | yes | viktorstrate/photoview:sha-84c642c
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | photoview-db
 
@@ -59,7 +59,9 @@ Database Service Name | - | yes | photoview-db
 ## Change Log
 
 - 2023-03-16 – First Release
+- 2025-07-24 – Version bumped to sha-84c642c
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

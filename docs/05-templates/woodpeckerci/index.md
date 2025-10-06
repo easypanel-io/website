@@ -37,8 +37,8 @@ WoodPecker CI is a modern, open-source continuous integration (CI) and delivery 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | woodpecker-ci
-App Service Image | - | yes | woodpeckerci/woodpecker-server:v2.8.3
-Agent Service Image | - | yes | woodpeckerci/woodpecker-agent:v2.8.3
+App Service Image | - | yes | woodpeckerci/woodpecker-server:v3.8.0
+Agent Service Image | - | yes | woodpeckerci/woodpecker-agent:v3.8.0
 GitHub Client ID | - | yes | 
 GitHub Client Secret | - | yes | 
 
@@ -49,6 +49,7 @@ GitHub Client Secret | - | yes |
 ## Change Log
 
 - 2025-01-27 – First Release
+- 2025-07-25 – Version bumped to v3.8.0
 
 ## Contributors
 

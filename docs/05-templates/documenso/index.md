@@ -46,7 +46,7 @@ Please follow the below given stackoverflow instructions to create the .p12 file
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | documenso
-App Service Image | - | yes | documenso/documenso:v1.11.0
+App Service Image | - | yes | documenso/documenso:v1.12.1
 SMTP Host | - | yes | smtp.example.com
 SMTP Port | - | yes | 587
 SMTP Username | - | yes | user@example.com
@@ -62,6 +62,7 @@ P12 Path | The path to the .p12 file that contains the certificate and private k
 ## Change Log
 
 - 2025-05-23 – First release
+- 2025-07-15 – Version bumped to v1.12.1
 
 ## Contributors
 

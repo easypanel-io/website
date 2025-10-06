@@ -39,7 +39,7 @@ Evolution API is a self-hosted platform designed to empower small businesses, en
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | evolution-api
-App Service Image | - | yes | atendai/evolution-api:v2.2.3
+App Service Image | - | yes | evoapicloud/evolution-api:v2.3.0
 
 ## Screenshots
 

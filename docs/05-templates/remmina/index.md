@@ -44,7 +44,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | remmina
-App Service Image | - | yes | lscr.io/linuxserver/remmina:latest
+App Service Image | - | yes | lscr.io/linuxserver/remmina:1.4.35
 
 ## Screenshots
 
@@ -53,7 +53,9 @@ App Service Image | - | yes | lscr.io/linuxserver/remmina:latest
 ## Change Log
 
 - 2022-11-15 – first release
+- 2025-07-24 – Version bumped to 1.4.35
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

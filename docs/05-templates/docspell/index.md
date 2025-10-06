@@ -43,8 +43,8 @@ The initial setup requires creating a user account.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | docspell
-App Service Image | - | yes | ghcr.io/docspell/restserver:v0.42.0
-Joex Service Image | - | yes | ghcr.io/docspell/joex:v0.42.0
+App Service Image | - | yes | ghcr.io/docspell/restserver:v0.43
+Joex Service Image | - | yes | ghcr.io/docspell/joex:v0.43
 Consumedir Service Image | - | yes | docspell/dsc:v0.11.0
 Solr Service Image | - | yes | solr:9
 
@@ -55,6 +55,7 @@ Solr Service Image | - | yes | solr:9
 ## Change Log
 
 - 2025-03-19 – Template Release
+- 2025-07-15 – Version bumped to v0.43
 
 ## Contributors
 

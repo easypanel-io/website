@@ -45,7 +45,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable Prisma Studio | - | no | false
 App Service Name | - | yes | calcom
-App Service Image | - | yes | calcom/cal.com:v5.0.4
+App Service Image | - | yes | calcom/cal.com:v5.4.20
 App Service Name | - | yes | calcom-db
 
 ## Screenshots
@@ -57,7 +57,9 @@ App Service Name | - | yes | calcom-db
 - 2023-04-03 – First Release
 - 2025-01-09 – Version bumped to v4.7.8
 - 2025-02-21 – Version bumped to v5.0.4
+- 2025-07-15 – Version bumped to v5.4.20
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -40,7 +40,7 @@ OnlyOffice is a self-hosted office suite that provides powerful document, spread
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | onlyoffice
-App Service Image | - | yes | onlyoffice/documentserver:8.3
+App Service Image | - | yes | onlyoffice/documentserver:9.0
 
 ## Screenshots
 

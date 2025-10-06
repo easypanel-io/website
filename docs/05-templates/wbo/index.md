@@ -42,7 +42,7 @@ WBO (Whiteboard Online) is an open-source, self-hosted, collaborative whiteboard
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wbo
-App Service Image | - | yes | lovasoa/wbo:v1.20.1
+App Service Image | - | yes | lovasoa/wbo:v1.22.0
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lovasoa/wbo:v1.20.1
 ## Change Log
 
 - 2024-11-07 – initial release
+- 2025-07-25 – Version bumped to v1.22.0
 
 ## Contributors
 

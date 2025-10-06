@@ -38,7 +38,7 @@ LibreTranslate is a free and open-source machine translation app that is entirel
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | libretranslate
-App Service Image | - | yes | libretranslate/libretranslate:latest
+App Service Image | - | yes | libretranslate/libretranslate:v1.7.2
 Character limit for each translation | - | yes | 5000
 Rate request limit | - | yes | 500
 Bach translation limit | - | yes | 100
@@ -53,7 +53,9 @@ Disable Web UI | - | yes | false
 ## Change Log
 
 - 2020-12-20 – first release
+- 2025-07-22 – Version bumped to v1.7.2
 
 ## Contributors
 
 - [kaname-png](https://github.com/kaname-png)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -46,7 +46,7 @@ Login with admin:admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grafana
-App Service Image | - | yes | grafana/grafana-oss:11.4.0
+App Service Image | - | yes | grafana/grafana-oss:12.0.2
 
 ## Screenshots
 
@@ -57,8 +57,9 @@ App Service Image | - | yes | grafana/grafana-oss:11.4.0
 - 2023-3-15 – first release
 - 2024-10-09 – Version changed to 11.2.2
 - 2025-01-14 – Version bumped to 11.4.0
+- 2025-07-21 – Version bumped to 12.0.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

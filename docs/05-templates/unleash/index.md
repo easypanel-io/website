@@ -46,7 +46,7 @@ Login with admin:unleash4all
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | unleash
-App Service Image | - | yes | unleashorg/unleash-server:6.7
+App Service Image | - | yes | unleashorg/unleash-server:7.0
 Database Service Name | - | yes | unleash-db
 
 ## Screenshots
@@ -57,7 +57,9 @@ Database Service Name | - | yes | unleash-db
 
 - 2023-04-12 – first release
 - 2025-03-03 – Version bumped to 6.7
+- 2025-07-25 – Version bumped to 7.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -45,7 +45,7 @@ Please use the following credentials to login. admin|password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | paperlessngx
-App Service Image | - | yes | paperlessngx/paperless-ngx:2.11.6
+App Service Image | - | yes | paperlessngx/paperless-ngx:2.17
 Redis Service Name | - | yes | paperlessngx-redis
 
 ## Screenshots
@@ -55,7 +55,9 @@ Redis Service Name | - | yes | paperlessngx-redis
 ## Change Log
 
 - 2022-10-28 – first release
+- 2025-07-24 – Update to 2.17
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

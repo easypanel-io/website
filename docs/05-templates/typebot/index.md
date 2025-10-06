@@ -17,7 +17,7 @@ Typebot is an innovative app designed to revolutionize the way you collect infor
 
 ## Instructions
 
-Open the builder URL to access typebot.
+Please configure at least one OAuth provider for authentication.
 
 ## Benefits
 
@@ -31,6 +31,7 @@ Open the builder URL to access typebot.
 - Integrate with any platform: Typebot offers several native integrations blocks as well as instructions on how to embed typebot on particular platforms.
 - Collect results in real-time: One of the main advantages of a chat application is that you collect the user's responses on each question. You won't lose any valuable data.
 - And many more features: Typebot makes form building easy and comes with powerful features like hidden fields, team collaboration, link to sub typebots, custom code, custom domain, and folder management.
+- OAuth Authentication: Support for multiple OAuth providers including GitHub and Google for secure user authentication and easy login management.
 
 ## Links
 
@@ -43,18 +44,14 @@ Open the builder URL to access typebot.
 
 Name | Description | Required | Default Value
 -|-|-|-
-Viewer Service Name | - | yes | typebot-viewer
-Builder Service Name | - | yes | typebot-builder
-Builder Domain | - | yes | 
-Viewer Domain | - | yes | 
-Builder Service Image | - | yes | baptistearno/typebot-builder:3.1.0
-Viewer Service Image | - | yes | baptistearno/typebot-viewer:2
-Storage Service Image | - | yes | bitnami/minio:2023
-Database Service Name | - | yes | typebot-db
-Storage Service Name | - | yes | typebot-minio
-Github Client ID | - | yes | 
-Github Client Secret | - | yes | 
-Email to make administrator | - | yes | 
+App Service Name | - | yes | typebot
+Builder Service Image | - | yes | baptistearno/typebot-builder:3.9
+Viewer Service Image | - | yes | baptistearno/typebot-viewer:3.9.0
+Admin Email | Email address for the administrator account | yes | admin@example.com
+GitHub Client ID (Optional) | GitHub OAuth App Client ID for authentication | no | 
+GitHub Client Secret (Optional) | GitHub OAuth App Client Secret for authentication | no | 
+Google OAuth Client ID (Optional) | Google OAuth Client ID for authentication | no | 
+Google OAuth Client Secret (Optional) | Google OAuth Client Secret for authentication | no | 
 
 ## Screenshots
 
@@ -66,9 +63,12 @@ Email to make administrator | - | yes |
 - 2023-03-13 – Update to v2.11.4
 - 2023-03-22 – Update to v2.11.6
 - 2023-07-16 – Update to V2
+- 2025-01-17 – Updated to use Redis instead of MinIO, simplified configuration
+- 2025-07-28 – Updated the template.
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
 - [Berk Sümbül](https://berksmbl.com)
 - [Alan Frigo](https://github.com/alanfrigo)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

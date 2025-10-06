@@ -41,7 +41,7 @@ Llana is a lightweight no-code API wrapper that exposes a REST API for any datab
 Name | Description | Required | Default Value
 -|-|-|-
 Application Service Name | - | yes | llana
-Application Service Image | - | yes | juicyllama/llana:v1.14
+Application Service Image | - | yes | juicyllama/llana:v1.32
 Database Type | - | yes | postgresql
 Database Hostname | - | yes | 
 Database Username | - | yes | 
@@ -57,6 +57,7 @@ JWT Secret | Provide a 32-character long JWT secret. | yes |
 ## Change Log
 
 - 2024-12-10 – First release
+- 2025-07-22 – Version bumped to v1.32
 
 ## Contributors
 

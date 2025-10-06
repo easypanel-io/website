@@ -40,7 +40,7 @@ Firebird is a powerful, open-source relational database management system (RDBMS
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | firebird
-App Service Image | - | yes | firebirdsql/firebird:5.0.2
+App Service Image | - | yes | firebirdsql/firebird:5.0.3
 Root Password | - | yes | rootpassword
 Database User | - | yes | dbuser
 Database Password | - | yes | password
@@ -52,6 +52,7 @@ Database Password | - | yes | password
 ## Change Log
 
 - 2025-03-18 – Template Release
+- 2025-07-21 – Version bumped to 5.0.3
 
 ## Contributors
 

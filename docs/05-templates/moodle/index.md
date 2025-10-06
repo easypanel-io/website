@@ -53,6 +53,7 @@ App Service Image | - | yes | docker.io/bitnami/moodle:5.0.0
 
 - 2025-01-13 – First Release
 - 2025-02-28 – Version bumped to 4.5.2
+- 2025-07-10 – Version bumped to 5.0.0
 
 ## Contributors
 

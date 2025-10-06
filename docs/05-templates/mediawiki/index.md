@@ -47,7 +47,7 @@ During the installation, configure the database as prompted, and once completed,
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mediawiki
-App Service Image | - | yes | mediawiki:1.43.1
+App Service Image | - | yes | mediawiki:1.43.3
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | mediawiki:1.43.1
 - 2024-11-22 – First Release
 - 2025-02-28 – Version bumped to 1.43.0
 - 2025-06-05 – Update to 1.43.1
+- 2025-07-22 – Update to 1.43.3
 
 ## Contributors
 

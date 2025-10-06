@@ -42,7 +42,7 @@ Qdrant is a powerful vector database and vector similarity search engine designe
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | qdrant
-App Service Image | - | yes | qdrant/qdrant:v1.13.4
+App Service Image | - | yes | qdrant/qdrant:v1.15
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | qdrant/qdrant:v1.13.4
 
 - 2023-06-30 – first release
 - 2025-02-28 – Version bumped to v1.13.4
+- 2025-07-24 – Version bumped to v1.15
 
 ## Contributors
 
 - [AlexSerban](https://github.com/serban-alexandru)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

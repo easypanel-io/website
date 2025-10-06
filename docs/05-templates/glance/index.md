@@ -46,7 +46,7 @@ You can edit the Yaml configuration as per your needs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | glance
-App Service Image | - | yes | glanceapp/glance:v0.7.7
+App Service Image | - | yes | glanceapp/glance:v0.8.4
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | glanceapp/glance:v0.7.7
 ## Change Log
 
 - 2025-03-17 – First Release (v0.7.7)
+- 2025-07-21 – Version bumped to v0.8.4
 
 ## Contributors
 

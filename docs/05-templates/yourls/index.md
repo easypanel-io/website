@@ -43,7 +43,7 @@ Use admin:admin123 to login.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | yourls
-App Service Image | - | yes | yourls:1.9.2
+App Service Image | - | yes | yourls:1.10.1
 Database Service Name | - | yes | yourls-db
 
 ## Screenshots
@@ -54,6 +54,7 @@ Database Service Name | - | yes | yourls-db
 
 - 2024-10-17 – Template Release
 - 2025-03-03 – Version bumped to 1.9.2
+- 2025-07-25 – Version bumped to 1.10.1
 
 ## Contributors
 

@@ -41,7 +41,7 @@ phpMyAdmin is a free software tool designed to manage MySQL over the web. This p
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | phpmyadmin
-App Service Image | - | yes | phpmyadmin:5.2.1
+App Service Image | - | yes | phpmyadmin:5.2.2
 
 ## Screenshots
 
@@ -50,7 +50,9 @@ App Service Image | - | yes | phpmyadmin:5.2.1
 ## Change Log
 
 - 2022-07-12 – first release
+- 2025-07-24 – Version bumped to 5.2.2
 
 ## Contributors
 
 - [Andrei Canta](https://github.com/deiucanta)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

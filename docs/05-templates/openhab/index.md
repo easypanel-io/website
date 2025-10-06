@@ -40,7 +40,7 @@ OpenHAB is an open-source automation software designed to integrate and control 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openhab
-App Service Image | - | yes | openhab/openhab:4.3.3
+App Service Image | - | yes | openhab/openhab:5.0.0
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | openhab/openhab:4.3.3
 
 - 2025-01-23 – First Release
 - 2025-02-28 – Version bumped to 4.3.3
+- 2025-07-24 – Version bumped to 5.0.0
 
 ## Contributors
 

@@ -38,7 +38,7 @@ Kokoro is a powerful, browser-based AI voice generator that lets you create natu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kokoro
-App Service Image | - | yes | ghcr.io/eduardolat/kokoro-web:0.1.0
+App Service Image | - | yes | ghcr.io/eduardolat/kokoro-web:0.1.3
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | ghcr.io/eduardolat/kokoro-web:0.1.0
 ## Change Log
 
 - 2025-03-05 – First Release (0.1.0)
+- 2025-07-22 – Version bumped to 0.1.3
 
 ## Contributors
 

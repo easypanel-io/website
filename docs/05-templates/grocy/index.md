@@ -46,7 +46,7 @@ default credentials; username; admin, password; admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grocy
-App Service Image | - | yes | lscr.io/linuxserver/grocy:latest
+App Service Image | - | yes | lscr.io/linuxserver/grocy:4.5.0
 
 ## Screenshots
 
@@ -55,7 +55,8 @@ App Service Image | - | yes | lscr.io/linuxserver/grocy:latest
 ## Change Log
 
 - 2024-12-24 – First release
+- 2025-07-21 – Version bumped to 4.5.0
 
 ## Contributors
 
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

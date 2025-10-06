@@ -40,7 +40,7 @@ Jackett is a versatile, open-source indexer proxy for torrenting and Usenet, ena
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jackett
-App Service Image | - | yes | lscr.io/linuxserver/jackett:latest
+App Service Image | - | yes | lscr.io/linuxserver/jackett:0.22.2182
 
 ## Screenshots
 

@@ -39,7 +39,7 @@ OpenEMR is a powerful, open-source electronic medical records and practice manag
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openemr
-App Service Image | - | yes | openemr/openemr:7.0.2
+App Service Image | - | yes | openemr/openemr:7.0.4
 Admin User | - | yes | admin
 Admin Password | - | yes | password
 
@@ -49,6 +49,7 @@ Admin Password | - | yes | password
 ## Change Log
 
 - 2025-02-11 – Template Release
+- 2025-07-24 – Version bumped to 7.0.4
 
 ## Contributors
 

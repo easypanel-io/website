@@ -48,7 +48,7 @@ NZBHydra2 is an advanced meta search application designed to unify and manage se
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nzbhydra2
-App Service Image | - | yes | lscr.io/linuxserver/nzbhydra2:latest
+App Service Image | - | yes | lscr.io/linuxserver/nzbhydra2:7.15.3
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | lscr.io/linuxserver/nzbhydra2:latest
 ## Change Log
 
 - 2024-12-31 – First Release
+- 2025-07-24 – Update to 7.15.3
 
 ## Contributors
 

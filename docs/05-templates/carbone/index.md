@@ -40,7 +40,7 @@ Carbone is a high-performance, self-hosted document generation engine. It allows
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | carbone
-App Service Image | - | yes | carbone/carbone-ee:full-4.25.5
+App Service Image | - | yes | carbone/carbone-ee:full-5.0.0-beta.10
 Carbone License Key | - | no | 
 
 ## Screenshots
@@ -50,6 +50,7 @@ Carbone License Key | - | no |
 ## Change Log
 
 - 2025-02-12 – First Release
+- 2025-07-15 – Version bumped to 5.0.0-beta.10
 
 ## Contributors
 

@@ -47,7 +47,7 @@ Copy the email and passwords. sysadmin@thingsboard.org / sysadmin, tenant@things
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | thingsboard
-App Service Image | - | yes | thingsboard/tb-postgres:3.9.1
+App Service Image | - | yes | thingsboard/tb-postgres:4.1.0
 
 ## Screenshots
 

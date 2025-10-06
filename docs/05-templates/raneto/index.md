@@ -37,7 +37,9 @@ Timezone | - | no | Etc/UTC
 ## Change Log
 
 - 2022-11-27 – first release
+- 2025-07-24 – Version bumped to 0.17.8
 
 ## Contributors
 
 - [Serban Alexandru](https://github.com/serban-alexandru)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

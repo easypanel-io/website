@@ -45,7 +45,7 @@ Login username=admin,password=admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | babybuddy
-App Service Image | - | yes | linuxserver/babybuddy:2.7.0
+App Service Image | - | yes | linuxserver/babybuddy:2.7.1
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | linuxserver/babybuddy:2.7.0
 
 - 2024-11-16 – First release
 - 2025-01-06 – Version bumped to 2.7.0
+- 2025-07-15 – Version bumped to 2.7.1
 
 ## Contributors
 

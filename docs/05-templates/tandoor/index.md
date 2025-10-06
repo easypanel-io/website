@@ -40,7 +40,7 @@ Tandoor is an online recipe management app designed to help you manage and grow 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tandoor
-App Service Image | - | yes | vabene1111/recipes:1.5.31
+App Service Image | - | yes | vabene1111/recipes:1.5.35
 Database Service Name | - | yes | tandoor-db
 
 ## Screenshots
@@ -51,7 +51,9 @@ Database Service Name | - | yes | tandoor-db
 
 - 2023-04-10 – first release
 - 2025-03-03 – Version bumped to 1.5.31
+- 2025-07-25 – Version bumped to 1.5.35
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -40,7 +40,7 @@ Gotify is a simple, self-hosted server for sending and receiving messages. It is
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotify
-App Service Image | - | yes | gotify/server:2.6
+App Service Image | - | yes | gotify/server:2.6.3
 Password | - | yes | 
 Timezone | - | no | Europe/London
 
@@ -53,9 +53,11 @@ Timezone | - | no | Europe/London
 - 2022-07-12 – first release
 - 2023-2-24 – Update to v2.2.4
 - 2025-01-14 – Version bumped to 2.6
+- 2025-07-21 – Version bumped to 2.6.3
 
 ## Contributors
 
 - [Ponkhy](https://github.com/Ponkhy)
 - [Andrei Canta](https://github.com/deiucanta)
 - [Supernova3339](https://github.com/supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

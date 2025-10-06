@@ -40,7 +40,7 @@ Memcached is a high-performance, distributed memory object caching system design
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | memcached
-App Service Image | - | yes | memcached:1.6.22
+App Service Image | - | yes | memcached:1.6.38
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | memcached:1.6.22
 ## Change Log
 
 - 2025-03-20 – Initial template release
+- 2025-07-22 – Update to 1.6.38
 
 ## Contributors
 

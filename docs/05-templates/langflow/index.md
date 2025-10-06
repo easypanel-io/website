@@ -41,7 +41,7 @@ Default username=admin, password=admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | langflow
-App Service Image | - | yes | langflowai/langflow:1.3.2
+App Service Image | - | yes | langflowai/langflow:1.5.0
 Username | - | yes | 
 Password | - | yes | 
 
@@ -53,6 +53,7 @@ Password | - | yes |
 - 2023-06-22 – first release
 - 2024-10-16 – Version updated to 1.0.19
 - 2025-04-10 – Version updated to 1.3.2
+- 2025-07-22 – Version bumped to 1.5.0
 
 ## Contributors
 

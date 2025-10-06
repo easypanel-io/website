@@ -44,7 +44,7 @@ default login is admin/admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | znc
-App Service Image | - | yes | lscr.io/linuxserver/znc:1.9.1
+App Service Image | - | yes | lscr.io/linuxserver/znc:1.10.1
 PUID | - | yes | 1000
 PGID | - | yes | 1000
 Timezone | - | yes | Europe/London
@@ -56,7 +56,9 @@ Timezone | - | yes | Europe/London
 ## Change Log
 
 - 2024-04-27 – first release
+- 2025-07-25 – Version bumped to 1.10.1
 
 ## Contributors
 
 - [LinuxServer.io Team](https://linuxserver.io/)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

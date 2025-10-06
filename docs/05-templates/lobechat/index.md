@@ -46,7 +46,7 @@ Configure your OpenAI API key and proxy URL to start using the application.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lobechat
-App Service Image | - | yes | lobehub/lobe-chat:1.66.5
+App Service Image | - | yes | lobehub/lobe-chat:1.103.0
 OpenAI API Key | OpenAI API Key for enabling AI functionalities. | yes | sk-xxxx
 OpenAI Proxy | Proxy URL for accessing OpenAI API securely. | yes | https://api-proxy.com/v1
 Access Code | Access code for secure authentication to the chat service. | yes | lobe66
@@ -59,6 +59,7 @@ Access Code | Access code for secure authentication to the chat service. | yes |
 
 - 2024-12-16 – First release
 - 2025-02-28 – Version bumped to 1.66.5
+- 2025-07-22 – Version bumped to 1.103.0
 
 ## Contributors
 

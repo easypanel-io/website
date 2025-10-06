@@ -46,8 +46,8 @@ Login using the credentials, admin@opnform.com/password.
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | opnform
-App Service Image | - | yes | jhumanj/opnform-client:1.7.2
-API Service Image | - | yes | jhumanj/opnform-api:1.7.2
+App Service Image | - | yes | jhumanj/opnform-client:1.9.2
+API Service Image | - | yes | jhumanj/opnform-api:1.9.2
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ API Service Image | - | yes | jhumanj/opnform-api:1.7.2
 ## Change Log
 
 - 2025-05-23 – First release
+- 2025-07-24 – Version bumped to 1.9.2
 
 ## Contributors
 

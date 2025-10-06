@@ -43,7 +43,7 @@ Configure Environment Variables as per your needs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | linkwarden
-App Service Image | - | yes | ghcr.io/linkwarden/linkwarden:v2.9.3
+App Service Image | - | yes | ghcr.io/linkwarden/linkwarden:v2.11.5
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | ghcr.io/linkwarden/linkwarden:v2.9.3
 ## Change Log
 
 - 2025-01-16 – Template Release
+- 2025-07-22 – Version bumped to v2.11.5
 
 ## Contributors
 

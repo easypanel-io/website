@@ -41,7 +41,7 @@ Cube is a Semantic Layer for every data app that aims to connect data silos, dri
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cubejs
-App Service Image | - | yes | cubejs/cube:v1
+App Service Image | - | yes | cubejs/cube:v1.3
 Database Service Name | - | yes | cubejs-db
 
 ## Screenshots
@@ -53,8 +53,9 @@ Database Service Name | - | yes | cubejs-db
 - 2023-2-27 – first release
 - 2024-09-30 – Version changed to v0.36.4
 - 2025-01-09 – Version bumped to v1
+- 2025-07-15 – Version bumped to v1.3
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

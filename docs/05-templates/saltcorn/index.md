@@ -43,7 +43,7 @@ Delete the migration container, once that is done with migrations.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | saltcorn
-App Service Image | - | yes | saltcorn/saltcorn:1.1.2
+App Service Image | - | yes | saltcorn/saltcorn:1.3.0
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | saltcorn/saltcorn:1.1.2
 ## Change Log
 
 - 2025-03-13 – Template Release
+- 2025-07-24 – Version bumped to 1.3.0
 
 ## Contributors
 

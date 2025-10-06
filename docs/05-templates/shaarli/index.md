@@ -42,7 +42,7 @@ Shaarli is a personal, minimalist, super-fast, and database-free bookmarking ser
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shaarli
-App Service Image | - | yes | ghcr.io/shaarli/shaarli:latest
+App Service Image | - | yes | ghcr.io/shaarli/shaarli:v0.14.0
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | ghcr.io/shaarli/shaarli:latest
 ## Change Log
 
 - 2023-04-04 – first release
+- 2025-07-24 – Version bumped to v0.14.0
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

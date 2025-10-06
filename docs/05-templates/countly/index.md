@@ -41,7 +41,7 @@ Countly is an innovative, open-source analytics and engagement platform designed
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | countly
-App Service Image | - | yes | countly/countly-server:24.05.24
+App Service Image | - | yes | countly/countly-server:v25.03.10
 Database Service Name | - | yes | countly-db
 Redis Service Name | - | yes | countly-redis
 
@@ -53,6 +53,7 @@ Redis Service Name | - | yes | countly-redis
 
 - 2024-11-02 – Template Release
 - 2025-01-09 – Version bumped to 24.10.4
+- 2025-07-15 – Version bumped to 25.03.10
 
 ## Contributors
 

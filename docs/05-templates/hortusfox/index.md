@@ -39,7 +39,7 @@ HortusFox is a free, open-source, self-hosted, collaborative plant management sy
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hortusfox
-App Service Image | - | yes | ghcr.io/danielbrendel/hortusfox-web:v4.4
+App Service Image | - | yes | ghcr.io/danielbrendel/hortusfox-web:v5.1
 Admin Email | - | yes | admin@example.com
 Admin Password | - | yes | password
 
@@ -50,6 +50,7 @@ Admin Password | - | yes | password
 ## Change Log
 
 - 2025-03-14 – Template Release (v4.4)
+- 2025-07-22 – Version bumped to v5.1
 
 ## Contributors
 

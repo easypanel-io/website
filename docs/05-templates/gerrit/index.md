@@ -41,7 +41,7 @@ Gerrit is a web-based code review tool that integrates with Git. It provides a f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gerrit
-Gerrit Image | - | yes | gerritcodereview/gerrit:3.11.2
+Gerrit Image | - | yes | gerritcodereview/gerrit:3.12.1
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ Gerrit Image | - | yes | gerritcodereview/gerrit:3.11.2
 ## Change Log
 
 - 2025-04-03 – Initial template release
+- 2025-07-21 – Version bumped to 3.12.1
 
 ## Contributors
 

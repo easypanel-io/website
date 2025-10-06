@@ -42,7 +42,7 @@ Hasura is a powerful Data API Platform that automates the process of building, s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hasura
-App Service Image | - | yes | hasura/graphql-engine:v2.8.4
+App Service Image | - | yes | hasura/graphql-engine:v2.36.10-2
 Database Service Name | - | yes | hasura-db
 Hasura Admin Secret Key | - | yes | mysecretkey
 Console Enable | - | yes | true
@@ -56,7 +56,9 @@ Dev mode Enable | - | yes | true
 
 - 2023-03-16 – first release
 - 2025-02-25 – Version bumped to v2.8.4
+- 2025-07-22 – Version bumped to v2.36.10-2
 
 ## Contributors
 
 - [Amit Gadhia](https://github.com/amitoo7)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -41,7 +41,7 @@ Element is a secure communications platform designed to protect and strengthen y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | element
-App Service Image | - | yes | vectorim/element-web:v1.11.79
+App Service Image | - | yes | vectorim/element-web:v1.11.106
 
 ## Screenshots
 
@@ -52,8 +52,9 @@ App Service Image | - | yes | vectorim/element-web:v1.11.79
 - 2022-10-28 – first release
 - 2023-2-24 – Update to v1.11.23
 - 2024-10-04 – Update to v1.11.79
+- 2025-07-21 – Version bumped to v1.11.106
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

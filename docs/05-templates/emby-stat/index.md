@@ -41,7 +41,7 @@ Emby-Stat is an advanced statistics and analytics tool for Emby and Jellyfin med
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emby-stat
-App Service Image | - | yes | lscr.io/linuxserver/embystat:latest
+App Service Image | - | yes | lscr.io/linuxserver/embystat:0.2.0
 
 ## Screenshots
 
@@ -50,7 +50,8 @@ App Service Image | - | yes | lscr.io/linuxserver/embystat:latest
 ## Change Log
 
 - 2024-12-24 – First release
+- 2025-07-21 – Version bumped to 0.2.0
 
 ## Contributors
 
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -45,7 +45,7 @@ You should connect your application to Trigger.dev using the provided SDKs and A
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | trigger
-App Service Image | - | yes | ghcr.io/triggerdotdev/trigger.dev:v2.2.39
+App Service Image | - | yes | ghcr.io/triggerdotdev/trigger.dev:v3.3.18
 Database Service Name | - | yes | trigger-db
 
 ## Screenshots
@@ -55,6 +55,7 @@ Database Service Name | - | yes | trigger-db
 ## Change Log
 
 - 2024-11-16 – First Release
+- 2025-07-25 – Version bumped to v3.3.18
 
 ## Contributors
 

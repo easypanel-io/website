@@ -48,7 +48,7 @@ Once clicked, please wait for the installation to complete, it will take time. I
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | discourse
-App Service Image | - | yes | bitnami/discourse:3
+App Service Image | - | yes | bitnami/discourse:3.4.5
 Discourse Email | - | yes | admin@example.com
 Discourse Username | - | yes | admin
 Discourse Password | Passwort must be at least 10 characters long | yes | adminpassword123
@@ -60,6 +60,7 @@ Discourse Password | Passwort must be at least 10 characters long | yes | adminp
 ## Change Log
 
 - 2025-04-30 – Initial release
+- 2025-07-15 – Version bumped to 3.4.5
 
 ## Contributors
 

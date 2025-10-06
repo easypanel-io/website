@@ -46,9 +46,11 @@ HeyForm is an open-source form builder platform designed to create, manage, and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | heyform
-HeyForm Service Image | - | yes | heyform/community-edition:v0.0.15
-Database Service Image | - | yes | percona/percona-server-mongodb:4.4
+HeyForm Service Image | - | yes | heyform/community-edition:v0.1.0
+Database Service Image | - | yes | percona/percona-server-mongodb:6.0
 Redis Service Image | - | yes | eqalpha/keydb:x86_64_v6.3.4
+Google Recaptcha Key | - | no | 
+Google Recaptcha Secret | - | no | 
 
 ## Screenshots
 
@@ -57,6 +59,7 @@ Redis Service Image | - | yes | eqalpha/keydb:x86_64_v6.3.4
 ## Change Log
 
 - 2024-12-12 – First release
+- 2025-07-22 – Version bumped to v0.1.0
 
 ## Contributors
 

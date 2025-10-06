@@ -39,8 +39,8 @@ FusionAuth is a powerful, self-hosted identity and access management platform de
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fusionauth
-App Service Image | - | yes | fusionauth/fusionauth-app:1.55.1
-OpenSearch Service Image | - | yes | opensearchproject/opensearch:2.11.0
+App Service Image | - | yes | fusionauth/fusionauth-app:1.57.1
+OpenSearch Service Image | - | yes | opensearchproject/opensearch:3.1.0
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ OpenSearch Service Image | - | yes | opensearchproject/opensearch:2.11.0
 ## Change Log
 
 - 2025-01-17 – Template Release
+- 2025-07-21 – Version bumped to 1.57.1
 
 ## Contributors
 

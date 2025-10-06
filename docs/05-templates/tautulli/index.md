@@ -47,7 +47,7 @@ Tautulli is a powerful web application designed to monitor, analyze, and notify 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tautuilli
-App Service Image | - | yes | lscr.io/linuxserver/tautulli:2.15.1
+App Service Image | - | yes | lscr.io/linuxserver/tautulli:2.15.2
 
 ## Screenshots
 
@@ -59,7 +59,9 @@ App Service Image | - | yes | lscr.io/linuxserver/tautulli:2.15.1
 
 - 2023-1-26 – first release
 - 2025-03-03 – Version bumped to 2.15.1
+- 2025-07-25 – Version bumped to 2.15.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

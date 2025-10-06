@@ -47,7 +47,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | evo-ai
 API Service Image | - | yes | evoapicloud/evo-ai:0.1.0
-Frontend Image | - | yes | evoapicloud/evo-ai-frontend:v0.0.7
+Frontend Image | - | yes | evoapicloud/evo-ai-frontend:0.1.0
 Admin Initial Password | - | yes | admin123
 SendGrid API Key | - | no | 
 Email From Address | - | no | noreply@example.com
@@ -59,6 +59,7 @@ Email From Address | - | no | noreply@example.com
 ## Change Log
 
 - 2025-05-27 – First release
+- 2025-07-21 – Version bumped to 0.1.0
 
 ## Contributors
 

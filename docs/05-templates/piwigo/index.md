@@ -46,7 +46,7 @@ Configure the database in the installation wizard.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | piwigo
-App Service Image | - | yes | lscr.io/linuxserver/piwigo:15.4.0
+App Service Image | - | yes | lscr.io/linuxserver/piwigo:15.5.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | lscr.io/linuxserver/piwigo:15.4.0
 ## Change Log
 
 - 2025-02-24 – Template Release
+- 2025-07-24 – Version bumped to 15.5.0
 
 ## Contributors
 

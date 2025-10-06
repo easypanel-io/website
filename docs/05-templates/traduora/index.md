@@ -39,7 +39,7 @@ Traduora is a modern, self-hosted translation management platform designed for t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | traduora
-App Service Image | - | yes | everco/ever-traduora:v0.20.1
+App Service Image | - | yes | everco/ever-traduora:v0.21.0
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | everco/ever-traduora:v0.20.1
 ## Change Log
 
 - 2025-03-19 – Template Release
+- 2025-07-25 – Version bumped to v0.21.0
 
 ## Contributors
 

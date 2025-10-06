@@ -41,7 +41,7 @@ Syncthing is a powerful, real-time file synchronization program designed to keep
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | syncthing
-App Service Image | - | yes | syncthing/syncthing:1.29
+App Service Image | - | yes | syncthing/syncthing:1.30
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ App Service Image | - | yes | syncthing/syncthing:1.29
 
 - 2023-07-10 – First Release
 - 2025-03-03 – Version bumped to 1.29
+- 2025-07-25 – Version bumped to 1.30
 
 ## Contributors
 
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

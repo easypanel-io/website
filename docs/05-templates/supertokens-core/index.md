@@ -46,7 +46,7 @@ Check environment tab for your API key
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | supertokens-core
-App Service Image | - | yes | supertokens/supertokens-postgresql:10.0.2
+App Service Image | - | yes | supertokens/supertokens-postgresql:11.0.4
 Database Service Name | - | yes | supertokens-core-db
 
 ## Screenshots
@@ -57,7 +57,9 @@ Database Service Name | - | yes | supertokens-core-db
 
 - 2023-2-22 – first release
 - 2025-03-03 – Version bumped to 10.0.2
+- 2025-07-25 – Version bumped to 11.0.4
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

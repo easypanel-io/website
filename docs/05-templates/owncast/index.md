@@ -38,7 +38,7 @@ Owncast is a free and open-source live video and web chat server that works seam
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | owncast
-App Service Image | - | yes | gabekangas/owncast:0.2.1
+App Service Image | - | yes | gabekangas/owncast:0.2.3
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | gabekangas/owncast:0.2.1
 
 - 2023-2-21 – first release
 - 2025-02-28 – Version bumped to 0.2.1
+- 2025-07-24 – Version bumped to 0.2.3
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

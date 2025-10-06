@@ -42,7 +42,7 @@ Ghost is a robust application designed for new-media creators looking to turn th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.110.1
+App Service Image | - | yes | ghost:5.130.1
 Database Service Name | - | yes | ghost-db
 
 ## Screenshots
@@ -57,6 +57,7 @@ Database Service Name | - | yes | ghost-db
 - 2023-07-23 – Update to v5
 - 2025-01-14 – Version bumped to 5.106.1-alpine
 - 2025-02-25 – Version bumped to 5.110.1
+- 2025-07-21 – Version bumped to 5.130.1
 
 ## Contributors
 
@@ -64,3 +65,4 @@ Database Service Name | - | yes | ghost-db
 - [Supernova3339](https://github.com/supernova3339)
 - [siriokun](https://github.com/siriokun)
 - [Berk Sümbül](https://berksmbl.com)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

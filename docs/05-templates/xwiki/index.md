@@ -38,7 +38,7 @@ XWiki is a powerful, open source enterprise wiki platform designed for collabora
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | xwiki
-App Service Image | - | yes | xwiki:16.4.7-mysql-tomcat
+App Service Image | - | yes | xwiki:17.4.2-mysql-tomcat
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | xwiki:16.4.7-mysql-tomcat
 ## Change Log
 
 - 2025-03-12 – First Release
+- 2025-07-25 – Version bumped to 17.4.2-mysql-tomcat
 
 ## Contributors
 

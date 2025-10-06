@@ -44,7 +44,7 @@ Kimai is an open-source time-tracking solution designed for freelancers, small b
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kimai
-App Service Image | - | yes | kimai/kimai2:apache-2.30.0
+App Service Image | - | yes | kimai/kimai2:apache-2.37.0
 Database Service Name | - | yes | kimai-db
 Admin Email | - | yes | admin@kimai.local
 Admin Password | The password must be at least 8 characters long. | yes | admin123

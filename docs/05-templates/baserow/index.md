@@ -45,7 +45,7 @@ It may take several minutes for Baserow to boot up.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | baserow
-App Service Image | - | yes | baserow/baserow:1.30.1
+App Service Image | - | yes | baserow/baserow:1.34.2
 Database Service Name | - | yes | baserow-db
 Redis Service Name | - | yes | baserow-redis
 
@@ -60,6 +60,7 @@ Redis Service Name | - | yes | baserow-redis
 - 2024-03-10 – Version bumped to 1.23.0
 - 2024-09-30 – Version bumped to 1.27.2
 - 2025-01-06 – Version bumped to 1.30.1
+- 2025-07-15 – Version bumped to 1.34.2
 
 ## Contributors
 

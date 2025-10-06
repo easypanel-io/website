@@ -44,9 +44,9 @@ Please provide the OpenAI API Key and Sign Up for the user account.
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | karakeep
-App Service Image | - | yes | ghcr.io/karakeep-app/karakeep:0.24.1
+App Service Image | - | yes | ghcr.io/karakeep-app/karakeep:0.26.0
 Chrome Image | - | yes | gcr.io/zenika-hub/alpine-chrome:123
-Meilisearch Image | - | yes | getmeili/meilisearch:v1.13.3
+Meilisearch Image | - | yes | getmeili/meilisearch:v1.15.2
 OpenAI API Key | - | yes | 
 
 ## Screenshots

@@ -44,7 +44,7 @@ In order to create the first admin account, the following needs to be executed i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | passbolt
-App Service Image | - | yes | passbolt/passbolt:4.8.0-1-ce
+App Service Image | - | yes | passbolt/passbolt:5.3.2-1-ce
 Database Service Name | - | yes | passbolt-db
 
 ## Screenshots
@@ -54,7 +54,9 @@ Database Service Name | - | yes | passbolt-db
 ## Change Log
 
 - 2023-04-03 – first release
+- 2025-07-24 – Update to 5.3.2
 
 ## Contributors
 
 - [Supernova3339](https://github.com/Supernova3339)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

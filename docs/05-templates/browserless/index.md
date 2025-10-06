@@ -46,7 +46,7 @@ Update your App to use Browserless. Follow the docs; https://docs.browserless.io
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | browserless
-App Service Image | - | yes | ghcr.io/browserless/chromium
+App Service Image | - | yes | ghcr.io/browserless/chromium:v2.33.0
 Concurrent Sessions | - | yes | 10
 
 ## Screenshots
@@ -56,6 +56,7 @@ Concurrent Sessions | - | yes | 10
 ## Change Log
 
 - 2025-01-29 – First Release
+- 2025-07-15 – Version bumped to 2.33.0
 
 ## Contributors
 

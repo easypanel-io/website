@@ -40,7 +40,7 @@ FlareSolverr is a proxy server designed to help bots and scripts bypass web prot
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flaresolverr
-App Service Image | - | yes | ghcr.io/flaresolverr/flaresolverr:v3.3.21
+App Service Image | - | yes | ghcr.io/flaresolverr/flaresolverr:v3.3.25
 
 ## Screenshots
 
@@ -48,7 +48,9 @@ App Service Image | - | yes | ghcr.io/flaresolverr/flaresolverr:v3.3.21
 ## Change Log
 
 - 2024-03-18 – Template added
+- 2025-07-21 – Version bumped to v3.3.25
 
 ## Contributors
 
 - [Mark Topper Diderichsen](https://github.com/marktopper)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

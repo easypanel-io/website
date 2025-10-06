@@ -45,7 +45,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 CodeX Auth Password | - | yes | 
 App Service Name | - | yes | codex
-App Service Image | - | yes | ghcr.io/codex-team/codex.docs:v2.2
+App Service Image | - | yes | ghcr.io/codex-team/codex.docs:v2.2.3
 Database Service Name | - | yes | codex-db
 
 ## Screenshots
@@ -56,8 +56,9 @@ Database Service Name | - | yes | codex-db
 
 - 2023-01-23 – First Release
 - 2024-09-30 – Version changed to v2.2
+- 2025-07-15 – Version bumped to v2.2.3
 
 ## Contributors
 
 - [DrMxrcy](https://github.com/DrMxrcy)
-- [Ahson Shaikh](https://github.com/MuhammadAhsanDonuts)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

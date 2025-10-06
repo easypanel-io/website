@@ -39,7 +39,7 @@ Dataline is a powerful data management and visualization tool that helps users o
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dataline
-Dataline Image | - | yes | ramiawar/dataline:v1.1.5
+Dataline Image | - | yes | ramiawar/dataline:v1.2.0
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ Dataline Image | - | yes | ramiawar/dataline:v1.1.5
 ## Change Log
 
 - 2025-03-24 – Initial template release
+- 2025-07-15 – Version bumped to v1.2.0
 
 ## Contributors
 
