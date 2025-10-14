@@ -380,24 +380,9 @@ export function ParityDeals() {
   const [bannerData, setBannerData] = useState<any>({});
 
   useEffect(() => {
-    var request = new XMLHttpRequest();
-    request.open(
-      "GET",
-      `https://api.paritydeals.com/api/v1/deals/discount/?url=${window.location.href}`,
-      true
-    );
-
-    request.onload = function () {
-      if (this.status >= 200 && this.status < 400) {
-        var data = JSON.parse(this.response);
-        if (!data.bar) {
-          return;
-        }
-        setBannerData(data);
-      }
-    };
-
-    request.send();
+    fetch("https://api.easypanel.io/discount")
+      .then((res) => res.json())
+      .then((data) => setBannerData(data));
   }, []);
 
   if (!bannerData.bar) {
