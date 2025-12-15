@@ -37,9 +37,9 @@ After installing Zipline for the first time, you may login to the dashboard with
 
 ## Links
 
-- [Website](https://zipline.diced.tech/)
+- [Website](https://zipline.diced.sh)
 - [Github](https://github.com/diced/zipline)
-- [Documentation](https://zipline.diced.tech/docs/get-started)
+- [Documentation](https://zipline.diced.sh/docs/get-started)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/zipline)
 
 ## Options
