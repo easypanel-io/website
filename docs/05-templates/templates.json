@@ -36,6 +36,12 @@
     "description": "Adminer is a comprehensive database management tool, designed to simplify and streamline your database operations. Written in PHP, it is a lightweight yet powerful tool that supports a wide range of databases including MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. With Adminer, you can easily connect to a database server using a username and password, select an existing database or create a new one, and manage all aspects of your database including tables, columns, indexes, foreign keys, triggers, views, stored procedures, and functions. It also allows you to execute any SQL command from a text field or a file, and export your database structure, data, views, routines, and databases to SQL or CSV. Adminer prioritizes security, user experience, performance, feature set, and size, making it a reliable and efficient tool for all your database management needs."
   },
   {
+    "slug": "adventurelog",
+    "logo": "logo.png",
+    "name": "AdventureLog",
+    "description": "AdventureLog is a comprehensive travel tracking and adventure logging application that helps you document and organize your journeys around the world. Built with modern web technologies and PostGIS for geographic data management, it allows you to record your adventures, track visited locations, and create a visual map of your travels. The application features a clean, intuitive interface for logging trips, storing photos and memories, and analyzing your travel patterns. With support for geographic data through PostGIS, you can visualize your adventures on interactive maps and maintain a complete history of your explorations. Perfect for travelers, adventurers, and anyone who wants to keep a detailed record of their journeys."
+  },
+  {
     "slug": "affinepro",
     "logo": "logo.png",
     "name": "Affine Pro",
@@ -150,6 +156,12 @@
     "description": "Authorizer is a powerful tool designed to simplify the process of user authentication and authorization in your applications. It allows you to build secure apps 10x faster with its low code tool and low-cost deployment. With Authorizer, you have full control over your user data, which can be stored in your preferred database. The app supports multiple authentication recipes and allows you to authorize users based on your business roles. It is compatible with OAuth2 and OpenID APIs. Authorizer also offers secure session management with the best services baked in, including HTTP only cookies and Authorization Code flow for mobile-based authentication. It supports a wide range of databases, including major SQL, NoSQL, and GraphDBs. You can customize emails, configure webhooks for various events, and add an extra layer of security with email-based OTP for basic authentication. With Authorizer, you can deploy your authentication and authorization service anywhere with multiple deployment options. It is a comprehensive solution for all your authentication and authorization needs."
   },
   {
+    "slug": "autobrr",
+    "logo": "logo.png",
+    "name": "Autobrr",
+    "description": "Autobrr is a modern download automation tool for torrent indexers and trackers. It monitors IRC announce channels and RSS feeds from various torrent trackers, automatically downloading torrents that match your custom filters and rules. Autobrr acts as a bridge between torrent indexers and your download clients, enabling advanced automation workflows. It supports numerous torrent clients including qBittorrent, Deluge, Transmission, and rTorrent, and integrates with media management tools like Sonarr, Radarr, and Lidarr. With powerful filtering capabilities based on resolution, codec, release group, and custom regex patterns, Autobrr ensures you only download exactly what you want. Perfect for automating private tracker workflows, racing releases, and maintaining ratio requirements."
+  },
+  {
     "slug": "automatisch",
     "logo": "logo.png",
     "name": "Automatisch",
@@ -204,6 +216,12 @@
     "description": "Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. It has a friendly web interface, simple configuration, and is ready to use out of the box. It supports automatic backup, multi-user, OAuth authentication, and API access."
   },
   {
+    "slug": "birdnetgo",
+    "logo": "logo.png",
+    "name": "BirdNET-Go",
+    "description": "BirdNET-Go is a real-time bird sound identification and monitoring system that uses advanced AI and machine learning to recognize bird species from audio recordings. It analyzes ambient sounds from microphones or audio files to identify and catalog bird species in your area. BirdNET-Go features automatic species detection with confidence scoring, location-based range filtering to show only birds likely in your region, real-time audio streaming, and comprehensive logging of all detected species. The application supports custom sensitivity settings, overlap detection for better accuracy, and can utilize XNNPACK acceleration for improved performance. Perfect for bird enthusiasts, ornithologists, researchers, and anyone interested in monitoring local bird populations and creating automated bird sound databases."
+  },
+  {
     "slug": "blender",
     "logo": "logo.png",
     "name": "Blender",
@@ -226,6 +244,12 @@
     "logo": "logo.svg",
     "name": "Bookstack",
     "description": "BookStack is a free and open-source platform designed to help you organize and store information in a simple and efficient way. It is a self-hosted solution that allows you to create, edit, and manage content through an easy-to-use interface. The content is divided into three real-world groups: Books, Chapters, and Pages, making it easy to navigate and find the information you need. The platform also includes a powerful search feature that allows you to search at the book level or across all books, chapters, and pages. You can also link directly to any paragraph, keeping your documentation interconnected. BookStack offers configuration options that let you customize the system to suit your needs, including changing the name, logo, and registration options. It also includes built-in diagrams.net drawing capability for creating diagrams within your documentation, a markdown editor for those who prefer to write in markdown, and integrated authentication options. The platform supports multiple languages and offers both dark and light modes for a comfortable user experience. It also includes a full role and permission system, multi-factor authentication, and features like cross-book sorting, page revisions, and image management."
+  },
+  {
+    "slug": "borgui",
+    "logo": "logo.png",
+    "name": "Borg UI",
+    "description": "Borg UI is a modern web-based interface for BorgBackup, the popular deduplicating backup program with compression and authenticated encryption. It provides an intuitive dashboard for managing backup repositories, creating and scheduling backups, monitoring backup status, and restoring files through a user-friendly web interface. BorgBackup is known for its efficiency through deduplication at the chunk level, strong encryption using AES-256, and data integrity verification. Borg UI simplifies the complexity of command-line operations by offering visual repository management, backup job configuration, automated scheduling, space-efficient storage tracking, and easy file restoration. The self-hosted solution gives you complete control over your backup infrastructure while maintaining the security and reliability of BorgBackup. With access to your entire filesystem, it can protect any data on your server including application files, databases, configurations, and user data. Perfect for system administrators, developers, and anyone who needs reliable, encrypted, and space-efficient backup solutions without relying on proprietary cloud backup services or complex command-line interfaces."
   },
   {
     "slug": "botpress",
@@ -318,6 +342,12 @@
     "description": "Changedetection.io is an intelligent tool designed to monitor changes on websites. It is perfect for smart shoppers, data journalists, research engineers, data scientists, security researchers, and more. The app allows you to watch up to 5,000 URLs and supports over 85 notification formats. It is capable of monitoring simple changes on a website, like price alterations or restock notifications, to deep inspections such as PDF text changes, JSON and XML monitoring, and extensive text triggers. The app also features intelligent product restock detection, making it easier for you to keep track of product availability. Additionally, it can perform interactive browser steps such as filling in text boxes, clicking buttons, and setting up your change detection scenario. With Changedetection.io, you can live your data life proactively, receiving notifications straight away when changes occur on your watched websites."
   },
   {
+    "slug": "chartdb",
+    "logo": "logo.png",
+    "name": "ChartDB",
+    "description": "ChartDB is an open-source, web-based database diagramming editor that enables you to visualize and manage database schemas through interactive diagrams. Create entity-relationship diagrams (ERDs) instantly by connecting to your databases and automatically generating visual representations of your schema. The application supports instant schema visualization using a single query and offers AI-powered features through OpenAI integration for intelligent SQL export and schema management. ChartDB provides an intuitive interface for understanding complex database structures, making it perfect for developers, database administrators, and teams who need to document and communicate database designs. With its modern web-based approach, you can access your database diagrams from anywhere and collaborate effectively on database architecture without installing desktop software."
+  },
+  {
     "slug": "chatpad",
     "logo": "logo.png",
     "name": "Chatpad",
@@ -376,6 +406,12 @@
     "logo": "logo.png",
     "name": "Cloud Commander",
     "description": "Cloud Commander is a file manager for the web. It includes a command-line console and a text editor. Cloud Commander helps you manage your server and work with files, directories and programs in a web browser from any computer, mobile or tablet."
+  },
+  {
+    "slug": "cloudreve",
+    "logo": "logo.png",
+    "name": "Cloudreve",
+    "description": "Cloudreve is a self-hosted cloud storage platform that allows you to build your own file hosting and sharing service with support for multiple storage backends. Designed as a powerful alternative to commercial cloud storage services, Cloudreve provides a feature-rich web interface for uploading, organizing, and sharing files with complete control over your data. The application supports various storage providers including local storage, remote servers, OneDrive, S3-compatible storage, and more, allowing you to leverage existing infrastructure or cloud services as backends. Key features include drag-and-drop uploads, file previews for images, videos, and documents, shareable download links with optional password protection and expiration dates, and WebDAV support for seamless integration with desktop and mobile applications. Cloudreve offers user management with customizable storage quotas, group permissions, and file policies to control how users interact with the system. The modern, responsive interface works across devices, providing a smooth experience whether accessing from desktop or mobile. Built with performance in mind, Cloudreve uses PostgreSQL for reliable data storage and Redis for caching, ensuring fast and responsive file operations. Perfect for individuals wanting private cloud storage, teams needing collaborative file sharing, organizations requiring self-hosted file management, or anyone seeking an alternative to commercial cloud storage with complete data ownership and privacy."
   },
   {
     "slug": "cockpit",
@@ -468,6 +504,12 @@
     "description": "CryptPad is an open-source collaborative office suite that offers end-to-end encryption, ensuring your data remains private and secure. It provides a full suite of applications, allowing you to work on various projects in real-time with your colleagues or friends. Whether you're planning a camping trip or setting up client briefs, CryptPad makes it easy to share files and collaborate without the need for account creation or app downloads. It's more than just a document editor; it's a secure platform for all your collaborative needs."
   },
   {
+    "slug": "cs2",
+    "logo": null,
+    "name": "Counter-Strike 2 Dedicated Server",
+    "description": "Counter-Strike 2 Dedicated Server allows you to host your own CS2 game server with full control over configuration and settings. This self-hosted gaming solution provides a professional-grade server environment for competitive matches, casual gameplay, or private practice sessions. The server supports various game modes including casual, competitive, and deathmatch, with extensive customization options for maps, player limits, server rules, and bot configurations. Features include RCON remote administration, CSTV for broadcasting matches, workshop map support, and comprehensive logging. Perfect for gaming communities, esports teams, or anyone wanting to run their own CS2 server with dedicated resources and low latency."
+  },
+  {
     "slug": "cubejs",
     "logo": "logo.png",
     "name": "CubeJS",
@@ -514,6 +556,12 @@
     "logo": "logo.png",
     "name": "Dataline",
     "description": "Dataline is a powerful data management and visualization tool that helps users organize, analyze, and visualize their data in an intuitive way. It provides a user-friendly interface for data manipulation, chart creation, and data sharing capabilities. With its modern design and robust features, Dataline makes it easy to work with various data formats and create meaningful visualizations."
+  },
+  {
+    "slug": "dcm",
+    "logo": null,
+    "name": "DCM",
+    "description": "DCM is a lightweight self-hosted web interface for managing and monitoring Docker containers. It provides a simple dashboard to view container status, start/stop operations, and inspect basic container details. Designed to be minimal and easy to deploy, DCM helps you keep an eye on your containers without exposing the full Docker API or using heavier management stacks. Ideal for small home labs or users who want a quick overview of their running services via a browser."
   },
   {
     "slug": "deluge",
@@ -888,6 +936,12 @@
     "description": "Formbricks provides a free and open source surveying platform. Gather feedback at every point in the user journey with beautiful in-app, website, link and email surveys. Build on top of Formbricks or leverage prebuilt data analysis capabilities."
   },
   {
+    "slug": "fossflow",
+    "logo": "logo.png",
+    "name": "FOSSFlow",
+    "description": "FOSSFlow is an open-source diagramming and flowchart application that enables users to create, edit, and manage technical diagrams, flowcharts, and process visualizations. Built for developers, system architects, and technical teams, FOSSFlow provides an intuitive interface for designing workflows, system architectures, database schemas, and network diagrams. The application supports server-side storage for persistent diagram saving and optional Git backup integration for version control and collaboration. With a lightweight Node.js backend and modern frontend, FOSSFlow offers a self-hosted alternative to cloud-based diagramming tools, giving you complete control over your technical documentation and diagrams. Perfect for teams that need to document systems, design workflows, create technical specifications, and maintain architectural diagrams without relying on external services or sharing sensitive information with third parties."
+  },
+  {
     "slug": "frappe-lms",
     "logo": "logo.png",
     "name": "Frappe LMS",
@@ -1044,6 +1098,12 @@
     "description": "Hammond is a self-hosted vehicle management system designed to track fuel and other expenses related to your vehicles. It supports multiple users sharing multiple vehicles, making it an ideal solution for families, businesses, or any group with shared vehicles. With Hammond, you can manage multiple vehicles, track fuel and other expenses, and even save attachments against vehicles. The app also features quick entries, allowing you to take a photo of a receipt or pump screen for later entry. It provides vehicle-level and overall reporting, helping you keep a close eye on your vehicle expenses. Furthermore, Hammond allows you to import data from Clarkson or Fuelly, making the transition to this system seamless and straightforward."
   },
   {
+    "slug": "handbrake-web",
+    "logo": "logo.png",
+    "name": "Handbrake Web",
+    "description": "Handbrake Web is a self-hosted video transcoding solution that provides a web-based interface for managing and processing video encoding jobs using the powerful HandBrake video transcoder. The application features a distributed architecture with a central server for job management and dedicated workers for processing, allowing you to scale encoding capacity by adding more workers. The web interface enables you to upload videos, configure encoding presets, monitor job progress, and manage your transcoding queue from any browser. Handbrake Web supports all the encoding formats and options available in HandBrake, including H.264, H.265/HEVC, VP9, and AV1 codecs, as well as various container formats like MP4, MKV, and WebM. The worker-based architecture allows for parallel processing of multiple videos and can leverage hardware acceleration when available. Perfect for media enthusiasts who need to convert video collections to different formats, content creators preparing videos for multiple platforms, home server administrators managing media libraries, or anyone who needs a reliable self-hosted solution for batch video transcoding without installing desktop applications."
+  },
+  {
     "slug": "hastebin",
     "logo": "logo.png",
     "name": "Hastebin",
@@ -1146,6 +1206,12 @@
     "description": "Illa Cloud is a revolutionary browser-based code editor designed to streamline and modernize the process of website development. It allows you to code directly within your web browser, either online or offline, eliminating the need for multiple programs. With Illa Cloud, you can test your sites on actual web servers and maintain them with ease after development, making for a fast and intelligent development process. It's not just limited to online use - you can also use it as a desktop code editor, provided you have PHP 7.0+. It comes packed with a multitude of features and plugins to enhance your coding experience, including multiple cursors, 80+ highlighting themes, a find & replace builder, login security, coding assistance, visual code difference display, and database management with the Adminer plugin. The latest version, Illa Cloud 8.1, introduces regex search on find and replace, double click tab to collapse file manager, active line number highlighting, and many more improvements and bug fixes."
   },
   {
+    "slug": "imagor-studio",
+    "logo": null,
+    "name": "Imagor Studio",
+    "description": "Imagor Studio is a self-hosted image gallery and live editing web application designed for photographers, content creators, and digital artists. It provides a modern web interface for browsing, organizing, and editing your image collections with real-time image transformation capabilities. Built on top of the Imagor image processing server, the studio interface offers intuitive tools for image manipulation including resizing, cropping, filtering, and format conversion without modifying original files. All edits are performed on-demand using URL-based parameters, ensuring your source images remain untouched while generating optimized versions for different use cases. The application features a responsive gallery view for browsing images, a built-in editor with live preview, support for various image formats, and SQLite database for managing metadata and user preferences. With its lightweight architecture and flexible storage options, Imagor Studio enables you to maintain a private image library with professional editing capabilities accessible from any web browser. Perfect for photographers managing personal portfolios, content creators organizing media assets, web developers optimizing images for websites, or anyone needing a self-hosted alternative to cloud-based image management services with built-in editing tools."
+  },
+  {
     "slug": "imgproxy",
     "logo": "logo.svg",
     "name": "imgproxy",
@@ -1206,6 +1272,12 @@
     "description": "iTop is a self-hosted, open-source IT service management (ITSM) solution designed for businesses and organizations to manage their IT assets, incidents, and workflows efficiently. It provides a modern web interface for tracking and organizing IT infrastructure, support tickets, change requests, and service catalogs. iTop includes role-based user management, real-time notifications, and detailed reporting tools to help IT teams maintain operational efficiency. It supports multiple authentication methods, including LDAP and SAML, making it suitable for enterprise environments. Additionally, iTop offers API access for integration with third-party tools and automation of IT processes. Its containerized deployment ensures scalability and easy management."
   },
   {
+    "slug": "itsmng",
+    "logo": "logo.png",
+    "name": "ITSM-NG",
+    "description": "ITSM-NG is a free and open-source IT Service Management (ITSM) solution designed to help organizations manage their IT services, assets, and support operations efficiently. Born from the GLPI project, ITSM-NG offers a comprehensive ITIL-aligned platform for incident management, problem management, change management, asset tracking, and service catalog. It features a modern interface, customizable workflows, automated ticket routing, SLA management, knowledge base, and extensive reporting capabilities. ITSM-NG supports multi-tenancy, LDAP/Active Directory integration, and provides a powerful plugin system for extending functionality. Perfect for IT teams seeking a professional, self-hosted solution for managing their IT operations and improving service delivery."
+  },
+  {
     "slug": "ittools",
     "logo": "logo.png",
     "name": "It Tools",
@@ -1258,6 +1330,12 @@
     "logo": "logo.svg",
     "name": "Joplin",
     "description": "Joplin is an open-source note-taking application that allows you to capture your thoughts and access them securely from any device. It supports multimedia notes, including images, videos, PDFs, and audio files, and even allows the creation of math expressions and diagrams. With Joplin Cloud, you can share your notes and collaborate with others. The app also features a web clipper extension for saving web pages or screenshots as notes. Joplin can be customized with plugins, themes, and multiple text editors, and it synchronizes with various services, including Joplin Cloud, Dropbox, and OneDrive. All notes are saved in an open format and secured with end-to-end encryption."
+  },
+  {
+    "slug": "journiv",
+    "logo": "logo.png",
+    "name": "Journiv",
+    "description": "Journiv is a self-hosted journaling and note-taking application designed for personal reflection and documentation. The application provides a secure, private platform for writing and organizing your thoughts, experiences, and memories. Built with a modern web interface, Journiv offers features for creating journal entries, organizing content with tags and categories, and searching through your journal history. The application uses SQLite for lightweight data storage, Redis for caching and background task processing, and Celery for asynchronous operations. With support for rich text editing, file attachments, and export capabilities, Journiv helps you maintain a comprehensive digital journal. The platform prioritizes privacy and data ownership, ensuring all your journal entries remain on your own infrastructure. Perfect for individuals who want a private journaling solution, writers maintaining personal writing projects, users seeking a self-hosted alternative to cloud-based note-taking services, or anyone who values complete control over their personal reflections and memories."
   },
   {
     "slug": "jsreport",
@@ -1536,6 +1614,12 @@
     "description": "Open-source low-code platform to build internal tools with minimal effort."
   },
   {
+    "slug": "lubelogger",
+    "logo": "logo.png",
+    "name": "LubeLogger",
+    "description": "LubeLogger is a self-hosted vehicle maintenance and service tracking application that helps you keep comprehensive records of all your vehicle's maintenance activities, repairs, and modifications. Designed for car enthusiasts, fleet managers, and anyone who wants to maintain detailed service histories, LubeLogger provides an intuitive web interface to log oil changes, tire rotations, repairs, upgrades, and more. The application allows you to track multiple vehicles, set maintenance reminders based on mileage or time intervals, and maintain a complete history of all service records with costs and notes. With support for uploading receipts and documents, you can keep all your vehicle maintenance information in one centralized location. LubeLogger features automatic odometer tracking, service interval reminders, cost analysis and reporting, tax deduction calculations for business use, and comprehensive search and filtering capabilities. Built with ASP.NET, it provides a responsive web interface that works seamlessly across desktop and mobile devices, allowing you to update maintenance records from anywhere. Perfect for vehicle owners who want to maintain detailed service histories, car collectors managing multiple vehicles, fleet managers tracking maintenance across multiple assets, mechanics and auto shops offering service tracking to customers, or anyone preparing to sell a vehicle and wanting to demonstrate a complete maintenance history to potential buyers."
+  },
+  {
     "slug": "lychee",
     "logo": null,
     "name": "Lychee",
@@ -1744,6 +1828,12 @@
     "logo": "logo.png",
     "name": "Monica",
     "description": "OfficeLife is an all-in-one tool designed to manage a company efficiently. It serves as your personal CRM, helping you organize and follow-up on your social interactions, thereby strengthening your relationships. With Monica, you can easily log and remember important details about your friends, family, and colleagues. It allows you to store everything you know about your loved ones in one place, from their work information, family details, activities you've done together, to reminders about important dates. Monica is designed for busy individuals striving to maintain a good work-life balance. It's a private space, free from ads or malicious software, where you can safely document what you know about who you love. Monica is open source, ensuring transparency and security."
+  },
+  {
+    "slug": "moocup",
+    "logo": "logo.png",
+    "name": "Moocup",
+    "description": "Moocup is a visual editor designed to create stunning screenshots in seconds. It provides a simple and functional interface where you can drop your screenshot, apply beautiful base styles, customize it however you wish, and export professional-looking visuals instantly. Built for developers, designers, and content creators who need to showcase their work with polished screenshots for portfolios, documentation, presentations, or social media. The tool offers an intuitive drag-and-drop workflow with real-time visual editing, eliminating the need for complex design software or manual styling. With Moocup's self-hosted solution, your screenshots remain private and never leave your infrastructure, making it ideal for sensitive projects or proprietary applications. The browser-based editor requires zero installation and works seamlessly across devices with responsive design. Perfect for anyone who values simplicity and functionality but still wants to create eye-catching visuals that make their projects stand out without the overhead of heavyweight design tools or paid screenshot services."
   },
   {
     "slug": "moodle",
@@ -2004,6 +2094,12 @@
     "description": "OSTicket is a widely-used, open-source ticketing system designed to streamline customer support management. It provides a user-friendly interface for handling, tracking, and organizing support tickets across multiple channels, including email, web forms, and API integrations. With OSTicket, you can efficiently manage inquiries, automate workflows, and improve customer satisfaction."
   },
   {
+    "slug": "otterwiki",
+    "logo": "logo.png",
+    "name": "OtterWiki",
+    "description": "OtterWiki is a simple, easy-to-use wiki software for personal use and small teams. It's designed to be minimalist, focusing on the essentials without unnecessary complexity. OtterWiki stores all content as Markdown files in a Git repository, providing automatic version control and the ability to edit pages using your favorite text editor. It features a clean, modern interface with syntax highlighting, file attachments, full-text search, and dark mode support. The wiki requires no database setup - everything is stored in plain text files, making backups and migrations simple. OtterWiki supports user authentication, page permissions, and comes with a built-in editor with live preview. Perfect for documentation, note-taking, knowledge management, and collaborative writing in small teams."
+  },
+  {
     "slug": "outline",
     "logo": "logo.png",
     "name": "Outline Wiki",
@@ -2112,6 +2208,12 @@
     "description": "PGAdmin is a popular open-source administration and management tool for PostgreSQL databases. It provides a web-based interface to interact with PostgreSQL databases, allowing users to create, modify, and manage databases, tables, roles, and queries with ease. PGAdmin supports advanced query execution, database performance analysis, and extensive user management capabilities. With a modern and intuitive UI, it is designed for database administrators, developers, and analysts to efficiently work with PostgreSQL databases. Additional features include SQL query editor, ERD diagrams, scheduled backups, and monitoring tools."
   },
   {
+    "slug": "pgbackweb",
+    "logo": "logo.png",
+    "name": "PgBackWeb",
+    "description": "PgBackWeb is a comprehensive web-based backup solution for PostgreSQL databases. It provides an intuitive interface to manage, schedule, and monitor PostgreSQL backups with support for multiple backup destinations including local storage and S3-compatible object storage. The application allows you to configure automated backup schedules, manage retention policies, and restore databases through a user-friendly web interface. PgBackWeb ensures your PostgreSQL databases are safely backed up with encryption support, making it an essential tool for database administrators who need reliable backup management without complex command-line operations. It supports multiple PostgreSQL instances and provides detailed backup logs and notifications."
+  },
+  {
     "slug": "pgvector",
     "logo": null,
     "name": "pgvector",
@@ -2160,6 +2262,12 @@
     "description": "Pidgin is a versatile chat application that allows you to log into multiple chat networks simultaneously. This means you can chat with friends on XMPP while also participating in an IRC channel. The application supports a wide range of chat networks, including but not limited to Bonjour, Discord, Facebook, Google Talk, Hangouts, ICQ, Instagram, IRC, Skype, Slack, Telegram, and XMPP. This Pidgin installation comes with default chat plugins and a series of third-party ones. The application also includes Firefox to help you fill out captchas or pre-auth before loading your credentials into the program. Pidgin can be accessed at http://yourhost:3000/ or https://yourhost:3001/. The app is designed to provide a seamless and integrated chat experience across multiple platforms."
   },
   {
+    "slug": "pihole",
+    "logo": "logo.png",
+    "name": "Pi-hole",
+    "description": "Pi-hole is a network-wide ad blocker that acts as a DNS sinkhole to protect your devices from unwanted content without installing any client-side software. It blocks ads at the DNS level, meaning ads are blocked before they even reach your devices, resulting in faster browsing, reduced bandwidth usage, and enhanced privacy. Pi-hole provides a powerful web interface for easy management and detailed statistics about your network's DNS queries. It can block millions of ad-serving domains and supports custom block lists. The application also includes features like DHCP server capabilities, DNS-over-HTTPS (DoH) support, and comprehensive query logging. With Pi-hole, you can monitor all DNS requests on your network, see which domains are being blocked, and maintain complete control over your network's DNS filtering."
+  },
+  {
     "slug": "pinchflat",
     "logo": "logo.png",
     "name": "Pinchflat",
@@ -2206,6 +2314,12 @@
     "logo": "logo.svg",
     "name": "PocketBase",
     "description": "PocketBase is a powerful backend solution for your next SaaS or Mobile app. It is designed to be ready to use out of the box, providing a realtime database, user authentication, file storage, and an admin dashboard all in one file. The realtime database is embedded and performant, featuring a schema builder, data validations, realtime subscriptions, and an easy-to-use REST API. The authentication feature allows you to manage your app users and handle email/password and OAuth2 sign ups from various platforms like Google, Facebook, GitHub, GitLab without any hassle. The file storage feature allows you to store files locally or in an S3 storage, attach media to your database records, and generate thumbnails on the fly. PocketBase is extendable and can be used as a standalone app or as a Go framework, which you can extend via hooks to create your own custom portable backend. It also provides official client SDKs for seamless integration."
+  },
+  {
+    "slug": "podfetch",
+    "logo": "logo.png",
+    "name": "Podfetch",
+    "description": "Podfetch is a self-hosted podcast manager and aggregator that allows you to subscribe to, download, and organize your favorite podcasts from a single centralized interface. It automatically fetches new episodes from RSS feeds at configurable intervals, stores podcast metadata and audio files locally, and provides a web-based interface for browsing and managing your podcast library. The application features automatic episode downloading, customizable polling intervals for checking new content, SQLite database for lightweight data management, and organized file storage for podcast episodes. With its built-in audio player, you can stream episodes directly from the web interface without needing external podcast clients. Podfetch supports multiple podcast subscriptions, episode filtering, playback progress tracking, and automatic cleanup of old episodes to manage storage. The Rust-based backend ensures efficient performance and low resource usage, making it ideal for running on home servers or low-powered devices. Perfect for podcast enthusiasts who want complete control over their podcast library, users seeking privacy and independence from commercial podcast platforms, home lab administrators building media server ecosystems, or anyone who wants to archive and organize podcast episodes without relying on third-party services or dealing with platform-specific limitations."
   },
   {
     "slug": "portainer",
@@ -2364,6 +2478,12 @@
     "description": "Redmine is an open-source project management and issue-tracking tool. It provides a flexible framework for managing multiple projects and teams, offering features such as Gantt charts, calendar views, and time tracking to keep your projects organized. Redmine supports multiple databases and can be extended through plugins for additional functionality, making it a highly customizable solution for managing tasks, bugs, and collaboration among teams. The tool also includes role-based access control, allowing administrators to assign different permissions to users based on their responsibilities. Redmine integrates with version control systems like Git, Subversion, and Mercurial, enabling developers to track code changes directly from the platform. It supports major platforms including Windows, Linux, and macOS, and can be accessed via a web browser."
   },
   {
+    "slug": "reitti",
+    "logo": "logo.png",
+    "name": "Reitti",
+    "description": "Reitti is a self-hosted journey planning and route optimization application designed for public transportation, cycling, and walking routes. Built on OpenStreetMap data, it provides intelligent route calculations using the Photon geocoding engine for address lookups and PostGIS for spatial data processing. The application features a web-based interface for planning multi-modal journeys, real-time route optimization, and comprehensive mapping capabilities. With RabbitMQ for task queuing and Redis for high-performance caching, Reitti delivers fast and responsive route calculations even with complex multi-leg journeys. The system can be configured for specific regions to optimize data storage and performance, making it suitable for cities, regions, or entire countries depending on your needs. Perfect for organizations wanting to provide their own journey planning services, transportation agencies developing custom routing solutions, smart city initiatives requiring private routing infrastructure, or developers building location-based applications with routing capabilities without relying on commercial APIs or sharing user data with third-party services."
+  },
+  {
     "slug": "remmina",
     "logo": "logo.png",
     "name": "Remmina",
@@ -2430,10 +2550,22 @@
     "description": "Rustdesk is a self-hosted remote desktop application that allows you to access and control devices remotely. It provides an open-source alternative to proprietary remote desktop software, offering full control over your own remote access infrastructure. With Rustdesk, users can securely connect to their computers from anywhere, manage remote desktops efficiently, and ensure privacy by hosting their own Rustdesk relay and ID server. Rustdesk is built with high-performance and encryption in mind, making it suitable for both personal and enterprise use."
   },
   {
+    "slug": "ryot",
+    "logo": "logo.png",
+    "name": "Ryot",
+    "description": "Ryot is a self-hosted platform for tracking and managing your media consumption across movies, TV shows, books, anime, manga, video games, podcasts, and more. Designed as an all-in-one solution for media enthusiasts, Ryot lets you maintain a comprehensive record of everything you've watched, read, played, or listened to. The application provides powerful tracking features including progress monitoring, ratings, reviews, and custom lists to organize your media library. With integrations for popular platforms like Trakt, Goodreads, and various media databases, Ryot can automatically fetch metadata, cover images, and detailed information for your media entries. The clean, modern interface works seamlessly across devices, allowing you to update your progress from anywhere. Key features include import capabilities from other tracking services, detailed statistics and insights about your media consumption habits, calendar views for upcoming releases, and recommendation suggestions based on your history. Built with performance in mind, Ryot uses PostgreSQL for reliable data storage and provides a fast, responsive experience. Perfect for media enthusiasts who want complete control over their tracking data, users migrating from commercial tracking services who want privacy and ownership, collectors who want to catalog their media libraries, or anyone who enjoys keeping detailed records of their entertainment consumption without relying on third-party platforms."
+  },
+  {
     "slug": "saltcorn",
     "logo": "logo.png",
     "name": "Saltcorn",
     "description": "Saltcorn is an extensible open-source no-code database application builder. It allows you to build web applications based on relational data with flexible views, data types, and layouts. With Saltcorn, you can create dynamic applications without writing code, making it a powerful tool for both developers and non-developers alike."
+  },
+  {
+    "slug": "seafile",
+    "logo": "logo.png",
+    "name": "Seafile",
+    "description": "Seafile is a professional, open-source file synchronization and sharing platform with privacy protection and teamwork features. It provides secure file storage, synchronization, and sharing capabilities with end-to-end encryption, making it perfect for teams and organizations that need to collaborate on files while maintaining data security. Seafile supports file versioning, online editing, and mobile access across all platforms."
   },
   {
     "slug": "searxng",
@@ -2562,6 +2694,12 @@
     "description": "Sonatype Nexus is a powerful repository manager designed to streamline the management and storage of binary components. It enables development teams to efficiently organize, share, and deploy artifacts across various formats, such as Maven, npm, Docker, and more. With its robust feature set and enterprise-grade capabilities, Sonatype Nexus improves DevOps workflows by providing secure, scalable, and centralized storage for software assets."
   },
   {
+    "slug": "soulsync",
+    "logo": null,
+    "name": "SoulSync",
+    "description": "SoulSync is an automated music synchronization service that bridges the gap between streaming platforms and your local media library. It automatically syncs your Spotify and Tidal playlists to your self-hosted media servers like Plex, Jellyfin, or Navidrome by downloading tracks from Soulseek. The web-based interface provides a centralized dashboard for managing playlist synchronization, monitoring download progress, configuring OAuth connections with streaming services, and organizing your music collection. With automated discovery and intelligent matching algorithms, SoulSync ensures your local library stays up-to-date with your streaming playlists without manual intervention. The service handles the complete workflow from playlist detection through download orchestration to media server integration, making it effortless to maintain an offline music collection that mirrors your online listening habits. Perfect for music enthusiasts who want the convenience of streaming services combined with the reliability and ownership of local media files, audiophiles building high-quality music collections, or users preparing for offline listening scenarios while maintaining synchronization with their curated playlists."
+  },
+  {
     "slug": "sourcegraph",
     "logo": "logo.png",
     "name": "Sourcegraph",
@@ -2658,6 +2796,12 @@
     "description": "SuperTokens is an advanced user authentication solution designed to streamline your app's security. It offers a range of features including user roles, two-factor authentication (2FA), Single Sign-On (SSO) with platforms like AD and Okta, session management, user management, account linking, and machine authentication. The app is trusted by startups and enterprises alike for its ease of setup and use. With SuperTokens, you can host your login page on your own domain, eliminating the need for redirects. It also provides prebuilt UIs and frontend SDKs to help you build your own login page quickly. SuperTokens is also capable of handling multitenant SSO, allowing each customer to have their own user pool. Loved by the world's best teams, SuperTokens is your go-to solution for user authentication and session management."
   },
   {
+    "slug": "sure",
+    "logo": "logo.png",
+    "name": "Sure",
+    "description": "Sure is a self-hosted personal finance management application built with Ruby on Rails. It helps individuals and families track expenses, manage budgets, monitor income, and gain insights into their financial health. Sure features an intuitive interface for recording transactions, categorizing expenses, creating budgets, and generating financial reports. With real-time data processing via Sidekiq background jobs and optional AI-powered features through OpenAI integration, Sure provides intelligent financial insights, spending pattern analysis, and automated categorization. Built for privacy-conscious users, Sure keeps all your financial data on your own infrastructure without sharing sensitive information with third-party services. Perfect for anyone seeking complete control over their personal finance tracking and analysis."
+  },
+  {
     "slug": "suwayomi-server",
     "logo": "logo.png",
     "name": "Suwayomi Server",
@@ -2704,6 +2848,12 @@
     "logo": "logo.png",
     "name": "Temporal",
     "description": "Temporal is an open-source, self-hosted workflow orchestration engine designed to simplify and enhance the development of scalable, fault-tolerant, and long-running workflows. It empowers developers to build reliable distributed systems by providing built-in state management, automatic retries, and advanced task scheduling. Temporal offers a user-friendly developer experience, powerful SDKs, and seamless integration with various languages, making it ideal for automating complex business processes and microservice orchestration. By providing a self-hosted solution, Temporal ensures data privacy, high availability, and complete control over your workflows and infrastructure."
+  },
+  {
+    "slug": "termix",
+    "logo": "logo.png",
+    "name": "Termix",
+    "description": "Termix is a lightweight, web-based terminal emulator and SSH client that allows you to access and manage remote servers directly from your browser. It provides a modern, intuitive interface for executing commands, managing files, and administering systems without needing a traditional terminal application. Termix features session persistence, multiple connection management, customizable themes, and secure SSH connections. The web interface is responsive and works seamlessly across desktop and mobile devices, making it perfect for system administrators who need remote access on the go. All connection data is stored locally, ensuring your credentials and sessions remain private and secure."
   },
   {
     "slug": "thelounge",
@@ -2862,6 +3012,12 @@
     "description": "Usertour.io is an open-source user onboarding platform that helps developers create interactive product tours, feature introductions, and user guides without writing a single line of code. It allows you to design and deploy interactive walkthroughs, checklists, and tooltips to improve user activation and adoption. The platform provides a visual editor for creating tours, targeting specific user segments, and collecting analytics on user engagement. Usertour.io integrates seamlessly with your application, offering customization options to match your branding and design. With its developer-friendly approach, it enables teams to create, test, and deploy product tours quickly while maintaining a native look and feel."
   },
   {
+    "slug": "usesend",
+    "logo": "logo.png",
+    "name": "Usesend",
+    "description": "Usesend is a self-hosted email marketing and transactional email platform that gives you complete control over your email infrastructure. It provides a modern, user-friendly interface for creating, sending, and tracking email campaigns, newsletters, and transactional emails. Usesend features advanced segmentation, email automation, template management, analytics, and subscriber management. Built with Next.js and powered by PostgreSQL, Redis, and MinIO for reliable storage, it offers enterprise-grade features without vendor lock-in or usage-based pricing. Usesend supports GitHub OAuth for authentication and includes API rate limiting and SMTP configuration for sending emails. Perfect for businesses and developers who want full ownership of their email marketing infrastructure."
+  },
+  {
     "slug": "vaultwarden",
     "logo": "logo.png",
     "name": "Vaultwarden",
@@ -2878,6 +3034,12 @@
     "logo": "logo.png",
     "name": "Vikunja",
     "description": "Vikunja is a self-hosted To-Do list application and task management tool. It provides a clean and intuitive interface for organizing tasks, projects, and team collaboration. With features like task lists, labels, assignees, due dates, and more, Vikunja helps individuals and teams stay organized and productive."
+  },
+  {
+    "slug": "viseron",
+    "logo": "logo.png",
+    "name": "Viseron",
+    "description": "Viseron is a self-hosted, local network video recorder (NVR) and AI-powered video surveillance system designed for privacy-conscious users. It supports multiple camera streams with advanced features like object detection, motion detection, face recognition, and license plate recognition using machine learning models. Viseron can record continuous video, create event-based clips, generate timelapses, and send real-time notifications. It integrates seamlessly with Home Assistant and supports various camera protocols including RTSP, HTTP, and USB cameras. The system features a modern web interface for live viewing, playback, and configuration. All processing happens locally on your hardware, ensuring your video data never leaves your network. Perfect for home security, surveillance systems, and smart home automation."
   },
   {
     "slug": "vitess",
@@ -3042,6 +3204,12 @@
     "description": "Yacht is a self-hosted web-based container management tool designed to provide a user-friendly and intuitive interface for managing Docker containers. It simplifies container deployment, monitoring, and management, making it accessible for both beginners and advanced users. Yacht supports multiple container engines and integrates with Docker Compose, allowing users to easily create, update, and manage their containerized applications."
   },
   {
+    "slug": "yamtrack",
+    "logo": "logo.png",
+    "name": "Yamtrack",
+    "description": "Yamtrack is a self-hosted media tracking application designed to help you keep track of your movies, TV shows, books, video games, and other media consumption. It provides a clean, modern interface for logging what you're watching, reading, or playing, along with ratings, reviews, and personal notes. Yamtrack features automatic metadata fetching from popular databases, progress tracking, viewing statistics, and customizable lists. The application supports multiple media types and offers detailed analytics about your consumption habits. Built with a focus on privacy and simplicity, Yamtrack keeps all your tracking data under your control. Perfect for media enthusiasts who want to maintain a comprehensive log of their entertainment without relying on third-party services."
+  },
+  {
     "slug": "yao",
     "logo": "logo.png",
     "name": "YAO",
@@ -3060,6 +3228,12 @@
     "description": "Zep is a powerful, self-hosted AI platform designed for seamless integration with large language models. It provides a clean and intuitive interface, supports plugins for extended functionality, and offers detailed analytics to monitor and optimize your AI workflows. With Zep, you maintain full control over your deployments and configurations. The application is accessible via your host on designated ports, ensuring secure and scalable operations. This container is based on Docker Baseimage KasmVNC, providing additional environment variables and configurations for enhanced flexibility. It also supports the docker manifest for multi-platform awareness, ensuring the correct image for your architecture."
   },
   {
+    "slug": "zerobyte",
+    "logo": "logo.png",
+    "name": "Zerobyte",
+    "description": "Zerobyte is a self-hosted backup and restore management solution that provides a unified web interface for managing your backup repositories across multiple storage backends. It supports various cloud storage providers including S3-compatible storage, Google Cloud Storage, Azure Blob Storage, and local directories through rclone integration. With its intuitive web interface, you can configure backup sources, manage multiple repositories, schedule backups, and perform restores with ease. The application leverages FUSE filesystem capabilities to mount and interact with cloud storage as if it were local storage, enabling seamless backup and restore operations. Zerobyte features automatic backup scheduling, support for multiple storage backends, encrypted backup repositories, incremental backups for efficient storage usage, and comprehensive restore capabilities. The web-based dashboard allows you to monitor backup status, view repository statistics, and manage your backup configurations without command-line tools. Perfect for home lab enthusiasts who need reliable backup solutions, system administrators managing multiple backup repositories, organizations requiring self-hosted backup infrastructure, or anyone who wants to maintain control over their backup data with support for various cloud providers and local storage options."
+  },
+  {
     "slug": "zipline",
     "logo": "logo.png",
     "name": "Zipline",
@@ -3070,5 +3244,11 @@
     "logo": "logo.png",
     "name": "ZNC",
     "description": "ZNC is an IRC bouncer that is designed to stay connected to IRC servers and channels, allowing you to access them at any time."
+  },
+  {
+    "slug": "zoraxy",
+    "logo": "logo.png",
+    "name": "Zoraxy",
+    "description": "Zoraxy is a general-purpose reverse proxy and web application gateway designed for self-hosting enthusiasts. It offers an intuitive web interface for managing multiple web services with features like automatic SSL certificate management via ACME/Let's Encrypt, virtual directory hosting, HTTP to HTTPS redirection, and built-in authentication. Zoraxy supports WebSocket proxying, custom error pages, rate limiting, geographic access control with GeoIP, and Docker integration for seamless container management. Perfect for hosting multiple services on a single server with professional-grade routing, security, and access control."
   }
 ]

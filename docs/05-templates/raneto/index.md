@@ -27,7 +27,7 @@ Raneto is an open source Knowledgebase platform that uses static Markdown files 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | raneto
-App Service Image | - | yes | lscr.io/linuxserver/raneto:0.17.8
+App Service Image | - | yes | lscr.io/linuxserver/raneto:0.18.0
 Timezone | - | no | Etc/UTC
 
 ## Screenshots
@@ -38,6 +38,7 @@ Timezone | - | no | Etc/UTC
 
 - 2022-11-27 – first release
 - 2025-07-24 – Version bumped to 0.17.8
+- 2025-12-29 – Version bumped to 0.18.0
 
 ## Contributors
 

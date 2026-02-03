@@ -42,7 +42,7 @@ Memgraph is a high-performance, in-memory graph database designed for real-time 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | memgraph
-App Service Image | Memgraph MAGE Docker image | yes | memgraph/memgraph-mage:3.5
+App Service Image | Memgraph MAGE Docker image | yes | memgraph/memgraph-mage:3.7.2
 Lab Image | Memgraph Lab Docker image | yes | memgraph/lab:3.5.0
 
 ## Screenshots
@@ -52,6 +52,7 @@ Lab Image | Memgraph Lab Docker image | yes | memgraph/lab:3.5.0
 ## Change Log
 
 - 2025-09-10 – Initial Template Release
+- 2025-12-29 – Version bumped to 3.7.2
 
 ## Contributors
 

@@ -39,7 +39,7 @@ OrangeHRM is a comprehensive, open-source Human Resource Management (HRM) soluti
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | orangehrm
-App Service Image | - | yes | orangehrm/orangehrm:5.7
+App Service Image | - | yes | orangehrm/orangehrm:5.8
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | orangehrm/orangehrm:5.7
 ## Change Log
 
 - 2025-01-23 – Template Release
+- 2025-12-29 – Version bumped to 5.8
 
 ## Contributors
 

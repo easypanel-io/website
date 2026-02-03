@@ -43,7 +43,7 @@ Login using the username &quot;admin&quot; and the password you would decide.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lldap
-App Service Image | - | yes | lldap/lldap:2025-07-22
+App Service Image | - | yes | lldap/lldap:2025-12-24
 Admin Password | - | yes | adminPassword
 Exposed Port | - | yes | 3890
 
@@ -55,6 +55,7 @@ Exposed Port | - | yes | 3890
 
 - 2025-03-22 – Initial template release
 - 2025-07-22 – Version bumped to 2025-07-22
+- 2025-12-25 – Version bumped to 2025-12-24
 
 ## Contributors
 

@@ -26,7 +26,7 @@ Cloud Commander is a file manager for the web. It includes a command-line consol
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cloudcmd
-App Service Image | - | yes | coderaiser/cloudcmd:18.6.1
+App Service Image | - | yes | coderaiser/cloudcmd:19.0.17
 Username | - | yes | admin
 Password | - | yes | 
 
@@ -41,6 +41,7 @@ Password | - | yes |
 - 2025-01-09 – Version bumped to 18.4.1
 - 2025-02-24 – Version bumped to 18.5.1
 - 2025-07-15 – Version bumped to 18.6.1
+- 2025-12-25 – Version bumped to 19.0.17
 
 ## Contributors
 

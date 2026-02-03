@@ -35,6 +35,7 @@ Service Name | - | yes | dify
 ## Change Log
 
 - 2024-7-26 – first release
+- 2025-12-30 – Updated Dify to v1.11.2
 
 ## Contributors
 

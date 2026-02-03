@@ -42,7 +42,7 @@ You can login with username &quot;admin&quot; and password &quot;umami&quot;.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | umami
-App Service Image | - | yes | ghcr.io/umami-software/umami:postgresql-v2.18.1
+App Service Image | - | yes | ghcr.io/umami-software/umami:postgresql-v2.20.2
 Database Service Name | - | yes | umami-db
 
 ## Screenshots
@@ -53,6 +53,7 @@ Database Service Name | - | yes | umami-db
 
 - 2022-09-27 – first release
 - 2025-07-25 – Version bumped to v2.18.1
+- 2025-12-29 – Version bumped to v2.20.2
 
 ## Contributors
 

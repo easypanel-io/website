@@ -44,7 +44,7 @@ On the installation wizard, please connect to the DB.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | itop
-App Service Image | - | yes | vbkunin/itop:3.2.0
+App Service Image | - | yes | vbkunin/itop:3.2.2
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | vbkunin/itop:3.2.0
 ## Change Log
 
 - 2025-03-18 – Template Release
+- 2025-12-25 – Version bumped to 3.2.2
 
 ## Contributors
 

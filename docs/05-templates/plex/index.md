@@ -42,7 +42,7 @@ If you get a libusb error, please ignore it.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | plex
-App Service Image | - | yes | lscr.io/linuxserver/plex:1.41.9
+App Service Image | - | yes | lscr.io/linuxserver/plex:1.42.2
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | lscr.io/linuxserver/plex:1.41.9
 
 - 2022-11-23 – first release
 - 2025-07-24 – Version bumped to 1.41.9
+- 2025-12-29 – Version bumped to 1.42.2
 
 ## Contributors
 

@@ -39,7 +39,7 @@ TubeSync is a powerful self-hosted application designed to automatically sync an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tubesync
-App Service Image | - | yes | ghcr.io/meeb/tubesync:v0.15.7
+App Service Image | - | yes | ghcr.io/meeb/tubesync:v0.15.12
 Username | - | yes | admin
 Password | - | yes | password
 
@@ -51,6 +51,7 @@ Password | - | yes | password
 
 - 2025-02-25 – first release
 - 2025-07-25 – Version bumped to v0.15.7
+- 2025-12-29 – Version bumped to v0.15.12
 
 ## Contributors
 

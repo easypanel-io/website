@@ -49,8 +49,8 @@ Go to the /register path to register your user.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | checkmate
-App Service Image | - | yes | ghcr.io/bluewave-labs/checkmate-backend-mono:v2.3.1
-MongoDB Service Image | - | no | ghcr.io/bluewave-labs/checkmate-mongo:v2.3.1
+App Service Image | - | yes | ghcr.io/bluewave-labs/checkmate-backend-mono:v3.2.0
+MongoDB Service Image | - | no | ghcr.io/bluewave-labs/checkmate-mongo:v3.2.0
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ MongoDB Service Image | - | no | ghcr.io/bluewave-labs/checkmate-mongo:v2.3.1
 ## Change Log
 
 - 2025-08-04 – First release
+- 2025-12-25 – Version bumped to v3.2.0
 
 ## Contributors
 

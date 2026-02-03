@@ -44,7 +44,7 @@ Login using the email; lisa@simpson.com, password; secret42
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | usertour
-App Service Image | - | yes | usertour/usertour:0.2.7
+App Service Image | - | yes | usertour/usertour:0.4.5
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | usertour/usertour:0.2.7
 
 - 2025-03-21 – Initial template release (1.0)
 - 2025-07-25 – Version bumped to 0.2.7
+- 2025-12-29 – Version bumped to 0.4.5
 
 ## Contributors
 

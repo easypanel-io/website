@@ -43,7 +43,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | opera
-App Service Image | - | yes | lscr.io/linuxserver/opera:120.0.5543
+App Service Image | - | yes | lscr.io/linuxserver/opera:125.0.5729
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | lscr.io/linuxserver/opera:120.0.5543
 
 - 2023-5-7 – first release
 - 2025-07-24 – Version bumped to 120.0.5543
+- 2025-12-29 – Version bumped to 125.0.5729
 
 ## Contributors
 

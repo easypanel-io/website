@@ -17,7 +17,11 @@ Photoview is a user-friendly photo gallery designed for photographers. It allows
 
 ## Instructions
 
-You will need to mount the location where your photos are to complete the installation.
+After deployment, you need to mount your photos directory to the /photos path.
+This can be done using bind mounts in Easypanel&#39;s advanced settings.
+On first access, you will be prompted to create an admin user and configure
+the photo source path (use /photos as the path).
+
 
 ## Benefits
 
@@ -30,11 +34,12 @@ You will need to mount the location where your photos are to complete the instal
 
 - File System Sync: Photoview syncs with your file system, automatically scanning for new media and adding it to keep your gallery updated. This gives you full control to organize your media how you want.
 - User and Sharing: Photoview allows multiple users, each with their own directory of photos and videos. Albums and individual photos or videos can easily be shared by generating a public or password-protected link.
-- Maps: When photos are analyzed for EXIF metadata, this information is displayed next to the photo. If the photo is taken with a mobile phone, it most likely includes the coordinates of where the picture was taken. This is used to automatically present the photos on a map.
+- Maps Integration: When photos are analyzed for EXIF metadata, this information is displayed next to the photo. If the photo includes GPS coordinates, Photoview presents the photos on a map using Mapbox integration.
 - Mobile App: Photoview has an official iOS app that allows you to quickly access your entire media library from your phone. Navigate, share, and download photos and videos directly within the app.
 - RAW Support: Photoview uses Darktable under the hood to convert RAW images, supporting many common formats.
 - EXIF Metadata: Photoview automatically extracts the metadata of images and videos and shows it in the sidebar. It's also used to present images on a map.
-- Video Support: Photoview uses Ffmpeg under the hood to convert videos and optimize them for the web.
+- Video Support: Photoview uses FFmpeg under the hood to convert videos and optimize them for the web with hardware acceleration support.
+- Multi-Database Support: Choose between MariaDB, MySQL, PostgreSQL, or SQLite as your database backend based on your needs and infrastructure.
 
 ## Links
 
@@ -48,9 +53,10 @@ You will need to mount the location where your photos are to complete the instal
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | photoview
-App Service Image | - | yes | viktorstrate/photoview:sha-84c642c
+App Service Image | - | yes | photoview/photoview:2
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | photoview-db
+Mapbox Token (Optional) | - | no | 
 
 ## Screenshots
 
@@ -60,6 +66,7 @@ Database Service Name | - | yes | photoview-db
 
 - 2023-03-16 – First Release
 - 2025-07-24 – Version bumped to sha-84c642c
+- 2025-12-05 – Updated to photoview/photoview:2 with new volume paths
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Medusa is an automatic Video Library Manager for TV Shows. It continuously monit
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | medusa
-App Service Image | - | yes | lscr.io/linuxserver/medusa:1.0.22
+App Service Image | - | yes | lscr.io/linuxserver/medusa:1.0.25
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | lscr.io/linuxserver/medusa:1.0.22
 ## Change Log
 
 - 2025-03-04 – First Release
+- 2025-12-29 – Version bumped to 1.0.25
 
 ## Contributors
 

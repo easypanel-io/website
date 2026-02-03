@@ -44,7 +44,7 @@ Complete the Installation Wizard.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | joomla
-App Service Image | - | yes | joomla:5.2.3
+App Service Image | - | yes | joomla:5.4.1
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | joomla:5.2.3
 ## Change Log
 
 - 2025-01-31 – Template Release
+- 2025-12-25 – Version bumped to 5.4.1
 
 ## Contributors
 

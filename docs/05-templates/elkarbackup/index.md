@@ -45,7 +45,7 @@ Login using root/root, custom settingss can be configured with the provided envs
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | elkarbackup
-App Service Image | - | yes | elkarbackup/elkarbackup:2.1.0
+App Service Image | - | yes | elkarbackup/elkarbackup:2.3.9
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | elkarbackup/elkarbackup:2.1.0
 
 - 2024-11-17 – Template Release
 - 2025-01-11 – Version bumped to 2.1.0
+- 2025-12-25 – Version bumped to 2.3.9
 
 ## Contributors
 

@@ -45,7 +45,7 @@ Once the server is ready (logo is displayed in the terminal), navigate to the ho
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sourcegraph
-App Service Image | - | yes | sourcegraph/server:6.6.0
+App Service Image | - | yes | sourcegraph/server:6.11.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | sourcegraph/server:6.6.0
 
 - 2025-01-21 – First Release
 - 2025-07-25 – Version bumped to 6.6.0
+- 2025-12-29 – Version bumped to 6.11.0
 
 ## Contributors
 

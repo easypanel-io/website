@@ -43,7 +43,7 @@ Use the provided master-key as the password for UI login.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | litellm
-App Service Image | - | yes | ghcr.io/berriai/litellm:main-v1.61.20-nightly
+App Service Image | - | yes | ghcr.io/berriai/litellm:main-v1.80.11.rc.1
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | ghcr.io/berriai/litellm:main-v1.61.20-nightly
 
 - 2025-01-06 – Initial Template Release for LiteLLM
 - 2025-02-28 – Version bumped to main-v1.61.20-nightly
+- 2025-12-25 – Version bumped to main-v1.80.11.rc.1
 
 ## Contributors
 

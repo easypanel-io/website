@@ -45,7 +45,7 @@ Jaeger is an end-to-end distributed tracing system used for monitoring and troub
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jaeger
-App Service Image | - | yes | jaegertracing/all-in-one:1.71.0
+App Service Image | - | yes | jaegertracing/all-in-one:1.76.0
 Compact Format | - | yes | 5775
 Jaeger Instrumentation | - | yes | 6831
 Binary Format | - | yes | 6832
@@ -61,6 +61,7 @@ Zipkin Port | - | yes | 9411
 
 - 2025-03-14 – First Release
 - 2025-07-22 – Version bumped to v1.71.0
+- 2025-12-25 – Version bumped to v1.76.0
 
 ## Contributors
 

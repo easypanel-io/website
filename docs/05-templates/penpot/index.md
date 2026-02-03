@@ -44,9 +44,9 @@ In order to configure email invitations for team members, please configure the e
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | penpot
-App Service Image | - | yes | penpotapp/frontend:2.8.0
-App Backend Service Image | - | yes | penpotapp/backend:2.8.0
-App Exporter Service Image | - | yes | penpotapp/exporter:2.8.0
+App Service Image | - | yes | penpotapp/frontend:2.12.1
+App Backend Service Image | - | yes | penpotapp/backend:2.12.1
+App Exporter Service Image | - | yes | penpotapp/exporter:2.12.1
 Redis Service Name | - | yes | penpot-redis
 Database Service Name | - | yes | penpot-db
 
@@ -59,6 +59,7 @@ Database Service Name | - | yes | penpot-db
 - 2024-11-08 – Template Release
 - 2025-02-28 – Version bumped to 2.4.3
 - 2025-07-24 – Version bumped to 2.8.0
+- 2025-12-29 – Version bumped to 2.12.1
 
 ## Contributors
 

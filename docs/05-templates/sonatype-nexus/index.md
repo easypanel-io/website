@@ -45,7 +45,7 @@ After logging in without a password, log out and then log back in using the user
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nexus
-App Service Image | - | yes | sonatype/nexus3:3.82.0
+App Service Image | - | yes | sonatype/nexus3:3.87.0
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | sonatype/nexus3:3.82.0
 - 2024-12-05 – First Release
 - 2025-03-03 – Version bumped to 3.77.2
 - 2025-07-25 – Version bumped to 3.82.0
+- 2025-12-29 – Version bumped to 3.87.0
 
 ## Contributors
 

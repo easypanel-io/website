@@ -42,7 +42,7 @@ BeaverHabits is a self-hosted habit tracking application that helps you build an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | beaverhabits
-App Service Image | - | yes | daya0576/beaverhabits:0.7.0
+App Service Image | - | yes | daya0576/beaverhabits:0.8.0
 Trusted Local Email | Email address to skip authentication (leave empty to disable) | no | your@email.com
 
 ## Screenshots
@@ -52,6 +52,7 @@ Trusted Local Email | Email address to skip authentication (leave empty to disab
 ## Change Log
 
 - 2025-09-12 – Template Release (v0.7.0)
+- 2024-12-24 – Updated version to 0.8.0
 
 ## Contributors
 

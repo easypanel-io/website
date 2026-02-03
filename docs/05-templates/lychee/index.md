@@ -50,7 +50,7 @@ Lychee takes a few minutes to get ready. Sit back, relax, and have a coffee!
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lychee
-App Service Image | - | yes | lycheeorg/lychee:v5.3.0
+App Service Image | - | yes | lycheeorg/lychee:v6.10.4
 Database Type | - | yes | sqlite
 
 ## Screenshots
@@ -60,6 +60,7 @@ Database Type | - | yes | sqlite
 ## Change Log
 
 - 2022-10-28 – first release
+- 2025-12-25 – Version bumped to v6.10.4
 
 ## Contributors
 

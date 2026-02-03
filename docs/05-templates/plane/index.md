@@ -35,6 +35,7 @@ Service Name | - | yes | plane
 ## Change Log
 
 - 2024-7-26 – first release
+- 2025-12-30 – Updated Plane to v1.2.1
 
 ## Contributors
 

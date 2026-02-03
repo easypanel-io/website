@@ -41,7 +41,7 @@ Draw.io is a versatile, self-hosted diagramming tool designed for individuals an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drawio
-App Service Image | - | yes | jgraph/drawio:28.0.4
+App Service Image | - | yes | jgraph/drawio:29.2.9
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | jgraph/drawio:28.0.4
 
 - 2024-01-07 – First Release
 - 2025-07-15 – Version bumped to 28.0.4
+- 2025-12-25 – Version bumped to 29.2.9
 
 ## Contributors
 

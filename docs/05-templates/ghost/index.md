@@ -44,6 +44,11 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | ghost
 App Service Image | - | yes | ghost:5.130.1
 Database Service Name | - | yes | ghost-db
+SMTP Server Host | - | yes | smtp.example.com
+SMTP Server Port | - | yes | 587
+SMTP Server Username | - | yes | example
+SMTP Server Password | - | yes | password
+SMTP From Email | - | yes | no-reply@example.com
 
 ## Screenshots
 

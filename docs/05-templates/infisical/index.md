@@ -43,7 +43,7 @@ You may delete the migration service once the migration is completed.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | infisical
-App Service Image | - | yes | infisical/infisical:v0.138.0-postgres
+App Service Image | - | yes | infisical/infisical:v0.154.6
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | infisical/infisical:v0.138.0-postgres
 - 2025-01-08 – Template Release
 - 2025-02-25 – Version bumped to v0.112.0-postgres
 - 2025-05-23 – Version bumped to v0.130.1-postgres
+- 2025-12-25 – Version bumped to v0.154.6
 
 ## Contributors
 

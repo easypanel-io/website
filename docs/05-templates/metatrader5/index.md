@@ -41,7 +41,7 @@ MetaTrader 5 (MT5) is a powerful, multi-functional trading platform designed for
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | metatrader5
-App Service Image | - | yes | gmag11/metatrader5_vnc:2.1
+App Service Image | - | yes | gmag11/metatrader5_vnc:2.3
 User Name | - | yes | admin
 Password | - | yes | password
 
@@ -53,6 +53,7 @@ Password | - | yes | password
 
 - 2024-01-08 – First Release
 - 2025-06-05 – Update to 2.1
+- 2025-12-29 – Version bumped to 2.3
 
 ## Contributors
 

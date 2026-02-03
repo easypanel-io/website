@@ -42,7 +42,7 @@ GoToSocial is a lightweight, customizable, and safety-focused social network ser
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gotosocial
-App Service Image | - | yes | superseriousbusiness/gotosocial:0.19.1
+App Service Image | - | yes | superseriousbusiness/gotosocial:0.20.2
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | superseriousbusiness/gotosocial:0.19.1
 - 2025-01-14 – Version bumped to 0.17.3
 - 2025-02-25 – Version bumped to 0.18.1
 - 2025-07-21 – Version bumped to 0.19.1
+- 2025-12-25 – Version bumped to 0.20.2
 
 ## Contributors
 

@@ -41,7 +41,7 @@ Invidious is a privacy-respecting alternative frontend for YouTube, designed to 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | invidious
-App Service Image | - | yes | quay.io/invidious/invidious:dbee027ed9b568469815b319332e029964bff7fb-quic
+App Service Image | - | yes | quay.io/invidious/invidious:2025.12.22-5f84a5b
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | quay.io/invidious/invidious:dbee027ed9b568469815b3
 ## Change Log
 
 - 2024-01-03 – First release
+- 2025-12-25 – Version bumped to 2025.12.22-5f84a5b
 
 ## Contributors
 

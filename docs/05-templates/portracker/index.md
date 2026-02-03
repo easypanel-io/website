@@ -40,7 +40,7 @@ Portracker is a self-hosted port tracking and monitoring application that provid
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | portracker
-App Service Image | - | yes | mostafawahied/portracker:1.1
+App Service Image | - | yes | mostafawahied/portracker:1.2
 Enable TrueNAS Integration | Enable enhanced TrueNAS features and API integration | no | false
 TrueNAS API Key | API key for TrueNAS integration (required if TrueNAS is enabled) | no | 
 
@@ -51,6 +51,7 @@ TrueNAS API Key | API key for TrueNAS integration (required if TrueNAS is enable
 ## Change Log
 
 - 2025-09-17 – Template Release (v1.1)
+- 2025-12-29 – Version bumped to 1.2
 
 ## Contributors
 

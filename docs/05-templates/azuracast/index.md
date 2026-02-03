@@ -39,7 +39,7 @@ AzuraCast is a free, open-source web radio management suite. Built for radio sta
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | azuracast
-App Service Image | - | yes | ghcr.io/azuracast/azuracast:0.21.0
+App Service Image | - | yes | ghcr.io/azuracast/azuracast:0.23.2
 App Service Port | - | yes | 2022
 
 ## Screenshots
@@ -49,6 +49,7 @@ App Service Port | - | yes | 2022
 ## Change Log
 
 - 2025-06-11 – Template Release
+- 2024-12-24 – Updated version to 0.23.2
 
 ## Contributors
 

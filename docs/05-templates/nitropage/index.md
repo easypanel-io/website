@@ -42,7 +42,7 @@ Nitropage is an extensible, drag-and-drop website builder based on SolidStart, d
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nitropage
-App Service Image | - | yes | codeberg.org/nitropage/nitropage:0.68.2-sqlite
+App Service Image | - | yes | codeberg.org/nitropage/nitropage:0.69.0-sqlite
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | codeberg.org/nitropage/nitropage:0.68.2-sqlite
 
 - 2025-01-10 – Initial Template Release
 - 2025-07-24 – Update to 0.68.2
+- 2025-12-29 – Version bumped to 0.69.0
 
 ## Contributors
 

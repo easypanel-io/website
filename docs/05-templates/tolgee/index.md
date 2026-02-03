@@ -42,7 +42,7 @@ Tolgee is a revolutionary localization platform designed to simplify and speed u
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tolgee
-App Service Image | - | yes | tolgee/tolgee:v3.107.0
+App Service Image | - | yes | tolgee/tolgee:v3.145.2
 Database Service Name | - | yes | tolgee-db
 Username | - | yes | 
 Password | - | yes | 
@@ -62,6 +62,7 @@ Password | - | yes |
 
 - 2023-3-28 – first release
 - 2025-03-03 – Version bumped to v3.107.0
+- 2025-12-29 – Version bumped to v3.145.2
 
 ## Contributors
 

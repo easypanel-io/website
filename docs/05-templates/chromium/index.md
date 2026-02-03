@@ -39,7 +39,7 @@ Chromium is an open-source browser project that is designed to provide a safer, 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chromium
-App Service Image | - | yes | lscr.io/linuxserver/chromium:version-7a928a3a
+App Service Image | - | yes | lscr.io/linuxserver/chromium:version-110b1523
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/chromium:version-7a928a3a
 - 2024-09-30 – Version changed to version-dc5fa092
 - 2025-01-09 – Version bumped to 5f5dd27e-ls102
 - 2025-07-15 – Version bumped to 7a928a3a
+- 2025-12-25 – Version bumped to 110b1523
 
 ## Contributors
 

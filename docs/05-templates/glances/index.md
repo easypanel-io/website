@@ -47,7 +47,7 @@ To use Glances with Podman, you can mount a bind volume &quot;/run/user/1000/pod
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | glances
-App Service Image | - | yes | nicolargo/glances:4.3.3
+App Service Image | - | yes | nicolargo/glances:4.4.1
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | nicolargo/glances:4.3.3
 
 - 2024-12-22 – First Release
 - 2025-07-21 – Version bumped to 4.3.3
+- 2025-12-25 – Version bumped to 4.4.1
 
 ## Contributors
 

@@ -46,7 +46,7 @@ You may configure your targets by taking the console from Easypanel
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | smokeping
-App Service Image | - | yes | lscr.io/linuxserver/smokeping:2.8.2
+App Service Image | - | yes | lscr.io/linuxserver/smokeping:2.9.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | lscr.io/linuxserver/smokeping:2.8.2
 ## Change Log
 
 - 2025-01-21 – First Release
+- 2025-12-29 – Version bumped to 2.9.0
 
 ## Contributors
 

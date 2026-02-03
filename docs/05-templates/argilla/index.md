@@ -41,7 +41,7 @@ Argilla is a robust platform designed to help engineers and data scientists stre
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | argilla
-App Service Image | - | yes | argilla/argilla-server:latest
+App Service Image | - | yes | argilla/argilla-server:v2.8.0
 Elasticsearch Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 Login User Name | - | yes | argilla
 Login Password | This password should be 8 characters long | yes | password
@@ -53,6 +53,7 @@ Login Password | This password should be 8 characters long | yes | password
 ## Change Log
 
 - 2024-12-21 – First Release
+- 2025-06-10 – Switched from latest to v2.8.0
 
 ## Contributors
 

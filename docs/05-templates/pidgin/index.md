@@ -43,7 +43,7 @@ use abc:abc to login. To access the login interface, add ?login=true to your URL
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pidgin
-App Service Image | - | yes | lscr.io/linuxserver/pidgin:2.14.13
+App Service Image | - | yes | lscr.io/linuxserver/pidgin:2.14.14
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | lscr.io/linuxserver/pidgin:2.14.13
 
 - 2022-11-23 – first release
 - 2025-07-24 – Version bumped to 2.14.13
+- 2025-12-29 – Version bumped to 2.14.14
 
 ## Contributors
 

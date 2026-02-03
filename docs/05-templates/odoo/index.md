@@ -42,7 +42,7 @@ Odoo is a comprehensive, integrated software platform designed to streamline and
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | odoo
-App Service Image | - | yes | odoo:18.0
+App Service Image | - | yes | odoo:19.0
 Database Service Name | - | yes | odoo-db
 
 ## Screenshots
@@ -52,6 +52,7 @@ Database Service Name | - | yes | odoo-db
 ## Change Log
 
 - 2023 – first release
+- 2025-12-29 – Version bumped to 19.0
 
 ## Contributors
 

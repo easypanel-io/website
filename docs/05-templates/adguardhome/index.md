@@ -47,7 +47,7 @@ During the setup phase, if the instance, does not start, you have to disable the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | adguardhome
-App Service Image | - | yes | adguard/adguardhome:latest
+App Service Image | - | yes | adguard/adguardhome:v0.107.71
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | adguard/adguardhome:latest
 
 - 2023-07-11 – First Release
 - 2025-06-21 – Update the instructions for the setup phase
+- 2025-12-24 – Switched from latest to v0.107.71
 
 ## Contributors
 

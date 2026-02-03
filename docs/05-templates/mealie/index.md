@@ -44,7 +44,7 @@ Please use the following credentials to login. changeme@easypanel.io|MyPassword
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mealie
-App Service Image | - | yes | hkotel/mealie:v3.0.2
+App Service Image | - | yes | hkotel/mealie:v3.8.0
 
 ## Screenshots
 
@@ -61,6 +61,7 @@ App Service Image | - | yes | hkotel/mealie:v3.0.2
 - 2025-02-28 – Version bumped to v2.7.1
 - 2025-06-05 – Update to v2.8.0
 - 2025-07-22 – Update to v3.0.2
+- 2025-12-29 – Version bumped to v3.8.0
 
 ## Contributors
 

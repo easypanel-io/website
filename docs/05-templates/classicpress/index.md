@@ -40,7 +40,7 @@ ClassicPress is a community-led open source content management system for creato
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | classicpress
-App Service Image | - | yes | classicpress/classicpress:php8.3-apache
+App Service Image | - | yes | classicpress/classicpress:php8.5-apache
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | classicpress/classicpress:php8.3-apache
 ## Change Log
 
 - 2025-02-14 – first release
+- 2025-12-25 – Version bumped to php8.5-apache
 
 ## Contributors
 

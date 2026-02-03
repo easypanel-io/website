@@ -39,7 +39,7 @@ Blender is a comprehensive, free and open-source 3D computer graphics software t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | blender
-App Service Image | - | yes | lscr.io/linuxserver/blender:4.4.3
+App Service Image | - | yes | lscr.io/linuxserver/blender:5.0.1
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/blender:4.4.3
 - 2024-09-30 – Changed static latest tag to 4.2.2 LTS
 - 2025-01-06 – Version bumped to 4.3.2
 - 2025-07-15 – Version bumped to 4.4.3
+- 2025-12-24 – Version bumped to 5.0.1
 
 ## Contributors
 

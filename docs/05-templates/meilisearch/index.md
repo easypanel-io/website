@@ -42,7 +42,7 @@ Meilisearch Cloud is a next-generation, open-source search engine designed to en
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | meilisearch
-App Service Image | - | yes | getmeili/meilisearch:v1.15.2
+App Service Image | - | yes | getmeili/meilisearch:v1.31.0
 Meilisearch Database Volume Name | - | yes | meilisearch
 Meilisearch Environment | - | yes | production
 Meilisearch Master Key | - | no | 
@@ -60,6 +60,7 @@ Scheduled Snapshots Interval (in seconds) | - | no | 86400
 - 2024-10-19 – Update to v1.10.3
 - 2025-06-05 – Update to v1.13.3
 - 2025-07-22 – Update to v1.15.2
+- 2025-12-29 – Version bumped to v1.31.0
 
 ## Contributors
 

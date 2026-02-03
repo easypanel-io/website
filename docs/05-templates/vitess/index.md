@@ -40,7 +40,7 @@ Vitess is a database clustering system for horizontal scaling of MySQL. It is de
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | vitess
-App Service Image | - | yes | vitess/vttestserver:mysql80
+App Service Image | - | yes | vitess/vttestserver:mysql84
 Vitess Port | - | yes | 33574
 
 ## Screenshots
@@ -50,6 +50,7 @@ Vitess Port | - | yes | 33574
 ## Change Log
 
 - 2025-03-11 – First Release
+- 2025-12-29 – Version bumped to mysql84
 
 ## Contributors
 

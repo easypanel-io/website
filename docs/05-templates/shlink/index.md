@@ -45,7 +45,7 @@ To use this service we need a license key. Create an Account for GeoLite2, Gener
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shlink
-App Service Image | - | yes | shlinkio/shlink:4.5
+App Service Image | - | yes | shlinkio/shlink:4.6.0
 GeoLite2 API Key | Generate a license key from your GeoLite2 account. | yes | 
 
 ## Screenshots
@@ -56,6 +56,7 @@ GeoLite2 API Key | Generate a license key from your GeoLite2 account. | yes |
 
 - 2025-02-14 – first release
 - 2025-07-24 – Version bumped to 4.5
+- 2025-12-29 – Version bumped to 4.6.0
 
 ## Contributors
 

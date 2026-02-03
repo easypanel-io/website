@@ -41,7 +41,7 @@ JSReport is an open-source reporting platform designed for developers to generat
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jsreport
-App Service Image | - | yes | jsreport/jsreport:4.9.0
+App Service Image | - | yes | jsreport/jsreport:4.11.0
 App Service Username | - | yes | admin
 App Service Password | - | yes | admin
 

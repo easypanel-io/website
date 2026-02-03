@@ -46,7 +46,7 @@ You can use Minio for S3 Compatibility and provide AWS like credentials for it.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | unsend
-App Service Image | - | yes | ghcr.io/unsend-dev/unsend:v1.5.4
+App Service Image | - | yes | ghcr.io/unsend-dev/unsend:v1.5.5
 AWS Access Key | This is the AWS Access Key associated with your AWS account. | yes | 
 AWS Secret Key | This is the AWS Secret Key associated with your AWS account. | yes | 
 Default Region | - | yes | us-east-1
@@ -64,6 +64,7 @@ Minio Root Password | This is the Minio root password for accessing the Minio st
 
 - 2025-03-17 – First Release (v1.4.0)
 - 2025-07-25 – Version bumped to v1.5.4
+- 2025-12-29 – Version bumped to v1.5.5
 
 ## Contributors
 

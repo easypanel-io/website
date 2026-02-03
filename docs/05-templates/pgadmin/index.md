@@ -40,7 +40,7 @@ PGAdmin is a popular open-source administration and management tool for PostgreS
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pgadmin
-App Service Image | - | yes | dpage/pgadmin4:9.5.0
+App Service Image | - | yes | dpage/pgadmin4:9.11.0
 Default Email | - | yes | admin@example.com
 Default Password | - | yes | password
 
@@ -52,6 +52,7 @@ Default Password | - | yes | password
 
 - 2025-02-25 – first release
 - 2025-07-24 – Update to 9.5.0
+- 2025-12-29 – Version bumped to 9.11.0
 
 ## Contributors
 

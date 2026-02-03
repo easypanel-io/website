@@ -27,7 +27,7 @@ Coder is an open source cloud development environment (CDE) that you download an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coder
-App Service Image | - | yes | ghcr.io/coder/coder:v2.23.3
+App Service Image | - | yes | ghcr.io/coder/coder:v2.27.9
 Database Service Name | - | yes | coder-db
 
 ## Screenshots
@@ -40,6 +40,7 @@ Database Service Name | - | yes | coder-db
 - 2024-09-30 – Version changed to v2.14.3
 - 2025-01-09 – Version bumped to v2.18.2
 - 2025-07-15 – Version bumped to v2.23.3
+- 2025-12-25 – Version bumped to v2.27.9
 
 ## Contributors
 

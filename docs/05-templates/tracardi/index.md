@@ -43,10 +43,10 @@ Configure the API Domain in the GUI.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tracardi
-GUI Service Image | - | yes | tracardi/tracardi-gui:1.1.2
-API Service Image | - | yes | tracardi/tracardi-api:1.1.2
-APM Service Image | - | yes | tracardi/apm:1.1.2
-Worker Service Image | - | yes | tracardi/update-worker:1.1.2
+GUI Service Image | - | yes | tracardi/tracardi-gui:1.1.17
+API Service Image | - | yes | tracardi/tracardi-api:1.1.17
+APM Service Image | - | yes | tracardi/apm:1.1.17
+Worker Service Image | - | yes | tracardi/update-worker:1.1.17
 Elasticsearch Service Image | - | yes | docker.elastic.co/elasticsearch/elasticsearch:7.13.2
 Enable Demo Data | - | yes | 
 Enable Production Setup | Prevents adding demo data. | yes | 
@@ -58,6 +58,7 @@ Enable Production Setup | Prevents adding demo data. | yes |
 ## Change Log
 
 - 2024-12-13 – Template Release
+- 2025-12-29 – Version bumped to 1.1.17
 
 ## Contributors
 

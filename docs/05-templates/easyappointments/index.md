@@ -41,7 +41,7 @@ EasyAppointments is an open-source, self-hosted scheduling platform designed to 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | easyappointments
-App Service Image | - | yes | alextselegidis/easyappointments:1.5.1
+App Service Image | - | yes | alextselegidis/easyappointments:1.5.2
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | alextselegidis/easyappointments:1.5.1
 ## Change Log
 
 - 2025-01-20 – First Release
+- 2025-12-25 – Version bumped to 1.5.2
 
 ## Contributors
 

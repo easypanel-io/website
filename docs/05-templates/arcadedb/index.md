@@ -44,7 +44,7 @@ ArcadeDB is a multi-model database that supports multiple data models including 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | arcadedb
-App Service Image | - | yes | arcadedata/arcadedb:25.7.1
+App Service Image | - | yes | arcadedata/arcadedb:25.11.1
 Binary Port | - | no | 2480
 
 ## Screenshots
@@ -54,6 +54,7 @@ Binary Port | - | no | 2480
 ## Change Log
 
 - 2025-08-26 – First release
+- 2025-12-24 – Updated to ArcadeDB version 25.11.1
 
 ## Contributors
 

@@ -39,7 +39,7 @@ Home Assistant is an open-source home automation app that prioritizes local cont
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homeassistant
-App Service Image | - | yes | lscr.io/linuxserver/homeassistant:2025.7.3
+App Service Image | - | yes | lscr.io/linuxserver/homeassistant:2025.12.4
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/homeassistant:2025.7.3
 - 2024-10-11 – Version Updated to 2024.10.1
 - 2025-02-25 – Version bumped to 2025.2.5
 - 2025-07-22 – Version bumped to 2025.7.3
+- 2025-12-25 – Version bumped to 2025.12.4
 
 ## Contributors
 

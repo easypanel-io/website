@@ -44,7 +44,7 @@ Register your user and make sure the Username does not contain spaces.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kavita
-App Service Image | - | yes | jvmilazz0/kavita:0.8.7
+App Service Image | - | yes | jvmilazz0/kavita:0.8.8
 Timezone | - | no | America/New_York
 
 ## Screenshots
@@ -57,6 +57,7 @@ Timezone | - | no | America/New_York
 - 2024-10-16 – Previous repo has been archived, new repo and version updated jvmilazz0/kavita:0.8.3
 - 2025-02-28 – Version bumped to 0.8.4
 - 2025-07-22 – Version bumped to 0.8.7
+- 2025-12-25 – Version bumped to 0.8.8
 
 ## Contributors
 

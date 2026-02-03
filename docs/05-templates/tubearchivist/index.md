@@ -40,8 +40,8 @@ TubeArchivist is a self-hosted YouTube archiving tool that allows you to manage 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tubearchivist
-App Service Image | - | yes | bbilly1/tubearchivist:v0.5.4
-Elasticsearch Service Image | - | yes | bbilly1/tubearchivist-es:8.18.0
+App Service Image | - | yes | bbilly1/tubearchivist:v0.5.8
+Elasticsearch Service Image | - | yes | bbilly1/tubearchivist-es:8.18.2
 Redis Service Image | - | yes | redis/redis-stack-server:7.4.0-v6
 Username | - | yes | admin
 Password | - | yes | changeme
@@ -54,6 +54,7 @@ Password | - | yes | changeme
 
 - 2025-02-13 – First Release
 - 2025-07-25 – Version bumped to v0.5.4
+- 2025-12-29 – Version bumped to v0.5.8, 8.18.2
 
 ## Contributors
 

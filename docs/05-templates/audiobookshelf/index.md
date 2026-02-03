@@ -43,7 +43,7 @@ Starter Host Path will be bind to &quot;/audiobooks&quot; inside the container. 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | audiobookshelf
-App Service Image | - | yes | ghcr.io/advplyr/audiobookshelf:2.19.4
+App Service Image | - | yes | ghcr.io/advplyr/audiobookshelf:2.32.1
 Starter Host Path | - | yes | 
 
 ## Screenshots
@@ -56,6 +56,7 @@ Starter Host Path | - | yes |
 - 2024-03-10 – Version bumped to 2.8.0
 - 2024-09-30 – Version bumped to 2.13.4
 - 2025-02-21 – Version bumped to 2.19.4
+- 2025-12-24 – Version bumped to 2.32.1
 
 ## Contributors
 

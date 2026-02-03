@@ -41,7 +41,7 @@ Redlib is a privacy-focused and lightweight alternative frontend for Reddit, des
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | redlib
-App Service Image | - | yes | quay.io/redlib/redlib:sha-00dee52
+App Service Image | - | yes | quay.io/redlib/redlib:sha-ba98178
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | quay.io/redlib/redlib:sha-00dee52
 ## Change Log
 
 - 2024-12-02 – Template added
+- 2025-12-29 – Version bumped to sha-ba98178
 
 ## Contributors
 

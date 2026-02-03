@@ -45,8 +45,8 @@ Please configure at least one OAuth provider for authentication.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | typebot
-Builder Service Image | - | yes | baptistearno/typebot-builder:3.9
-Viewer Service Image | - | yes | baptistearno/typebot-viewer:3.9.0
+Builder Service Image | - | yes | baptistearno/typebot-builder:3.14.2
+Viewer Service Image | - | yes | baptistearno/typebot-viewer:3.14.2
 Admin Email | Email address for the administrator account | yes | admin@example.com
 GitHub Client ID (Optional) | GitHub OAuth App Client ID for authentication | no | 
 GitHub Client Secret (Optional) | GitHub OAuth App Client Secret for authentication | no | 
@@ -65,6 +65,7 @@ Google OAuth Client Secret (Optional) | Google OAuth Client Secret for authentic
 - 2023-07-16 – Update to V2
 - 2025-01-17 – Updated to use Redis instead of MinIO, simplified configuration
 - 2025-07-28 – Updated the template.
+- 2025-12-29 – Version bumped to 3.14.2
 
 ## Contributors
 

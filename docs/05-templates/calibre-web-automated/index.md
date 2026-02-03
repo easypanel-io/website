@@ -45,7 +45,7 @@ Default login credentials are admin/admin123
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre-web-automated
-App Service Image | - | yes | crocodilestick/calibre-web-automated:v2.0.0
+App Service Image | - | yes | crocodilestick/calibre-web-automated:V3.1.4
 Timezone | Timezone for the application | no | UTC
 Hardcover API Token | Hardcover API key for enhanced metadata (get one at https://docs.hardcover.app/api/getting-started/) | no | 
 Network Share Mode | Enable if your library is on a network share (NFS/SMB) to reduce locking issues | no | false
@@ -58,6 +58,7 @@ Enable Calibre Plugins | Enable support for Calibre plugins (experimental) | no 
 ## Change Log
 
 - 2025-09-12 – Template Release
+- 2025-12-24 – Updated to V3.1.4
 
 ## Contributors
 

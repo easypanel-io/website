@@ -43,7 +43,7 @@ Prometheus is an open-source monitoring and alerting toolkit designed for reliab
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | prometheus
-App Service Image | - | yes | prom/prometheus:v3.5.0
+App Service Image | - | yes | prom/prometheus:v3.8.1
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | prom/prometheus:v3.5.0
 - 2024-10-13 – Initial Prometheus release
 - 2025-02-28 – Version bumped to v3.2.1
 - 2025-07-24 – Version bumped to v3.5.0
+- 2025-12-29 – Version bumped to v3.8.1
 
 ## Contributors
 

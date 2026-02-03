@@ -39,7 +39,7 @@ Traccar is an open-source GPS tracking system designed for real-time tracking of
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | traccar
-App Service Image | - | yes | traccar/traccar:6.8
+App Service Image | - | yes | traccar/traccar:6.11
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | traccar/traccar:6.8
 
 - 2024-11-30 – Template Release
 - 2025-07-25 – Version bumped to 6.8
+- 2025-12-29 – Version bumped to 6.11
 
 ## Contributors
 

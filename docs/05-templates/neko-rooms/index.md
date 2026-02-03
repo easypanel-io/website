@@ -39,7 +39,7 @@ Neko Rooms is a self-hosted, collaborative virtualized browser-sharing platform 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | neko-rooms
-App Service Image | - | yes | m1k1o/neko-rooms:latest
+App Service Image | - | yes | m1k1o/neko-rooms:1.6.4
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | m1k1o/neko-rooms:latest
 ## Change Log
 
 - 2025-03-14 – First Release
+- 2025-12-29 – Version bumped to 1.6.4
 
 ## Contributors
 

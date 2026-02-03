@@ -50,7 +50,7 @@ SMTP Login | - | no |
 SMTP Password | - | no | 
 SMTP From Address | - | no | notifications@example.com
 App Service Name | - | yes | mastodon
-App Service Image | - | yes | ghcr.io/mastodon/mastodon:v4.4.1
+App Service Image | - | yes | ghcr.io/mastodon/mastodon:v4.5.3
 
 ## Screenshots
 
@@ -60,6 +60,7 @@ App Service Image | - | yes | ghcr.io/mastodon/mastodon:v4.4.1
 
 - 2023-03-26 – First Release
 - 2025-07-22 – Version bumped to v4.4.1
+- 2025-12-29 – Version bumped to v4.5.3
 
 ## Contributors
 

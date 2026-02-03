@@ -41,7 +41,7 @@ Picoshare is a lightweight, self-hosted file-sharing platform designed for simpl
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | picoshare
-App Service Image | - | yes | mtlynch/picoshare:1.4.5
+App Service Image | - | yes | mtlynch/picoshare:1.5.1
 Auth Passphrase | - | yes | 
 
 ## Screenshots
@@ -51,6 +51,7 @@ Auth Passphrase | - | yes |
 ## Change Log
 
 - 2025-01-16 – First Release
+- 2025-12-29 – Version bumped to 1.5.1
 
 ## Contributors
 

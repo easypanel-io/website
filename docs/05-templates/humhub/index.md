@@ -43,7 +43,7 @@ HumHub is a flexible open-source social network kit designed to facilitate commu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | humhub
-App Service Image | - | yes | mriedmann/humhub:1.9.4
+App Service Image | - | yes | mriedmann/humhub:1.15.6
 Database Service Name | - | yes | humhub-db
 
 ## Screenshots
@@ -53,6 +53,7 @@ Database Service Name | - | yes | humhub-db
 ## Change Log
 
 - 2023-1-22 – first release
+- 2025-12-25 – Version bumped to 1.15.6
 
 ## Contributors
 

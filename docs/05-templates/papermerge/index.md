@@ -39,7 +39,7 @@ Papermerge is an open-source document management system (DMS) designed to help y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | papermerge
-App Service Image | - | yes | papermerge/papermerge:3.5.2
+App Service Image | - | yes | papermerge/papermerge:3.5.3
 Auth Username | - | yes | admin
 Auth Password | - | yes | admin
 
@@ -51,6 +51,7 @@ Auth Password | - | yes | admin
 
 - 2025-01-15 – Template Release
 - 2025-02-28 – Version bumped to 3.4
+- 2025-12-29 – Version bumped to 3.5.3
 
 ## Contributors
 

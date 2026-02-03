@@ -40,7 +40,7 @@ Nextcloud Hub 5 is a comprehensive platform that integrates the four key Nextclo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nextcloud
-App Service Image | - | yes | nextcloud:31.0.7
+App Service Image | - | yes | nextcloud:32.0.3
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | nextcloud-db
 
@@ -54,6 +54,7 @@ Database Service Name | - | yes | nextcloud-db
 - 2024-10-19 – Update to 30.0.1
 - 2025-02-28 – Version bumped to 31.0.0
 - 2025-07-24 – Update to 31.0.7
+- 2025-12-29 – Version bumped to 32.0.3
 
 ## Contributors
 

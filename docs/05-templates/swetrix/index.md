@@ -42,8 +42,8 @@ Swetrix is a powerful, privacy-focused analytics platform that provides comprehe
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | swetrix
-Frontend Image | - | yes | swetrix/swetrix-fe:v3.3.1
-API Image | - | yes | swetrix/swetrix-api:v3.3.1
+Frontend Image | - | yes | swetrix/swetrix-fe:v4.1.0
+API Image | - | yes | swetrix/swetrix-api:v4.1.0
 ClickHouse Image | - | yes | clickhouse/clickhouse-server:24.10-alpine
 Admin Email | Email address for the default admin user | yes | admin@example.com
 Admin Password | Password for the default admin user | yes | admin1234567
@@ -55,6 +55,7 @@ Admin Password | Password for the default admin user | yes | admin1234567
 ## Change Log
 
 - 2025-06-03 – First release (v3.3.1)
+- 2025-12-29 – Version bumped to v4.1.0
 
 ## Contributors
 

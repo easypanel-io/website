@@ -46,7 +46,7 @@ The initial account and password are admin@nocobase.com and admin123.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nocobase
-App Service Image | - | yes | nocobase/nocobase:1.8.7
+App Service Image | - | yes | nocobase/nocobase:1.9.32
 Database Service Name | - | yes | nocobase-db
 
 ## Screenshots
@@ -58,6 +58,7 @@ Database Service Name | - | yes | nocobase-db
 - 2023-3-29 – first release
 - 2025-02-28 – Version bumped to 1.5.18
 - 2025-07-24 – Update to 1.8.7
+- 2025-12-29 – Version bumped to 1.9.32
 
 ## Contributors
 

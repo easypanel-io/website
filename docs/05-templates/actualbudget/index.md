@@ -39,7 +39,7 @@ Actual is a personal finance tool designed to help you manage your finances with
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | actualbudget
-App Service Image | - | yes | ghcr.io/actualbudget/actual-server:25.2.1
+App Service Image | - | yes | ghcr.io/actualbudget/actual-server:25.12.0
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | ghcr.io/actualbudget/actual-server:25.2.1
 - 2024-09-30 – Version bumped to 24.9.0
 - 2025-01-06 – Version bumped to 24.12.0
 - 2025-02-21 – Version bumped to 25.2.1
+- 2025-12-24 – Version bumped to 25.12.0
 
 ## Contributors
 

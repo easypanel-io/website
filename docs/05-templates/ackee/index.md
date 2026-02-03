@@ -44,7 +44,7 @@ Name | Description | Required | Default Value
 Ackee Username | - | yes | 
 Ackee Password | - | yes | 
 App Service Name | - | yes | ackee
-App Service Image | - | yes | electerious/ackee:3.4.2
+App Service Image | - | yes | electerious/ackee:3.5.1
 Database Service Name | - | yes | ackee-db
 
 ## Screenshots
@@ -54,6 +54,7 @@ Database Service Name | - | yes | ackee-db
 ## Change Log
 
 - 2022-06-04 – first release
+- 2024-12-24 – updated to Ackee 3.5.1
 
 ## Contributors
 

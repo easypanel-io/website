@@ -41,7 +41,7 @@ Neo4j is a native graph database that brings data relationships to the foregroun
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | neo4j
-Neo4j Image | - | yes | neo4j:5.26.9
+Neo4j Image | - | yes | neo4j:5.26.19
 Neo4j Password | Password for the neo4j user | yes | password
 Neo4j User | User for the neo4j database | yes | neo4j
 
@@ -53,6 +53,7 @@ Neo4j User | User for the neo4j database | yes | neo4j
 
 - 2025-03-26 – Initial template release
 - 2025-07-24 – Update to Neo4j 5.26.9
+- 2025-12-29 – Version bumped to 5.26.19
 
 ## Contributors
 

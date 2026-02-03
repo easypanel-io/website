@@ -42,7 +42,7 @@ Stump is a fast, free and open source audiobook and e-book server. It provides a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | stump
-App Service Image | - | yes | aaronleopold/stump:0.0.11
+App Service Image | - | yes | aaronleopold/stump:0.0.12
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | aaronleopold/stump:0.0.11
 ## Change Log
 
 - 2025-09-12 – Template Release (v0.0.11)
+- 2025-12-29 – Version bumped to 0.0.12
 
 ## Contributors
 

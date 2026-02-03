@@ -41,7 +41,7 @@ Homarr is a powerful dashboard designed to simplify the management of your serve
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homarr
-App Service Image | - | yes | ghcr.io/ajnart/homarr:0.15.10
+App Service Image | - | yes | ghcr.io/ajnart/homarr:0.16.0
 Timezone | - | no | America/New_York
 
 ## Screenshots
@@ -53,6 +53,7 @@ Timezone | - | no | America/New_York
 - 2022-12-20 – First Release
 - 2024-10-11 – Version jumped to 0.15.4
 - 2025-02-25 – Version bumped to 0.15.10
+- 2025-12-25 – Version bumped to 0.16.0
 
 ## Contributors
 

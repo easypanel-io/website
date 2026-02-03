@@ -42,7 +42,7 @@ Default credentials: User:&quot;admin&quot; Password:&quot;admin&quot;
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filebrowser
-App Service Image | - | yes | filebrowser/filebrowser:v2.40.2
+App Service Image | - | yes | filebrowser/filebrowser:v2.52.0
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | filebrowser/filebrowser:v2.40.2
 - 2023-2-24 – Update to v2.23.0
 - 2025-02-25 – Version bumped to v2.32.0
 - 2025-07-21 – Version bumped to v2.40.2
+- 2025-12-25 – Version bumped to v2.52.0
 
 ## Contributors
 

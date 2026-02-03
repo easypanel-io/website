@@ -44,7 +44,7 @@ Password | - | no |
 Log Level | - | yes | info
 No Analytics | - | yes | false
 App Service Name | - | yes | dozzle
-App Service Image | - | yes | amir20/dozzle:v8.13
+App Service Image | - | yes | amir20/dozzle:v8.14.12
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | amir20/dozzle:v8.13
 - 2024-10-04 – Version changed from latest to v8.5.5
 - 2025-01-09 – Version bumped to v8.10.1
 - 2025-05-26 – Version bumped to v8.12
+- 2025-12-25 – Version bumped to v8.14.12
 
 ## Contributors
 

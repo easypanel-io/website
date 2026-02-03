@@ -40,7 +40,7 @@ Fireshare is a simple, user-friendly app designed to make sharing your game clip
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fireshare
-App Service Image | - | yes | shaneisrael/fireshare:v1.2.25
+App Service Image | - | yes | shaneisrael/fireshare:v1.3.2
 Username | - | yes | 
 Password | - | yes | 
 
@@ -61,6 +61,7 @@ Password | - | yes |
 
 - 2023-2-24 – first release
 - 2025-07-21 – Version bumped to v1.2.25
+- 2025-12-25 – Version bumped to v1.3.2
 
 ## Contributors
 

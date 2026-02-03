@@ -31,7 +31,7 @@ Find your API key in the environment tab
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | typesense
-App Service Image | - | yes | typesense/typesense:30.0.rc5
+App Service Image | - | yes | typesense/typesense:30.0.rca36
 
 ## Screenshots
 
@@ -41,6 +41,7 @@ App Service Image | - | yes | typesense/typesense:30.0.rc5
 - 2023-1-25 – first release
 - 2025-03-03 – Version bumped to 29.0.rc4
 - 2025-07-25 – Version bumped to 30.0.rc5
+- 2025-12-29 – Version bumped to 30.0.rca36
 
 ## Contributors
 

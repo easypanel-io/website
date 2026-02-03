@@ -47,7 +47,7 @@ Username is admin, password is provided in the overview logs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | qbittorrent
-App Service Image | - | yes | lscr.io/linuxserver/qbittorrent:5.1.2
+App Service Image | - | yes | lscr.io/linuxserver/qbittorrent:5.1.4
 Torrenting Port | - | yes | 6881
 
 ## Screenshots
@@ -58,6 +58,7 @@ Torrenting Port | - | yes | 6881
 
 - 2024-11-16 – First Release
 - 2025-07-24 – Version bumped to 5.1.2
+- 2025-12-29 – Version bumped to 5.1.4
 
 ## Contributors
 

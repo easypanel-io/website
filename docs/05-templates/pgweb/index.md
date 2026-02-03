@@ -40,7 +40,7 @@ Pgweb is a simple, web-based, cross-platform PostgreSQL database explorer. It is
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pgweb
-App Service Image | - | yes | sosedoff/pgweb:0.16.2
+App Service Image | - | yes | sosedoff/pgweb:0.17.0
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | sosedoff/pgweb:0.16.2
 
 - 2023-3-15 – first release
 - 2025-02-28 – Version bumped to 0.16.2
+- 2025-12-29 – Version bumped to 0.17.0
 
 ## Contributors
 

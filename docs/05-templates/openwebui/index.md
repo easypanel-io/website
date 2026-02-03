@@ -40,7 +40,7 @@ OpenWebUI is a self-hosted, open-source web-based UI for interacting with variou
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openwebui
-App Service Image | - | yes | ghcr.io/open-webui/open-webui:v0.6.18
+App Service Image | - | yes | ghcr.io/open-webui/open-webui:0.6.43
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | ghcr.io/open-webui/open-webui:v0.6.18
 - 2025-02-07 – First Release
 - 2025-02-28 – Version bumped to v0.5.18
 - 2025-07-24 – Version bumped to v0.6.18
+- 2025-12-29 – Version bumped to 0.6.43
 
 ## Contributors
 

@@ -41,7 +41,7 @@ Appsmith is a powerful tool designed to help engineers build custom software on 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | appsmith
-App Service Image | - | yes | appsmith/appsmith-ce:v1.62
+App Service Image | - | yes | appsmith/appsmith-ce:v1.94
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | appsmith/appsmith-ce:v1.62
 - 2024-09-30 – Version bumped to 1.42
 - 2025-01-06 – Version bumped to 1.55
 - 2025-02-21 – Version bumped to v1.62
+- 2025-12-24 – Version bumped to v1.94
 
 ## Contributors
 

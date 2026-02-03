@@ -45,7 +45,7 @@ Login using user abc with your set password
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre
-App Service Image | - | yes | linuxserver/calibre:8.6.0
+App Service Image | - | yes | linuxserver/calibre:8.16.2
 Password | - | yes | 
 
 ## Screenshots
@@ -60,6 +60,7 @@ Password | - | yes |
 - 2025-01-09 – Version bumped to 7.23.0
 - 2025-02-21 – Version bumped to 7.26.0
 - 2025-07-15 – Version bumped to 8.6.0
+- 2025-12-24 – Version bumped to 8.16.2
 
 ## Contributors
 

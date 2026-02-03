@@ -45,7 +45,7 @@ The default account is &quot;shiori&quot; with password &quot;gopher&quot;. It i
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shiori
-App Service Image | - | yes | ghcr.io/go-shiori/shiori:v1.7.4
+App Service Image | - | yes | ghcr.io/go-shiori/shiori:v1.8.0
 Database Service Name | - | yes | shiori-db
 
 ## Screenshots
@@ -56,6 +56,7 @@ Database Service Name | - | yes | shiori-db
 
 - 2023-03-17 – Template created (v1.5.4)
 - 2025-03-03 – Version bumped to v1.7.4
+- 2025-12-29 – Version bumped to v1.8.0
 
 ## Contributors
 

@@ -41,7 +41,7 @@ PdfDing is a self-hosted PDF management and processing application that provides
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pdfding
-App Service Image | - | yes | mrmn/pdfding:v1.3.1
+App Service Image | - | yes | mrmn/pdfding:v1.4.1
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | mrmn/pdfding:v1.3.1
 ## Change Log
 
 - 2025-09-18 – Template Release
+- 2025-12-29 – Version bumped to v1.4.1
 
 ## Contributors
 

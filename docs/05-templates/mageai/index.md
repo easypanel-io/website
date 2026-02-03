@@ -48,7 +48,7 @@ Mage-AI is a powerful open-source data pipeline tool designed to simplify and ac
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mage-ai
-App Service Image | - | yes | mageai/mageai:0.9.76
+App Service Image | - | yes | mageai/mageai:0.9.78
 Project Name | - | yes | my-first-project
 
 ## Screenshots
@@ -59,6 +59,7 @@ Project Name | - | yes | my-first-project
 
 - 2024-12-31 – First Release
 - 2025-06-05 – Update to 0.9.76
+- 2025-12-29 – Update to 0.9.78
 
 ## Contributors
 

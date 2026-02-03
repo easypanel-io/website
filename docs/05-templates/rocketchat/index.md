@@ -40,7 +40,7 @@ Rocket.Chat SIX is a secure and scalable collaboration platform designed to enha
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
-App Service Image | - | yes | rocketchat/rocket.chat:7.8.2
+App Service Image | - | yes | rocketchat/rocket.chat:7.12.3
 Database Service Name | - | yes | rocketchat-db
 
 ## Screenshots
@@ -52,6 +52,7 @@ Database Service Name | - | yes | rocketchat-db
 - 2022-08-10 – first release
 - 2023-3-20 – Update to v5.4.5
 - 2025-07-24 – Version bumped to 7.8.2
+- 2025-12-29 – Version bumped to 7.12.3
 
 ## Contributors
 

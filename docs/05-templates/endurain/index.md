@@ -37,7 +37,7 @@ Endurain is a cutting-edge endurance tracking and training platform designed for
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | endurain
-App Service Image | - | yes | ghcr.io/joaovitoriasilva/endurain:v0.12.7
+App Service Image | - | yes | ghcr.io/joaovitoriasilva/endurain:v0.16.2
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | ghcr.io/joaovitoriasilva/endurain:v0.12.7
 
 - 2025-01-14 – First Release
 - 2025-07-21 – Version bumped to v0.12.7
+- 2025-12-25 – Version bumped to v0.16.2
 
 ## Contributors
 

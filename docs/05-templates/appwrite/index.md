@@ -35,6 +35,7 @@ Service Name | - | yes | appwrite
 ## Change Log
 
 - 2024-7-30 – first release
+- 2025-12-30 – Updated Appwrite to v1.8.0
 
 ## Contributors
 

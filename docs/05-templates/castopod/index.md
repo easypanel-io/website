@@ -44,7 +44,7 @@ First install the application by going on this path &quot;/cp-install&quot;
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | castopod
-App Service Image | - | yes | castopod/castopod:1.13.4
+App Service Image | - | yes | castopod/castopod:1.13.8
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | castopod/castopod:1.13.4
 ## Change Log
 
 - 2025-03-20 – Initial template release (1.13.4)
+- 2025-12-24 – Updated default image to 1.13.8
 
 ## Contributors
 

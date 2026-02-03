@@ -48,7 +48,7 @@ Change this URL /if/flow/default-authentication-flow/?next=%2F to /if/flow/initi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | authentik
-App Service Image | - | yes | ghcr.io/goauthentik/server:2025.2.4
+App Service Image | - | yes | ghcr.io/goauthentik/server:2025.10.3
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | ghcr.io/goauthentik/server:2025.2.4
 ## Change Log
 
 - 2025-04-23 – Initial release
+- 2025-12-24 – Updated to version 2025.10.3
 
 ## Contributors
 

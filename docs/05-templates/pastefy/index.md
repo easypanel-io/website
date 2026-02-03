@@ -40,7 +40,7 @@ Pastefy is a feature-rich, open-source, self-hostable pastebin alternative to Gi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pastefy
-App Service Image | - | yes | interaapps/pastefy:7.1.4
+App Service Image | - | yes | interaapps/pastefy:7.1.5
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | interaapps/pastefy:7.1.4
 ## Change Log
 
 - 2025-06-12 – First Release
+- 2025-12-29 – Version bumped to 7.1.5
 
 ## Contributors
 
