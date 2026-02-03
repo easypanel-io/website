@@ -196,11 +196,7 @@ const config = {
               },
               {
                 label: "Feedback",
-                href: "https://feedback.easypanel.io/",
-              },
-              {
-                label: "Roadmap",
-                href: "https://feedback.easypanel.io/",
+                href: "https://my.easypanel.io/feedback",
               },
             ],
           },
@@ -210,6 +206,10 @@ const config = {
               {
                 label: "Blog",
                 to: "/blog",
+              },
+              {
+                label: "Changelog",
+                href: "https://my.easypanel.io/changelog",
               },
               {
                 label: "GitHub",
