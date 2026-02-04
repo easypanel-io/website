@@ -17,7 +17,7 @@ AI-powered API platform for conversational applications
 
 ## Instructions
 
-Use admin email - admin@evoai.com and configure the password.
+Use admin email - admin@evoai.com and password admin123 to login.
 
 ## Benefits
 
