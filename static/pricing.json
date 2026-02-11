@@ -18,7 +18,8 @@
         "Basic Monitoring",
         "Advanced Monitoring",
         "Notifications",
-        "Database Backups"
+        "Database Backups",
+        "Custom Service Domain"
       ]
     },
     {
@@ -40,6 +41,7 @@
         "Advanced Monitoring",
         "Notifications",
         "Database Backups",
+        "Custom Service Domain",
         "Multiple users",
         "Access control"
       ]
@@ -63,6 +65,7 @@
         "Advanced Monitoring",
         "Notifications",
         "Database backups",
+        "Custom Service Domain",
         "Multiple users",
         "Access control",
         "Cluster support (alpha)",

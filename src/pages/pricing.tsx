@@ -163,6 +163,7 @@ const Pricing = () => {
                 <Feature underline>Advanced Monitoring</Feature>
                 <Feature underline>Notifications</Feature>
                 <Feature underline>Database Backups</Feature>
+                <Feature underline>Custom Service Domain</Feature>
               </ul>
             </div>
 
@@ -219,6 +220,7 @@ const Pricing = () => {
                 <Feature>Advanced Monitoring</Feature>
                 <Feature>Notifications</Feature>
                 <Feature>Database backups</Feature>
+                <Feature>Custom Service Domain</Feature>
                 <Feature underline>Multiple users</Feature>
                 <Feature underline>Access control</Feature>
               </ul>
@@ -273,6 +275,7 @@ const Pricing = () => {
                 <Feature>Advanced Monitoring</Feature>
                 <Feature>Notifications</Feature>
                 <Feature>Database backups</Feature>
+                <Feature>Custom Service Domain</Feature>
                 <Feature>Multiple users</Feature>
                 <Feature>Access control</Feature>
                 <Feature>Cluster (Under Development)</Feature>
