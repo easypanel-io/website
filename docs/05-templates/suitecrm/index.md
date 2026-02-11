@@ -45,7 +45,7 @@ Username | - | no | admin
 Password | - | no | 
 Email | - | no | admin@example.com
 App Service Name | - | yes | suitecrm
-App Service Image | - | yes | bitnami/suitecrm:8.8.0
+App Service Image | - | yes | bitnamilegacy/suitecrm:8.8.0
 Database Service Name | - | yes | suitecrm-db
 
 ## Screenshots

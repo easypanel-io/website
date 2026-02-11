@@ -40,7 +40,7 @@ Bytebase is a versatile application designed to streamline database management t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bytebase
-App Service Image | - | yes | bytebase/bytebase:3.2.0
+App Service Image | - | yes | bytebase/bytebase:3.14.0
 Database Service Name | - | yes | bytebase-db
 
 ## Screenshots

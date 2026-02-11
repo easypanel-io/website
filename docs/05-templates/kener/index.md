@@ -41,6 +41,10 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kener
 App Service Image | - | yes | ghcr.io/rajnandan1/kener:3.2.19
+Database Type | - | yes | sqlite
+Timezone | - | yes | Etc/UTC
+Resend API Key (Optional) | - | no | 
+Resend Sender Email (Optional) | - | no | 
 
 ## Screenshots
 
@@ -50,7 +54,7 @@ App Service Image | - | yes | ghcr.io/rajnandan1/kener:3.2.19
 
 - 2025-01-16 – First Release
 - 2025-07-22 – Version bumped to 3.2.18
-- 2025-12-25 – Version bumped to 3.2.19
+- 2025-11-03 – Added database type selection (SQLite, PostgreSQL, MySQL), volume mounts, timezone configuration, and Resend email integration support
 
 ## Contributors
 

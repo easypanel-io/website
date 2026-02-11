@@ -41,7 +41,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rocketchat
 App Service Image | - | yes | rocketchat/rocket.chat:7.12.3
-Database Service Name | - | yes | rocketchat-db
+Database Service Image | - | yes | docker.io/bitnamilegacy/mongodb:5.0
 
 ## Screenshots
 

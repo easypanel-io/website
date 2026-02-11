@@ -47,8 +47,10 @@ Zerobyte requires access to the /dev/fuse device for FUSE filesystem operations.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | zerobyte
-App Service Image | - | yes | ghcr.io/nicotsx/zerobyte:v0.15
+App Service Image | - | yes | ghcr.io/nicotsx/zerobyte:v0.25.1
 Timezone | - | no | UTC
+App Secret | Secret key for the application (auto-generated if empty) | no | 
+Base URL | Base URL for the application (defaults to primary domain if empty) | no | 
 
 ## Screenshots
 
@@ -57,6 +59,7 @@ Timezone | - | no | UTC
 ## Change Log
 
 - 2025-12-02 – Template Release
+- 2025-12-31 – Version bumped to v0.20, previous tag has been deleted by maintainers
 
 ## Contributors
 
