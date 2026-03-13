@@ -47,7 +47,7 @@ Navigate to /install to create the initial user account.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cockpit
-App Service Image | - | yes | cockpithq/cockpit:core-2.13.0
+App Service Image | - | yes | cockpithq/cockpit:core-2.13.4
 Database Service Name | - | yes | cockpit-db
 
 ## Screenshots
@@ -61,6 +61,7 @@ Database Service Name | - | yes | cockpit-db
 - 2025-01-09 – Version bumped to core-2.10.3
 - 2025-07-15 – Version bumped to core-2.11.4
 - 2025-12-25 – Version bumped to core-2.13.0
+- 2026-02-18 – Version bumped to core-2.13.4
 
 ## Contributors
 

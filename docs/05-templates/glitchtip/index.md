@@ -47,7 +47,7 @@ Name | Description | Required | Default Value
 Enable User Registration | - | no | false
 Enable Organization Creation | - | no | false
 App Service Name | - | yes | glitchtip
-App Service Image | - | yes | glitchtip/glitchtip:v5.2.1
+App Service Image | - | yes | glitchtip/glitchtip:v6.0.3
 Redis Service Name | - | yes | glitchtip-db
 Redis Service Name | - | yes | glitchtip-redis
 
@@ -62,6 +62,7 @@ Redis Service Name | - | yes | glitchtip-redis
 - 2025-01-14 – Version bumped to v4.2
 - 2025-07-21 – Version bumped to v5.0
 - 2025-12-25 – Version bumped to v5.2.1
+- 2026-02-21 – Version bumped to v6.0.3
 
 ## Contributors
 

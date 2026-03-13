@@ -41,7 +41,7 @@ Milvus is an open-source vector database designed for AI applications and simila
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | milvus
-Milvus Image | - | yes | milvusdb/milvus:v2.0.2
+Milvus Image | - | yes | milvusdb/milvus:v2.6.11
 ETCD Image | - | yes | quay.io/coreos/etcd:v3.5.0
 MinIO Image | - | yes | minio/minio:RELEASE.2020-12-03T00-03-10Z
 MinIO Access Key | Access key for MinIO | yes | minioadmin
@@ -53,6 +53,7 @@ MinIO Secret Key | Secret key for MinIO | yes | minioadmin
 ## Change Log
 
 - 2025-03-27 – Initial template release (v2.0.2)
+- 2026-02-21 – Version bumped to v2.6.11
 
 ## Contributors
 

@@ -44,7 +44,7 @@ Register your user and make sure the Username does not contain spaces.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kavita
-App Service Image | - | yes | jvmilazz0/kavita:0.8.8
+App Service Image | - | yes | jvmilazz0/kavita:0.8.9
 Timezone | - | no | America/New_York
 
 ## Screenshots
@@ -58,6 +58,7 @@ Timezone | - | no | America/New_York
 - 2025-02-28 – Version bumped to 0.8.4
 - 2025-07-22 – Version bumped to 0.8.7
 - 2025-12-25 – Version bumped to 0.8.8
+- 2026-02-21 – Version bumped to 0.8.9
 
 ## Contributors
 

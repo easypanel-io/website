@@ -45,7 +45,7 @@ Set the SMTP password for email submissions on the server.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emailengine
-App Service Image | - | yes | postalsys/emailengine:v2.61
+App Service Image | - | yes | postalsys/emailengine:v2.63
 SMTP Message Submission | - | yes | 2525
 IMAP Port | - | yes | 9993
 SMTP Password | - | yes | password
@@ -58,6 +58,7 @@ SMTP Password | - | yes | password
 
 - 2025-02-06 – Template Release
 - 2025-12-25 – Version bumped to v2.61
+- 2026-02-20 – Version bumped to v2.63
 
 ## Contributors
 

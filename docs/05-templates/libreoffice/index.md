@@ -38,7 +38,7 @@ LibreOffice is a free and powerful office suite app that serves as a successor t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | libreoffice
-App Service Image | - | yes | lscr.io/linuxserver/libreoffice:25.2.5
+App Service Image | - | yes | lscr.io/linuxserver/libreoffice:25.8.1
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | lscr.io/linuxserver/libreoffice:25.2.5
 - 2022-11-14 – first release
 - 2025-07-22 – Version bumped to 25.2.4
 - 2025-12-25 – Version bumped to 25.2.5
+- 2026-02-21 – Version bumped to 25.8.1
 
 ## Contributors
 

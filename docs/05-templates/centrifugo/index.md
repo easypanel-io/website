@@ -41,7 +41,7 @@ Centrifugo is a scalable real-time messaging server that can be used to add real
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | centrifugo
-Centrifugo Image | - | yes | centrifugo/centrifugo:v6.5.2
+Centrifugo Image | - | yes | centrifugo/centrifugo:v6.6.0
 Admin Password | - | yes | password
 Admin Secret | - | yes | secret
 API Key | - | yes | api-key
@@ -55,6 +55,7 @@ HMAC Secret Key | - | yes | secret
 
 - 2025-04-03 – Initial template release
 - 2025-12-24 – Updated to Centrifugo v6.5.2
+- 2026-02-18 – Version bumped to v6.6.0
 
 ## Contributors
 

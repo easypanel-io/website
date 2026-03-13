@@ -43,7 +43,7 @@ Click on get started, create account and save the generated token safely for log
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghostfolio
-App Service Image | - | yes | ghostfolio/ghostfolio:2.224.2
+App Service Image | - | yes | ghostfolio/ghostfolio:2.240.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | ghostfolio/ghostfolio:2.224.2
 - 2025-02-25 – Version bumped to 2.140.0
 - 2025-07-21 – Version bumped to 2.183.0
 - 2025-12-25 – Fixed image URL and version bumped to 2.224.2
+- 2026-02-21 – Version bumped to 2.240.0
 
 ## Contributors
 

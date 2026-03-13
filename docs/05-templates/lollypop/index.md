@@ -41,7 +41,7 @@ Lollypop is a self-hosted, high-performance music library manager and player. It
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lollypop
-App Service Image | - | yes | lscr.io/linuxserver/lollypop:1.4.40
+App Service Image | - | yes | lscr.io/linuxserver/lollypop:1.4.45
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/lollypop:1.4.40
 
 - 2024-12-30 – First Release
 - 2025-07-22 – Version bumped to 1.4.40
+- 2026-02-21 – Version bumped to 1.4.45
 
 ## Contributors
 

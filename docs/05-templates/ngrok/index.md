@@ -44,7 +44,7 @@ ngrok is a secure tunneling service that creates secure tunnels from a public en
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ngrok
-App Service Image | - | yes | ngrok/ngrok:3.34.1-alpine
+App Service Image | - | yes | ngrok/ngrok:3.36.1-alpine
 ngrok Auth Token | - | yes | 
 ngrok Service Name | The name of the service that will be tunneled. | yes | ngrok
 ngrok Target Port | The port of the service that will be tunneled. | yes | 
@@ -56,6 +56,7 @@ ngrok Target Port | The port of the service that will be tunneled. | yes |
 
 - 2025-07-16 – first release
 - 2025-12-29 – Version bumped to 3.34.1
+- 2026-02-21 – Version bumped to 3.36.1
 
 ## Contributors
 

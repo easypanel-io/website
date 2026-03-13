@@ -45,7 +45,7 @@ Create an account to login. The first account created will have administrator pr
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | corteza
-App Service Image | - | yes | cortezaproject/corteza:2024.9.3
+App Service Image | - | yes | cortezaproject/corteza:2024.9.7
 Database Service Name | - | yes | corteza-db
 
 ## Screenshots
@@ -58,6 +58,7 @@ Database Service Name | - | yes | corteza-db
 - 2024-09-30 – Version changed to 2023.9.8
 - 2025-01-09 – Version bumped to 2024.9.0
 - 2025-07-15 – Version bumped to 2024.9.3
+- 2026-02-18 – Version bumped to 2024.9.7
 
 ## Contributors
 

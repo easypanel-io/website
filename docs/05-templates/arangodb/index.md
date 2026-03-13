@@ -44,7 +44,7 @@ Login using username; root and password specified in the envs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | arangodb
-App Service Image | - | yes | arangodb:3.12.7
+App Service Image | - | yes | arangodb:3.12.7.2
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | arangodb:3.12.7
 
 - 2025-02-03 – First Release
 - 2025-12-24 – Updated to ArangoDB version 3.12.7
+- 2026-02-18 – Version bumped to 3.12.7.2
 
 ## Contributors
 

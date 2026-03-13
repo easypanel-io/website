@@ -45,7 +45,7 @@ Default login credentials are admin/admin123
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | calibre-web
-App Service Image | - | yes | lscr.io/linuxserver/calibre-web:nightly-version-eb8b0096
+App Service Image | - | yes | lscr.io/linuxserver/calibre-web:0.6.26
 Timezone | Timezone for the application | no | Etc/UTC
 Enable Docker Mods | Enable universal calibre docker mods for additional functionality | no | true
 Enable OAuth Relax Token Scope | Relax OAuth token scope for better compatibility | no | true
@@ -58,6 +58,7 @@ Enable OAuth Relax Token Scope | Relax OAuth token scope for better compatibilit
 
 - 2025-09-12 – Template Release
 - 2025-12-24 – Updated to nightly-version-eb8b0096
+- 2026-02-18 – Version bumped to 0.6.26
 
 ## Contributors
 

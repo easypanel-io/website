@@ -41,7 +41,7 @@ BirdNET-Go is a real-time bird sound identification and monitoring system that u
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | birdnetgo
-App Service Image | - | yes | ghcr.io/tphakala/birdnet-go:nightly-20251028
+App Service Image | - | yes | ghcr.io/tphakala/birdnet-go:nightly-20260118
 Timezone | - | no | UTC
 Latitude (Optional - for location filtering) | - | no | 
 Longitude (Optional - for location filtering) | - | no | 
@@ -54,6 +54,7 @@ Locale (e.g., en-us) | - | no | en-us
 ## Change Log
 
 - 2025-11-18 – Template Release
+- 2026-02-18 – Version bumped to nightly-20260118
 
 ## Contributors
 

@@ -45,7 +45,7 @@ Open the nginx domain to access Chevereto
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chevereto
-App Service Image | - | yes | chevereto/chevereto:4.4.1
+App Service Image | - | yes | chevereto/chevereto:4.4.2
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | chevereto/chevereto:4.4.1
 - 2024-11-22 – First Release
 - 2025-07-15 – Version bumped to 4.3
 - 2025-12-25 – Version bumped to 4.4.1
+- 2026-02-18 – Version bumped to 4.4.2
 
 ## Contributors
 

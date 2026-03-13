@@ -44,7 +44,7 @@ Please provide the OpenAI API Key and Sign Up for the user account.
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | karakeep
-App Service Image | - | yes | ghcr.io/karakeep-app/karakeep:0.29.3
+App Service Image | - | yes | ghcr.io/karakeep-app/karakeep:0.30.0
 Chrome Image | - | yes | gcr.io/zenika-hub/alpine-chrome:123
 Meilisearch Image | - | yes | getmeili/meilisearch:v1.15.2
 OpenAI API Key | - | yes | 
@@ -57,6 +57,7 @@ OpenAI API Key | - | yes |
 
 - 2025-05-26 – First release
 - 2025-12-25 – Version bumped to 0.29.3
+- 2026-02-21 – Version bumped to 0.30.0
 
 ## Contributors
 

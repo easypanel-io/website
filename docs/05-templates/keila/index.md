@@ -57,7 +57,7 @@ Login with changeme@easypanel.io:password123 - change this from the administrato
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | keila
-App Service Image | - | yes | pentacent/keila:0.17
+App Service Image | - | yes | pentacent/keila:0.18
 Database Service Name | - | yes | keila-db
 Username | - | yes | changeme@easypanel.io
 Password | - | yes | password123
@@ -80,6 +80,7 @@ SMTP Email Password | - | yes |
 - 2023-3-3 – first release
 - 2025-02-28 – Version bumped to 0.16
 - 2025-07-22 – Version bumped to 0.17
+- 2026-02-21 – Version bumped to 0.18
 
 ## Contributors
 

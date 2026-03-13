@@ -45,7 +45,7 @@ Once deployed, please provide your credentials in the credentials.yaml file, and
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | komiser
-Komiser Image | - | yes | tailwarden/komiser:3.0.0
+Komiser Image | - | yes | tailwarden/komiser:3.1.22
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ Komiser Image | - | yes | tailwarden/komiser:3.0.0
 ## Change Log
 
 - 2025-03-26 – Initial template release
+- 2026-02-21 – Version bumped to 3.1.22
 
 ## Contributors
 

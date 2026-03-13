@@ -45,7 +45,7 @@ Cloudreve is a self-hosted cloud storage platform that allows you to build your 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cloudreve
-App Service Image | - | yes | cloudreve/cloudreve:4.10.1
+App Service Image | - | yes | cloudreve/cloudreve:4.14.1
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | cloudreve/cloudreve:4.10.1
 ## Change Log
 
 - 2025-12-05 – Template Release
+- 2026-02-18 – Version bumped to 4.14.1
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Mailpit is a modern email testing tool designed for developers. It allows you to
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | mailpit
-App Service Image | - | yes | axllent/mailpit:v1.28
+App Service Image | - | yes | axllent/mailpit:v1.29
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | axllent/mailpit:v1.28
 - 2025-02-28 – Version bumped to v1.22
 - 2025-07-22 – Version bumped to v1.27
 - 2025-12-29 – Version bumped to v1.28
+- 2026-02-21 – Version bumped to v1.29
 
 ## Contributors
 

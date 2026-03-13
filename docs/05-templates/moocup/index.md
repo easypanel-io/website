@@ -43,7 +43,7 @@ Moocup is a visual editor designed to create stunning screenshots in seconds. It
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | moocup
-App Service Image | - | yes | jellydeck/moocup:1.0.12
+App Service Image | - | yes | jellydeck/moocup:1.0.13
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | jellydeck/moocup:1.0.12
 ## Change Log
 
 - 2025-11-26 – Template Release
+- 2026-02-21 – Version bumped to 1.0.13
 
 ## Contributors
 

@@ -46,7 +46,7 @@ If the login fails with a error 500, please restart the &quot;linkding&quot; app
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | linkding
-App Service Image | - | yes | sissbruecker/linkding:1.44.2
+App Service Image | - | yes | sissbruecker/linkding:1.45.0
 Superuser Name | - | yes | 
 Superuser Password | - | yes | 
 Disable background tasks | - | no | false
@@ -65,6 +65,7 @@ Database Service Name (Can be ignored if SQLite) | - | yes | linkding-db
 - 2025-02-28 – Version bumped to 1.38.1
 - 2025-07-22 – Version bumped to 1.41.0
 - 2025-12-25 – Version bumped to 1.44.2
+- 2026-02-21 – Version bumped to 1.45.0
 
 ## Contributors
 

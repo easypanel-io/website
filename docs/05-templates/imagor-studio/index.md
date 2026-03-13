@@ -43,7 +43,7 @@ Imagor Studio is a self-hosted image gallery and live editing web application de
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | imagor-studio
-App Service Image | - | yes | shumc/imagor-studio:0.8.13
+App Service Image | - | yes | shumc/imagor-studio:0.12.1
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | shumc/imagor-studio:0.8.13
 ## Change Log
 
 - 2025-11-27 – Template Release
+- 2026-02-21 – Version bumped to 0.12.1
 
 ## Contributors
 

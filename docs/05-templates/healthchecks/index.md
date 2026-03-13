@@ -43,7 +43,7 @@ Healthchecks.io is an open-source application designed for monitoring cron jobs,
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | healthchecks
-App Service Image | - | yes | lscr.io/linuxserver/healthchecks:3.13.20251222
+App Service Image | - | yes | lscr.io/linuxserver/healthchecks:4.0.20260216
 Superuser Username | - | yes | admin@example.com
 Superuser Password | - | yes | password
 SMTP Host | - | yes | smtp.example.com
@@ -62,6 +62,7 @@ Enable TLS | - | yes | true
 - 2025-02-25 – Version bumped to 3.9.20250224
 - 2025-07-22 – Version bumped to 3.10.20250721
 - 2025-12-25 – Version bumped to 3.13.20251222
+- 2026-02-21 – Version bumped to 4.0.20260216
 
 ## Contributors
 

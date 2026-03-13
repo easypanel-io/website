@@ -41,7 +41,7 @@ Welcome to LimeSurvey, the world&#39;s #1 survey platform designed to provide yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | limesurvey
-App Service Image | - | yes | tiredofit/limesurvey:6-1.6.72
+App Service Image | - | yes | tiredofit/limesurvey:6-1.6.74
 Database Service Name | - | yes | limesurvey-db
 Username | - | yes | 
 Password | - | yes | 
@@ -54,6 +54,7 @@ Password | - | yes |
 
 - 2023-01-24 – first release
 - 2025-07-22 – Version bumped to 6-1.6.72
+- 2026-02-21 – Version bumped to 6-1.6.74
 
 ## Contributors
 

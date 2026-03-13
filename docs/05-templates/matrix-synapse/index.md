@@ -45,7 +45,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Report Stats | - | no | true
 App Service Name | - | yes | synapse
-App Service Image | - | yes | matrixdotorg/synapse:v1.144.0
+App Service Image | - | yes | matrixdotorg/synapse:v1.147.1
 Database Type | - | yes | postgres
 Database Service Name | - | yes | synapse-db
 
@@ -58,6 +58,7 @@ Database Service Name | - | yes | synapse-db
 - 2024-10-18 – Updated version to v1.99.0
 - 2025-06-05 – Update to v1.131.0
 - 2025-12-29 – Version bumped to v1.144.0
+- 2026-02-21 – Version bumped to v1.147.1
 
 ## Contributors
 

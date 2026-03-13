@@ -39,8 +39,8 @@ Langfuse is a powerful, self-hosted observability platform designed for AI appli
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | langfuse
-App Service Image | - | yes | langfuse/langfuse:3.142
-App Service Image | - | yes | langfuse/langfuse-worker:3.142
+App Service Image | - | yes | langfuse/langfuse:3.155
+App Service Image | - | yes | langfuse/langfuse-worker:3.155
 App Service Image | - | yes | clickhouse/clickhouse-server
 App Service Image | - | yes | minio/minio:latest
 Click House User | - | yes | clickhouse
@@ -58,6 +58,7 @@ Minio Password | - | yes | password
 - 2024-12-23 – Template Release
 - 2025-07-22 – Version bumped to 3.84
 - 2025-12-25 – Version bumped to 3.142
+- 2026-02-21 – Version bumped to 3.155
 
 ## Contributors
 

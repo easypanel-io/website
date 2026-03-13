@@ -49,7 +49,7 @@ Default login credentials are Administrator/admin. It takes 5-7 minutes to insta
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | frappe-lms
-App Service Image | - | yes | frappe/bench:v5.28.0
+App Service Image | - | yes | frappe/bench:v5.29.1
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ App Service Image | - | yes | frappe/bench:v5.28.0
 
 - 2025-08-06 – First release
 - 2025-12-25 – Version bumped to v5.28.0
+- 2026-02-21 – Version bumped to v5.29.1
 
 ## Contributors
 

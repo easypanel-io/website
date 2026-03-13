@@ -43,7 +43,7 @@ DumbDo is a stupidly simple todo list application that just works. No complex da
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dumbdo
-App Service Image | Dumbdo Docker image | yes | dumbwareio/dumbdo:af4532890ed0613d4cb4a35931d436cea63180ff
+App Service Image | Dumbdo Docker image | yes | dumbwareio/dumbdo:d4dff81e4eab16de0974a94742e1cd3bc51a369a
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | Dumbdo Docker image | yes | dumbwareio/dumbdo:af4532890ed061
 ## Change Log
 
 - 2025-09-11 – Initial Template Release (af4532890ed0613d4cb4a35931d436cea63180ff)
+- 2026-02-18 – Version bumped to d4dff81e4eab16de0974a94742e1cd3bc51a369a
 
 ## Contributors
 

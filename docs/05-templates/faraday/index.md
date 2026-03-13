@@ -48,7 +48,7 @@ Username is faraday; check for the password in the Overview Console logs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | faraday
-App Service Image | - | yes | faradaysec/faraday:5.18.0
+App Service Image | - | yes | faradaysec/faraday:5.19.0
 
 ## Screenshots
 
@@ -60,6 +60,7 @@ App Service Image | - | yes | faradaysec/faraday:5.18.0
 - 2025-02-25 – Version bumped to 5.11.0
 - 2025-07-21 – Version bumped to 5.15.1
 - 2025-12-25 – Version bumped to 5.18.0
+- 2026-02-21 – Version bumped to 5.19.0
 
 ## Contributors
 

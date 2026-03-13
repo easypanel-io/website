@@ -40,7 +40,7 @@ DCM is a lightweight self-hosted web interface for managing and monitoring Docke
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dcm
-App Service Image | - | yes | ghcr.io/ajnart/dcm:sha-a42eb18
+App Service Image | - | yes | ghcr.io/ajnart/dcm:sha-6d86fd5
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | ghcr.io/ajnart/dcm:sha-a42eb18
 ## Change Log
 
 - 2025-12-11 – Template Release
+- 2026-02-18 – Version bumped to sha-6d86fd5
 
 ## Contributors
 

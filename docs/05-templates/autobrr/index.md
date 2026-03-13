@@ -42,7 +42,7 @@ Autobrr is a modern download automation tool for torrent indexers and trackers. 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | autobrr
-App Service Image | - | yes | ghcr.io/autobrr/autobrr:v1.69
+App Service Image | - | yes | ghcr.io/autobrr/autobrr:v1.73
 Timezone | - | no | UTC
 
 ## Screenshots
@@ -52,6 +52,7 @@ Timezone | - | no | UTC
 ## Change Log
 
 - 2025-11-19 – Template Release
+- 2026-02-18 – Version bumped to v1.73
 
 ## Contributors
 

@@ -48,7 +48,7 @@ LazyLibrarian is an open-source tool designed to manage and automate the downloa
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lazylibrarian
-App Service Image | - | yes | lscr.io/linuxserver/lazylibrarian:bfcd7758-ls233
+App Service Image | - | yes | lscr.io/linuxserver/lazylibrarian:dada182d-ls257
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | lscr.io/linuxserver/lazylibrarian:bfcd7758-ls233
 
 - 2024-12-30 – First release
 - 2025-12-25 – Version bumped to bfcd7758-ls233
+- 2026-02-21 – Version bumped to dada182d-ls257
 
 ## Contributors
 

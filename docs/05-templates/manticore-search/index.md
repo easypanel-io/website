@@ -46,7 +46,7 @@ The configuration file within the instance can be found at /etc/manticoresearch/
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | manticore-search
-Manticore Image | - | yes | manticoresearch/manticore:15.1.0
+Manticore Image | - | yes | manticoresearch/manticore:17.5.100
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ Manticore Image | - | yes | manticoresearch/manticore:15.1.0
 - 2025-04-03 – Initial template release
 - 2025-07-22 – Version bumped to 13.2.3
 - 2025-12-29 – Version bumped to 15.1.0
+- 2026-02-23 – Version bumped to 17.5.100
 
 ## Contributors
 

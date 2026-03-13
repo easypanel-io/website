@@ -46,7 +46,7 @@ Jellyfin takes a few minutes to get ready. Sit back, relax, and get some popcorn
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyfin
-App Service Image | - | yes | linuxserver/jellyfin:10.11.5
+App Service Image | - | yes | linuxserver/jellyfin:10.11.6
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | linuxserver/jellyfin:10.11.5
 - 2025-02-28 – Version bumped to 2025022405
 - 2025-06-03 – Version bumped to 10.10.7
 - 2025-12-25 – Version bumped to 10.11.5
+- 2026-02-21 – Version bumped to 10.11.6
 
 ## Contributors
 

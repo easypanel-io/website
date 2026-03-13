@@ -41,7 +41,7 @@ Emby is a personal media server that brings all of your home videos, music, and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | emby
-App Service Image | - | yes | lscr.io/linuxserver/emby:4.9.1
+App Service Image | - | yes | lscr.io/linuxserver/emby:4.9.3
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | lscr.io/linuxserver/emby:4.9.1
 - 2024-10-04 – Update to 4.8.10
 - 2025-07-21 – Version bumped to 4.8.11
 - 2025-12-25 – Version bumped to 4.9.1
+- 2026-02-20 – Version bumped to 4.9.3
 
 ## Contributors
 

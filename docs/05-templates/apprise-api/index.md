@@ -39,7 +39,7 @@ Apprise-API is an open-source notification gateway that provides a unified and s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | apprise-api
-App Service Image | - | yes | linuxserver/apprise-api:1.3.0
+App Service Image | - | yes | linuxserver/apprise-api:1.3.1
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | linuxserver/apprise-api:1.3.0
 
 - 2025-01-27 – First release
 - 2025-12-24 – Switched from latest to 1.3.0 tag
+- 2026-02-18 – Version bumped to 1.3.1
 
 ## Contributors
 

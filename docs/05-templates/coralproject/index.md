@@ -39,7 +39,7 @@ Coral is a revolutionary app designed to enhance the commenting experience on yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | coral
-App Service Image | - | yes | coralproject/talk:9.11.1
+App Service Image | - | yes | coralproject/talk:9.11.2
 Redis Service Name | - | yes | coral-redis
 Database Service Name | - | yes | coral-db
 Metrics Port Enable | - | yes | false
@@ -56,6 +56,7 @@ Metrics Port Enable | - | yes | false
 - 2025-01-09 – Version bumped to 9.6.1
 - 2025-07-15 – Version bumped to 9.9.7
 - 2025-12-25 – Version bumped to 9.11.1
+- 2026-02-18 – Version bumped to 9.11.2
 
 ## Contributors
 

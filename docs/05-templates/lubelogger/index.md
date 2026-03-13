@@ -47,7 +47,7 @@ LubeLogger is a self-hosted vehicle maintenance and service tracking application
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lubelogger
-App Service Image | - | yes | ghcr.io/hargata/lubelogger:v1.5.5
+App Service Image | - | yes | ghcr.io/hargata/lubelogger:v1.6.6
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | ghcr.io/hargata/lubelogger:v1.5.5
 ## Change Log
 
 - 2025-12-02 – Template Release
+- 2026-02-21 – Version bumped to v1.6.6
 
 ## Contributors
 

@@ -44,7 +44,7 @@ Adminer is a comprehensive database management tool, designed to simplify and st
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | adminer
-App Service Image | - | yes | adminer:5.4.1
+App Service Image | - | yes | adminer:5.4.2
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | adminer:5.4.1
 
 - 2022-07-12 – first release
 - 2025-12-24 – updated to version 5.4.1
+- 2026-02-18 – Version bumped to 5.4.2
 
 ## Contributors
 

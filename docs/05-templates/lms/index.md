@@ -41,7 +41,7 @@ LMS (Lightweight Music Server) is a self-hosted music streaming software that pr
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lms
-App Service Image | - | yes | epoupon/lms:3.73.0
+App Service Image | - | yes | epoupon/lms:3.74.0
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | epoupon/lms:3.73.0
 
 - 2025-09-12 – Template Release (v3.70.0)
 - 2025-12-25 – Version bumped to 3.73.0
+- 2026-02-21 – Version bumped to 3.74.0
 
 ## Contributors
 
