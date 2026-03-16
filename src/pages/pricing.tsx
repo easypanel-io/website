@@ -2,14 +2,35 @@ import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
 import React, { ReactNode, useEffect, useState } from "react";
 
+// TODO: const PORTAL_URL = "https://my.easypanel.io";
+const PORTAL_URL = "http://localhost:3002";
+
 export default function Page(): JSX.Element {
+  const [licenseKey, setLicenseKey] = useState<string | null>(null);
+
+  useEffect(() => {
+    const handler = (event: MessageEvent) => {
+      if (event.origin !== PORTAL_URL) return;
+      if (event.data?.type === "ep_license_key" && event.data?.key) {
+        setLicenseKey(event.data.key);
+        (event.source as Window)?.close();
+      }
+    };
+    window.addEventListener("message", handler);
+    return () => window.removeEventListener("message", handler);
+  }, []);
+
   return (
     <Layout
       title="Pricing"
       description="Easypanel comes in two editons: developer edition and business edition. The developer edition will always be free."
     >
-      <Pricing />
-      <FAQs />
+      {licenseKey ? <ThankYou licenseKey={licenseKey} /> : (
+        <>
+          <Pricing />
+          <FAQs />
+        </>
+      )}
     </Layout>
   );
 }
@@ -44,7 +65,7 @@ const Feature = ({
       className={[
         "tw-ml-2 tw-text-base tw-font-normal tw-text-white",
         underline &&
-          "tw-border-0 tw-border-b-2 tw-border-solid tw-border-emerald-700",
+        "tw-border-0 tw-border-b-2 tw-border-solid tw-border-emerald-700",
       ]
         .filter(Boolean)
         .join(" ")}
@@ -153,9 +174,6 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                {/* <Feature underline>
-                  <b>2</b> licenses
-                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -167,23 +185,7 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b60df6f0-8857-4140-9960-6affa366eb1e"
-              }
-            >
-              <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
-                <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
-                <div
-                  className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md"
-                  role="button"
-                >
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+            <BuyButton plan="hobby" interval={annual ? "yearly" : "monthly"} />
           </div>
 
           <div className="tw-relative tw-z-10 tw-flex tw-flex-col tw-p-6 tw-bg-gray-900 tw-rounded-md">
@@ -210,9 +212,6 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                {/* <Feature underline>
-                  <b>5</b> licenses
-                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -226,19 +225,7 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26"
-              }
-            >
-              <div className="tw-relative tw-mt-8">
-                <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+            <BuyButton plan="growth" interval={annual ? "yearly" : "monthly"} popular />
           </div>
 
           <div className="tw-flex tw-flex-col tw-p-6 tw-bg-gray-900 tw-rounded-md">
@@ -255,9 +242,6 @@ const Pricing = () => {
                   / month
                 </p>
               </div>
-              {/* <p className="tw-text-base tw-font-normal tw-text-gray-200">
-                $65 billed anually
-              </p> */}
               <p className="tw-mt-4 tw-text-base tw-font-normal tw-text-gray-400">
                 Get dedicated support for your amazing company
               </p>
@@ -265,9 +249,6 @@ const Pricing = () => {
               <hr className="tw-mt-8 tw-border-gray-800" />
 
               <ul className="tw-p-0 tw-mt-8 tw-space-y-4">
-                {/* <Feature underline>
-                  <b>10</b> licenses
-                </Feature> */}
                 <Feature>Unlimited projects</Feature>
                 <Feature>Unlimited services</Feature>
                 <Feature>Unlimited deployments</Feature>
@@ -284,29 +265,95 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/90c58596-7077-4426-9944-771b11967204"
-              }
-            >
-              <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
-                <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
-                <div
-                  className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 group-hover:tw-bg-gray-800 tw-border tw-border-transparent tw-rounded-md"
-                  role="button"
-                >
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+            <BuyButton plan="business" interval={annual ? "yearly" : "monthly"} />
           </div>
         </div>
       </div>
     </section>
   );
 };
+
+function ThankYou({ licenseKey }: { licenseKey: string }) {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = () => {
+    navigator.clipboard.writeText(licenseKey);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  return (
+    <section className="tw-py-24 tw-bg-black sm:tw-py-32">
+      <div className="tw-px-4 tw-mx-auto tw-max-w-2xl tw-text-center">
+        <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-20 tw-h-20 tw-rounded-full tw-bg-emerald-500/10 tw-mb-8">
+          <svg className="tw-w-10 tw-h-10 tw-text-emerald-500" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+        </div>
+
+        <h2 className="tw-text-4xl tw-font-semibold tw-text-white sm:tw-text-5xl">
+          Thank you for your purchase!
+        </h2>
+        <p className="tw-mt-4 tw-text-lg tw-text-gray-400">
+          Your license key is ready. Copy it and paste it in your Easypanel settings.
+        </p>
+
+        <div className="tw-mt-10 tw-bg-gray-900 tw-rounded-lg tw-p-6">
+          <p className="tw-text-sm tw-font-medium tw-text-gray-400 tw-mb-3">Your license key</p>
+          <code className="tw-block tw-bg-gray-800 tw-rounded-lg tw-px-5 tw-py-4 tw-text-base tw-font-mono tw-text-white tw-break-all tw-select-all">
+            {licenseKey}
+          </code>
+          <button
+            onClick={handleCopy}
+            className="tw-mt-4 tw-inline-flex tw-items-center tw-gap-2 tw-px-6 tw-py-3 tw-text-sm tw-font-semibold tw-text-white tw-bg-emerald-600 hover:tw-bg-emerald-500 tw-rounded-md tw-border-none tw-cursor-pointer tw-transition-colors"
+          >
+            {copied ? "Copied!" : "Copy to Clipboard"}
+          </button>
+        </div>
+
+        <p className="tw-mt-8 tw-text-sm tw-text-gray-500">
+          Go to your Easypanel dashboard → Settings → License and paste the key to activate.
+        </p>
+      </div>
+    </section>
+  );
+}
+
+function BuyButton({ plan, interval, popular }: { plan: string; interval: string; popular?: boolean }) {
+  const handleClick = () => {
+    const url = `${PORTAL_URL}/checkout/start?plan=${encodeURIComponent(plan)}&interval=${encodeURIComponent(interval)}`;
+    const popup = window.open(url, "easypanel_checkout");
+    if (!popup) {
+      alert("Popup blocked. Please allow popups for this site and try again.");
+      return;
+    }
+  };
+
+  if (popular) {
+    return (
+      <button
+        onClick={handleClick}
+        className="tw-relative tw-mt-8 tw-w-full tw-cursor-pointer tw-border-none tw-bg-transparent tw-p-0"
+      >
+        <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150">
+          Buy Your License
+        </div>
+      </button>
+    );
+  }
+
+  return (
+    <button
+      onClick={handleClick}
+      className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group tw-w-full tw-cursor-pointer tw-border-none tw-bg-transparent tw-p-0"
+    >
+      <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
+      <div className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md">
+        Buy Your License
+      </div>
+    </button>
+  );
+}
 
 const faqItems = [
   {
@@ -327,17 +374,12 @@ const faqItems = [
   {
     question: "What payment options do you have?",
     answer:
-      "Our payments are processed by LemonSqueezy. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+      "Our payments are processed by Creem. They support cards (including Mastercard, Visa, American Express), and others.",
   },
   {
     question: "What happens if I cancel my subscription?",
     answer: "Don't worry, Easypanel will continue to work on the free plan.",
   },
-  // {
-  //   question: "I need more than 10 licenses. What do I do?",
-  //   answer:
-  //     "Send us an email at support@easypanel.io and we'll tailor a plan for you.",
-  // },
   {
     question: "What kind of support do I get for the business plan?",
     answer:
