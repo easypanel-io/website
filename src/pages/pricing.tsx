@@ -10,7 +10,6 @@ export default function Page(): JSX.Element {
 
   useEffect(() => {
     const handler = (event: MessageEvent) => {
-      if (event.origin !== PORTAL_URL) return;
       if (event.data?.type === "ep_license_key" && event.data?.key) {
         setLicenseKey(event.data.key);
         (event.source as Window)?.close();
