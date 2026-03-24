@@ -17,7 +17,7 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 
 ## Instructions
 
-Change this URL /if/flow/default-authentication-flow/?next=%2F to /if/flow/initial-setup/ in the browser to setup the initial admin user.
+After deployment, open /if/flow/initial-setup/ to create the initial admin user. Allow ~60s for migrations to complete.
 
 ## Benefits
 
@@ -48,7 +48,7 @@ Change this URL /if/flow/default-authentication-flow/?next=%2F to /if/flow/initi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | authentik
-App Service Image | - | yes | ghcr.io/goauthentik/server:2025.10.4
+Authentik Version | Official image tag from ghcr.io/goauthentik/server | yes | ghcr.io/goauthentik/server:2026.2.0
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ App Service Image | - | yes | ghcr.io/goauthentik/server:2025.10.4
 - 2025-04-23 – Initial release
 - 2025-12-24 – Updated to version 2025.10.3
 - 2026-02-18 – Version bumped to 2025.10.4
+- 2026-03-02 – Fixed worker - use official server image with ak worker (fixes daphne/404 setup)
 
 ## Contributors
 

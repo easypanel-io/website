@@ -15,6 +15,10 @@ description: How to install Dittofeed on Easypanel? 1-Click installation templat
 
 Dittofeed is an advanced, self-hosted customer engagement platform designed to streamline and enhance your marketing automation workflows. It empowers businesses with real-time insights, robust data-driven personalization, and multi-channel communication tools, including email, SMS, and push notifications. Dittofeed offers a user-friendly interface, powerful API integrations, and extensive customization options, making it ideal for organizations of all sizes. By providing a self-hosted solution, Dittofeed ensures data privacy and compliance while giving you full control over your infrastructure and customer data.
 
+## Instructions
+
+Please remove the bootstrap environment variable after the initial setup is complete.
+
 ## Benefits
 
 - Streamlined Marketing Automation: Dittofeed simplifies customer engagement by providing an intuitive way to manage, analyze, and optimize your marketing workflows across multiple channels.
@@ -60,6 +64,7 @@ Minio Password | - | yes | password
 - 2025-01-03 – Template Release
 - 2025-05-26 – Version bumped to v0.22.0
 - 2025-12-25 – Version bumped to v0.23.0
+- 2026-02-16 – Added Bootstrap environment variable
 
 ## Contributors
 

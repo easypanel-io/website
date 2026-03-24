@@ -46,12 +46,12 @@ The migration service runs automatically during deployment to set up the databas
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | affine
-App Service Image | - | yes | ghcr.io/toeverything/affine-graphql:stable-e98f035
-Mailer Host | - | no | 
-Mailer Host Port | - | no | 
-Mailer Host User | - | no | 
-Mailer Password | - | no | 
-Mailer Sender | - | no | 
+App Service Image | - | yes | ghcr.io/toeverything/affine:0.26.2
+Mailer Host (Optional) | SMTP host for email notifications. Leave empty to disable. | no | 
+Mailer Port (Optional) | SMTP port (e.g., 587, 465). Used when Mailer Host is set. | no | 587
+Mailer User (Optional) | SMTP username. Leave empty for open relay. | no | 
+Mailer Password (Optional) | SMTP password. | no | 
+Mailer Sender (Optional) | Email address to send from (e.g., no-reply@example.com) | no | 
 
 ## Screenshots
 
