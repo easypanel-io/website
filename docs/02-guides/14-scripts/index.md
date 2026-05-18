@@ -6,7 +6,7 @@ description: Learn how to create and run reusable shell scripts directly from th
 
 # Scripts
 
-Scripts in Easypanel let you define named shell commands that you can run against your service on demand, directly from the UI. They are available for both **App** and **Box** services.
+Scripts in Easypanel let you define named shell commands that you can run against your services on demand, directly from the UI. They are available for both **App** and **Box** services.
 
 Use scripts for one-off operational tasks — database migrations, cache clearing, data seeding, health checks, and anything else you would normally type into the console but want to save and reuse.
 
