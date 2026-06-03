@@ -48,10 +48,10 @@ Configure your chat model provider and search api providers with khoj environmen
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | khoj
-App Service Image | - | yes | ghcr.io/khoj-ai/khoj:1.42.9
+App Service Image | - | yes | ghcr.io/khoj-ai/khoj:2.0.0-beta.28
 Database Image | - | yes | pgvector/pgvector:0.8.1-pg15
 Sandbox Image | - | yes | ghcr.io/khoj-ai/terrarium:latest
-SearxNG Image | - | yes | searxng/searxng:2025.4.12-391bb1268
+SearxNG Image | - | yes | searxng/searxng:2026.1.16-697f53ecd
 Admin Email | - | yes | username@example.com
 Admin Password | Auto-generated if not provided. | no | 
 OpenAI API Key | - | no | 
@@ -70,6 +70,7 @@ OloStep API Key | - | no |
 ## Change Log
 
 - 2025-04-14 – First Release
+- 2026-05-18 – Update to v2.0.0-beta.28
 
 ## Contributors
 

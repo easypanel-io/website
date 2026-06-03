@@ -17,7 +17,7 @@ Convex is the open-source reactive database and backend platform designed for mo
 
 ## Instructions
 
-You have to generate the admin key from the backend bash console. Run &quot;./generate_admin_key.sh&quot; and copy it. Go to the dashboard and login.
+Click the &quot;Generate Admin Key&quot; script on the backend service, copy the printed key, then use it to log into the Convex dashboard.
 
 ## Benefits
 
@@ -55,8 +55,8 @@ You have to generate the admin key from the backend bash console. Run &quot;./ge
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | convex
-Backend Service Image | - | yes | ghcr.io/get-convex/convex-backend:1ece1b58fdb62ccd618f1d8183fa2d7ba414cc35
-Dashboard Service Image | - | yes | ghcr.io/get-convex/convex-dashboard:1ece1b58fdb62ccd618f1d8183fa2d7ba414cc35
+Backend Service Image | - | yes | ghcr.io/get-convex/convex-backend:e03b3a72dc412eeff4c1a6958ef1879712fb70e6
+Dashboard Service Image | - | yes | ghcr.io/get-convex/convex-dashboard:e03b3a72dc412eeff4c1a6958ef1879712fb70e6
 Convex Cloud Origin | Public URL for the Convex backend API | no | https://$(PRIMARY_DOMAIN)
 Convex Site Origin | Public URL for the Convex site proxy | no | https://$(PRIMARY_DOMAIN):3211
 Next Public Deployment URL | Public URL for the deployment (used by dashboard) | no | https://$(PRIMARY_DOMAIN)
@@ -65,7 +65,7 @@ Database Type | Select the database type to use | no | none
 Database URL | Full database connection URL (required if database type is selected) | no | 
 Rust Log Level | Logging level for Rust backend (e.g., info, debug, warn, error) | no | info
 Document Retention Delay | Document retention delay in seconds (default: 2 days) | no | 172800
-Instance Name | Name for this Convex instance (optional) | no | 
+Instance Name | Name for this Convex instance (defaults to the app service name if left empty) | no | 
 AWS Access Key ID | AWS access key for S3 storage (optional) | no | 
 AWS Secret Access Key | AWS secret key for S3 storage (optional) | no | 
 AWS Region | AWS region for S3 storage (optional) | no | 
@@ -81,6 +81,7 @@ Load Monaco Internally | Load Monaco editor internally (optional) | no |
 ## Change Log
 
 - 2026-02-02 – Template Release (1ece1b58fdb62ccd618f1d8183fa2d7ba414cc35)
+- 2026-05-15 – Update to e03b3a72dc412eeff4c1a6958ef1879712fb70e6
 
 ## Contributors
 

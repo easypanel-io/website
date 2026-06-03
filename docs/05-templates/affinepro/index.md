@@ -37,6 +37,7 @@ The migration service runs automatically during deployment to set up the databas
 
 ## Links
 
+- [Website](https://affine.pro)
 - [Documentation](https://affine.pro/docs)
 - [Github](https://github.com/toeverything/Affine)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/affinepro)
@@ -46,7 +47,7 @@ The migration service runs automatically during deployment to set up the databas
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | affine
-App Service Image | - | yes | ghcr.io/toeverything/affine:0.26.2
+App Service Image | - | yes | ghcr.io/toeverything/affine:0.26.6
 Mailer Host (Optional) | SMTP host for email notifications. Leave empty to disable. | no | 
 Mailer Port (Optional) | SMTP port (e.g., 587, 465). Used when Mailer Host is set. | no | 587
 Mailer User (Optional) | SMTP username. Leave empty for open relay. | no | 
@@ -64,6 +65,7 @@ Mailer Sender (Optional) | Email address to send from (e.g., no-reply@example.co
 - 2025-02-21 – Version bumped to stable-780dd83
 - 2025-10-09 – Updated to the newer image and to latest version
 - 2025-12-24 – Version bumped to stable-e98f035
+- 2026-05-12 – Bumped to 0.26.6; fixed DATABASE_URL username and database name
 
 ## Contributors
 

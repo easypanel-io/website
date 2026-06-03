@@ -45,7 +45,7 @@ After deployment, you can connect to DragonflyDB using any Redis client on port 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dragonfly
-App Service Image | - | yes | docker.dragonflydb.io/dragonflydb/dragonfly:v1.34.2
+App Service Image | - | yes | docker.dragonflydb.io/dragonflydb/dragonfly:v1.38.1
 Password | - | yes | 
 Snapshot Cron Schedule | - | no | */5 * * * *
 Max Memory (e.g., 8gb, leave empty for no limit) | - | no | 
@@ -55,6 +55,7 @@ Max Memory (e.g., 8gb, leave empty for no limit) | - | no |
 
 ## Change Log
 
+- 2026-05-19 – Updated to v1.38.1
 - 2025-11-04 – Template Release
 
 ## Contributors

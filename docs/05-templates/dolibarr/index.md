@@ -48,7 +48,7 @@ Default Credentials; username; admin, password; admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dolibarr
-App Service Image | - | yes | dolibarr/dolibarr:22
+App Service Image | - | yes | dolibarr/dolibarr:23
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | dolibarr/dolibarr:22
 
 ## Change Log
 
+- 2026-05-19 – Updated to v23
 - 2024-12-17 – First release
 - 2025-05-26 – Version bumped to 21
 - 2026-02-18 – Version bumped to 22

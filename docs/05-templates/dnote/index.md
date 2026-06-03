@@ -17,7 +17,7 @@ Dnote is a simple command-line notebook application that helps you capture and o
 
 ## Instructions
 
-Configure the SMTP server to send verification emails.
+Configure SMTP to enable email verification and password resets. Dnote v3 uses embedded SQLite — no external database is required.
 
 ## Benefits
 
@@ -46,7 +46,7 @@ Configure the SMTP server to send verification emails.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dnote
-App Service Image | - | yes | dnote/dnote:2.1.1
+App Service Image | - | yes | dnote/dnote:3.0.0
 SMTP Host | - | yes | smtp.gmail.com
 SMTP Port | - | yes | 587
 SMTP User | - | yes | your-email@gmail.com
@@ -58,6 +58,7 @@ SMTP From | - | yes | your-email@gmail.com
 
 ## Change Log
 
+- 2026-05-19 – Updated to v3.0.0
 - 2025-04-11 – First Release
 
 ## Contributors

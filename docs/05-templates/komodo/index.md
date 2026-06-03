@@ -44,8 +44,8 @@ Komodo is a comprehensive server management platform that provides monitoring an
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | komodo
-Komodo Core Image | - | yes | ghcr.io/moghtech/komodo-core:1.19.4
-Komodo Periphery Image | - | yes | ghcr.io/moghtech/komodo-periphery:1.19.4
+Komodo Core Image | - | yes | ghcr.io/moghtech/komodo-core:2.2.0
+Komodo Periphery Image | - | yes | ghcr.io/moghtech/komodo-periphery:2.2.0
 Admin Username | - | yes | admin
 Admin Password | - | yes | changeme
 
@@ -55,6 +55,7 @@ Admin Password | - | yes | changeme
 
 ## Change Log
 
+- 2026-05-19 – Updated to v2.2.0
 - 2025-08-25 – First release
 
 ## Contributors

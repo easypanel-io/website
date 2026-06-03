@@ -41,7 +41,7 @@ Bugsink is a self-hosted error tracking system compatible with Sentry SDKs.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bugsink
-App Service Image | - | yes | bugsink/bugsink:1.5.3
+App Service Image | - | yes | bugsink/bugsink:2.1.3
 Admin Username | Admin username | yes | admin
 Admin Password | Admin password | yes | admin
 
@@ -52,6 +52,7 @@ Admin Password | Admin password | yes | admin
 ## Change Log
 
 - 2025-05-08 – First Release
+- 2026-05-15 – Update to 2.1.3
 
 ## Contributors
 

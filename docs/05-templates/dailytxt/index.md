@@ -49,9 +49,9 @@ After deployment, open DailyTxT from your app domain and create your first accou
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dailytxt
-App Service Image | - | yes | phitux/dailytxt:1.0.15
+App Service Image | - | yes | phitux/dailytxt:2.6.1
 Allow Registration | Allow new users to register | yes | true
-JWT Expiration Days | Days until JWT token expires | yes | 60
+Logout After Days | Days of inactivity before automatic logout | yes | 60
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ JWT Expiration Days | Days until JWT token expires | yes | 60
 
 ## Change Log
 
+- 2026-05-19 – Updated to v2.6.1
 - 2025-10-03 – First Release
 - 2026-03-25 – Added logo asset and fixed secret env wiring in template
 

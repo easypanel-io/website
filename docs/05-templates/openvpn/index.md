@@ -17,7 +17,7 @@ OpenVPN Access Server is a full-featured SSL VPN software solution that integrat
 
 ## Instructions
 
-Please use the Guide given below to get the password and access the portal. For admin portal access, use the following URL; https://$(EASYPANEL_HOST_IP):$(mgmtServicePort)/admin
+Please use the Guide given below to get the password and access the portal. For admin portal access, use the following URL; https://$(EASYPANEL_HOST_IP):$(mgmtServicePort)/admin. User is openvpn and the password can be searched in logs as &quot;Auto-Generated pass&quot;
 
 ## Benefits
 
@@ -50,7 +50,7 @@ Please use the Guide given below to get the password and access the portal. For 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openvpn-as
-App Service Image | - | yes | openvpn/openvpn-as:2.14.3-5936bcd7-Ubuntu24
+App Service Image | - | yes | openvpn/openvpn-as:3.1.0-e22fe316-Ubuntu24
 Management Service Port | - | no | 8943
 Access Service Port | - | no | 8443
 VPN Service Port | - | no | 1194
@@ -62,6 +62,7 @@ VPN Service Port | - | no | 1194
 ## Change Log
 
 - 2025-09-03 – First Release (2.14.3-5936bcd7-Ubuntu24)
+- 2026-05-21 – Version bumped to 3.1.0-e22fe316-Ubuntu24
 
 ## Contributors
 

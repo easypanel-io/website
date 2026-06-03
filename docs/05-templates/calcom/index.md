@@ -15,6 +15,17 @@ description: How to install Calcom on Easypanel? 1-Click installation template f
 
 Cal.com is a versatile scheduling app designed to streamline the process of setting up meetings, appointments, and events. It allows users to set their availability, connect their existing calendars, and share a personal link for others to book a meeting at a time that works for both parties. The app ensures you never get double booked by checking for conflicts across all your calendars. It also offers workflow automation, enabling you to build processes around your events with automatic notifications, reminders, and follow-ups. With features like round-robin scheduling, routing forms, and meeting overload prevention, Cal.com adapts to any business, making it an ideal solution for doctors, companies, teachers, and experts. The app is available in over 26 languages and can be embedded anywhere for easy access. It also offers simple rescheduling and requires confirmation to ensure smooth scheduling.
 
+## Instructions
+
+After deployment, open the app URL and complete the onboarding wizard to
+create your admin account. SMTP credentials are required for booking
+confirmation and reminder emails — set them in the form before deploying.
+For Gmail, use an App Password (not your account password) and set the
+SMTP host to smtp.gmail.com, port 587. For other providers check their
+SMTP documentation. The Prisma Studio option exposes a database browser
+on a separate domain — only enable it in trusted environments.
+
+
 ## Benefits
 
 - Efficient Scheduling: Cal.com is designed to make scheduling meetings and events effortless. It eliminates the need for back-and-forth emails, allowing you to focus on the meeting itself rather than the process of scheduling it.
@@ -46,7 +57,13 @@ Name | Description | Required | Default Value
 Enable Prisma Studio | - | no | false
 App Service Name | - | yes | calcom
 App Service Image | - | yes | calcom/cal.com:v6.2.0
-App Service Name | - | yes | calcom-db
+Database Service Name | - | yes | calcom-db
+SMTP Host | Hostname of your SMTP server (e.g. smtp.gmail.com) | yes | smtp.gmail.com
+SMTP Port | 465 for SSL, 587 for TLS/STARTTLS | yes | 587
+SMTP Username | Your SMTP login / email address | yes | 
+SMTP Password | Your SMTP password or app-specific password | yes | 
+Email From Address | Address that booking emails are sent from | yes | notifications@example.com
+Email From Name | Display name shown in booking emails | yes | Cal.com
 
 ## Screenshots
 
@@ -61,6 +78,7 @@ App Service Name | - | yes | calcom-db
 - 2025-12-24 – Version bumped to v6.0.5
 - 2026-02-18 – Version bumped to v6.1.16
 - 2026-04-29 – Version bumped to v6.2.0
+- 2026-05-13 – Added SMTP credentials and NEXTAUTH_URL
 
 ## Contributors
 

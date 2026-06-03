@@ -41,8 +41,8 @@ Morphic is an AI-powered search and answer engine that combines the power of mul
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | morphic
-App Service Image | Morphic Docker image | yes | ghcr.io/miurla/morphic:212c4a5cf94313b31b4b67fd85b6734ebc260a6c
-SearxNG Service Image | SearxNG Docker image | yes | searxng/searxng:2025.6.25-39474b3
+App Service Image | Morphic Docker image | yes | ghcr.io/miurla/morphic:e4fd78357afc685db17e6c27404b9728b3205624
+SearxNG Service Image | SearxNG Docker image | yes | searxng/searxng:2026.5.17-d7e8b7cd1
 OpenAI API Key | Optional OpenAI API key for GPT models | no | 
 Anthropic API Key | Optional Anthropic API key for Claude models | no | 
 Google Generative AI API Key | Optional Google API key for Gemini models | no | 
@@ -55,6 +55,7 @@ Groq API Key | Optional Groq API key for fast inference | no |
 ## Change Log
 
 - 2025-06-25 – Initial Template Release
+- 2026-05-21 – Bumped to v1.3.0 (SHA e4fd783), SearXNG updated to 2026.5.17
 
 ## Contributors
 

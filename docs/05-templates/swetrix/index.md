@@ -15,6 +15,10 @@ description: How to install Swetrix on Easypanel? 1-Click installation template 
 
 Swetrix is a powerful, privacy-focused analytics platform that provides comprehensive website and application analytics. Built with modern technologies, it offers real-time data collection, beautiful dashboards, and detailed insights into user behavior. Features include event tracking, performance monitoring, user session analysis, and customizable reports. Self-hosted solution that ensures complete data privacy and control while providing enterprise-grade analytics capabilities.
 
+## Instructions
+
+After deployment, open the Swetrix frontend URL and click Sign Up to create your account. Once registered, log in with your credentials to access the dashboard.
+
 ## Benefits
 
 - Privacy-Focused: Complete control over your analytics data with self-hosting.
@@ -42,11 +46,9 @@ Swetrix is a powerful, privacy-focused analytics platform that provides comprehe
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | swetrix
-Frontend Image | - | yes | swetrix/swetrix-fe:v4.1.0
-API Image | - | yes | swetrix/swetrix-api:v4.1.0
-ClickHouse Image | - | yes | clickhouse/clickhouse-server:24.10-alpine
-Admin Email | Email address for the default admin user | yes | admin@example.com
-Admin Password | Password for the default admin user | yes | admin1234567
+Frontend Image | - | yes | swetrix/swetrix-fe:v5.2.2
+API Image | - | yes | swetrix/swetrix-api:v5.2.2
+ClickHouse Image | - | yes | clickhouse/clickhouse-server:24.8-alpine
 
 ## Screenshots
 
@@ -56,6 +58,7 @@ Admin Password | Password for the default admin user | yes | admin1234567
 
 - 2025-06-03 – First release (v3.3.1)
 - 2025-12-29 – Version bumped to v4.1.0
+- 2026-05-21 – Version bumped to v5.2.2, ClickHouse pinned to 24.8 (26.4 breaks user table)
 
 ## Contributors
 

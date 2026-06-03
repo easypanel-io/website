@@ -45,13 +45,14 @@ Please follow the official documentation for more information and customizations
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | krakend
-KrakenD Image | - | yes | krakend:2.9
+KrakenD Image | - | yes | devopsfaith/krakend:2.9.4
 
 ## Screenshots
 
 
 ## Change Log
 
+- 2026-05-19 – Updated to devopsfaith/krakend:2.9.4
 - 2025-04-03 – Initial template release
 
 ## Contributors

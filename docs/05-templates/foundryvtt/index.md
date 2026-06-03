@@ -49,7 +49,7 @@ FoundryVTT is proprietary software, so there is no official public `foundryvtt/f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | foundryvtt
-App Service Image | - | yes | felddy/foundryvtt:sha-18b36bf
+App Service Image | - | yes | felddy/foundryvtt:14.361.0
 FoundryVTT Release URL | The URL of the FoundryVTT release | yes | 
 FoundryVTT Username | Your FoundryVTT.com account username | yes | 
 FoundryVTT Password | Your FoundryVTT.com account password | yes | 
@@ -62,6 +62,7 @@ License Key | Your FoundryVTT license key (required for activation) | no |
 
 ## Change Log
 
+- 2026-05-19 – Updated to v14.361.0
 - 2026-03-26 – Added container source links and documented why community image is used
 - 2025-10-09 – Initial template release (SHA-18b36bf)
 

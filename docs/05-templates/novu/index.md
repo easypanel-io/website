@@ -42,10 +42,10 @@ Novu is an open-source notification infrastructure platform that provides a unif
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | novu
-App Service Image | - | yes | ghcr.io/novuhq/novu/dashboard:2.3.0
-API Service Image | - | yes | ghcr.io/novuhq/novu/api:2.3.0
-Worker Service Image | - | yes | ghcr.io/novuhq/novu/worker:2.3.0
-WebSocket Service Image | - | yes | ghcr.io/novuhq/novu/ws:2.3.0
+App Service Image | - | yes | ghcr.io/novuhq/novu/dashboard:3.15.0
+API Service Image | - | yes | ghcr.io/novuhq/novu/api:3.15.0
+Worker Service Image | - | yes | ghcr.io/novuhq/novu/worker:3.15.0
+WebSocket Service Image | - | yes | ghcr.io/novuhq/novu/ws:3.15.0
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ WebSocket Service Image | - | yes | ghcr.io/novuhq/novu/ws:2.3.0
 ## Change Log
 
 - 2025-07-04 – Initial release
+- 2026-05-21 – Version bumped to 3.15.0
 
 ## Contributors
 

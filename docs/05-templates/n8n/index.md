@@ -42,7 +42,8 @@ n8n is a powerful workflow automation tool designed for technical people. It all
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | n8n
-App Service Image | - | yes | n8nio/n8n:2.18.7
+App Service Image | - | yes | docker.n8n.io/n8nio/n8n:2.21.0
+N8n Runner Service Image | - | yes | n8nio/runners:2.21.0
 
 ## Screenshots
 
@@ -55,6 +56,7 @@ App Service Image | - | yes | n8nio/n8n:2.18.7
 - 2025-07-22 – Update to 1.103.2
 - 2026-02-21 – Update to 1.123.21
 - 2026-05-04 – Update to 2.18.7
+- 2026-05-12 – Major update to 2.21.0
 
 ## Contributors
 

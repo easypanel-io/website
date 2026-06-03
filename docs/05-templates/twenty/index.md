@@ -17,7 +17,7 @@ Twenty is a modern, open-source CRM platform designed to help businesses manage 
 
 ## Instructions
 
-Please define the domain used for the Twenty service in the worker environment variable SERVER_URL.
+Twenty CRM is deployed with a server and a background worker service. The SERVER_URL is automatically set to the Easypanel-generated domain. If you configure a custom domain for the Twenty service, also update the SERVER_URL environment variable in the worker service to match.
 
 ## Benefits
 
@@ -46,16 +46,17 @@ Please define the domain used for the Twenty service in the worker environment v
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | twenty
-App Service Image | - | yes | twentycrm/twenty:v1.3.0
+App Service Image | - | yes | twentycrm/twenty:v2.5.3
 
 ## Screenshots
 
-![Twenty CRM Screenshot](./assets/screenshot.jpg)
+![Twenty CRM Screenshot](./assets/screenshot.png)
 
 ## Change Log
 
 - 2025-05-22 – First release
 - 2025-08-19 – Update to v1.3.0
+- 2026-05-18 – Major Update to v2.5.3 with new features and improvements
 
 ## Contributors
 

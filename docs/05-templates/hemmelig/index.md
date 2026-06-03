@@ -15,6 +15,10 @@ description: How to install Hemmelig on Easypanel? 1-Click installation template
 
 Hemmelig is a secure, self-hosted secret sharing platform that allows you to share sensitive information like passwords, API keys, and confidential documents safely. Built with security in mind, Hemmelig provides end-to-end encryption, expiration dates, and access controls to ensure your secrets remain protected. Perfect for teams, developers, and organizations who need to share sensitive information securely without relying on external services.
 
+## Instructions
+
+v7 uses BetterAuth and SQLite — no initial admin credentials are needed in the config. Register your first account via the web UI after deployment.
+
 ## Benefits
 
 - Secure Secret Sharing: Share sensitive information like passwords, API keys, and confidential documents with end-to-end encryption and security controls.
@@ -46,13 +50,7 @@ Hemmelig is a secure, self-hosted secret sharing platform that allows you to sha
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hemmelig
-App Service Image | - | yes | hemmeligapp/hemmelig:v5.19.17
-Root User | Username for the root admin user | yes | groot
-Root Password | Password for the root admin user (change this after first login) | yes | iamroot
-Root Email | Email address for the root admin user | yes | groot@hemmelig.app
-File Size Limit | Maximum file upload size in MB | no | 4
-Forced Language | Default language for the application | no | en
-Max Text Size | Maximum text size for secrets in KB | no | 256
+App Service Image | - | yes | hemmeligapp/hemmelig:v7.4.8
 
 ## Screenshots
 
@@ -60,6 +58,7 @@ Max Text Size | Maximum text size for secrets in KB | no | 256
 
 ## Change Log
 
+- 2026-05-19 – Updated to v7.4.8
 - 2025-07-16 – First Release
 
 ## Contributors
