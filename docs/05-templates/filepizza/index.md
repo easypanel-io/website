@@ -49,7 +49,7 @@ FilePizza is a peer-to-peer file sharing platform that enables secure, direct fi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filepizza
-App Service Image | - | yes | kern/filepizza:60704b4
+App Service Image | - | yes | kern/filepizza:3258673
 COTURN Service Image | - | yes | coturn/coturn:4.7
 
 ## Screenshots
@@ -60,6 +60,7 @@ COTURN Service Image | - | yes | coturn/coturn:4.7
 
 - 2025-07-23 – Initial release (8ea276d)
 - 2025-12-25 – Version bumped to 60704b4
+- 2026-04-29 – Version bumped to 3258673
 
 ## Contributors
 

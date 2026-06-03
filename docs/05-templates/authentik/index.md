@@ -48,7 +48,7 @@ After deployment, open /if/flow/initial-setup/ to create the initial admin user.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | authentik
-Authentik Version | Official image tag from ghcr.io/goauthentik/server | yes | ghcr.io/goauthentik/server:2026.2.0
+Authentik Version | Official image tag from ghcr.io/goauthentik/server | yes | ghcr.io/goauthentik/server:2026.2.2
 
 ## Screenshots
 
@@ -60,6 +60,7 @@ Authentik Version | Official image tag from ghcr.io/goauthentik/server | yes | g
 - 2025-12-24 – Updated to version 2025.10.3
 - 2026-02-18 – Version bumped to 2025.10.4
 - 2026-03-02 – Fixed worker - use official server image with ak worker (fixes daphne/404 setup)
+- 2026-04-29 – Version bumped to 2026.2.2
 
 ## Contributors
 

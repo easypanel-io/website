@@ -43,7 +43,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable Redis | - | no | 
 App Service Name | - | yes | searxng
-App Service Image | - | yes | searxng/searxng:2025.12.30-a5c946a32
+App Service Image | - | yes | searxng/searxng:2026.5.5-d3566fe8a
 
 ## Screenshots
 
@@ -55,6 +55,8 @@ App Service Image | - | yes | searxng/searxng:2025.12.30-a5c946a32
 - 2025-03-03 – Version bumped to 2025.3.2-8984d7ae0
 - 2025-07-24 – Version bumped to 2025.7.24-802bf4f
 - 2025-12-29 – Version bumped to 2025.12.30-a5c946a3
+- 2026-02-24 – Version bumped to 2026.2.23-4964d664f
+- 2026-05-05 – Version bumped to 2026.5.5-d3566fe8a
 
 ## Contributors
 

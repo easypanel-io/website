@@ -41,7 +41,7 @@ Lidarr is an audio collection manager designed for Usenet and BitTorrent users. 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | lidarr
-App Service Image | - | yes | linuxserver/lidarr:3.1.0
+App Service Image | - | yes | linuxserver/lidarr:3.1.2
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ App Service Image | - | yes | linuxserver/lidarr:3.1.0
 - 2025-02-28 – Version bumped to 2.9.6
 - 2025-07-22 – Version bumped to 2.12.4
 - 2025-12-25 – Version bumped to 3.1.0
+- 2026-05-04 – Version bumped to 3.1.2
 
 ## Contributors
 

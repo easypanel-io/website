@@ -40,7 +40,7 @@ PsiTransfer is a simple, open-source, self-hosted file sharing solution designed
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | psitransfer
-App Service Image | - | yes | psitrax/psitransfer:v2.3.1
+App Service Image | - | yes | psitrax/psitransfer:v2.4.3
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | psitrax/psitransfer:v2.3.1
 - 2022-07-12 – first release
 - 2025-07-24 – Version bumped to v2.3.0
 - 2025-12-29 – Version bumped to v2.3.1
+- 2026-02-24 – Version bumped to v2.4.1
+- 2026-05-05 – Version bumped to v2.4.3
 
 ## Contributors
 

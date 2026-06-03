@@ -43,7 +43,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | odoo
 App Service Image | - | yes | odoo:19.0
-Database Service Name | - | yes | odoo-db
+Database Service Name | - | no | odoo-db
 
 ## Screenshots
 
@@ -57,3 +57,4 @@ Database Service Name | - | yes | odoo-db
 ## Contributors
 
 - [DrMxrcy](https://github.com/DrMxrcy)
+- [Ahson Shaikh](https://github.com/Ahson-Shaikh)

@@ -47,7 +47,7 @@ Login to the web console using the Access Key and Secret Key configured during s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rustfs
-RustFS Image | - | yes | rustfs/rustfs:1.0.0-alpha.83
+RustFS Image | - | yes | rustfs/rustfs:1.0.0-alpha.99
 Access Key | Root access key for the S3 API and console login. | no | rustfsadmin
 Secret Key | Root secret key for the S3 API and console login. Leave blank to generate a random one. | no | 
 
@@ -58,6 +58,7 @@ Secret Key | Root secret key for the S3 API and console login. Leave blank to ge
 ## Change Log
 
 - 2026-02-19 – Template Release
+- 2026-05-08 – Version bumped to 1.0.0-alpha.99
 
 ## Contributors
 

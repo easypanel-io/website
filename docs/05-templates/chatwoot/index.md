@@ -42,7 +42,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Default Locale | - | yes | en
 App Service Name | - | yes | chatwoot
-App Service Image | - | yes | chatwoot/chatwoot:v4.11.0
+App Service Image | - | yes | chatwoot/chatwoot:v4.13.0
 Sidekiq Service Name | - | yes | chatwoot-sidekiq
 Database Service Name | - | yes | chatwoot-db
 Redis Service Name | - | yes | chatwoot-redis
@@ -59,6 +59,7 @@ Redis Service Name | - | yes | chatwoot-redis
 - 2025-07-15 – Version bumped to v4.3.0
 - 2025-12-24 – Version bumped to v4.9.1
 - 2026-02-18 – Version bumped to v4.11.0
+- 2026-04-29 – Version bumped to v4.13.0
 
 ## Contributors
 

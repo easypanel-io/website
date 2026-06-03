@@ -47,8 +47,8 @@ Please run migrations inside the tooljet container if required, it will take 2-3
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tooljet
-App Service Image | Tooljet Docker image | yes | tooljet/tooljet-ce:v3.15.1
-Temporal Image | Temporal server Docker image | no | temporalio/auto-setup:1.25.1
+App Service Image | Tooljet Docker image | yes | tooljet/tooljet-ce:v3.20.154-lts
+Temporal Image | Temporal server Docker image | no | temporalio/auto-setup:1.29.6.1
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ Temporal Image | Temporal server Docker image | no | temporalio/auto-setup:1.25.
 ## Change Log
 
 - 2025-09-09 – Initial Template Release (v3.15.1)
+- 2026-05-07 – Version bumped to v3.15.1
 
 ## Contributors
 

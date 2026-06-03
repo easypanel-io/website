@@ -40,7 +40,7 @@ Logto is an Auth0 alternative designed for modern apps and SaaS products. It off
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | logto
-App Service Image | - | yes | svhd/logto:1.36
+App Service Image | - | yes | svhd/logto:1.39.0
 Database Service Name | - | yes | logto-db
 
 ## Screenshots
@@ -53,6 +53,7 @@ Database Service Name | - | yes | logto-db
 - 2025-02-28 – Version bumped to 1.25
 - 2025-12-25 – Version bumped to 1.34
 - 2026-02-21 – Version bumped to 1.36
+- 2026-05-08 – Version bumped to 1.39.0
 
 ## Contributors
 

@@ -40,7 +40,7 @@ RSS-Bridge is a self-hosted, open-source tool that generates RSS and Atom feeds 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rss-bridge
-App Service Image | - | yes | rssbridge/rss-bridge:sha-6a0cc5b
+App Service Image | - | yes | rssbridge/rss-bridge:sha-ac2608a
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | rssbridge/rss-bridge:sha-6a0cc5b
 - 2025-02-04 – first release
 - 2025-07-24 – Version bumped to sha-d19ce75
 - 2025-12-29 – Version bumped to sha-6a0cc5b
+- 2026-02-24 – Version bumped to sha-e213d95
+- 2026-05-05 – Version bumped to sha-ac2608a
 
 ## Contributors
 

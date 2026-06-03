@@ -41,7 +41,7 @@ YaCy is a free distributed search engine built on principles of peer-to-peer net
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | yacy
-App Service Image | - | yes | yacy/yacy_search_server:1.93
+App Service Image | - | yes | yacy/yacy_search_server:sha-f4509ae25923cf99f1b88467d17fc221d5b8d94f-alpine
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | yacy/yacy_search_server:1.93
 ## Change Log
 
 - 2025-04-18 – first release
+- 2026-05-07 – Version bumped to sha-f4509ae25923cf99f1b88467d17fc221d5b8d94f-alpine
 
 ## Contributors
 

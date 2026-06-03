@@ -42,7 +42,7 @@ Please use the following credentials to login. changeme@easypanel.io|changeme
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | weblate
-App Service Image | - | yes | weblate/weblate:5.12.2.3
+App Service Image | - | yes | weblate/weblate:5.16.0.0
 Database Service Name | - | yes | weblate-db
 Redis Service Name | - | yes | weblate-redis
 No Reply Email | - | yes | 
@@ -59,6 +59,7 @@ Email Password | - | yes |
 - 2022-11-23 – first release
 - 2023-03-22 – Update to v4.16
 - 2025-07-25 – Version bumped to 5.12.2.3
+- 2026-02-24 – Version bumped to 5.16.0.0
 
 ## Contributors
 

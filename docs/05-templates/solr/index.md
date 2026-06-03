@@ -41,7 +41,7 @@ Apache Solr is a highly reliable, scalable and fault-tolerant search platform th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | solr
-App Service Image | Apache Solr Docker image | yes | solr:9.8.1
+App Service Image | Apache Solr Docker image | yes | solr:10.0.0
 
 ## Screenshots
 
@@ -50,6 +50,8 @@ App Service Image | Apache Solr Docker image | yes | solr:9.8.1
 ## Change Log
 
 - 2025-06-23 – Initial Template Release
+- 2026-02-24 – Version bumped to 9.9.0
+- 2026-05-07 – Version bumped to 10.0.0
 
 ## Contributors
 

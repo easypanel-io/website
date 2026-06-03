@@ -42,7 +42,7 @@ Visit /register to create an account
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | servas
-App Service Image | - | yes | beromir/servas:1.1.0
+App Service Image | - | yes | beromir/servas:1.1.1
 Database Service Name | - | yes | servas-db
 
 ## Screenshots
@@ -54,6 +54,7 @@ Database Service Name | - | yes | servas-db
 - 2023-1-30 – first release
 - 2025-07-24 – Version bumped to 1.0.0
 - 2025-12-29 – Version bumped to 1.1.0
+- 2026-05-05 – Version bumped to 1.1.1
 
 ## Contributors
 

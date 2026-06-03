@@ -39,7 +39,7 @@ OpenEMR is a powerful, open-source electronic medical records and practice manag
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openemr
-App Service Image | - | yes | openemr/openemr:7.0.5
+App Service Image | - | yes | openemr/openemr:8.0.1
 Admin User | - | yes | admin
 Admin Password | - | yes | password
 
@@ -51,6 +51,7 @@ Admin Password | - | yes | password
 - 2025-02-11 – Template Release
 - 2025-07-24 – Version bumped to 7.0.4
 - 2025-12-29 – Version bumped to 7.0.5
+- 2026-02-24 – Version bumped to 8.0.1
 
 ## Contributors
 

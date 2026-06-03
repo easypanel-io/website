@@ -47,7 +47,7 @@ Default credentials are admin/admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | swingmusic
-App Service Image | Swingmusic Docker image from GitHub Container Registry | yes | ghcr.io/swingmx/swingmusic:v2.0.9
+App Service Image | Swingmusic Docker image from GitHub Container Registry | yes | ghcr.io/swingmx/swingmusic:v2.1.10
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | Swingmusic Docker image from GitHub Container Registry | yes
 ## Change Log
 
 - 2025-10-22 – Initial Template Release
+- 2026-05-07 – Version bumped to v2.1.10
 
 ## Contributors
 

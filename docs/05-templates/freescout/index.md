@@ -43,7 +43,7 @@ FreeScout is a powerful, open-source help desk and shared inbox application. It&
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | freescout
-App Service Image | - | yes | tiredofit/freescout:php8.1-1.17.145
+App Service Image | - | yes | tiredofit/freescout:php8.1-1.17.158
 Database Service Name | - | yes | freescout-db
 Email | - | yes | changeme@easypanel.io
 Password | - | yes | changeme
@@ -61,6 +61,7 @@ Password | - | yes | changeme
 - 2025-01-14 – Version bumped to php8.1-1.17.98
 - 2025-02-25 – Version bumped to php8.1-1.17.107
 - 2026-02-21 – Version bumped to php8.1-1.17.145
+- 2026-04-29 – Version bumped to php8.1-1.17.158
 
 ## Contributors
 

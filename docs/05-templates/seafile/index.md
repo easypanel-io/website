@@ -47,7 +47,7 @@ Please go to this document https://ahsonshaikh616.medium.com/deploying-seafile-v
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | seafile-mc
-App Service Image | Seafile Docker image | yes | seafileltd/seafile-mc:11.0-latest
+App Service Image | Seafile Docker image | yes | seafileltd/seafile-mc:13.0.21
 
 ## Screenshots
 
@@ -56,6 +56,9 @@ App Service Image | Seafile Docker image | yes | seafileltd/seafile-mc:11.0-late
 ## Change Log
 
 - 2025-09-11 – Initial Template Release
+- 2026-02-24 – Version bumped to 13.0-latest
+- 2026-03-25 – Pinned Seafile image to 13.0.19 and removed 13.0-latest
+- 2026-05-05 – Version bumped to 13.0.21
 
 ## Contributors
 

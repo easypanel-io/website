@@ -43,7 +43,7 @@ AutoCaliWeb is a self-hosted web application for browsing, reading, and managing
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | autocaliweb
-AutoCaliWeb Image | - | yes | gelbphoenix/autocaliweb:v0.11.3
+AutoCaliWeb Image | - | yes | gelbphoenix/autocaliweb:v0.12.4
 Timezone | Container timezone (e.g. America/New_York, Europe/Berlin, Asia/Karachi) | no | Etc/UTC
 
 ## Screenshots
@@ -53,6 +53,7 @@ Timezone | Container timezone (e.g. America/New_York, Europe/Berlin, Asia/Karach
 ## Change Log
 
 - 2026-02-18 – Template Release (v0.11.3)
+- 2026-04-29 – Version bumped to (v0.12.4)
 
 ## Contributors
 

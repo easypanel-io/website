@@ -40,7 +40,7 @@ Shelfmark is a self-hosted book management and organization application that pro
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shelfmark
-App Service Image | - | yes | ghcr.io/calibrain/shelfmark:sha-03c364e
+App Service Image | - | yes | ghcr.io/calibrain/shelfmark:sha-ba62771
 User ID (PUID) | User ID for file permissions (0 for root) | yes | 0
 Group ID (PGID) | Group ID for file permissions (0 for root) | yes | 0
 
@@ -51,6 +51,8 @@ Group ID (PGID) | Group ID for file permissions (0 for root) | yes | 0
 ## Change Log
 
 - 2025-01-22 – Initial Template Release
+- 2026-02-24 – Version bumped to sha-91cbd51
+- 2026-05-08 – Version bumped to sha-ba62771
 
 ## Contributors
 

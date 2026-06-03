@@ -50,7 +50,7 @@ Backup sources; Use template fields Host path → /userdata and/or Host path →
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | backrest
-App Service Image | - | yes | ghcr.io/garethgeorge/backrest:v1.12.1
+App Service Image | - | yes | ghcr.io/garethgeorge/backrest:v1.13.0
 Timezone | Container TZ (e.g. America/New_York, Europe/Berlin). | yes | Etc/UTC
 Host path mounted at /userdata (optional) | Absolute host path to files or folders you want Backrest to back up, mounted read/write at /userdata inside the container. Leave empty to skip. | no | 
 Host path mounted at /repos (optional) | Absolute host path for local restic repos, mounted at /repos. Leave empty to skip. | no | 
@@ -63,6 +63,7 @@ Host path mounted at /repos (optional) | Absolute host path for local restic rep
 
 - 2025-09-29 – First release
 - 2026-03-20 – Website/docs links, optional /userdata & /repos, TZ default Etc/UTC
+- 2026-05-06 – Version bumped to v1.13.0
 
 ## Contributors
 

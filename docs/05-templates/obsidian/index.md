@@ -41,7 +41,7 @@ Obsidian is a powerful knowledge base that works on top of a local folder of pla
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | obsidian
-App Service Image | - | yes | lscr.io/linuxserver/obsidian:1.8.9
+App Service Image | - | yes | lscr.io/linuxserver/obsidian:1.12.7
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | lscr.io/linuxserver/obsidian:1.8.9
 ## Change Log
 
 - 2025-04-11 – First Release
+- 2026-05-08 – Version bumped to 1.12.7
 
 ## Contributors
 

@@ -52,7 +52,7 @@ The timezone format should be Continent/City
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wizarr
-App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:2025.7.7
+App Service Image | - | yes | ghcr.io/wizarrrr/wizarr:v2026.2.0
 Timezone | The timezone format should be Continent/City | no | 
 
 ## Screenshots
@@ -66,6 +66,7 @@ Timezone | The timezone format should be Continent/City | no |
 - 2023-03-22 – Update to v2.1.3
 - 2025-03-03 – Version bumped to 4.2.0
 - 2025-07-28 – Update to v.2025.7.7
+- 2026-02-24 – Version bumped to v2026.2.0
 
 ## Contributors
 

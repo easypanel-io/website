@@ -41,8 +41,8 @@ Maxun is a self-hosted data automation platform that combines a modern frontend 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | maxun
-Backend Image | - | yes | getmaxun/maxun-backend:v0.0.30
-Frontend Image | - | yes | getmaxun/maxun-frontend:v0.0.30
+Backend Image | - | yes | getmaxun/maxun-backend:v0.0.49
+Frontend Image | - | yes | getmaxun/maxun-frontend:v0.0.49
 Minio Image | - | yes | minio/minio:RELEASE.2025-07-23T15-54-02Z
 
 ## Screenshots
@@ -52,6 +52,7 @@ Minio Image | - | yes | minio/minio:RELEASE.2025-07-23T15-54-02Z
 ## Change Log
 
 - 2025-12-15 – Template Release
+- 2026-05-08 – Version bumped to v0.0.49
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Rotki is a comprehensive asset management and accounting application, specifical
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rotki
-App Service Image | - | yes | rotki/rotki:v1.41.3
+App Service Image | - | yes | rotki/rotki:v1.42.1
 
 ## Screenshots
 
@@ -52,6 +52,8 @@ App Service Image | - | yes | rotki/rotki:v1.41.3
 - 2025-02-28 – Version bumped to v1.38
 - 2025-07-24 – Version bumped to v1.39.1
 - 2025-12-29 – Version bumped to v1.41.3
+- 2026-02-24 – Version bumped to v1.42.0
+- 2026-05-05 – Version bumped to v1.42.1
 
 ## Contributors
 

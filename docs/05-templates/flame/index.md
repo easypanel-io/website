@@ -44,7 +44,7 @@ Flame is a self-hosted startpage for your server, designed to be your very own a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | flame
-App Service Image | - | yes | pawelmalak/flame:multiarch2.3.1
+App Service Image | - | yes | pawelmalak/flame:multiarch2.4.0
 Password | - | yes | 
 
 ## Screenshots
@@ -54,6 +54,7 @@ Password | - | yes |
 ## Change Log
 
 - 2022-07-12 – first release
+- 2026-04-29 – Version bumped to multiarch2.4.0
 
 ## Contributors
 

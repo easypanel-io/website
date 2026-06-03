@@ -44,7 +44,7 @@ Grist is an open-source, customizable data management platform that combines the
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grist
-App Service Image | - | yes | gristlabs/grist:1.7.10
+App Service Image | - | yes | gristlabs/grist:1.7.13
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | gristlabs/grist:1.7.10
 - 2025-07-21 – Version bumped to 1.6
 - 2025-12-25 – Version bumped to 1.7.8
 - 2026-02-21 – Version bumped to 1.7.10
+- 2026-04-29 – Version bumped to 1.7.13
 
 ## Contributors
 

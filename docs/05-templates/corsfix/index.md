@@ -46,8 +46,8 @@ Corsfix is a CORS proxy that eliminates cross-origin errors and lets you fetch a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | corsfix
-App Service Image | - | yes | ghcr.io/corsfix/corsfix-app:e0ff7b3472256650afc547a672d0a2ffafba34e8
-Proxy Service Image | - | yes | ghcr.io/corsfix/corsfix-proxy:e0ff7b3472256650afc547a672d0a2ffafba34e8
+App Service Image | - | yes | ghcr.io/corsfix/corsfix-app:b464c8b69d10e035c416df4bbe082ae896090c67
+Proxy Service Image | - | yes | ghcr.io/corsfix/corsfix-proxy:b464c8b69d10e035c416df4bbe082ae896090c67
 
 ## Screenshots
 
@@ -62,6 +62,7 @@ Proxy Service Image | - | yes | ghcr.io/corsfix/corsfix-proxy:e0ff7b3472256650af
 ## Change Log
 
 - 2026-02-24 – Initial template
+- 2026-04-29 – Version bumped to b464c8b69d10e035c416df4bbe082ae896090c67
 
 ## Contributors
 

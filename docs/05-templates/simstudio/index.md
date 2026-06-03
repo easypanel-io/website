@@ -45,8 +45,8 @@ Please provide the OAuth credentials for Google or GitHub or both.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | simstudio
-App Service Image | SimStudio AI main application Docker image | yes | ghcr.io/simstudioai/simstudio:v0.5.79
-Migrations Service Image | SimStudio AI database migrations Docker image | yes | ghcr.io/simstudioai/migrations:v0.5.79
+App Service Image | SimStudio AI main application Docker image | yes | ghcr.io/simstudioai/simstudio:v0.6.66
+Migrations Service Image | SimStudio AI database migrations Docker image | yes | ghcr.io/simstudioai/migrations:v0.6.66
 Freestyle API Key | Optional API key for Freestyle AI services | no | 
 Google OAuth Client ID | Optional Google OAuth client ID for authentication | no | 
 Google OAuth Client Secret | Optional Google OAuth client secret for authentication | no | 
@@ -62,6 +62,8 @@ Ollama URL | URL for Ollama server for local AI models | no | http://localhost:1
 ## Change Log
 
 - 2025-06-24 – Initial Template Release
+- 2026-02-24 – Version bumped to v0.5.99
+- 2026-05-05 – Version bumped to v0.6.66
 
 ## Contributors
 

@@ -38,7 +38,7 @@ XWiki is a powerful, open source enterprise wiki platform designed for collabora
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | xwiki
-App Service Image | XWiki Docker image with PostgreSQL support | yes | xwiki:17.9.0-postgres-tomcat
+App Service Image | XWiki Docker image with PostgreSQL support | yes | xwiki:18.2.1-postgres-tomcat
 Database Service Image | PostgreSQL Docker image | yes | postgres:17
 
 ## Screenshots
@@ -50,6 +50,8 @@ Database Service Image | PostgreSQL Docker image | yes | postgres:17
 - 2025-03-12 – First Release
 - 2025-07-25 – Version bumped to 17.4.2-mysql-tomcat
 - 2025-10-30 – Updated to use PostgreSQL with stable-postgres-tomcat image
+- 2026-02-24 – Version bumped to 18.1.0-postgres-tomcat
+- 2026-05-07 – Version bumped to 18.2.1-postgres-tomcat
 
 ## Contributors
 

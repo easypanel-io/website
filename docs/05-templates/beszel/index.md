@@ -39,7 +39,7 @@ Beszel is a lightweight server monitoring platform that includes Docker statisti
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | beszel
-App Service Image | - | yes | henrygd/beszel:0.18
+App Service Image | - | yes | henrygd/beszel:0.18.7
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | henrygd/beszel:0.18
 - 2025-07-15 – Version bumped to 0.11
 - 2025-12-24 – Updated to 0.17
 - 2026-02-18 – Version bumped to 0.18
+- 2026-05-06 – Version bumped to 0.18.7
 
 ## Contributors
 

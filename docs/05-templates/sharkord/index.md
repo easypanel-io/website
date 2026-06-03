@@ -49,7 +49,7 @@ Note: Sharkord is in alpha—expect bugs and breaking changes.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sharkord
-App Service Image | - | yes | sharkord/sharkord:v0.0.11
+App Service Image | - | yes | sharkord/sharkord:v0.0.19
 App Service Port | - | yes | 40000
 
 ## Screenshots
@@ -59,6 +59,7 @@ App Service Port | - | yes | 40000
 ## Change Log
 
 - 2026-02-09 – First Release
+- 2026-05-08 – Version bumped to v0.0.19
 
 ## Contributors
 

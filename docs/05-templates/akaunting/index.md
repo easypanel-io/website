@@ -67,6 +67,7 @@ growing businesses or accountants managing multiple clients.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | akaunting
+App Service Image | - | yes | docker.io/akaunting/akaunting:3.1.21-v
 Company Name | - | yes | My Company
 Company Email | - | yes | company@example.com
 Admin Email | - | yes | admin@example.com
@@ -80,6 +81,7 @@ Admin Password | - | yes |
 ## Change Log
 
 - 2025-02-14 – First release with Akaunting 3.0.20
+- 2026-05-07 – Version Bumped to 3.1.21-v
 
 ## Contributors
 

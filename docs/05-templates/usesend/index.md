@@ -46,7 +46,7 @@ After deployment, configure your GitHub OAuth app credentials and AWS Access Key
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | usesend
-App Service Image | - | yes | usesend/usesend:v1.7.1
+App Service Image | - | yes | usesend/usesend:v1.8.0
 GitHub OAuth App ID | - | yes | 
 GitHub OAuth App Secret | - | yes | 
 AWS Access Key | - | yes | 
@@ -60,6 +60,7 @@ API Rate Limit (requests per minute) | - | no | 60
 ## Change Log
 
 - 2025-11-13 – Template Release
+- 2026-02-24 – Version bumped to 1.8.0
 
 ## Contributors
 

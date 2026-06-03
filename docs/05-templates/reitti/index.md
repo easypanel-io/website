@@ -42,7 +42,7 @@ Reitti is a self-hosted journey planning and route optimization application desi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | reitti
-App Service Image | - | yes | dedicatedcode/reitti:2.5.0
+App Service Image | - | yes | dedicatedcode/reitti:4.0.5
 Region Code (e.g., de, us, fi - leave empty for worldwide) | - | no | de
 
 ## Screenshots
@@ -52,6 +52,8 @@ Region Code (e.g., de, us, fi - leave empty for worldwide) | - | no | de
 ## Change Log
 
 - 2025-11-26 – Template Release
+- 2026-02-24 – Version bumped to 3.4.1
+- 2026-05-05 – Version bumped to 4.0.5
 
 ## Contributors
 

@@ -44,7 +44,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 Enable MJPG Streamer | - | no | false
 App Service Name | - | yes | octoprint
-App Service Image | - | yes | octoprint/octoprint:1.11.5
+App Service Image | - | yes | octoprint/octoprint:1.11.7
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ App Service Image | - | yes | octoprint/octoprint:1.11.5
 - 2025-02-28 – Version bumped to 1.10.3
 - 2025-07-24 – Update to 1.11.2
 - 2025-12-29 – Version bumped to 1.11.5
+- 2026-02-24 – Version bumped to 1.11.7
 
 ## Contributors
 

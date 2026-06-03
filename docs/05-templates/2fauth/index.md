@@ -42,7 +42,7 @@ description: How to install 2FAuth on Easypanel? 1-Click installation template f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | 2fauth
-App Service Image | - | yes | 2fauth/2fauth:6.0.0
+App Service Image | - | yes | 2fauth/2fauth:6.1.3
 App Owner Mail | - | no | mail@example.com
 Database Type | - | yes | sqlite
 Database Service Name | - | yes | 2fauth-db
@@ -59,6 +59,7 @@ Database Service Name | - | yes | 2fauth-redis
 - 2025-01-06 – Version bumped to 5.4.3
 - 2025-12-24 – Version bumped to 5.6.1
 - 2026-02-18 – Version bumped to 6.0.0
+- 2026-04-29 – Version bumped to 6.1.3
 
 ## Contributors
 

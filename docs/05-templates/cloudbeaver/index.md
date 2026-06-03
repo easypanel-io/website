@@ -51,7 +51,7 @@ On first launch, a setup wizard will guide you to create an administrator accoun
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cloudbeaver
-App Service Image | - | yes | dbeaver/cloudbeaver:25.1.2
+App Service Image | - | yes | dbeaver/cloudbeaver:26.0.3
 
 ## Screenshots
 
@@ -60,6 +60,7 @@ App Service Image | - | yes | dbeaver/cloudbeaver:25.1.2
 ## Change Log
 
 - 2025-07-11 – Initial release
+- 2026-04-29 – Version bumped to 26.0.3
 
 ## Contributors
 

@@ -43,7 +43,7 @@ Koito is a self-hosted, themeable ListenBrainz-compatible scrobbler for tracking
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | koito
-App Service Image | - | yes | gabehf/koito:v0.1.4
+App Service Image | - | yes | gabehf/koito:v0.1.8
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | gabehf/koito:v0.1.4
 ## Change Log
 
 - 2026-01-17 – Tempalate Release (v0.1.4)
+- 2026-05-04 – Version bumped to (v0.1.8)
 
 ## Contributors
 

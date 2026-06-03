@@ -41,7 +41,7 @@ Activepieces is a powerful open-source business automation tool designed to stre
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | activepieces
-App Service Image | - | yes | activepieces/activepieces:0.78.1
+App Service Image | - | yes | activepieces/activepieces:0.82.1
 Database Service Name | - | yes | activepieces-db
 Redis Service Name | - | yes | activepieces-redis
 
@@ -64,6 +64,7 @@ Redis Service Name | - | yes | activepieces-redis
 - 2025-02-21 – Version bumped to 0.44.0
 - 2025-12-24 – Version bumped to 0.74.3
 - 2026-02-18 – Version bumped to 0.78.1
+- 2026-04-29 – Version bumped to 0.82.1
 
 ## Contributors
 

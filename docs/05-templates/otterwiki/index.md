@@ -42,7 +42,7 @@ OtterWiki is a simple, easy-to-use wiki software for personal use and small team
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | otterwiki
-App Service Image | - | yes | redimp/otterwiki:2.14
+App Service Image | - | yes | redimp/otterwiki:2.20.4
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | redimp/otterwiki:2.14
 ## Change Log
 
 - 2025-11-10 – Template Release
+- 2026-02-24 – Version bumped to 2.17
+- 2026-05-05 – Version bumped to 2.20.4
 
 ## Contributors
 

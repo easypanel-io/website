@@ -41,7 +41,7 @@ ChatGPT Next Web is a well-designed, feature-rich web interface for ChatGPT and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chatgpt-next-web
-App Service Image | ChatGPT Next Web Docker image | yes | yidadaa/chatgpt-next-web:v2.16.0
+App Service Image | ChatGPT Next Web Docker image | yes | yidadaa/chatgpt-next-web:v2.16.1
 OpenAI API Key | Your OpenAI API key (starts with sk-) | yes | 
 Access Code | Password to protect your ChatGPT instance | yes | 
 
@@ -52,6 +52,7 @@ Access Code | Password to protect your ChatGPT instance | yes |
 ## Change Log
 
 - 2025-06-17 – Initial Template Release
+- 2026-04-29 – Version bumped to v2.16.1
 
 ## Contributors
 

@@ -42,7 +42,7 @@ A simple and secure file sharing application that allows users to upload and sha
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fileshelter
-App Service Image | - | yes | epoupon/fileshelter:6.2.0
+App Service Image | - | yes | epoupon/fileshelter:6.4.0
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | epoupon/fileshelter:6.2.0
 ## Change Log
 
 - 2025-05-05 – Initial release
+- 2026-04-29 – Version bumped to 6.4.0
 
 ## Contributors
 

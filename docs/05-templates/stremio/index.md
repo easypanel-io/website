@@ -42,7 +42,7 @@ Stremio is a modern media center application that provides a unified platform fo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | stremio
-App Service Image | - | yes | tsaridas/stremio-docker:v1.2.12
+App Service Image | - | yes | tsaridas/stremio-docker:v1.2.16
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | tsaridas/stremio-docker:v1.2.12
 ## Change Log
 
 - 2026-01-05 – Template Release
+- 2026-05-07 – Version bumped to v1.2.16
 
 ## Contributors
 

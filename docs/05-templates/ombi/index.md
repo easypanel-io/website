@@ -27,7 +27,7 @@ Ombi allows you to host your own Plex Request and user management system. If you
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ombi
-App Service Image | - | yes | linuxserver/ombi:4.47.1
+App Service Image | - | yes | linuxserver/ombi:4.53.5
 Timezone | - | no | Etc/UTC
 
 ## Screenshots
@@ -38,6 +38,8 @@ Timezone | - | no | Etc/UTC
 
 - 2024-11-27 – first release
 - 2025-02-28 – Version bumped to 4.47.1
+- 2026-02-24 – Version bumped to 4.53.4
+- 2026-05-05 – Version bumped to 4.53.5
 
 ## Contributors
 

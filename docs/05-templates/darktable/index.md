@@ -41,7 +41,7 @@ Darktable is an open-source photography workflow application and raw developer. 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | darktable
-App Service Image | - | yes | lscr.io/linuxserver/darktable:2025-07-12-ls220
+App Service Image | - | yes | lscr.io/linuxserver/darktable:25.4.1
 Timezone | - | no | Etc/UTC
 
 ## Screenshots
@@ -51,6 +51,7 @@ Timezone | - | no | Etc/UTC
 ## Change Log
 
 - 2025-10-13 – Initial Template Release (2025-07-12-ls220)
+- 2026-04-29 – Version bumped to 25.4.1
 
 ## Contributors
 

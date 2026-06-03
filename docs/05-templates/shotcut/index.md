@@ -40,7 +40,7 @@ Shotcut is a free, open-source, cross-platform video editor that enables users t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shotcut
-App Service Image | - | yes | lscr.io/linuxserver/shotcut:25.10.31
+App Service Image | - | yes | lscr.io/linuxserver/shotcut:26.4.30
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | lscr.io/linuxserver/shotcut:25.10.31
 - 2025-01-22 – first release
 - 2025-07-24 – Version bumped to 25.05.11
 - 2025-12-29 – Version bumped to 25.10.31
+- 2026-02-24 – Version bumped to 26.1.30
+- 2026-05-05 – Version bumped to 26.4.30
 
 ## Contributors
 

@@ -44,8 +44,8 @@ AdventureLog is a comprehensive travel tracking and adventure logging applicatio
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | adventurelog
-App Service Image | AdventureLog App Docker image | yes | ghcr.io/seanmorley15/adventurelog-frontend:v0.11.0
-Backend Service Image | AdventureLog Backend Docker image | yes | ghcr.io/seanmorley15/adventurelog-backend:v0.11.0
+App Service Image | AdventureLog App Docker image | yes | ghcr.io/seanmorley15/adventurelog-frontend:v0.12.0
+Backend Service Image | AdventureLog Backend Docker image | yes | ghcr.io/seanmorley15/adventurelog-backend:v0.12.0
 
 ## Screenshots
 
@@ -54,6 +54,7 @@ Backend Service Image | AdventureLog Backend Docker image | yes | ghcr.io/seanmo
 ## Change Log
 
 - 2025-10-30 – Initial Template Release
+- 2026-04-29 – Version bumped to v0.12.0
 
 ## Contributors
 

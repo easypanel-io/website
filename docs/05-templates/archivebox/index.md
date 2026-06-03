@@ -44,7 +44,7 @@ To create superuser, take the console, and do &quot;su archivebox &amp;&amp; arc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | archivebox
-App Service Image | - | yes | archivebox/archivebox:0.7
+App Service Image | - | yes | archivebox/archivebox:0.7.3
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | archivebox/archivebox:0.7
 ## Change Log
 
 - 2025-03-18 – First Release
+- 2026-05-06 – Version bumped to 0.7.3
 
 ## Contributors
 

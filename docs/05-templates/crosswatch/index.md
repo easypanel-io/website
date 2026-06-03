@@ -41,7 +41,7 @@ CrossWatch is a self-hosted synchronization engine that keeps Plex, Jellyfin, Em
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | crosswatch
-App Service Image | - | yes | ghcr.io/cenodude/crosswatch:0.9.15
+App Service Image | - | yes | ghcr.io/cenodude/crosswatch:0.9.18
 Timezone | Timezone for the application (e.g., Asia/Karachi, America/New_York, Europe/London) | yes | Asia/Karachi
 
 ## Screenshots
@@ -51,6 +51,7 @@ Timezone | Timezone for the application (e.g., Asia/Karachi, America/New_York, E
 ## Change Log
 
 - 2025-01-21 – Initial Template Release
+- 2026-04-29 – Version bumped to 0.9.18
 
 ## Contributors
 

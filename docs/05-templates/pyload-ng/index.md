@@ -46,7 +46,7 @@ Default credentials are pyload/pyload.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pyload-ng
-App Service Image | - | yes | lscr.io/linuxserver/pyload-ng:develop-version-a49dade9
+App Service Image | - | yes | lscr.io/linuxserver/pyload-ng:develop-version-3c5e1c66
 
 ## Screenshots
 
@@ -55,6 +55,8 @@ App Service Image | - | yes | lscr.io/linuxserver/pyload-ng:develop-version-a49d
 ## Change Log
 
 - 2025-05-02 – Initial release
+- 2026-02-24 – Version bumped to develop-version-38c80675
+- 2026-05-08 – Version bumped to develop-version-3c5e1c66
 
 ## Contributors
 

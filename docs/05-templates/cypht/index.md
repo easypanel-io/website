@@ -44,7 +44,7 @@ Cypht is a modern, open-source webmail client that allows you to access multiple
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cypht
-App Service Image | - | yes | cypht/cypht:2.4.0
+App Service Image | - | yes | cypht/cypht:2.7.0
 Auth Username | - | no | admin
 Auth Password | - | no | admin
 
@@ -55,6 +55,7 @@ Auth Password | - | no | admin
 ## Change Log
 
 - 2025-04-30 – Initial release
+- 2026-04-29 – Version bumped to 2.7.0
 
 ## Contributors
 

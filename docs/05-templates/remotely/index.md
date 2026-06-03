@@ -44,7 +44,7 @@ Remotely is a free, open-source remote support and remote access solution that e
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | remotely
-App Service Image | - | yes | immybot/remotely:589
+App Service Image | - | yes | immybot/remotely:1037
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | immybot/remotely:589
 ## Change Log
 
 - 2025-08-05 – First release
+- 2026-05-05 – version bumped to 1037
 
 ## Contributors
 

@@ -43,9 +43,9 @@ Wait for the migration on backend to complete. Access Grafana using https://doma
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | devlake
-UI Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake-config-ui:main_250711_1608_3684cdb
-Backend Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake:main_250711_1608_3684cdb
-Grafana Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake-dashboard:main_250711_1608_3684cdb
+UI Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake-config-ui:main_260429_1235_e26c61b
+Backend Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake:main_260429_1235_e26c61b
+Grafana Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake-dashboard:main_260429_1235_e26c61b
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ Grafana Service Image | - | yes | devlake.docker.scarf.sh/apache/devlake-dashboa
 - 2025-01-15 – Template Release
 - 2025-05-26 – Version bumped to main_250513_0111_15eba06
 - 2025-07-15 – Version bumped to main_250711_1608_3684cdb
+- 2026-04-29 – Version bumped to main_260429_1235_e26c61b
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Directus is a modern, open-source data platform that instantly transforms any SQ
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | directus
-App Service Image | - | yes | directus/directus:11.15.4
+App Service Image | - | yes | directus/directus:11.17.3
 Admin Email | admin@example.com | yes | 
 Admin Password | - | yes | 
 Database Type | - | yes | 
@@ -57,6 +57,7 @@ Redis Service Name | - | yes | directus-redis
 - 2025-08-13 – Version bumped to 11.10.2 MySQL 8 support added
 - 2025-12-25 – Version bumped to 11.14.0
 - 2026-02-18 – Version bumped to 11.15.4
+- 2026-04-29 – Version bumped to 11.17.3
 
 ## Contributors
 

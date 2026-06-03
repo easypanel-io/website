@@ -40,7 +40,7 @@ OnlyOffice is a self-hosted office suite that provides powerful document, spread
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | onlyoffice
-App Service Image | - | yes | onlyoffice/documentserver:9.2
+App Service Image | - | yes | onlyoffice/documentserver:9.3.1.2
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | onlyoffice/documentserver:9.2
 
 - 2025-02-26 – first release
 - 2025-12-29 – Version bumped to 9.2
+- 2026-05-05 – Version bumped to 9.3.1.2
 
 ## Contributors
 

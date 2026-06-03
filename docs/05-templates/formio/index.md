@@ -41,7 +41,7 @@ Form.io is a form and data management platform for progressive web applications.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | formio
-App Service Image | Form.io Docker image | yes | formio/formio:4.6.0
+App Service Image | Form.io Docker image | yes | formio/formio:4.6.5
 Root Admin Email | Email address for the root administrator account | yes | admin@example.com
 Root Admin Password | Password for the root administrator account | yes | 
 
@@ -52,6 +52,7 @@ Root Admin Password | Password for the root administrator account | yes |
 ## Change Log
 
 - 2025-06-23 – Initial Template Release
+- 2026-04-29 – Version bumped to 4.6.5
 
 ## Contributors
 

@@ -41,12 +41,12 @@ SparkyFitness is a self-hosted, privacy-first alternative to MyFitnessPal. Track
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sparkyfitness
-App Service Image | - | yes | codewithcj/sparkyfitness:v0.16.4.2
-Server Image | - | yes | codewithcj/sparkyfitness_server:v0.16.4.2
+App Service Image | - | yes | codewithcj/sparkyfitness:v0.16.5.4
+Server Image | - | yes | codewithcj/sparkyfitness_server:v0.16.5.4
 API Encryption Key (Auto-generated if empty) | A 64-character hex string for data encryption. Auto-generated if not provided. Changing this will invalidate existing encrypted data. | no | 
 Better Auth Secret (Auto-generated if empty) | Secret key for Better Auth authentication. Auto-generated if not provided. | no | 
 Log Level | - | no | ERROR
-Allow Private Network CORS | Allow CORS from private network addresses. Only enable on private/self-hosted networks. Do NOT enable on shared hosting or cloud. | no | false
+Allow Private Network CORS | Required for current upstream behavior so EXTRA_TRUSTED_ORIGINS is applied. Disable only if upstream removes this coupling. | no | true
 Disable Signup | Set to true to disable new user registrations | no | false
 Force Email Login | Force email/password login to be enabled. Fail-safe to prevent being locked out if OIDC is misconfigured. | no | true
 Admin Email (Optional) | Email of a user to automatically grant admin privileges on server startup. | no | 
@@ -57,6 +57,7 @@ Email Secure (Optional) | Use TLS/SSL for email (true) or plain text (false) | n
 Email User (Optional) | SMTP username | no | 
 Email Password (Optional) | SMTP password | no | 
 Email From (Optional) | Email address to send from (e.g., no-reply@example.com) | no | 
+Custom Domain (Optional) | Custom domain for the application (e.g., app.example.com) | no | 
 
 ## Screenshots
 

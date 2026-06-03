@@ -59,7 +59,7 @@ deploy, open the app and complete any first-run prompts.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dumbbudget
-App Service Image | - | yes | dumbwareio/dumbbudget:d44543bf67ecedb416138ac4de93759d3a324999
+App Service Image | - | yes | dumbwareio/dumbbudget:b9db5cb32d14b7b78675d8be054611d4829253ef
 DUMBBUDGET_PIN | Optional. Empty = no PIN. Set a numeric PIN to protect the app at login. | yes | 
 Currency code | ISO currency code (USD, EUR, GBP, …). See README for full supported list. | yes | USD
 SITE_TITLE | Title shown in the app UI (upstream default DumbBudget). | yes | DumbBudget
@@ -73,6 +73,7 @@ INSTANCE_NAME | Optional label for this instance/account when running multiple d
 
 - 2025-09-26 – First release (d44543bf67ecedb416138ac4de93759d3a324999)
 - 2026-03-20 – Screenshot, website/docs links, SITE_TITLE & INSTANCE_NAME env parity, configurable PIN/currency/titles
+- 2026-04-29 – Version bumped to b9db5cb32d14b7b78675d8be054611d4829253ef
 
 ## Contributors
 

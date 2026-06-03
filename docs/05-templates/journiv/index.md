@@ -44,7 +44,7 @@ Journiv is a self-hosted journaling and note-taking application designed for per
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | journiv
-App Service Image | - | yes | swalabtech/journiv-app:latest
+App Service Image | - | yes | swalabtech/journiv-app:0.1.0-beta.22
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | swalabtech/journiv-app:latest
 ## Change Log
 
 - 2025-12-16 – Template Release
+- 2026-05-08 – Version bumped to 0.1.0-beta.22
 
 ## Contributors
 

@@ -42,7 +42,7 @@ Borg UI is a modern web-based interface for BorgBackup, the popular deduplicatin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | borgui
-App Service Image | - | yes | ainullcode/borg-ui:1.69
+App Service Image | - | yes | ainullcode/borg-ui:2.0.8
 Timezone | - | no | UTC
 
 ## Screenshots
@@ -53,6 +53,7 @@ Timezone | - | no | UTC
 
 - 2025-11-25 – Template Release
 - 2026-02-18 – Version bumped to 1.69
+- 2026-04-29 – Version bumped to 2.0.8
 
 ## Contributors
 

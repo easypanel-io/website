@@ -49,7 +49,7 @@ Default credentials are demo/demo. Change the password after first login.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | 4gaboards
-App Service Image | 4ga Boards Docker image from GitHub Container Registry | yes | ghcr.io/rargames/4gaboards:3.3.2
+App Service Image | 4ga Boards Docker image from GitHub Container Registry | yes | ghcr.io/rargames/4gaboards:3.3.6
 
 ## Screenshots
 
@@ -59,6 +59,7 @@ App Service Image | 4ga Boards Docker image from GitHub Container Registry | yes
 
 - 2025-10-23 – Initial Template Release
 - 2026-02-23 – Version bumped to v3.3.2
+- 2026-04-29 – Version bumped to v3.3.6
 
 ## Contributors
 

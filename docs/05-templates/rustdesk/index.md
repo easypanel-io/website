@@ -40,7 +40,7 @@ Rustdesk is a self-hosted remote desktop application that allows you to access a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | rustdesk
-App Service Image | - | yes | lscr.io/linuxserver/rustdesk:1.4.4
+App Service Image | - | yes | lscr.io/linuxserver/rustdesk:1.4.6
 
 ## Screenshots
 
@@ -52,6 +52,8 @@ App Service Image | - | yes | lscr.io/linuxserver/rustdesk:1.4.4
 - 2025-02-28 – Version bumped to 1.3.8
 - 2025-07-24 – Version bumped to 1.4.0
 - 2025-12-29 – Version bumped to 1.4.4
+- 2026-02-24 – Version bumped to 1.4.5
+- 2026-05-05 – Version bumped to 1.4.6
 
 ## Contributors
 

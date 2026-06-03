@@ -44,7 +44,7 @@ SFTPGo is a fully featured and highly configurable SFTP server with optional HTT
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sftpgo
-App Service Image | - | yes | drakkan/sftpgo:2.6.x
+App Service Image | - | yes | drakkan/sftpgo:2.7.x
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | drakkan/sftpgo:2.6.x
 ## Change Log
 
 - 2025-05-02 – Initial release
+- 2026-02-24 – Version bumped to 2.7.x
 
 ## Contributors
 

@@ -40,7 +40,7 @@ NATS is a simple, secure and performant messaging system for cloud native applic
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nats
-App Service Image | - | yes | nats:2.11.4
+App Service Image | - | yes | nats:2.14.0
 App Service Port | - | yes | 4222
 App Service Cluster Port | - | yes | 6222
 
@@ -51,6 +51,7 @@ App Service Cluster Port | - | yes | 6222
 ## Change Log
 
 - 2025-06-11 – Template Release
+- 2026-05-08 – Version bumped to 2.14.0
 
 ## Contributors
 

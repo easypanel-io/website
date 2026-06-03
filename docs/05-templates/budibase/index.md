@@ -45,8 +45,8 @@ Budibase takes a few minutes to get ready. Sit back, relax, and have a cup of te
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | budibase
-App Service Image | - | yes | budibase/apps:3.30.0
-Worker Service Image | - | yes | budibase/worker:3.30.0
+App Service Image | - | yes | budibase/apps:3.37.1
+Worker Service Image | - | yes | budibase/worker:3.37.1
 Admin Email | Email for the admin user | yes | 
 Admin Password | Password for the admin user | yes | 
 
@@ -64,6 +64,7 @@ Admin Password | Password for the admin user | yes |
 - 2025-06-30 – Updated to multi-service architecture
 - 2025-12-24 – Version bumped to 3.23.46
 - 2026-02-18 – Version bumped to 3.30.0
+- 2026-04-29 – Version bumped to 3.37.1
 
 ## Contributors
 

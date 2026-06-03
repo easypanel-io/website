@@ -45,7 +45,7 @@ Default credentials are admin/admin123.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | yamtrack
-App Service Image | - | yes | ghcr.io/fuzzygrim/yamtrack:0.24.7
+App Service Image | - | yes | ghcr.io/fuzzygrim/yamtrack:0.25.2
 Timezone | - | no | Europe/Berlin
 
 ## Screenshots
@@ -55,6 +55,8 @@ Timezone | - | no | Europe/Berlin
 ## Change Log
 
 - 2025-11-17 – Template Release
+- 2026-02-24 – Version bumped to 0.25.0
+- 2026-05-07 – Version bumped to 0.25.2
 
 ## Contributors
 

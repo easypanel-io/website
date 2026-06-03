@@ -39,7 +39,7 @@ Name | Description | Required | Default Value
 -|-|-|-
 VS Code Server Password | - | yes | 
 App Service Name | - | yes | vsc-server
-App Service Image | - | yes | lscr.io/linuxserver/code-server:4.107.0
+App Service Image | - | yes | lscr.io/linuxserver/code-server:4.118.0
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | lscr.io/linuxserver/code-server:4.107.0
 - 2025-03-03 – Version bumped to 4.97.2
 - 2025-07-25 – Version bumped to 4.102.2
 - 2025-12-29 – Version bumped to 4.107.0
+- 2026-02-24 – Version bumped to 4.109.2
+- 2026-05-07 – Version bumped to 4.118.0
 
 ## Contributors
 

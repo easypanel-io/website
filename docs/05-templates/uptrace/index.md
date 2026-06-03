@@ -47,7 +47,7 @@ Login; Use the admin name/email/password from the template form (password is ran
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | uptrace
-Uptrace Image | Pinned to the tag used in github.com/uptrace/uptrace example/docker docker-compose.yml; bump only with a tested exact tag. | yes | uptrace/uptrace:2.1.0-beta.4
+Uptrace Image | Pinned to the tag used in github.com/uptrace/uptrace example/docker docker-compose.yml; bump only with a tested exact tag. | yes | uptrace/uptrace:2.1.0-beta.5
 Admin Name | - | no | Admin
 Admin Email | - | no | admin@uptrace.local
 Admin Password | Generated randomly if not provided. | no | 
@@ -64,6 +64,7 @@ Project Name | - | no | Project1
 - 2026-03-23 – Fix ClickHouse password in config.yml to match CLICKHOUSE_PASSWORD (was hardcoded uptrace). Pin Mailpit to axllent/mailpit:v1.29.4.
 - 2026-02-27 – First Release
 - 2026-03-20 – Square logo, image pin 2.1.0-beta.4, random project token, richer instructions, vector/timberio parity note. Vector pin 0.28.1-alpine, Grafana admin password randomized.
+- 2026-05-07 – Version bumped to 2.1.0-beta.5
 
 ## Contributors
 

@@ -39,7 +39,7 @@ ClickHouse is an open-source database designed for real-time apps and analytics.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | clickhouse
-App Service Image | - | yes | clickhouse/clickhouse-server:25.11
+App Service Image | - | yes | clickhouse/clickhouse-server:26.3.9.8
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | clickhouse/clickhouse-server:25.11
 - 2025-01-09 – Version bumped to 24.8
 - 2025-07-15 – Version bumped to 25.6
 - 2025-12-25 – Version bumped to 25.11
+- 2026-04-29 – Version bumped to 26.3.9.8
 
 ## Contributors
 

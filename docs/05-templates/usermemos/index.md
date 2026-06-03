@@ -42,7 +42,7 @@ Usermemos is a lightweight, self-hosted note-taking application designed for sim
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | usermemos
-App Service Image | - | yes | neosmemo/memos:0.25
+App Service Image | - | yes | neosmemo/memos:0.28.0
 
 ## Screenshots
 
@@ -52,6 +52,8 @@ App Service Image | - | yes | neosmemo/memos:0.25
 
 - 2025-02-17 – first release
 - 2025-07-25 – Version bumped to 0.25
+- 2026-02-24 – Version bumped to 0.26
+- 2026-05-07 – Version bumped to 0.28.0
 
 ## Contributors
 

@@ -44,7 +44,7 @@ Zusam is a free and open-source way to self-host private forums for friends and 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | zusam
-App Service Image | - | yes | zusam/zusam:0.5.5
+App Service Image | - | yes | zusam/zusam:0.6.1
 Initial Group Name | - | yes | zusam
 Initial Password | Leave empty to generate a random password | no | 
 Initial Username | - | yes | zusam
@@ -56,6 +56,8 @@ Initial Username | - | yes | zusam
 ## Change Log
 
 - 2025-05-02 – Initial release
+- 2026-02-24 – Version bumped to 0.6.0
+- 2026-05-07 – Version bumped to 0.6.1
 
 ## Contributors
 

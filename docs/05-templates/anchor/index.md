@@ -41,7 +41,7 @@ Anchor is a self-hosted application designed to provide a modern web interface f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | anchor
-App Service Image | - | yes | ghcr.io/zhfahim/anchor:0.4
+App Service Image | - | yes | ghcr.io/zhfahim/anchor:0.10
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | ghcr.io/zhfahim/anchor:0.4
 ## Change Log
 
 - 2026-01-13 – Template Release
+- 2026-04-29 – Version bumped to 0.10
 
 ## Contributors
 

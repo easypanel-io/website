@@ -42,8 +42,8 @@ Login using admin@windmill.dev:changeme
 
 Name | Description | Required | Default Value
 -|-|-|-
-App Service Image | - | yes | ghcr.io/windmill-labs/windmill:1.514
-LSP Service Image | - | yes | ghcr.io/windmill-labs/windmill-lsp:1.514
+App Service Image | - | yes | ghcr.io/windmill-labs/windmill:1.696.2
+LSP Service Image | - | yes | ghcr.io/windmill-labs/windmill-lsp:1.644
 App Service Name | - | yes | windmill
 Worker Replicas | - | yes | 1
 Native Worker Replicas | - | yes | 1
@@ -58,6 +58,8 @@ Native Worker Replicas | - | yes | 1
 - 2023-03-22 – Update to v.1.80.1
 - 2023-05-25 – Update to latest + EE
 - 2025-07-28 – Update to v.1.514
+- 2026-02-24 – Version bumped to 1.644
+- 2026-05-07 – Version bumped to 1.696.2
 
 ## Contributors
 

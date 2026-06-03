@@ -51,7 +51,7 @@ Default login email: admin@localhost, password: admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | joplin
-App Service Image | - | yes | joplin/server:3.5.2
+App Service Image | - | yes | joplin/server:3.6.1
 Database Service Name | - | yes | joplin-db
 
 ## Screenshots
@@ -65,6 +65,7 @@ Database Service Name | - | yes | joplin-db
 - 2025-02-28 – Version bumped to 3.3.3-beta
 - 2025-07-22 – Version bumped to 3.4.1
 - 2025-12-25 – Version bumped to 3.5.2
+- 2026-05-08 – Version bumped to 3.6.1
 
 ## Contributors
 

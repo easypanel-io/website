@@ -40,7 +40,7 @@ Password Pusher is an open-source, self-hosted application designed to securely 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | passwordpusher
-App Service Image | - | yes | pglombardo/pwpush:1.65
+App Service Image | - | yes | pglombardo/pwpush:1.68
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | pglombardo/pwpush:1.65
 - 2025-02-28 – Version bumped to 1.51
 - 2025-07-24 – Version bumped to 1.59
 - 2025-12-29 – Version bumped to 1.65
+- 2026-02-24 – Version bumped to 1.68
 
 ## Contributors
 

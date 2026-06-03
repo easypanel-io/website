@@ -42,7 +42,7 @@ GoPeed is a high-performance download manager that supports HTTP, HTTPS, FTP, Bi
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gopeed
-App Service Image | - | yes | liwei2633/gopeed:v1.7.0
+App Service Image | - | yes | liwei2633/gopeed:v1.9.3
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | liwei2633/gopeed:v1.7.0
 ## Change Log
 
 - 2025-05-02 – Initial release
+- 2026-04-29 – Version bumped to v1.9.3
 
 ## Contributors
 

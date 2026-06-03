@@ -44,7 +44,7 @@ Monetr is a self-hosted personal finance management application that helps you t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | monetr
-App Service Image | - | yes | ghcr.io/monetr/monetr:1.9.0
+App Service Image | - | yes | ghcr.io/monetr/monetr:1.13.3
 Valkey Image | Valkey (Redis-compatible) image version | yes | valkey/valkey:9.0.2
 Allow Sign Up | Allow new user registrations (recommended to disable if exposed to public internet) | no | true
 Storage Enabled | Enable file storage functionality | no | true
@@ -57,6 +57,7 @@ Storage Provider | Storage provider type (e.g., filesystem, s3) | no | filesyste
 ## Change Log
 
 - 2025-01-28 – Initial Template Release
+- 2026-05-04 – Version bumped to 1.13.3
 
 ## Contributors
 

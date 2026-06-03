@@ -45,7 +45,7 @@ Default admin login; admin/admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | redmine
-App Service Image | - | yes | redmine:6.1.0
+App Service Image | - | yes | redmine:6.1.2
 Database Service Name | - | yes | redmine-db
 
 ## Screenshots
@@ -58,6 +58,7 @@ Database Service Name | - | yes | redmine-db
 - 2025-02-28 – Version bumped to 6.0.3
 - 2025-07-24 – Version bumped to 6.0.6
 - 2025-12-29 – Version bumped to 6.1.0
+- 2026-05-05 – Version bumped to 6.1.2
 
 ## Contributors
 

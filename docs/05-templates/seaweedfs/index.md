@@ -47,7 +47,7 @@ Open the admin UI.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | seaweedfs
-SeaweedFS Image | - | yes | chrislusf/seaweedfs:4.13
+SeaweedFS Image | - | yes | chrislusf/seaweedfs:4.23
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ SeaweedFS Image | - | yes | chrislusf/seaweedfs:4.13
 ## Change Log
 
 - 2026-02-19 – Template Release (4.13)
+- 2026-05-05 – Version bumped to 4.23
 
 ## Contributors
 

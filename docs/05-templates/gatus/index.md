@@ -48,7 +48,7 @@ you can modify the config from the config.yaml file in the storage section.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gatus
-App Service Image | - | yes | twinproduction/gatus:v5.33.1
+App Service Image | - | yes | twinproduction/gatus:v5.35.0
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | twinproduction/gatus:v5.33.1
 ## Change Log
 
 - 2025-12-17 – Template Release
+- 2026-04-29 – Version bumped to v5.35.0
 
 ## Contributors
 

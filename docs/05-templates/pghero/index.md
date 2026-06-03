@@ -40,7 +40,7 @@ PgHero is a powerful performance dashboard for PostgreSQL databases that provide
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pghero
-App Service Image | PgHero Docker image | yes | ankane/pghero:v3.7.0
+App Service Image | PgHero Docker image | yes | ankane/pghero:v3.8.0
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | PgHero Docker image | yes | ankane/pghero:v3.7.0
 ## Change Log
 
 - 2025-06-25 – Initial Template Release
+- 2026-05-05 – Version bumped to v3.8.0
 
 ## Contributors
 

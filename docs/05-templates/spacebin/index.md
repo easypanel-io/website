@@ -40,7 +40,7 @@ Spacebin is a modern, fast, and reliable pastebin server implemented in Go. Text
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | spacebin
-App Service Image | - | yes | spacebinorg/spirit:v1.0.3
+App Service Image | - | yes | spacebinorg/spirit:v1.1.1
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | spacebinorg/spirit:v1.0.3
 ## Change Log
 
 - 2025-06-12 – First Release
+- 2026-05-07 – version bumped to v1.1.1
 
 ## Contributors
 

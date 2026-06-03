@@ -43,7 +43,7 @@ Homebox is an inventory management system that helps you keep track of your belo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homebox
-App Service Image | - | yes | ghcr.io/sysadminsmedia/homebox:0.11.1
+App Service Image | - | yes | ghcr.io/sysadminsmedia/homebox:0.25.0
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | ghcr.io/sysadminsmedia/homebox:0.11.1
 ## Change Log
 
 - 2025-04-14 – First Release
+- 2026-04-29 – Version bumped to 0.25.0
 
 ## Contributors
 

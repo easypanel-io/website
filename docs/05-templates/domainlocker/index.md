@@ -42,7 +42,7 @@ Domain Locker is a self-hosted domain portfolio management and monitoring applic
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | domainlocker
-App Service Image | - | yes | lissy93/domain-locker:0.1.2
+App Service Image | - | yes | lissy93/domain-locker:0.1.4
 Ntfy Server URL (optional) | URL for ntfy.sh notifications (e.g., https://ntfy.sh) | no | 
 Ntfy Topic (optional) | Topic name for notifications | no | 
 
@@ -55,6 +55,7 @@ Ntfy Topic (optional) | Topic name for notifications | no |
 ## Change Log
 
 - 2025-11-17 – Template Release
+- 2026-04-29 – Version bumped to 0.1.4
 
 ## Contributors
 

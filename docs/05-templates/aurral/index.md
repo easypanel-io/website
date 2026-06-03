@@ -40,7 +40,7 @@ Aurral is a self-hosted music discovery and request management app for Lidarr. S
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | aurral
-Aurral Image | - | yes | ghcr.io/lklynet/aurral:1.34.2
+Aurral Image | - | yes | ghcr.io/lklynet/aurral:1.51.0
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ Aurral Image | - | yes | ghcr.io/lklynet/aurral:1.34.2
 ## Change Log
 
 - 2026-02-16 – Template Release (1.34.2)
+- 2026-04-29 – Version bumped to (1.51.0)
 
 ## Contributors
 

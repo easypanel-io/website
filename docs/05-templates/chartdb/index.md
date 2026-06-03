@@ -44,7 +44,7 @@ ChartDB is an open-source, web-based database diagramming editor that enables yo
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chartdb
-App Service Image | ChartDB Docker image | yes | ghcr.io/chartdb/chartdb:1.19.0
+App Service Image | ChartDB Docker image | yes | ghcr.io/chartdb/chartdb:1.20.1
 OpenAI API Key | Optional OpenAI API key to enable AI-powered features like intelligent SQL export and schema suggestions | no | 
 
 ## Screenshots
@@ -55,6 +55,7 @@ OpenAI API Key | Optional OpenAI API key to enable AI-powered features like inte
 
 - 2025-10-30 – Initial Template Release
 - 2026-02-18 – Version bumped to 1.19.0
+- 2026-04-29 – Version bumped to 1.20.1
 
 ## Contributors
 

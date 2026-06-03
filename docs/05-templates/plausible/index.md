@@ -43,6 +43,11 @@ App Service Name | - | yes | plausible
 App Service Image | - | yes | plausible/analytics:v2.0.0
 Database Service Name | - | yes | plausible-db
 Database Service Name | - | yes | plausible-clickhouse
+Mailer Email | - | yes | noreply@xxxxx.com
+SMTP Host Address | - | yes | smtp-relay.brevo.com
+SMTP Host Port | - | yes | 587
+SMTP User Name | - | yes | xxxxxxx@smtp-brevo.com
+SMTP User Password | - | yes | xxxxxxxxx
 
 ## Screenshots
 

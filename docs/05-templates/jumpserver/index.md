@@ -47,7 +47,7 @@ Login using the default admin credentials; admin/ChangeMe.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jumpserver
-App Service Image | JumpServer Docker image | yes | jumpserver/jms_all:v4.10.15
+App Service Image | JumpServer Docker image | yes | jumpserver/jms_all:v4.10.16
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | JumpServer Docker image | yes | jumpserver/jms_all:v4.10.15
 - 2025-09-06 – Initial Template Release (v4.10.7)
 - 2025-12-25 – Version bumped to v4.10.12
 - 2026-02-21 – Version bumped to v4.10.15
+- 2026-05-04 – Version bumped to v4.10.16
 
 ## Contributors
 

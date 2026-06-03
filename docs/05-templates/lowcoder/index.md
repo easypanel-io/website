@@ -40,9 +40,9 @@ Open-source low-code platform to build internal tools with minimal effort.
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | lowcoder
-API Service Image | - | yes | lowcoderorg/lowcoder-ce-api-service:2.6.5
-Node Service Image | - | yes | lowcoderorg/lowcoder-ce-node-service:2.6.5
-Frontend Image | - | yes | lowcoderorg/lowcoder-ce-frontend:2.6.5
+API Service Image | - | yes | lowcoderorg/lowcoder-ce-api-service:2.7.6
+Node Service Image | - | yes | lowcoderorg/lowcoder-ce-node-service:2.7.6
+Frontend Image | - | yes | lowcoderorg/lowcoder-ce-frontend:2.7.6
 Superuser Username | - | yes | admin@localhost
 Superuser Password | - | yes | password
 SMTP Host | - | yes | smtp.gmail.com
@@ -58,6 +58,7 @@ Notification Email Sender | - | yes | info@localhost
 ## Change Log
 
 - 2025-05-26 – First release
+- 2026-05-08 – Version bumped to 2.7.6
 
 ## Contributors
 

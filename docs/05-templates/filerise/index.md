@@ -49,7 +49,7 @@ On first launch, you will be guided to create the initial admin user.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filerise
-App Service Image | - | yes | error311/filerise-docker:v3.5.0
+App Service Image | - | yes | error311/filerise-docker:v3.12.0
 Total Upload Size | Maximum total upload size allowed | no | 10G
 
 ## Screenshots
@@ -59,6 +59,7 @@ Total Upload Size | Maximum total upload size allowed | no | 10G
 ## Change Log
 
 - 2025-09-22 – First release
+- 2026-04-29 – Version bumped to v3.12.0
 
 ## Contributors
 

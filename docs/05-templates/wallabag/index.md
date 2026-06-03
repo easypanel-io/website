@@ -40,7 +40,7 @@ Wallabag is a self-hosted read-it-later application that allows you to save web 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wallabag
-App Service Image | - | yes | wallabag/wallabag:2.6.13
+App Service Image | - | yes | wallabag/wallabag:2.6.14
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | wallabag/wallabag:2.6.13
 ## Change Log
 
 - 2025-01-31 – First Release
+- 2026-02-24 – Version bumped to 2.6.14
 
 ## Contributors
 

@@ -41,7 +41,7 @@ Suwayomi Server is a free and open source manga reader server that runs on the d
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | suwayomi-server
-App Service Image | - | yes | ghcr.io/suwayomi/suwayomi-server:v2.1.2031
+App Service Image | - | yes | ghcr.io/suwayomi/suwayomi-server:v2.1.2099
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | ghcr.io/suwayomi/suwayomi-server:v2.1.2031
 
 - 2025-09-12 – Template Release
 - 2025-12-29 – Version bumped to v2.1.2031
+- 2026-02-24 – Version bumped to v2.1.2087
+- 2026-05-07 – Version bumped to v2.1.2099
 
 ## Contributors
 

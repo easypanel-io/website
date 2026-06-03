@@ -50,7 +50,7 @@ On first launch, Homarr will display an onboarding wizard. Create your admin acc
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | homarr
-App Service Image | - | yes | ghcr.io/homarr-labs/homarr:v1.53.2
+App Service Image | - | yes | ghcr.io/homarr-labs/homarr:v1.59.3
 Timezone | Timezone for the application | yes | Australia/Melbourne
 
 ## Screenshots
@@ -64,6 +64,7 @@ Timezone | Timezone for the application | yes | Australia/Melbourne
 - 2025-02-25 – Version bumped to 0.15.10
 - 2025-12-25 – Version bumped to 0.16.0
 - 2026-02-24 – Version bumped to 1.53.2
+- 2026-05-08 – Version bumped to 1.59.3
 
 ## Contributors
 

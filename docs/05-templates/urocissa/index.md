@@ -48,7 +48,7 @@ Default password is generated automatically.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | urocissa
-App Service Image | - | yes | hsa00000/urocissa:2.0.12
+App Service Image | - | yes | hsa00000/urocissa:2.0.14
 Password | - | no | 
 
 ## Screenshots
@@ -58,6 +58,7 @@ Password | - | no |
 ## Change Log
 
 - 2026-03-02 – First Release (v2.0.12)
+- 2026-05-07 – Version bumped to v2.0.14
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Firefly III is a self-hosted personal finance manager designed to help you take 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | fireflyiii
-App Service Image | - | yes | fireflyiii/core:version-6.4.23
+App Service Image | - | yes | fireflyiii/core:version-6.6.2
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | fireflyiii/core:version-6.4.23
 - 2025-07-21 – Version bumped to 6.2.21
 - 2025-12-25 – Version bumped to 6.4.14
 - 2026-02-21 – Version bumped to 6.4.23
+- 2026-04-29 – Version bumped to 6.6.2
 
 ## Contributors
 

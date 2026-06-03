@@ -43,7 +43,7 @@ Gladys Assistant is a privacy-first, open-source home automation platform that a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gladys
-App Service Image | - | yes | gladysassistant/gladys:sha-c6bc0ba
+App Service Image | - | yes | gladysassistant/gladys:sha-569dfde
 Timezone | Timezone for the application (e.g., Asia/Karachi, America/New_York, Europe/London) | yes | Asia/Karachi
 
 ## Screenshots
@@ -53,6 +53,7 @@ Timezone | Timezone for the application (e.g., Asia/Karachi, America/New_York, E
 ## Change Log
 
 - 2025-01-29 – Initial Template Release
+- 2026-04-29 – Version bumped to sha-569dfde
 
 ## Contributors
 

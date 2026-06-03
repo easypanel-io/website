@@ -41,7 +41,7 @@ Mathesar is an open-source database GUI that makes PostgreSQL accessible to non-
 Name | Description | Required | Default Value
 -|-|-|-
 Service Name | - | yes | mathesar
-App Service Image | - | yes | mathesar/mathesar:0.6.0
+App Service Image | - | yes | mathesar/mathesar:0.10.1
 Database Image Service | - | yes | pgautoupgrade/pgautoupgrade:18.2-trixie
 
 ## Screenshots
@@ -51,6 +51,7 @@ Database Image Service | - | yes | pgautoupgrade/pgautoupgrade:18.2-trixie
 ## Change Log
 
 - 2025-10-20 – Initial Release (v0.6.0)
+- 2026-05-08 – Version bumped to v0.10.0
 
 ## Contributors
 

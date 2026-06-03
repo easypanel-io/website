@@ -51,7 +51,7 @@ necessary permissions to access the Docker daemon.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | dockhand
-App Service Image | - | yes | fnsys/dockhand:8d75d786
+App Service Image | - | yes | fnsys/dockhand:48a80675
 
 ## Screenshots
 
@@ -60,6 +60,7 @@ App Service Image | - | yes | fnsys/dockhand:8d75d786
 ## Change Log
 
 - 2026-01-07 (8d75d786) – Template Release
+- 2026-04-29 – Version bumped to 48a80675
 
 ## Contributors
 

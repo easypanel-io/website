@@ -39,7 +39,7 @@ Weaviate is an open-source vector database that allows you to store and retrieve
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | weaviate
-App Service Image | - | yes | semitechnologies/weaviate:1.27.0
+App Service Image | - | yes | semitechnologies/weaviate:1.33.0
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | semitechnologies/weaviate:1.27.0
 ## Change Log
 
 - 2023-06-30 – first release
+- 2026-02-24 – Version bumped to 1.33.0
 
 ## Contributors
 

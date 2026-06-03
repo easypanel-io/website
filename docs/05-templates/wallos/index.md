@@ -44,7 +44,7 @@ Wallos is an open-source, self-hosted network monitoring and management platform
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wallos
-App Service Image | - | yes | bellamy/wallos:4.1.1
+App Service Image | - | yes | bellamy/wallos:4.8.4
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | bellamy/wallos:4.1.1
 ## Change Log
 
 - 2025-08-26 – First release
+- 2026-05-07 – Version bumped to 4.8.4
 
 ## Contributors
 

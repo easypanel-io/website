@@ -41,7 +41,7 @@ HedgeDoc, previously known as CodiMD, is an open-source, web-based, self-hosted,
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | hedgedoc
-App Service Image | - | yes | quay.io/hedgedoc/hedgedoc:1.10.6
+App Service Image | - | yes | quay.io/hedgedoc/hedgedoc:1.10.8
 Database Service Name | - | yes | hedgedoc-db
 
 ## Screenshots
@@ -56,6 +56,7 @@ Database Service Name | - | yes | hedgedoc-db
 - 2025-07-22 – Version bumped to v1.10.3
 - 2025-12-25 – Version bumped to v1.10.5
 - 2026-02-21 – Version bumped to v1.10.6
+- 2026-04-29 – Version bumped to v1.10.8
 
 ## Contributors
 

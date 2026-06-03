@@ -43,7 +43,7 @@ Forgejo is a community-driven, lightweight, and self-hosted Git service that off
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | forgejo
-App Service Image | - | yes | codeberg.org/forgejo/forgejo:14.0.2
+App Service Image | - | yes | codeberg.org/forgejo/forgejo:15.0.1
 Select Database Type | - | yes | 
 
 ## Screenshots
@@ -55,6 +55,7 @@ Select Database Type | - | yes |
 - 2024-12-21 – First Release
 - 2025-02-25 – Version bumped to 10.0.1
 - 2026-02-21 – Version bumped to 14.0.2
+- 2026-04-29 – Version bumped to 15.0.1
 
 ## Contributors
 

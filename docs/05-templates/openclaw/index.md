@@ -49,14 +49,14 @@ Once deployed, the gateway service will start automatically. To complete setup, 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | openclaw
-OpenClaw Image | Docker image for OpenClaw | yes | ghcr.io/openclaw/openclaw:2026.2.3
-Gateway Token | Token for authenticating with the gateway service (auto-generated if empty) | no | 
-Gateway Bind | Network interface to bind to (e.g., lan, localhost) | no | lan
-Gateway Port | Published port for the gateway service | no | 18789
+OpenClaw Image | Docker image for OpenClaw | yes | ghcr.io/openclaw/openclaw:2026.5.3-1
+Gateway Token | Token for authenticating with the gateway service (leave empty to securely auto-generate) | no | 
+Gateway Port | Published HTTP port for the Gateway Service and Control UI | no | 18789
 Bridge Port | Published port for the bridge service | no | 18790
 Claude AI Session Key | Claude AI session key (optional) | no | 
 Claude Web Session Key | Claude Web session key (optional) | no | 
 Claude Web Cookie | Claude Web cookie (optional) | no | 
+Enable Agent Sandboxing | Allows OpenClaw to securely spawn isolated Docker containers for agents to run code. (Requires Docker socket mount) | no | false
 
 ## Screenshots
 
@@ -66,7 +66,10 @@ Claude Web Cookie | Claude Web cookie (optional) | no |
 ## Change Log
 
 - 2026-02-02 – Initial Template Release
+- 2026-03-19 – Improved variable descriptions and added agent sandboxing option
+- 2026-05-05 – Version bumped to 2026.5.3-1
 
 ## Contributors
 
 - [Ahson Shaikh](https://github.com/Ahson-Shaikh)
+- [Alan Mosko](https://github.com/moskoweb)

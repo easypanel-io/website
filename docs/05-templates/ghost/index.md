@@ -42,7 +42,7 @@ Ghost is a robust application designed for new-media creators looking to turn th
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ghost
-App Service Image | - | yes | ghost:5.130.1
+App Service Image | - | yes | ghost:6.35.0
 Database Service Name | - | yes | ghost-db
 SMTP Server Host | - | yes | smtp.example.com
 SMTP Server Port | - | yes | 587
@@ -63,6 +63,7 @@ SMTP From Email | - | yes | no-reply@example.com
 - 2025-01-14 – Version bumped to 5.106.1-alpine
 - 2025-02-25 – Version bumped to 5.110.1
 - 2025-07-21 – Version bumped to 5.130.1
+- 2026-04-29 – Version bumped to 6.35.0
 
 ## Contributors
 

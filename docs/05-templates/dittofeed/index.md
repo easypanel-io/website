@@ -34,6 +34,7 @@ Please remove the bootstrap environment variable after the initial setup is comp
 
 ## Links
 
+- [Website](https://dittofeed.com)
 - [Documentation](https://docs.dittofeed.com/introduction)
 - [Github](https://github.com/dittofeed/dittofeed)
 - [Template Source](https://github.com/easypanel-io/templates/tree/main/templates/dittofeed)
@@ -45,7 +46,7 @@ Name | Description | Required | Default Value
 App Service Name | - | yes | dittofeed
 App Service Image | - | yes | dittofeed/dittofeed-lite:v0.23.0
 Clickhouse Service Image | - | yes | clickhouse/clickhouse-server:23.8.8.20-alpine
-Minio Service Image | - | yes | minio/minio:latest
+Minio Service Image | - | yes | minio/minio:RELEASE.2025-07-23T15-54-02Z
 Temporal Service Image | - | yes | temporalio/auto-setup:1.22.4
 Temporal UI Service Image | - | yes | temporalio/ui:2.22.1
 Default Workspace Name | - | yes | default

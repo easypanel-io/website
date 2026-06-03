@@ -45,7 +45,7 @@ Ryot is a self-hosted platform for tracking and managing your media consumption 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ryot
-App Service Image | - | yes | ignisda/ryot:v9
+App Service Image | - | yes | ignisda/ryot:v10.3.10
 
 ## Screenshots
 
@@ -54,6 +54,8 @@ App Service Image | - | yes | ignisda/ryot:v9
 ## Change Log
 
 - 2025-12-04 – Template Release
+- 2026-02-24 – Version bumped to v10
+- 2026-05-05 – Version bumped to v10.3.10
 
 ## Contributors
 

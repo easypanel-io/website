@@ -43,7 +43,7 @@ After Connecting with the DB, configure the URL to be https in next screen of in
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | projectsend
-App Service Image | - | yes | lscr.io/linuxserver/projectsend:version-r1945
+App Service Image | - | yes | lscr.io/linuxserver/projectsend:version-r2029
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | lscr.io/linuxserver/projectsend:version-r1945
 
 - 2025-02-14 – Template Release
 - 2025-12-29 – Version bumped to version-r1945
+- 2026-05-05 – Version bumped to version-r2029
 
 ## Contributors
 

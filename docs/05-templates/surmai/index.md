@@ -49,7 +49,7 @@ https://surmai.app/documentation/installation for Docker details.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | surmai
-App Service Image | - | yes | ghcr.io/rohitkumbhar/surmai:v0.4.16
+App Service Image | - | yes | ghcr.io/rohitkumbhar/surmai:v0.5.0
 Admin Email | Initial Surmai administrator email (PocketBase admin) | yes | admin@example.com
 
 ## Screenshots
@@ -60,6 +60,7 @@ Admin Email | Initial Surmai administrator email (PocketBase admin) | yes | admi
 
 - 2026-03-23 – Accurate travel-organizer description; image v0.4.16; auto-generated admin password (randomPassword).
 - 2025-01-21 – Initial Template Release
+- 2026-05-07 – Version bumped to v0.5.0
 
 ## Contributors
 

@@ -54,7 +54,7 @@ configuration is needed; the image works with OpenTelemetry defaults.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grafana-otel-lgtm
-Grafana OTEL LGTM Image | - | yes | grafana/otel-lgtm:0.22.0
+Grafana OTEL LGTM Image | - | yes | grafana/otel-lgtm:0.27.0
 OTLP Port | - | no | 4317
 OTLP HTTP Port | - | no | 4318
 
@@ -65,6 +65,7 @@ OTLP HTTP Port | - | no | 4318
 ## Change Log
 
 - 2026-02-20 – Template Release
+- 2026-04-29 – Version bumped to 0.27.0
 
 ## Contributors
 

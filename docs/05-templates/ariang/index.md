@@ -42,7 +42,7 @@ AriaNg is a modern web frontend for aria2, a lightweight multi-protocol &amp; mu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | ariang
-App Service Image | - | yes | hurlenko/aria2-ariang:1.3.10
+App Service Image | - | yes | hurlenko/aria2-ariang:1.3.13
 RPC Secret | - | yes | secret
 
 ## Screenshots
@@ -53,6 +53,7 @@ RPC Secret | - | yes | secret
 ## Change Log
 
 - 2025-05-05 – Initial release
+- 2026-04-29 – Version bumped to 1.3.13
 
 ## Contributors
 

@@ -41,7 +41,7 @@ Termix is a lightweight, web-based terminal emulator and SSH client that allows 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | termix
-App Service Image | - | yes | ghcr.io/lukegus/termix:release-1.8.0
+App Service Image | - | yes | ghcr.io/lukegus/termix:release-1.11.1
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | ghcr.io/lukegus/termix:release-1.8.0
 ## Change Log
 
 - 2025-11-13 – Template Release
+- 2026-02-24 – Version bumped to release-1.11.1
 
 ## Contributors
 

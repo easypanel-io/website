@@ -43,7 +43,7 @@ Grav is an award-winning, open-source, flat-file content management system (CMS)
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | grav
-App Service Image | - | yes | linuxserver/grav:1.7.49
+App Service Image | - | yes | linuxserver/grav:1.7.52
 Timezone | - | yes | Etc/UTC
 
 ## Screenshots
@@ -56,6 +56,7 @@ Timezone | - | yes | Etc/UTC
 - 2023-03-19 – Template created (v1.7.39)
 - 2025-01-14 – Version bumped to 1.7.48
 - 2025-12-25 – Version bumped to 1.7.49
+- 2026-04-29 – Version bumped to 1.7.52
 
 ## Contributors
 

@@ -41,7 +41,7 @@ Name | Description | Required | Default Value
 Email | - | yes | admin@example.com
 Password | - | yes | password
 App Service Name | - | yes | labelstudio
-App Service Image | - | yes | heartexlabs/label-studio:20250722.133548-develop-cc90fa143
+App Service Image | - | yes | heartexlabs/label-studio:1.23.0
 
 ## Screenshots
 
@@ -50,6 +50,7 @@ App Service Image | - | yes | heartexlabs/label-studio:20250722.133548-develop-c
 ## Change Log
 
 - 2025-02-14 – First Release
+- 2026-05-08 – Version bumped to 21.23.0
 
 ## Contributors
 

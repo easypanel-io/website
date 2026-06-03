@@ -46,8 +46,8 @@ KitchenOwl is a self-hosted grocery list and recipe manager designed to help you
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kitchenowl
-Frontend Image | - | yes | tombursch/kitchenowl-web:v0.7.4
-Backend Image | - | yes | tombursch/kitchenowl-backend:v0.7.4
+Frontend Image | - | yes | tombursch/kitchenowl-web:v0.7.8
+Backend Image | - | yes | tombursch/kitchenowl-backend:v0.7.8
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ Backend Image | - | yes | tombursch/kitchenowl-backend:v0.7.4
 ## Change Log
 
 - 2025-09-25 – First release (v0.7.4)
+- 2026-05-04 – Version bumped to (v0.7.8)
 
 ## Contributors
 

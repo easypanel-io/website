@@ -47,7 +47,7 @@ After installation, TruffleHog will scan the specified directory for secrets. Co
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | trufflehog
-App Service Image | - | yes | trufflesecurity/trufflehog:3.92.5
+App Service Image | - | yes | trufflesecurity/trufflehog:3.93.4
 Scan Path | Host path to scan for secrets | yes | /path/to/scan
 Scan Command | Command to run for scanning (e.g., 'trufflehog filesystem /workdir') | yes | trufflehog filesystem /workdir
 
@@ -58,6 +58,7 @@ Scan Command | Command to run for scanning (e.g., 'trufflehog filesystem /workdi
 ## Change Log
 
 - 2025-05-05 – Initial release
+- 2026-02-24 – Version bumped to 3.93.4
 
 ## Contributors
 

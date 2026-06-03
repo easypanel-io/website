@@ -41,7 +41,7 @@ Zoraxy is a general-purpose reverse proxy and web application gateway designed f
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | zoraxy
-App Service Image | - | yes | zoraxydocker/zoraxy:v3.2.9
+App Service Image | - | yes | zoraxydocker/zoraxy:v3.3.2
 
 ## Screenshots
 
@@ -50,6 +50,8 @@ App Service Image | - | yes | zoraxydocker/zoraxy:v3.2.9
 ## Change Log
 
 - 2025-11-07 – Template Release
+- 2026-02-24 – Version bumped to v3.3.1
+- 2026-05-07 – Version bumped to v3.3.2
 
 ## Contributors
 

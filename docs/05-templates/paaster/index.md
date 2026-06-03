@@ -50,8 +50,8 @@ For external S3/R2, set S3 env vars on the Paaster service.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | paaster
-App Service Image | - | yes | wardpearce/paaster:3.1.7
-MongoDB Image | - | yes | mongo:8.2.6
+App Service Image | - | yes | wardpearce/paaster:3.2.0
+MongoDB Image | - | yes | mongo:8.3.1
 MinIO Image | - | yes | quay.io/minio/minio:RELEASE.2025-09-07T16-13-09Z
 
 ## Screenshots
@@ -61,6 +61,7 @@ MinIO Image | - | yes | quay.io/minio/minio:RELEASE.2025-09-07T16-13-09Z
 ## Change Log
 
 - 2026-03-09 – First Release
+- 2026-05-08 – Version bumped to 3.2.0
 
 ## Contributors
 

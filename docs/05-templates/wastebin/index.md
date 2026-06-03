@@ -45,7 +45,7 @@ In case of Sqlite write error. Go to your host machine and go the directory. &qu
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wastebin
-App Service Image | - | yes | quxfoo/wastebin:3.2.0
+App Service Image | - | yes | quxfoo/wastebin:3.6.2
 
 ## Screenshots
 
@@ -55,6 +55,8 @@ App Service Image | - | yes | quxfoo/wastebin:3.2.0
 
 - 2025-03-17 – First Release (v3.0.0)
 - 2025-07-25 – Version bumped to 3.2.0
+- 2026-02-24 – Version bumped to 3.4.0
+- 2026-05-07 – Version bumped to 3.6.2
 
 ## Contributors
 

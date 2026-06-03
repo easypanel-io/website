@@ -46,7 +46,7 @@ WireGuard Easy is an all-in-one application designed to simplify the installatio
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wg-easy
-App Service Image | - | yes | ghcr.io/wg-easy/wg-easy:15
+App Service Image | - | yes | ghcr.io/wg-easy/wg-easy:15.2.2
 App Service Port | - | yes | 51820
 
 ## Screenshots
@@ -57,6 +57,7 @@ App Service Port | - | yes | 51820
 
 - 2022-12-20 – first release
 - 2025-06-25 – Fixed the Access Issue
+- 2026-05-07 – Version bumped to 15.2.2
 
 ## Contributors
 

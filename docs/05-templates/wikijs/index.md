@@ -43,7 +43,7 @@ Wiki.js is a powerful and extensible open source Wiki software designed to make 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | wikijs
-App Service Image | - | yes | ghcr.io/requarks/wiki:2.5.306
+App Service Image | - | yes | ghcr.io/requarks/wiki:2.5.314
 Database Type | - | yes | postgres
 Database Service Name | - | yes | wikijs-db
 
@@ -55,6 +55,7 @@ Database Service Name | - | yes | wikijs-db
 - 2022-07-12 – first release
 - 2023-03-22 – Update to v2.5.298
 - 2025-03-03 – Version bumped to 2.5.306
+- 2026-05-07 – Version bumped to 2.5.314
 
 ## Contributors
 

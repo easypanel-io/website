@@ -41,7 +41,7 @@ NodeCast TV is a self-hosted media casting and streaming application that allows
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nodecast-tv
-App Service Image | - | yes | ghcr.io/technomancer702/nodecast-tv:1.4.4
+App Service Image | - | yes | ghcr.io/technomancer702/nodecast-tv:2.1.1
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | ghcr.io/technomancer702/nodecast-tv:1.4.4
 ## Change Log
 
 - 2025-01-17 – Initial Template Release
+- 2026-05-04 – Version bumped to 2.1.1
 
 ## Contributors
 

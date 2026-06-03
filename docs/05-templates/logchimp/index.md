@@ -42,9 +42,9 @@ LogChimp is an open-source feedback and changelog platform that lets you collect
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | logchimp
-API Image | - | yes | ghcr.io/logchimp/logchimp/api:0.7.1
-Theme Image | - | yes | ghcr.io/logchimp/logchimp/theme:0.7.1
-Valkey Image | - | yes | valkey/valkey:9.0.2
+API Image | - | yes | ghcr.io/logchimp/logchimp/api:0.9.0
+Theme Image | - | yes | ghcr.io/logchimp/logchimp/theme:0.9.0
+Valkey Image | - | yes | valkey/valkey:9.0.4-alpine3.23
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ Valkey Image | - | yes | valkey/valkey:9.0.2
 ## Change Log
 
 - 2025-12-23 – Template Release
+- 2026-05-08 – Version bumped to 0.9.0
 
 ## Contributors
 

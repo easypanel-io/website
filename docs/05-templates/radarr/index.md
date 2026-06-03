@@ -41,7 +41,7 @@ Radarr is a movie collection manager designed for Usenet and BitTorrent users. I
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | radarr
-App Service Image | - | yes | linuxserver/radarr:6.0.4
+App Service Image | - | yes | linuxserver/radarr:6.1.1
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | linuxserver/radarr:6.0.4
 - 2022-10-30 – first release
 - 2025-02-28 – Version bumped to 5.19.3
 - 2025-12-29 – Version bumped to 6.0.4
+- 2026-05-05 – Version bumped to 6.1.1
 
 ## Contributors
 

@@ -45,7 +45,7 @@ Default login; username=admin, password=admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sonarqube
-App Service Image | - | yes | sonarqube:9.9.8-community
+App Service Image | - | yes | sonarqube:26.4.0.121862-community
 Database Service Name | - | yes | sonarqube-db
 
 ## Screenshots
@@ -56,6 +56,7 @@ Database Service Name | - | yes | sonarqube-db
 
 - 2022-12-15 – Latest release with enhanced language support and bug fixes
 - 2025-03-03 – Version bumped to 9.9.8-community
+- 2026-05-07 – Version bumped to 26.4.0.121862-community
 
 ## Contributors
 

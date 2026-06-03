@@ -46,7 +46,7 @@ Default login credentials are itsm/itsm
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | itsmng
-App Service Image | - | yes | itsmng/itsm-ng:2.1.3
+App Service Image | - | yes | itsmng/itsm-ng:2.1.4
 
 ## Screenshots
 
@@ -56,6 +56,7 @@ App Service Image | - | yes | itsmng/itsm-ng:2.1.3
 
 - 2025-11-07 – Template Release
 - 2026-02-21 – Version bumped to v2.1.3
+- 2026-05-04 – Version bumped to v2.1.4
 
 ## Contributors
 

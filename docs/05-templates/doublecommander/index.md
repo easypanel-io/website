@@ -42,7 +42,7 @@ A cross-platform open-source file manager with two panels side by side. It is in
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | doublecommander
-App Service Image | - | yes | lscr.io/linuxserver/doublecommander:version-20b432aa
+App Service Image | - | yes | lscr.io/linuxserver/doublecommander:version-9bcf3fdc
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | lscr.io/linuxserver/doublecommander:version-20b432
 ## Change Log
 
 - 2025-05-07 – Initial release
+- 2026-04-29 – Version bumped to version-9bcf3fdc
 
 ## Contributors
 

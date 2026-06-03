@@ -41,7 +41,7 @@ Alerta is a monitoring system that consolidates and deduplicates alerts from mul
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | alerta
-App Service Image | Image to use for the app service | yes | alerta/alerta-web:9.0.4
+App Service Image | Image to use for the app service | yes | alerta/alerta-web:9.1.0
 Admin Users | Comma-separated list of admin user email addresses | yes | admin@alerta.io
 Admin Password | Password for admin users | yes | super-secret
 Admin Key | API key assigned to the first admin user | yes | demo-key
@@ -54,6 +54,7 @@ Admin Key Max Age | Maximum age of admin API key in days | yes | 500
 ## Change Log
 
 - 2025-05-08 – First Release
+- 2026-04-29 – Version bumped to 9.1.0
 
 ## Contributors
 

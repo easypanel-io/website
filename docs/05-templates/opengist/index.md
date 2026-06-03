@@ -41,7 +41,7 @@ OpenGist is a self-hosted pastebin powered by Git. All snippets are stored in a 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | opengist
-App Service Image | - | yes | ghcr.io/thomiceli/opengist:1.11.1
+App Service Image | - | yes | ghcr.io/thomiceli/opengist:1.12.2
 
 ## Screenshots
 
@@ -51,6 +51,8 @@ App Service Image | - | yes | ghcr.io/thomiceli/opengist:1.11.1
 
 - 2025-06-12 – First Release
 - 2025-12-29 – Version bumped to 1.11.1
+- 2026-02-24 – Version bumped to 1.12.1
+- 2026-05-05 – Version bumped to 1.12.2
 
 ## Contributors
 

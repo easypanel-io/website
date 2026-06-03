@@ -43,7 +43,7 @@ Nametag is a simple, yet effective Personal Relationship Manager (PRM) - like a 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | nametag
-App Service Image | - | yes | ghcr.io/mattogodoy/nametag:0.12.3
+App Service Image | - | yes | ghcr.io/mattogodoy/nametag:0.44.6
 Resend API Key | Optional Resend API key for email functionality (password resets and reminders). Sign up at https://resend.com | no | 
 Email Domain | Optional email domain for sending emails (required if using Resend) | no | 
 
@@ -54,6 +54,7 @@ Email Domain | Optional email domain for sending emails (required if using Resen
 ## Change Log
 
 - 2026-01-14 – Template Release
+- 2026-05-04 – Version bumped to 0.44.6
 
 ## Contributors
 

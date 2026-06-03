@@ -41,7 +41,7 @@ Chief-Onboarding is a comprehensive, self-hosted onboarding and employee managem
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | chiefonboarding
-App Service Image | - | yes | chiefonboarding/chiefonboarding:v2.3.1
+App Service Image | - | yes | chiefonboarding/chiefonboarding:v2.4.1
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | chiefonboarding/chiefonboarding:v2.3.1
 - 2025-01-20 – First Release
 - 2025-07-15 – Version bumped to v2.2.7
 - 2025-12-25 – Version bumped to v2.3.1
+- 2026-04-29 – Version bumped to v2.4.1
 
 ## Contributors
 

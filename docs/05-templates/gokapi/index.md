@@ -38,7 +38,7 @@ Gokapi is a lightweight file-sharing server that allows you to easily upload and
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gokapi
-App Service Image | - | yes | f0rc3/gokapi:v1.9.6
+App Service Image | - | yes | f0rc3/gokapi:v2.2.4
 
 ## Screenshots
 
@@ -47,6 +47,7 @@ App Service Image | - | yes | f0rc3/gokapi:v1.9.6
 ## Change Log
 
 - 2024-05-09 – first release
+- 2026-04-29 – Version bumped to v2.2.4
 
 ## Contributors
 

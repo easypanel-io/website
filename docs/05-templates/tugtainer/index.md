@@ -42,8 +42,8 @@ Tugtainer is a self-hosted Docker container management application that provides
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | tugtainer
-App Service Image | - | yes | ghcr.io/quenary/tugtainer:v1.17.1
-Socket Proxy Image | - | yes | ghcr.io/linuxserver/socket-proxy:3.2.10-r0-ls66
+App Service Image | - | yes | ghcr.io/quenary/tugtainer:v1.29.1
+Socket Proxy Image | - | yes | ghcr.io/linuxserver/socket-proxy:3.2.17-r0-ls79
 Timezone | Timezone for the application (e.g., Asia/Karachi, America/New_York, Europe/London) | yes | Asia/Karachi
 Socket Proxy Containers | Enable container operations (0 or 1) | no | 1
 Socket Proxy Events | Enable event streaming (0 or 1) | no | 1
@@ -62,6 +62,8 @@ Socket Proxy Version | Enable version endpoint (0 or 1) | no | 1
 ## Change Log
 
 - 2025-01-23 – Initial Template Release
+- 2026-02-24 – Version bumped to v1.23.1
+- 2026-05-07 – Version bumped to v1.29.1
 
 ## Contributors
 

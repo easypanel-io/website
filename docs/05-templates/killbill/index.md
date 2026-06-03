@@ -50,8 +50,8 @@ You have to configure the KillBill URL in your Kaui Environment Section. Then ac
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | killbill
-KillBill Service Image | - | yes | killbill/killbill:0.24.16
-Kaui Admin Console Image | - | yes | killbill/kaui:4.0.6
+KillBill Service Image | - | yes | killbill/killbill:0.24.17
+Kaui Admin Console Image | - | yes | killbill/kaui:4.0.14
 
 ## Screenshots
 
@@ -61,6 +61,7 @@ Kaui Admin Console Image | - | yes | killbill/kaui:4.0.6
 
 - 2023-3-16 – First release
 - 2025-12-25 – Version bumped to 0.24.16 and 4.0.6
+- 2026-05-04 – Version bumped to 0.24.17 and 4.0.14
 
 ## Contributors
 

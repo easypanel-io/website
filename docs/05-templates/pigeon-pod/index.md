@@ -48,7 +48,7 @@ Login using the credentials; username=root, password=Root@123
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | pigeon-pod
-App Service Image | - | yes | ghcr.io/aizhimou/pigeon-pod:release-1.19.10
+App Service Image | - | yes | ghcr.io/aizhimou/pigeon-pod:release-1.28.0
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | ghcr.io/aizhimou/pigeon-pod:release-1.19.10
 ## Change Log
 
 - 2026-01-15 – Template Release
+- 2026-05-08 – Version bumped to release-1.28.0
 
 ## Contributors
 

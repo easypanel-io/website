@@ -40,7 +40,7 @@ Warracker is a self-hosted warranty tracking application that helps you manage a
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | warracker
-App Service Image | - | yes | ghcr.io/sassanix/warracker/main:0.10.1.11
+App Service Image | - | yes | ghcr.io/sassanix/warracker/main:0.10.1.14
 SMTP Host | SMTP server hostname for email notifications | no | smtp.email.com
 SMTP Port | SMTP server port | no | 465
 SMTP Username | SMTP authentication username | no | youremail@email.com
@@ -61,6 +61,7 @@ OIDC Scope | OIDC scope for authentication | no | openid email profile
 ## Change Log
 
 - 2025-09-17 – Template Release (v0.10.1.11)
+- 2026-02-24 – Version bumped to 0.10.1.14
 
 ## Contributors
 

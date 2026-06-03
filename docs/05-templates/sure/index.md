@@ -40,7 +40,7 @@ Sure is a self-hosted personal finance management application built with Ruby on
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | sure
-App Service Image | - | yes | ghcr.io/we-promise/sure:0.6.5-alpha.10
+App Service Image | - | yes | ghcr.io/we-promise/sure:0.7.1-alpha.3
 OpenAI API Token (Optional - for AI features) | - | no | 
 
 ## Screenshots
@@ -50,6 +50,8 @@ OpenAI API Token (Optional - for AI features) | - | no |
 ## Change Log
 
 - 2025-11-17 – Template Release
+- 2026-02-24 – Version bumped to 0.6.8-alpha.13
+- 2026-05-07 – Version bumped to 0.7.1-alpha.3
 
 ## Contributors
 

@@ -46,7 +46,7 @@ Admin Username | - | no |
 Admin Mail | - | no | 
 Admin Password | - | no | 
 App Service Name | - | yes | nodebb
-App Service Image | - | yes | nodebb/docker:1.19.12
+App Service Image | - | yes | nodebb/docker:2.8.11
 Database Service Type | - | yes | mongo
 Database Service Name | - | yes | nodebb-db
 
@@ -57,6 +57,7 @@ Database Service Name | - | yes | nodebb-db
 ## Change Log
 
 - 2023-03-24 – First Release
+- 2026-05-04 – Version bumped to 2.8.11
 
 ## Contributors
 

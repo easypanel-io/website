@@ -40,7 +40,7 @@ Transmission is designed for easy, powerful use. Transmission has the features y
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | transmission
-App Service Image | - | yes | linuxserver/transmission:4.0.6
+App Service Image | - | yes | linuxserver/transmission:4.1.1
 
 ## Screenshots
 
@@ -49,6 +49,8 @@ App Service Image | - | yes | linuxserver/transmission:4.0.6
 
 - 2024-03-18 – Template added
 - 2025-03-03 – Version bumped to 4.0.6
+- 2026-02-24 – Version bumped to 4.1.0
+- 2026-05-07 – Version bumped to 4.1.1
 
 ## Contributors
 

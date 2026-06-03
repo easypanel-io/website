@@ -45,7 +45,7 @@ Username | - | no | admin
 Password | - | no | 
 Email | - | no | admin@example.com
 App Service Name | - | yes | suitecrm
-App Service Image | - | yes | bitnamilegacy/suitecrm:8.8.0
+App Service Image | - | yes | bitnamilegacy/suitecrm:8.8.1-debian-12-r3
 Database Service Name | - | yes | suitecrm-db
 
 ## Screenshots
@@ -57,6 +57,7 @@ Database Service Name | - | yes | suitecrm-db
 - 2023-1-12 – first release
 - 2023-07-12 – Added default user registration
 - 2025-03-03 – Version bumped to 8.8.0
+- 2026-05-07 – Version bumped to 8.8.1-debian-12-r3
 
 ## Contributors
 

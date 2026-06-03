@@ -44,7 +44,7 @@ NetAlertX is a network monitoring and notification framework that scans your Wi-
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | netalertx
-App Service Image | - | yes | ghcr.io/jokob-sk/netalertx:25.11
+App Service Image | - | yes | ghcr.io/jokob-sk/netalertx:26.5.4
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | ghcr.io/jokob-sk/netalertx:25.11
 ## Change Log
 
 - 2026-01-15 – Template Release
+- 2026-05-04 – Version bumped to 26.5.4
 
 ## Contributors
 

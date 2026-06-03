@@ -45,7 +45,7 @@ Make sure to setup your Supabase instance before deploying this template.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | shelf
-App Service Image | Shelf.nu Docker image | yes | ghcr.io/shelf-nu/shelf.nu:main-22c9ccd
+App Service Image | Shelf.nu Docker image | yes | ghcr.io/shelf-nu/shelf.nu:main-e54458e
 Supabase Anonymous Public Key | Supabase anonymous public key for authentication | no | 
 Supabase Service Role Key | Supabase service role key for server-side operations | no | 
 Supabase URL | Your Supabase instance URL (e.g., https://yourproject.supabase.co) | no | 
@@ -62,6 +62,7 @@ SMTP Password | SMTP password for email authentication | no |
 ## Change Log
 
 - 2025-06-17 – Initial Template Release
+- 2026-02-24 – Version bumped to main-e54458e
 
 ## Contributors
 

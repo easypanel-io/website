@@ -43,7 +43,7 @@ The Registry doesn&#39;t have a UI. To interact with the registry you should use
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | docker-registry
-App Service Image | - | yes | registry:3.0.0
+App Service Image | - | yes | registry:3.1.0
 User | - | yes | admin
 Password | - | yes | admin
 
@@ -54,6 +54,7 @@ Password | - | yes | admin
 
 - 2022-08-09 – first release
 - 2025-05-26 – Version bumped to 3.0.0
+- 2026-04-29 – Version bumped to 3.1.0
 
 ## Contributors
 

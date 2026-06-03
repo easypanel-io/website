@@ -43,7 +43,7 @@ DrawDB is a free, simple, and intuitive online database schema editor and SQL ge
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | drawdb
-App Service Image | DrawDB Docker image | yes | ghcr.io/drawdb-io/drawdb:v1.4.0
+App Service Image | DrawDB Docker image | yes | ghcr.io/drawdb-io/drawdb:v1.6.0
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | DrawDB Docker image | yes | ghcr.io/drawdb-io/drawdb:v1.4.0
 ## Change Log
 
 - 2025-06-26 – Initial Template Release
+- 2026-04-29 – Version bumped to v1.6.0
 
 ## Contributors
 

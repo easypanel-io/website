@@ -39,7 +39,7 @@ Leantime is an open-source project management system designed for startups and s
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | leantime
-App Service Image | - | yes | leantime/leantime:3.7.0
+App Service Image | - | yes | leantime/leantime:3.7.3
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | leantime/leantime:3.7.0
 - 2025-07-22 – Version bumped to 3.5.10
 - 2025-12-25 – Version bumped to 3.5.12
 - 2026-02-21 – Version bumped to 3.7.0
+- 2026-05-04 – Version bumped to 3.7.3
 
 ## Contributors
 

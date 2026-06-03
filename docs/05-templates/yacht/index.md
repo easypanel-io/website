@@ -44,7 +44,7 @@ Login using credentials admin@yacht.local/pass
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | yacht
-App Service Image | - | yes | selfhostedpro/yacht:v0.0.7-alpha-2023-01-12--04
+App Service Image | - | yes | selfhostedpro/yacht:v0.0.7-alpha-2023-01-12--05
 
 ## Screenshots
 
@@ -53,6 +53,7 @@ App Service Image | - | yes | selfhostedpro/yacht:v0.0.7-alpha-2023-01-12--04
 ## Change Log
 
 - 2025-03-07 – First Release
+- 2026-05-07 – Version bumped to v0.0.7-alpha-2023-01-12--05
 
 ## Contributors
 

@@ -40,7 +40,7 @@ Bytebase is a versatile application designed to streamline database management t
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bytebase
-App Service Image | - | yes | bytebase/bytebase:3.15.0
+App Service Image | - | yes | bytebase/bytebase:3.17.1
 Database Service Name | - | yes | bytebase-db
 
 ## Screenshots
@@ -54,6 +54,7 @@ Database Service Name | - | yes | bytebase-db
 - 2024-09-30 – Version bumped to 2.23.0
 - 2025-01-06 – Version bumped to 3.2.0
 - 2026-02-18 – Version bumped to 3.15.0
+- 2026-04-29 – Version bumped to 3.17.1
 
 ## Contributors
 

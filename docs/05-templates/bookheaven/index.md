@@ -42,7 +42,7 @@ BookHeaven Server is a self-hosted ebook library manager that lets you organize,
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | bookheaven
-BookHeaven Image | - | yes | ghcr.io/bookheaven/bookheaven-server:0.15.0
+BookHeaven Image | - | yes | ghcr.io/bookheaven/bookheaven-server:0.16.0
 Timezone | Container timezone (e.g. America/New_York, Europe/Madrid, Asia/Karachi) | no | UTC
 
 ## Screenshots
@@ -52,6 +52,7 @@ Timezone | Container timezone (e.g. America/New_York, Europe/Madrid, Asia/Karach
 ## Change Log
 
 - 2026-02-18 – Template Release (v0.15.0)
+- 2026-04-29 – Version bumped to (v0.16.0)
 
 ## Contributors
 

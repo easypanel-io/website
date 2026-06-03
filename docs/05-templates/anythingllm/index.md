@@ -42,7 +42,7 @@ Anything-LLM is an open-source, AI-powered platform that enables users to levera
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | anything-llm
-App Service Image | - | yes | mintplexlabs/anythingllm:1.11.0
+App Service Image | - | yes | mintplexlabs/anythingllm:1.12
 
 ## Screenshots
 
@@ -52,6 +52,7 @@ App Service Image | - | yes | mintplexlabs/anythingllm:1.11.0
 
 - 2024-12-16 – First release
 - 2026-02-18 – Version fixed to 1.11.0 from latest
+- 2026-04-29 – Version bumped to 1.12
 
 ## Contributors
 

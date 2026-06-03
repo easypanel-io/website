@@ -52,7 +52,7 @@ is also auto-generated and required for API authentication.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | waha
-App Service Image | - | yes | devlikeapro/waha:latest-2026.2.2
+App Service Image | - | yes | devlikeapro/waha:latest-2026.4.3
 Dashboard Username | - | yes | admin
 Swagger Username | - | yes | admin
 
@@ -63,6 +63,7 @@ Swagger Username | - | yes | admin
 ## Change Log
 
 - 2025-06-04 – First Release
+- 2026-05-07 – Version bumped to latest-2026.4.3
 
 ## Contributors
 

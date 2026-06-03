@@ -39,7 +39,7 @@ NetBox is a comprehensive solution designed to be the single source of truth for
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | netbox
-App Service Image | - | yes | lscr.io/linuxserver/netbox:4.5.3
+App Service Image | - | yes | lscr.io/linuxserver/netbox:4.5.9
 Database Service Name | - | yes | netbox-db
 Database Service Name | - | yes | netbox-redis
 E-Mail Address | - | yes | 
@@ -58,6 +58,7 @@ Password | - | yes |
 - 2025-07-24 – Update to 4.3.4
 - 2025-12-29 – Version bumped to 4.4.9
 - 2026-02-21 – Version bumped to 4.5.3
+- 2026-05-04 – Version bumped to 4.5.9
 
 ## Contributors
 

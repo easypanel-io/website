@@ -43,7 +43,7 @@ If you do not choose any identity provider, you can register a user when you go 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | squidex
-App Service Image | - | yes | squidex/squidex:7.21.0
+App Service Image | - | yes | squidex/squidex:7.23.0
 Admin Email Address | The email address for admin account. | no | 
 Admin Password | The password for the admin account. | no | 
 Google Client | The Client ID for Google OAuth authentication. | no | 
@@ -61,6 +61,7 @@ Microsoft Client Secret | - | no |
 
 - 2025-01-29 – Template Release
 - 2025-07-25 – Version bumped to 7.21.0
+- 2026-05-07 – Version bumped to 7.23.0
 
 ## Contributors
 

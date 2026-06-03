@@ -45,7 +45,7 @@ IMPORTANT - You must obtain a Game Server Token from https://steamcommunity.com/
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | cs2-server
-App Service Image | - | yes | joedwards32/cs2:4.0.0
+App Service Image | - | yes | joedwards32/cs2:4.0.1
 Steam Game Server Token | - | no | 
 Server Name | - | no | My CS2 Server
 RCON Password | - | no | changeme
@@ -63,6 +63,7 @@ TV UDP Port | - | yes | 27020
 ## Change Log
 
 - 2025-11-04 – Template Release
+- 2026-04-29 – Version bumped to 4.0.1
 
 ## Contributors
 

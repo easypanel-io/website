@@ -47,7 +47,7 @@ Login using credentials - admin/admin123
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | filegator
-App Service Image | - | yes | filegator/filegator:v7.13.3
+App Service Image | - | yes | filegator/filegator:v7.14.0
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | filegator/filegator:v7.13.3
 
 - 2025-08-04 – First release
 - 2026-02-21 – Version bumped to 7.13.3
+- 2026-04-29 – Version bumped to 7.14.0
 
 ## Contributors
 

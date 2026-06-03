@@ -39,7 +39,7 @@ PrivateBin is a minimalist, open-source, self-hosted pastebin solution designed 
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | privatebin
-App Service Image | - | yes | privatebin/nginx-fpm-alpine:2.0.3
+App Service Image | - | yes | privatebin/nginx-fpm-alpine:2.0.4
 
 ## Screenshots
 
@@ -51,6 +51,7 @@ App Service Image | - | yes | privatebin/nginx-fpm-alpine:2.0.3
 - 2025-02-28 – Version bumped to 1.7.6
 - 2025-07-24 – Version bumped to 1.7.8
 - 2025-12-29 – Version bumped to 2.0.3
+- 2026-05-05 – Version bumped to 2.0.4
 
 ## Contributors
 

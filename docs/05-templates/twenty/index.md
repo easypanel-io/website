@@ -46,7 +46,7 @@ Please define the domain used for the Twenty service in the worker environment v
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | twenty
-App Service Image | - | yes | twentycrm/twenty:v0.54.4
+App Service Image | - | yes | twentycrm/twenty:v1.3.0
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | - | yes | twentycrm/twenty:v0.54.4
 ## Change Log
 
 - 2025-05-22 – First release
+- 2025-08-19 – Update to v1.3.0
 
 ## Contributors
 

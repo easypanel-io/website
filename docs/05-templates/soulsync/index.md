@@ -42,7 +42,7 @@ SoulSync is an automated music synchronization service that bridges the gap betw
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | soulsync
-App Service Image | - | yes | boulderbadgedad/soulsync:latest
+App Service Image | - | yes | boulderbadgedad/soulsync:2.4.1
 Timezone | - | no | UTC
 
 ## Screenshots
@@ -52,6 +52,8 @@ Timezone | - | no | UTC
 ## Change Log
 
 - 2025-11-26 – Template Release
+- 2026-02-24 – Version bumped to 1.6
+- 2026-05-07 – Version bumped to 2.4.1
 
 ## Contributors
 

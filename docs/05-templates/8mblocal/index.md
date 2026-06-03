@@ -40,7 +40,7 @@ description: How to install 8MB Local on Easypanel? 1-Click installation templat
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | 8mblocal
-App Service Image | - | yes | jms1717/8mblocal:v133
+App Service Image | - | yes | jms1717/8mblocal:v137
 
 ## Screenshots
 
@@ -49,6 +49,7 @@ App Service Image | - | yes | jms1717/8mblocal:v133
 ## Change Log
 
 - 2025-01-23 – Initial Template Release
+- 2026-04-29 – Version bumped to v137
 
 ## Contributors
 

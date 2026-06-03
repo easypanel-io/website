@@ -53,7 +53,7 @@ the photo source path (use /photos as the path).
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | photoview
-App Service Image | - | yes | photoview/photoview:2
+App Service Image | - | yes | photoview/photoview:2.4.0
 Database Type | - | yes | mariadb
 Database Service Name | - | yes | photoview-db
 Mapbox Token (Optional) | - | no | 
@@ -67,6 +67,7 @@ Mapbox Token (Optional) | - | no |
 - 2023-03-16 – First Release
 - 2025-07-24 – Version bumped to sha-84c642c
 - 2025-12-05 – Updated to photoview/photoview:2 with new volume paths
+- 2026-05-08 – Version bumped to 2.4.0
 
 ## Contributors
 

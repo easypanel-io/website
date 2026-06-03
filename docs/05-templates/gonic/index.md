@@ -48,7 +48,7 @@ Login credentials are admin/admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | gonic
-App Service Image | - | yes | sentriz/gonic:v0.18.0
+App Service Image | - | yes | sentriz/gonic:4b3721b
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | sentriz/gonic:v0.18.0
 ## Change Log
 
 - 2025-09-23 – Initial template release (v0.18.0)
+- 2026-04-29 – Version bumped to 4b3721b
 
 ## Contributors
 

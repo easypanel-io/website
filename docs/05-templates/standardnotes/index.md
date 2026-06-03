@@ -41,7 +41,7 @@ StandardNotes is a private, end-to-end encrypted notes app that provides a secur
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | standardnotes
-Web Service Image | - | yes | standardnotes/web:9b023782830a4742b31cd3696cc2f8fff22e0936
+Web Service Image | - | yes | standardnotes/web:f4a94811848ea19550703d5dcd2b446091bf9536
 
 ## Screenshots
 
@@ -50,6 +50,8 @@ Web Service Image | - | yes | standardnotes/web:9b023782830a4742b31cd3696cc2f8ff
 ## Change Log
 
 - 2025-09-16 – Template Release (9b023782830a4742b31cd3696cc2f8fff22e0936)
+- 2026-02-24 – Version bumped to ff58de30fb4d8093f5056b5c4789163e81edf632
+- 2026-05-07 – Version bumped to f4a94811848ea19550703d5dcd2b446091bf9536
 
 ## Contributors
 

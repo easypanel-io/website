@@ -45,7 +45,7 @@ Setup the initial user and start using the app.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | once-campfire
-App Service Image | Once Campfire Docker image | yes | ghcr.io/basecamp/once-campfire:v1.4.3
+App Service Image | Once Campfire Docker image | yes | ghcr.io/basecamp/once-campfire:sha-ba11a0a
 
 ## Screenshots
 
@@ -55,6 +55,7 @@ App Service Image | Once Campfire Docker image | yes | ghcr.io/basecamp/once-cam
 
 - 2025-09-10 – Initial Template Release (sha-d7c6727)
 - 2025-12-29 – Version bumped to v1.4.3
+- 2026-05-08 – Version bumped to sha-ba11a0a
 
 ## Contributors
 

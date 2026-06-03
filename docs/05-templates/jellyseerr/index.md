@@ -46,7 +46,7 @@ none
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | jellyseerr
-App Service Image | - | yes | fallenbagel/jellyseerr:2.7.3
+App Service Image | - | yes | fallenbagel/jellyseerr:sha-42eec24
 
 ## Screenshots
 
@@ -58,6 +58,7 @@ App Service Image | - | yes | fallenbagel/jellyseerr:2.7.3
 - 2025-02-28 – Version bumped to 2.3.0
 - 2025-07-22 – Version bumped to 2.7.2
 - 2025-12-25 – Version bumped to 2.7.3
+- 2026-05-04 – Version bumped to sha-42eec24
 
 ## Contributors
 

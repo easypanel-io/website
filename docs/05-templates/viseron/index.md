@@ -43,7 +43,7 @@ Viseron is a self-hosted, local network video recorder (NVR) and AI-powered vide
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | viseron
-App Service Image | - | yes | roflcoopter/viseron:3.3.1
+App Service Image | - | yes | roflcoopter/viseron:3.5.3
 
 ## Screenshots
 
@@ -52,6 +52,8 @@ App Service Image | - | yes | roflcoopter/viseron:3.3.1
 ## Change Log
 
 - 2025-11-10 – Template Release
+- 2026-02-24 – Version bumped to 3.4.1
+- 2026-05-07 – Version bumped to 3.5.3
 
 ## Contributors
 

@@ -39,7 +39,7 @@ WebTop is a browser-based Linux desktop environment, self-hosted using Docker. I
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | webtop
-App Service Image | - | yes | lscr.io/linuxserver/webtop:ubuntu-kde-27d523f3-ls64
+App Service Image | - | yes | lscr.io/linuxserver/webtop:ubuntu-xfce-version-4e5d70f4
 
 ## Screenshots
 
@@ -48,6 +48,7 @@ App Service Image | - | yes | lscr.io/linuxserver/webtop:ubuntu-kde-27d523f3-ls6
 ## Change Log
 
 - 2024-11-27 – Template Release
+- 2026-05-07 – Version bumped to ubuntu-xfce-version-4e5d70f4
 
 ## Contributors
 

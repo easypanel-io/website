@@ -50,7 +50,7 @@ You can modify the settings by adding the env variables provided.
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | postiz
-App Service Image | - | yes | ghcr.io/gitroomhq/postiz-app:v2.11.3
+App Service Image | - | yes | ghcr.io/gitroomhq/postiz-app:v2.21.7
 
 ## Screenshots
 
@@ -61,6 +61,8 @@ App Service Image | - | yes | ghcr.io/gitroomhq/postiz-app:v2.11.3
 - 2025-04-28 – Initial release
 - 2025-07-24 – Version bumped to v1.65.7
 - 2025-12-29 – Version bumped to v2.11.3
+- 2026-02-24 – Version bumped to v2.19.0
+- 2026-05-05 – Version bumped to v2.21.7
 
 ## Contributors
 

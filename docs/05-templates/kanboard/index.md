@@ -45,7 +45,7 @@ Default login username: admin, password: admin
 Name | Description | Required | Default Value
 -|-|-|-
 App Service Name | - | yes | kanboard
-App Service Image | - | yes | kanboard/kanboard:v1.2.50
+App Service Image | - | yes | kanboard/kanboard:v1.2.52
 
 ## Screenshots
 
@@ -57,6 +57,7 @@ App Service Image | - | yes | kanboard/kanboard:v1.2.50
 - 2025-07-22 – Version bumped to v1.2.46
 - 2025-12-25 – Version bumped to v1.2.48
 - 2026-02-21 – Version bumped to v1.2.50
+- 2026-05-04 – Version bumped to v1.2.52
 
 ## Contributors
 
