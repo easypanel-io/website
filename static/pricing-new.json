@@ -1,0 +1,71 @@
+{
+  "plans": [
+    {
+      "name": "Hobby",
+      "description": "Move to the next level with your one-person operation",
+      "monthly": {
+        "pricePerMonth": 14.9
+      },
+      "yearly": {
+        "pricePerMonth": 10.9
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Custom Service Domain"
+      ]
+    },
+    {
+      "name": "Growth",
+      "description": "Bring your whole team on board and work together",
+      "monthly": {
+        "pricePerMonth": 23.9
+      },
+      "yearly": {
+        "pricePerMonth": 16.9
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Custom Service Domain",
+        "Multiple users",
+        "Access control"
+      ]
+    },
+    {
+      "name": "Business",
+      "description": "Get dedicated support for your amazing company",
+      "monthly": {
+        "pricePerMonth": 37.9
+      },
+      "yearly": {
+        "pricePerMonth": 29.9
+      },
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database backups",
+        "Custom Service Domain",
+        "Multiple users",
+        "Access control",
+        "Cluster support (alpha)",
+        "White-labeling",
+        "Priority support"
+      ]
+    }
+  ]
+}
