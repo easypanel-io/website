@@ -1,0 +1,98 @@
+{
+  "plans": [
+    {
+      "id": "hobby",
+      "name": "Hobby",
+      "description": "Move to the next level with your one-person operation",
+      "style": "default",
+      "monthly": { "price": 14.9, "polarProductId": "8bc6f8c3-0017-4db7-a446-a6516a0f4cd2" },
+      "yearly": { "price": 10.9, "polarProductId": "60b4932a-96e4-44d0-81ff-36ae5ab27148" },
+      "lemonProductId": 108137,
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Custom Service Domain"
+      ],
+      "supports": {
+        "advancedMonitoring": true,
+        "notifications": true,
+        "databaseBackups": true,
+        "customServiceDomain": true,
+        "multipleUsers": false,
+        "accessControl": false,
+        "branding": false,
+        "cluster": false
+      }
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "description": "Bring your whole team on board and work together",
+      "style": "highlight",
+      "monthly": { "price": 23.9, "polarProductId": "d284015a-cf48-4dde-bf18-3959be88fe00" },
+      "yearly": { "price": 16.9, "polarProductId": "83b3609e-1787-42b2-8bf6-4bb43de25a33" },
+      "lemonProductId": 108139,
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Custom Service Domain",
+        "Multiple users",
+        "Access control"
+      ],
+      "supports": {
+        "advancedMonitoring": true,
+        "notifications": true,
+        "databaseBackups": true,
+        "customServiceDomain": true,
+        "multipleUsers": true,
+        "accessControl": true,
+        "branding": false,
+        "cluster": false
+      }
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "description": "Get dedicated support for your amazing company",
+      "style": "default",
+      "monthly": { "price": 37.9, "polarProductId": "c748d0ba-2079-4a12-bd65-a58e10c1ac4c" },
+      "yearly": { "price": 29.9, "polarProductId": "193f8256-4cec-4159-afbe-444712cb641a" },
+      "lemonProductId": 108143,
+      "features": [
+        "Unlimited projects",
+        "Unlimited services",
+        "Unlimited deployments",
+        "Basic Monitoring",
+        "Advanced Monitoring",
+        "Notifications",
+        "Database Backups",
+        "Custom Service Domain",
+        "Multiple users",
+        "Access control",
+        "Cluster support (alpha)",
+        "White-labeling",
+        "Priority support"
+      ],
+      "supports": {
+        "advancedMonitoring": true,
+        "notifications": true,
+        "databaseBackups": true,
+        "customServiceDomain": true,
+        "multipleUsers": true,
+        "accessControl": true,
+        "branding": true,
+        "cluster": true
+      }
+    }
+  ]
+}

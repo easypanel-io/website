@@ -1,4 +1,5 @@
 import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import React, { ReactNode, useEffect, useState } from "react";
 
@@ -57,6 +58,12 @@ const Feature = ({
 
 const Pricing = () => {
   const [annual, setAnnual] = useState(true);
+  const { siteConfig } = useDocusaurusContext();
+  const portalUrl = String(
+    siteConfig.customFields?.portalUrl ?? "https://my.easypanel.io"
+  );
+  const checkoutUrl = (planId: string) =>
+    `${portalUrl}/checkout?plan=${planId}&interval=${annual ? "yearly" : "monthly"}`;
 
   return (
     <section className="tw-py-12 tw-bg-black sm:tw-py-16 lg:tw-py-20 xl:tw-py-24">
@@ -167,13 +174,7 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b60df6f0-8857-4140-9960-6affa366eb1e"
-              }
-            >
+            <Link href={checkoutUrl("hobby")}>
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
@@ -226,13 +227,7 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26"
-              }
-            >
+            <Link href={checkoutUrl("growth")}>
               <div className="tw-relative tw-mt-8">
                 <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
                   Buy Your License
@@ -284,13 +279,7 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
-                annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/90c58596-7077-4426-9944-771b11967204"
-              }
-            >
+            <Link href={checkoutUrl("business")}>
               <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
                 <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
                 <div
@@ -327,7 +316,7 @@ const faqItems = [
   {
     question: "What payment options do you have?",
     answer:
-      "Our payments are processed by LemonSqueezy. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+      "Our payments are processed by Polar. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada) and others.",
   },
   {
     question: "What happens if I cancel my subscription?",
