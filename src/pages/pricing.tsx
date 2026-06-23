@@ -2,6 +2,9 @@ import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
 import React, { ReactNode, useEffect, useState } from "react";
 
+// TODO: replace with https://my.easypanel.io
+const API_URL = "http://localhost:3002";
+
 export default function Page(): JSX.Element {
   return (
     <Layout
@@ -54,6 +57,84 @@ const Feature = ({
     </span>
   </li>
 );
+
+const CREEM_PRODUCTS = {
+  hobby: {
+    monthly: "prod_2dNnDwvJ7bAGwHU9sQivjd",
+    // TODO: replace with actual yearly product ID
+    yearly: "prod_2dNnDwvJ7bAGwHU9sQivjd",
+  },
+  growth: {
+    monthly: "prod_TWLuPFHongALggEeG6Jyi",
+    // TODO: replace with actual yearly product ID
+    yearly: "prod_TWLuPFHongALggEeG6Jyi",
+  },
+  business: {
+    monthly: "prod_2S02k7lnrSUIubysZMEhX7",
+    // TODO: replace with actual yearly product ID
+    yearly: "prod_2S02k7lnrSUIubysZMEhX7",
+  },
+};
+
+function BuyButton({
+  productId,
+  children,
+  variant = "outline",
+}: {
+  productId: string;
+  children: React.ReactNode;
+  variant?: "outline" | "filled";
+}) {
+  const [loading, setLoading] = useState(false);
+
+  const handleClick = async () => {
+    try {
+      setLoading(true);
+      const res = await fetch(`${API_URL}/api/create-checkout`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          product_id: productId,
+          success_url: window.location.href,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error);
+      window.location.href = data.checkout_url;
+    } catch (err: any) {
+      alert(err.message || "Failed to create checkout");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  if (variant === "filled") {
+    return (
+      <div className="tw-relative tw-mt-8">
+        <button
+          onClick={handleClick}
+          disabled={loading}
+          className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none tw-cursor-pointer disabled:tw-opacity-50"
+        >
+          {loading ? "Loading..." : children}
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
+      <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
+      <button
+        onClick={handleClick}
+        disabled={loading}
+        className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md tw-cursor-pointer disabled:tw-opacity-50"
+      >
+        {loading ? "Loading..." : children}
+      </button>
+    </div>
+  );
+}
 
 const Pricing = () => {
   const [annual, setAnnual] = useState(true);
@@ -167,23 +248,15 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
+            <BuyButton
+              productId={
                 annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/6c721071-ee30-4aa7-bfba-3cd4cceecd36"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b60df6f0-8857-4140-9960-6affa366eb1e"
+                  ? CREEM_PRODUCTS.hobby.yearly
+                  : CREEM_PRODUCTS.hobby.monthly
               }
             >
-              <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
-                <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
-                <div
-                  className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 tw-border tw-border-transparent tw-rounded-md"
-                  role="button"
-                >
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+              Buy Your License
+            </BuyButton>
           </div>
 
           <div className="tw-relative tw-z-10 tw-flex tw-flex-col tw-p-6 tw-bg-gray-900 tw-rounded-md">
@@ -226,19 +299,16 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
+            <BuyButton
+              productId={
                 annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/e8db0469-4d3d-4b94-8a15-307cfd7a2740"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/b2d97853-f338-49ae-9ed9-e2a29a33ab26"
+                  ? CREEM_PRODUCTS.growth.yearly
+                  : CREEM_PRODUCTS.growth.monthly
               }
+              variant="filled"
             >
-              <div className="tw-relative tw-mt-8">
-                <div className="tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-4 tw-text-base tw-font-semibold tw-text-white tw-transition-all tw-duration-200 tw-rounded-md tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 hover:tw-contrast-150 tw-border-none">
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+              Buy Your License
+            </BuyButton>
           </div>
 
           <div className="tw-flex tw-flex-col tw-p-6 tw-bg-gray-900 tw-rounded-md">
@@ -284,23 +354,15 @@ const Pricing = () => {
               </ul>
             </div>
 
-            <Link
-              href={
+            <BuyButton
+              productId={
                 annual
-                  ? "https://easypanel.lemonsqueezy.com/checkout/buy/f80c4abc-fdb7-4710-abff-e42fb4a6969a"
-                  : "https://easypanel.lemonsqueezy.com/checkout/buy/90c58596-7077-4426-9944-771b11967204"
+                  ? CREEM_PRODUCTS.business.yearly
+                  : CREEM_PRODUCTS.business.monthly
               }
             >
-              <div className="tw-relative tw-flex tw-items-center tw-justify-center tw-mt-8 tw-group">
-                <div className="tw-absolute tw-transition-all tw-duration-200 tw-rounded-md tw--inset-px tw-bg-gradient-to-r tw-from-cyan-500 tw-to-emerald-500 group-hover:tw-shadow-lg group-hover:tw-shadow-cyan-500/50"></div>
-                <div
-                  className="tw-relative tw-inline-flex tw-items-center tw-justify-center tw-w-full tw-px-8 tw-py-3 tw-text-base tw-font-semibold tw-text-white tw-bg-gray-900 group-hover:tw-bg-gray-800 tw-border tw-border-transparent tw-rounded-md"
-                  role="button"
-                >
-                  Buy Your License
-                </div>
-              </div>
-            </Link>
+              Buy Your License
+            </BuyButton>
           </div>
         </div>
       </div>
@@ -327,7 +389,7 @@ const faqItems = [
   {
     question: "What payment options do you have?",
     answer:
-      "Our payments are processed by LemonSqueezy. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
+      "Our payments are processed by Creem. They support cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada), PayPal, and others.",
   },
   {
     question: "What happens if I cancel my subscription?",
